@@ -21086,20 +21086,20 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                     <p>
 <milestone n="1" unit="line"/>
 
-<s n="check:nomatch">Thus they made lamentation throughout the city; 
+<s n="check:23.1">Thus they made lamentation throughout the city; 
 
-</s><s n="check:nomatch">but the Achaeans, when they were come to the ships and the Hellespont, scattered each man to his own ship; 
+</s><s n="check:23.1-23.5">but the Achaeans, when they were come to the ships and the Hellespont, scattered each man to his own ship; 
 
-</s><s n="check:nomatch">howbeit the Myrmidons would Achilles nowise suffer to be scattered,
+howbeit the Myrmidons would Achilles nowise suffer to be scattered,
 <milestone n="5" unit="line"/>but spake among his war-loving comrades, saying:</s></p>
 <p><q>
 
 <s n="check:23.6-23.9">Ye Myrmidons of fleet steeds, my trusty comrades, let us not yet loose our single-hooved horses from their cars, but with horses and chariots let us draw nigh and mourn Patroclus; 
 
 </s><s n="check:23.9">for that is the due of the dead.
-<milestone n="10" unit="line"/>
 
-</s><s n="check:23.10-23.11">Then when we have taken our fill of dire lamenting, we will unyoke our horses and sup here all together.
+
+</s><s n="check:23.10-23.11"><milestone n="10" unit="line"/>Then when we have taken our fill of dire lamenting, we will unyoke our horses and sup here all together.
 </s></q></p>
 <p>
 
@@ -21108,21 +21108,21 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.13-23.14">Then thrice about the corpse they drave their fair-maned steeds, mourning the while; 
 
 </s><s n="check:23.14">and among them Thetis roused desire of wailing.
-<milestone n="15" unit="line"/>
 
-</s><s n="check:23.15-23.16">Wetted were the sands and wetted the armour of the warriors with their tears; 
+
+</s><s n="check:23.15-23.16"><milestone n="15" unit="line"/>Wetted were the sands and wetted the armour of the warriors with their tears; 
 
 </s><s n="check:23.16">so mighty a deviser of rout was he for whom they mourned. 
 
 </s><s n="check:23.17-23.18">And among them the son of Peleus was leader in the vehement lamentation; 
 
-</s><s n="check:23.19">laying his man-slaying hands upon the breast of his comrade:</s></p>
+laying his man-slaying hands upon the breast of his comrade:</s></p>
 <p><q>
 
-<s n="check:nomatch">Hail, I bid thee, O Patroclus, even in the house of Hades,
-<milestone n="20" unit="line"/>for even now I am bringing to fulfillment all that aforetime I promised thee: 
+<s n="check:23.19">Hail, I bid thee, O Patroclus, even in the house of Hades,
+</s><s n="check:23.20-23.23"><milestone n="20" unit="line"/>for even now I am bringing to fulfillment all that aforetime I promised thee: 
 
-</s><s n="check:23.20-23.23">that I would drag Hector hither and give him raw unto dogs to devour, and of twelve glorious sons of the Trojans would I cut the throats before thy pyre, in my wrath at thy slaying.
+that I would drag Hector hither and give him raw unto dogs to devour, and of twelve glorious sons of the Trojans would I cut the throats before thy pyre, in my wrath at thy slaying.
 </s></q></p>
 <p>
 
@@ -21132,18 +21132,20 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.26-23.29">And they put off, each man of them, their shining harnesses of bronze, and loosed their loud-neighing horses, and themselves sat down beside the ship of the swift-footed son of Aeacus, a countless host; 
 
 </s><s n="check:23.29">and he made them a funeral feast to satisfy their hearts.
-<milestone n="30" unit="line"/>
 
-</s><s n="check:23.30-23.31">Many sleek bulls bellowed about the knife, as they were slaughtered, many sheep and bleating goats, and many white-tusked swine, rich with fat, were stretched to singe over the flame of Hephaestus; 
 
-</s><s n="check:23.32-23.33">and everywhere about the corpse the blood ran so that one might dip cups therein.
+</s><s n="check:23.30-23.31"><milestone n="30" unit="line"/>Many sleek bulls bellowed about the knife, as they were slaughtered, many sheep and bleating goats, 
+
+</s><s n="check:23.32-23.33">and many white-tusked swine, rich with fat, were stretched to singe over the flame of Hephaestus; 
+
+</s><s n="check:23.34">and everywhere about the corpse the blood ran so that one might dip cups therein.
 </s></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.35-23.53">
                     <p>
-<milestone n="35" unit="line"/>
 
-<s n="check:23.35-23.37">But the prince, the swiftfooted son of Peleus, was led unto goodly Agamemnon by the chiefs of the Achaeans, that had much ado to persuade him thereto, so wroth at heart was he for his comrade. 
+
+<s n="check:23.35-23.37"><milestone n="35" unit="line"/>But the prince, the swiftfooted son of Peleus, was led unto goodly Agamemnon by the chiefs of the Achaeans, that had much ado to persuade him thereto, so wroth at heart was he for his comrade. 
 
 </s><s n="check:23.38-23.41">But when, as they went, they were come to the hut of Agamemnon, forthwith they bade clear-voiced heralds
 <milestone n="40" unit="line"/>set upon the fire a great cauldron, if so be they might persuade the son of Peleus to wash from him the bloody gore. 
@@ -21164,35 +21166,40 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                     <p>
 
 <s n="check:23.54">So spake he, and they readily hearkened to him and obeyed,
-<milestone n="55" unit="line"/>and speedily making ready each man his meal they supped, nor did thelr hearts lack aught of the equal feast. 
+</s><s n="check:23.55-23.56"><milestone n="55" unit="line"/>and speedily making ready each man his meal they supped, nor did thelr hearts lack aught of the equal feast. 
 
-</s><s n="check:23.55-23.56">But when they had put from them the desire of food and drink, they went each man to his hut to take his rest; 
+</s><s n="check:23.57-23.61">But when they had put from them the desire of food and drink, they went each man to his hut to take his rest; 
 
-</s><s n="check:23.57-23.61">but the son of Peleus upon the shore of the loud-resounding sea
+but the son of Peleus upon the shore of the loud-resounding sea
 <milestone n="60" unit="line"/>lay groaning heavily amid the host of the Myrmidons, in an open space where the waves splashed upon the shore. 
 
-</s><s n="check:23.62-23.63">And when sleep seized him, loosenlng the cares of his heart, being shed in sweetness round about him — for sore weary were his glorious limbs with speeding after Hector unto windy Ilios—
-<milestone n="65" unit="line"/>then there came to him the spirit of hapless Patroclus, in all things like his very self, in stature and fair eyes and in voice, and in like raiment was he clad withal; 
+</s><s n="check:23.62-23.63">And when sleep seized him, loosenlng the cares of his heart, being shed in sweetness round about him — 
 
-</s><s n="check:23.65-23.67">and he stood above Achilles' head and spake to him, saying:</s></p>
+</s><s n="check:23.63-23.64">for sore weary were his glorious limbs with speeding after Hector unto windy Ilios—
+
+</s><s n="check:23.65-23.67"><milestone n="65" unit="line"/>then there came to him the spirit of hapless Patroclus, in all things like his very self, in stature and fair eyes and in voice, and in like raiment was he clad withal; 
+
+</s><s n="check:23.68">and he stood above Achilles' head and spake to him, saying:</s></p>
 <p><q>
 
-<s n="check:23.68">Thou sleepest, and hast forgotten me, Achilles.
-<milestone n="70" unit="line"/>
+<s n="check:23.69">Thou sleepest, and hast forgotten me, Achilles.
 
-</s><s n="check:23.70">Not in my life wast thou unmindful of me, but now in my death! 
+
+</s><s n="check:23.70"><milestone n="70" unit="line"/>Not in my life wast thou unmindful of me, but now in my death! 
 
 </s><s n="check:23.71">Bury me with all speed, that I pass within the gates of Hades. 
 
 </s><s n="check:23.72-23.74">Afar do the spirits keep me aloof, the phantoms of men that have done with toils, neither suffer they me to join myself to them beyond the River, but vainly I wander through the wide-gated house of Hades.
-<milestone n="75" unit="line"/>
 
-</s><s n="check:23.75">And give me thy hand, I pitifully entreat thee, for never more again shall I come back from out of Hades, when once ye have given me my due of fire. 
 
-</s><s n="check:23.75-23.76">Never more in life shall we sit apart from our dear comrades and take counsel together, but for me hath loathly fate
-<milestone n="80" unit="line"/>opened its maw, the fate that was appointed me even from my birth. 
+</s><s n="check:23.75"><milestone n="75" unit="line"/>And give me thy hand, 
 
-</s><s n="check:23.80-23.81">Aye, and thou thyself also, Achilles like to the gods, art doomed to be brought low beneath the wall of the waelthy Trojans. 
+</s><s n="check:23.75-23.76">I pitifully entreat thee, for never more again shall I come back from out of Hades, when once ye have given me my due of fire. 
+
+</s><s n="check:23.77-23.79">Never more in life shall we sit apart from our dear comrades and take counsel together, but for me hath loathly fate
+</s><s n="check:23.80-23.81"><milestone n="80" unit="line"/>opened its maw, the fate that was appointed me even from my birth. 
+
+Aye, and thou thyself also, Achilles like to the gods, art doomed to be brought low beneath the wall of the waelthy Trojans. 
 
 </s><s n="check:23.82">And another thing will I speak, and charge thee, if so be thou wilt hearken. 
 
@@ -21231,31 +21238,39 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <p><q>
 
 <s n="check:23.103-23.104">Look you now, even in the house of Hades is the spirit and phantom somewhat, albeit the mind be not anywise therein;
-<milestone n="105" unit="line"/>for the whole night long hath the spirit of hapless Patroclus stood over me, weeping and wailing, and gave me charge concerning each thing, and was wondrously like his very self.
+<s n="check:23.105-23.107"><milestone n="105" unit="line"/>for the whole night long hath the spirit of hapless Patroclus stood over me, weeping and wailing, and gave me charge concerning each thing, and was wondrously like his very self.
 </s></q></p>
 <p>
 
-<s n="check:23.105-23.107">So spake he, and in them all aroused the desire of lament, and rosy-fingered Dawn shone forth upon them
+<s n="check:23.108">So spake he, and in them all aroused the desire of lament, 
+
+<s n="check:23.109-23.110">and rosy-fingered Dawn shone forth upon them
 <milestone n="110" unit="line"/>while yet they wailed around the piteous corpse. 
 
-</s><s n="check:23.110-23.112">But the lord Agamemnon sent forth mules an men from all sides from out the huts to fetch wood and a man of valour watched thereover, even Meriones, squire of kindly Idomeneus. 
+</s><s n="check:23.110-23.112">But the lord Agamemnon sent forth mules an men from all sides from out the huts to fetch wood 
 
-</s><s n="check:23.112-23.113">And they went forth bearing in their hands axes for the cutting of wood
-<milestone n="115" unit="line"/>and well-woven ropes, and before them went the mules: 
+<s n="check:23.112-23.113">and a man of valour watched thereover, even Meriones, squire of kindly Idomeneus. 
 
-</s><s n="check:23.115">and ever upward, downward, sideward, and aslant they fared. 
+</s><s n="check:23.114-23.115">And they went forth bearing in their hands axes for the cutting of wood
+<milestone n="115" unit="line"/>and well-woven ropes, 
 
-</s><s n="check:23.116">But when they were come to the spurs of many-fountained Ida, forthwith they set them to fill high-crested oaks with the long-edged bronze in busy haste and with a mighty crash the trees kept falling.
-<milestone n="120" unit="line"/>
+</s><s n="check:23.115">and before them went the mules: 
 
-</s><s n="check:23.120-23.121">Then the Achaeans split the trunks asunder and bound them behind the mules, and these tore up the earth with their feet as they hasted toward the plain through the thick underbrush. 
+</s><s n="check:23.116">and ever upward, downward, sideward, and aslant they fared. 
 
-</s><s n="check:23.121-23.122">And all the woodcutters bare logs; 
+</s><s n="check:23.117-23.11">But when they were come to the spurs of many-fountained Ida, forthwith they set them to fill high-crested oaks with the long-edged bronze in busy haste and with a mighty crash the trees kept falling.
 
-</s><s n="check:23.123">for so were they bidden of Meriones, squire of kindly Idomeneus.
-<milestone n="125" unit="line"/>
 
-</s><s n="check:23.125-23.126">Then down upon the shore they cast these, man after man, where Achilles planned a great barrow for Patroclus and for himself. 
+</s><s n="check:23.120-23.121"><milestone n="120" unit="line"/>Then the Achaeans split the trunks asunder and bound them behind the mules, 
+
+</s><s n="check:23.121-23.122">and these tore up the earth with their feet as they hasted toward the plain through the thick underbrush. 
+
+</s><s n="check:23.123">And all the woodcutters bare logs; 
+
+</s><s n="check:23.123-23.124">for so were they bidden of Meriones, squire of kindly Idomeneus.
+
+
+</s><s n="check:23.125-23.126"><milestone n="125" unit="line"/>Then down upon the shore they cast these, man after man, where Achilles planned a great barrow for Patroclus and for himself. 
 
 </s><s n="check:23.127-23.128">But when on all sides they had cast down the measureless wood, they sate them down there and abode, all in one throng. 
 
@@ -21264,10 +21279,12 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.131-23.134">And they arose and did on their armour and mounted their chariots,warriors and charioteers alike. 
 
-</s><s n="check:23.134">In front fared the men in chariots, and thereafter followed a cloud of footmen, a host past counting and in the midst his comrades bare Patroclus.
-<milestone n="135" unit="line"/>
+In front fared the men in chariots, and thereafter followed a cloud of footmen, a host past counting 
 
-</s><s n="check:23.135-23.136">And as with a garment they wholly covered the corpse with their hair that they shore off and cast thereon; 
+</s><s n="check:23.134">and in the midst his comrades bare Patroclus.
+
+
+</s><s n="check:23.135-23.136"><milestone n="135" unit="line"/>And as with a garment they wholly covered the corpse with their hair that they shore off and cast thereon; 
 
 </s><s n="check:23.136-23.137">and behind them goodly Achilles clasped the head, sorrowing the while; 
 
@@ -21278,20 +21295,22 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                     <p>
 
 <s n="check:23.138-23.139">But when they were come to the place that Achilles had appointed unto them, they set down the dead, and swiftly heaped up for him abundant store of wood.
-<milestone n="140" unit="line"/>
 
-</s><s n="check:23.140">Then again swift-footed goodly Achilles took other counsel; 
 
-</s><s n="check:23.141-23.142">he took his stand apart from the fire and shore off a golden lock, the rich growth whereof he had nursed for the river Spercheüs, and his heart mightily moved, he spake, with a look over the wine-dark sea:</s></p>
+</s><s n="check:23.140"><milestone n="140" unit="line"/>Then again swift-footed goodly Achilles took other counsel; 
+
+</s><s n="check:23.141-23.142">he took his stand apart from the fire and shore off a golden lock, the rich growth whereof he had nursed for the river Spercheüs, 
+
+</s><s n="check:23.143">and his heart mightily moved, he spake, with a look over the wine-dark sea:</s></p>
 <p><q>
 
-<s n="check:23.143">Spercheüs, to no purpose did my father Peleus vow to thee
+<s n="check:23.144-23.148">Spercheüs, to no purpose did my father Peleus vow to thee
 <milestone n="145" unit="line"/>that when I had come home thither to my dear native land, I would shear my hair to thee and offer a holy hecatomb, and on the selfsame spot would sacrifice fifty rams, males without blemish, into thy waters, where is thy demesne and thy fragrant altar. 
 
 </s><s n="check:23.149">So vowed that old man, but thou didst not fulfill for him his desire.
-<milestone n="150" unit="line"/>
 
-</s><s n="check:23.150-23.151">Now, therefore, seeing I go not home to my dear native land, I would fain give unto the warrior Patroclus this lock to fare with him.
+
+</s><s n="check:23.150-23.151"><milestone n="150" unit="line"/>Now, therefore, seeing I go not home to my dear native land, I would fain give unto the warrior Patroclus this lock to fare with him.
 </s></q></p>
 <p>
 
@@ -21303,43 +21322,52 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 <s n="check:23.156-23.159">Son of Atreus—for to thy words as to those of none other will the host of the Achaeans give heed— of lamenting they may verily take their fill, but for this present disperse them from the pyre, and bid them make ready their meal; 
 
-</s><s n="check:23.159-23.160">for all things here we to whom the dead is nearest and dearest will take due care;
-<milestone n="160" unit="line"/>and with us let the chieftains also abide.
+</s><s n="check:23.159-23.160">for all things here we to whom the dead is nearest 
+
+<milestone n="160" unit="line"/>and dearest will take due care;
+
+<s n="check:23.160">and with us let the chieftains also abide.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.161-23.191">
                     <p>
 
-<s n="check:23.160">Then when the king of men Agamemnon heard this word, he forthwith dispersed the folk amid the shapely ships, but they that were neareat and dearest to the dead abode there, and heaped up the wood, and made a pyre of an hundred feet this way and that,
+<s n="check:23.161-23.165">Then when the king of men Agamemnon heard this word, he forthwith dispersed the folk amid the shapely ships, but they that were neareat and dearest to the dead abode there, and heaped up the wood, and made a pyre of an hundred feet this way and that,
 <milestone n="165" unit="line"/>and on the topmost part thereof they set the dead man, their hearts sorrow-laden. 
 
 </s><s n="check:23.166-23.167">And many goodly sheep and many sleek kine of shambling gait they flayed and dressed before the pyre; 
 
 </s><s n="check:23.167-23.169">and from them all great-souled Achilles gathered the fat, and enfolded the dead therein from head to foot, and about him heaped the flayed bodies.
-<milestone n="170" unit="line"/>
 
-</s><s n="check:23.170-23.171">And thereon he set two-handled jars of honey and oil, leaning them against the bier; 
+
+</s><s n="check:23.170-23.171"><milestone n="170" unit="line"/>And thereon he set two-handled jars of honey and oil, leaning them against the bier; 
 
 </s><s n="check:23.171-23.172">and four horses with high arched neeks he cast swiftly upon the pyre, groaning aloud the while. 
 
 </s><s n="check:23.173-23.176">Nine dogs had the prince, that fed beneath his table, and of these did Achilles cut the throats of twain, and cast them upon the pyre.
 <milestone n="175" unit="line"/>
 
-</s><s n="check:23.176">And twelve valiant sons of the great-souled Trojans slew he with the bronze—and grim was the work he purposed in his heart and thereto he set the iron might of fire, to range at large. 
+And twelve valiant sons of the great-souled Trojans slew he with the bronze—
 
-</s><s n="check:23.177">Then he uttered a groan, and called on his dear comrade by name:</s></p>
+</s><s n="check:23.176">and grim was the work he purposed in his heart 
+
+</s><s n="check:23.177">and thereto he set the iron might of fire, to range at large. 
+
+</s><s n="check:23.178">Then he uttered a groan, and called on his dear comrade by name:</s></p>
 <p><q>
 
-<s n="check:23.178">Hail, I bid thee, O Patroclus, even in the house of Hades,
-<milestone n="180" unit="line"/>for now am I bringing all to pass, which afore-time I promised thee. 
+<s n="check:23.179">Hail, I bid thee, O Patroclus, even in the house of Hades,
+</s><s n="check:23.180-23.182"><milestone n="180" unit="line"/>for now am I bringing all to pass, which afore-time I promised thee. 
 
-</s><s n="check:23.180-23.182">Twelve valiant sons of the great-souled Trojans, lo all these together with thee the flame devoureth; 
+Twelve valiant sons of the great-souled Trojans, lo all these together with thee the flame devoureth; 
 
 </s><s n="check:23.182-23.183">but Hector, son of Priam, will I nowise give to the fire to feed upon, but to dogs.
 </s></q></p>
 <p>
 
-<s n="check:23.184">So spake he threatening, but with Hector might no dogs deal;
+<s n="check:23.184">So spake he threatening, 
+
+</s><s n="check:23.184-23.187">but with Hector might no dogs deal;
 <milestone n="185" unit="line"/>nay, the daughter of Zeus, Aphrodite, kept dogs from him by day alike and by night, and with oil anointed she him, rose-sweet, ambrosial, to the end that Achilles might not tear him as he dragged him. 
 
 </s><s n="check:23.188-23.191">And over him Phoebus Apollo drew a dark cloud from heaven to the plain, and covered all the place
@@ -21354,22 +21382,28 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.193">Then again did swift footed goodlyAchilles take other counsel; 
 
 </s><s n="check:23.194-23.195">he took his stand apart from the pyre, and made prayer to the two winds,
-<milestone n="195" unit="line"/>to the North Wind and the West Wind, and promised fair offerings, and full earnestly, as he poured libations from a cup of gold, he besought them to come, to the end that the corpses might speedily blaze with fire, and the wood make haste to be kindled. 
+<milestone n="195" unit="line"/>to the North Wind and the West Wind, and promised fair offerings, 
 
-</s><s n="check:23.196-23.198">Then forthwith Iris heard his prayer, and hied her with the message to the winds.
-<milestone n="200" unit="line"/>
+</s><s n="check:23.196-23.198">and full earnestly, as he poured libations from a cup of gold, he besought them to come, to the end that the corpses might speedily blaze with fire, and the wood make haste to be kindled. 
 
-</s><s n="check:23.200-23.201">They in the house of the fierce-blowing West Wind were feasting all together at the banquet and Iris halted from her running on the threshold of stone. 
+</s><s n="check:23.198-23.199">Then forthwith Iris heard his prayer, and hied her with the message to the winds.
 
-</s><s n="check:23.201-23.202">Soon as their eyes beheld her, they all sprang up and called her each one to himself. 
 
-</s><s n="check:23.202-23.203">But she refused to sit, and spake saying:
-<milestone n="205" unit="line"/></s></p>
+</s><s n="check:23.200-23.201"><milestone n="200" unit="line"/>They in the house of the fierce-blowing West Wind were feasting all together at the banquet 
+
+</s><s n="check:23.201-23.202">and Iris halted from her running on the threshold of stone. 
+
+</s><s n="check:23.202-23.203">Soon as their eyes beheld her, they all sprang up and called her each one to himself. 
+
+</s><s n="check:23.202-23.204">But she refused to sit, and spake saying:
+</s></p>
 <p><q>
 
-<s n="check:23.205">I may not sit, for I must go back unto the streams of Oceanus, unto the land of the Ethiopians, where they are sacrificing hecatombs to the immortals, that I too may share in the sacred feast. 
+<s n="check:23.205"><milestone n="205" unit="line"/>I may not sit, 
 
-</s><s n="check:23.205-23.207">But Achilles prayeth the North Wind and the noisy West Wind to come, and promiseth them fair offerings, that so ye may rouse the pyre to burn whereon lieth
+</s><s n="check:23.205-23.207"for I must go back unto the streams of Oceanus, unto the land of the Ethiopians, where they are sacrificing hecatombs to the immortals, that I too may share in the sacred feast. 
+
+</s><s n="check:23.208-23.211">But Achilles prayeth the North Wind and the noisy West Wind to come, and promiseth them fair offerings, that so ye may rouse the pyre to burn whereon lieth
 <milestone n="210" unit="line"/>Patroclus, for whom all the Achaeans groan aloud.
 </s></q></p>
 <p>
@@ -21402,39 +21436,45 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.231-23.232">and sweet sleep leapt upon him. 
 
-</s><s n="check:23.233">But they that were with the son of Atreus gathered in a throng, and the noise and din of their oncoming aroused him;
+</s><s n="check:23.233">But they that were with the son of Atreus gathered in a throng, 
+
+</s><s n="check:23.234-23.235">Sand the noise and din of their oncoming aroused him;
 <milestone n="235" unit="line"/>and he sat upright and spake to them saying:</s></p>
 <p><q>
 
-<s n="check:23.236-23.238">Son of Atreus, and ye other princes of the hosts of Achaea, first quench ye with flaming wine the burning pyre, even all whereon the might of the fire hath come, and thereafter let us gather the bones of Patroclus, Menoetius' son, singling them out well from the rest;
-<milestone n="240" unit="line"/>and easy they are to discern, for he lay in the midst of the pyre, while the others burned apart on the edges thereof, horses and men mingled together. 
+<s n="check:23.236-23.238">Son of Atreus, and ye other princes of the hosts of Achaea, first quench ye with flaming wine the burning pyre, even all whereon the might of the fire hath come, 
 
-</s><s n="check:23.240">Then let us place the bones in a golden urn wrapped in a double layer of fat until such time as I myself be hidden in Hades.
-<milestone n="245" unit="line"/>
+</s><s n="check:23.238-23.240">Sand thereafter let us gather the bones of Patroclus, Menoetius' son, singling them out well from the rest;
+<milestone n="240" unit="line"/>and easy they are to discern, 
 
-</s><s n="check:23.245-23.246">Howbeit no huge barrow do I bid you rear with toil for him, but such a one only as beseemeth; 
+</s><s n="check:23.241-23.242">for he lay in the midst of the pyre, while the others burned apart on the edges thereof, horses and men mingled together. 
+
+</s><s n="check:23.243-23.244">Then let us place the bones in a golden urn wrapped in a double layer of fat until such time as I myself be hidden in Hades.
+
+
+</s><s n="check:23.245-23.246"><milestone n="245" unit="line"/>Howbeit no huge barrow do I bid you rear with toil for him, but such a one only as beseemeth; 
 
 </s><s n="check:23.246-23.248">but in aftertime do ye Achaeans build it broad and high, ye that shall be left amid the benched ships when I am gone.
 </s></q></p>
 <p>
 
 <s n="check:23.249">So spake he, and they hearkened to the swift-footed son of Peleus.
-<milestone n="250" unit="line"/>
 
-</s><s n="check:23.250-23.251">First they quenched with flaming wine the pyre, so far as the flame had come upon it, and the ash had settled deep; 
+
+</s><s n="check:23.250-23.251"><milestone n="250" unit="line"/>First they quenched with flaming wine the pyre, so far as the flame had come upon it, and the ash had settled deep; 
 
 </s><s n="check:23.252-23.254">and with weeping they gathered up the white bones of their gentle comrade into a golden urn, and wrapped them in a double layer of fat, and placing the urn in the hut they covered it with a soft linen cloth.
-<milestone n="255" unit="line"/>
 
-</s><s n="check:23.255-23.256">Then they traced the compass of the barrow and set forth the foundations thereof round about the pyre, and forthwith they piled the up-piled earth. 
+
+</s><s n="check:23.255-23.256"><milestone n="255" unit="line"/>Then they traced the compass of the barrow and set forth the foundations thereof round about the pyre, and forthwith they piled the up-piled earth. 
 
 </s><s n="check:23.256-23.257">And when they had piled the barrow, they set them to go back again. 
 
 </s><s n="check:23.257-23.261">But Achilles stayed the folk even where they were, and made them to sit in a wide gathering; 
 
-</s><s n="check:nomatch">and from his ships brought forth prizes; 
+and from his ships brought forth prizes; 
 
-</s><s n="check:nomatch">cauldrons and tripods
+cauldrons and tripods
 <milestone n="260" unit="line"/>and horses and mules and strong oxen and fair-girdled women and grey iron.
 </s></p>
                 </div>
@@ -21459,15 +21499,17 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.274-23.275">If for some other's honour we Achaeans were now holding contests,
 <milestone n="275" unit="line"/>surely it were I that should win the first prize, and bear it to my hut; 
 
-</s><s n="check:23.276">for ye know how far my horses twain surpass in excellence, seeing they are immortal, and it was Poseidon that gave them to my father Peleus, and he gave them to me. 
+</s><s n="check:23.276">for ye know how far my horses twain surpass in excellence, 
 
-</s><s n="check:23.277-23.278">Howbeit I verily will abide, I and my single-hooved horses,
-<milestone n="280" unit="line"/>so valiant and glorious a charioteer have they lost, and one so kind, who full often would pour upon their manes soft soil when he had washed them in bright water. 
+</s><s n="check:23.277-23.278">seeing they are immortal, and it was Poseidon that gave them to my father Peleus, and he gave them to me. 
 
-</s><s n="check:23.280-23.282">For him they stand and mourn, and on the ground their manes are trailing, and the twain stand there, grieving at heart.
-<milestone n="285" unit="line"/>
+</s><s n="check:23.279">Howbeit I verily will abide, I and my single-hooved horses,
+</s><s n="check:23.280-23.282"><milestone n="280" unit="line"/>so valiant and glorious a charioteer have they lost, and one so kind, who full often would pour upon their manes soft soil when he had washed them in bright water. 
 
-</s><s n="check:23.285-23.286">But do ye others make yourselves ready throughout the host, whosoever of the Achaeans hath trust in his horses and his jointed car.
+</s><s n="check:23.283-23.284">For him they stand and mourn, and on the ground their manes are trailing, and the twain stand there, grieving at heart.
+
+
+</s><s n="check:23.285-23.286"><milestone n="285" unit="line"/>But do ye others make yourselves ready throughout the host, whosoever of the Achaeans hath trust in his horses and his jointed car.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.287-23.318">
@@ -21476,38 +21518,42 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.287">So spake the son of Peleus, and the swift charioteers bestirred them. 
 
 </s><s n="check:23.288-23.289">Upsprang, for the first, Eumelus, king of men, Admetus' dear son, a man well-skilled in horsemanship
-<milestone n="290" unit="line"/>and after him upsprang Tydeus' son, mighty Diomedes, and led beneath the yoke the horses of Tros, even them that on a time he had taken from Aeneas, albeit Apollo snatched away Aeneas' self; 
+</s><s n="check:23.290-23.292"><milestone n="290" unit="line"/>and after him upsprang Tydeus' son, mighty Diomedes, and led beneath the yoke the horses of Tros, even them that on a time he had taken from Aeneas, albeit Apollo snatched away Aeneas' self; 
 
-</s><s n="check:23.290-23.292">and after him uprose Atreus' son, fair-haired Menelaus, sprung from Zeus, and led beneath the yoke swift steeds, Aethe, Agamemnon's mare, and his own horse Podargus.
-<milestone n="295" unit="line"/>
+</s><s n="check:23.293-23.295">and after him uprose Atreus' son, fair-haired Menelaus, sprung from Zeus, and led beneath the yoke swift steeds, <milestone n="295" unit="line"/> Aethe, Agamemnon's mare, and his own horse Podargus.
+
 
 </s><s n="check:23.296-23.298">The mare had Anchises' son Echepolus given to Agamemnon without price, to the end that he might not follow him to windy Ilios, but might abide at home and take his joy; 
 
 </s><s n="check:23.298-23.299">for great wealth had Zeus given him, and he dwelt in spaclous Sicyon:
-<milestone n="300" unit="line"/>her Menelaus led beneath the yoke, and exceeding fain was she of the race. 
+</s><s n="check:23.300"><milestone n="300" unit="line"/>her Menelaus led beneath the yoke, and exceeding fain was she of the race. 
 
-</s><s n="check:23.300">And fourth Antilochus made ready his fair-maned horses, he the peerless son of Nestor, the king high of heart, the son of Neleus; 
+</s><s n="check:23.301-23.303">And fourth Antilochus made ready his fair-maned horses, he the peerless son of Nestor, the king high of heart, the son of Neleus; 
 
-</s><s n="check:23.301-23.303">and bred at Pylos were the swift-footed horses that drew his car. 
+</s><s n="check:23.303-23.304">and bred at Pylos were the swift-footed horses that drew his car. 
 
-</s><s n="check:23.303-23.304">And his father drew nigh and gave counsel
+</s><s n="check:23.304-23.305">And his father drew nigh and gave counsel
 <milestone n="305" unit="line"/>to him for his profit — a wise man to one that himself had knowledge.
 </s><q>
 
 <s n="check:23.306-23.308">Antilochus, for all thou art young, yet have Zeus and Poseidon loved thee and taught thee all manner of horsemanship; 
 
-</s><s n="check:23.308">wherefore to teach thee is no great need, for thou knowest well how to wheel about the turning-post; 
+</s><s n="check:23.308">wherefore to teach thee is no great need, 
 
-</s><s n="check:23.309">yet are thy horses slowest in the race: 
+</s><s n="check:23.309">for thou knowest well how to wheel about the turning-post; 
 
-</s><s n="check:23.309-23.310">therefore I deem there will be sorry work for thee. 
+</s><s n="check:23.309-23.310">yet are thy horses 
 
-</s><s n="check:nomatch">The horses of the others are swifter, but the men know not how to devise more cunning counsel than thine own self. 
+<milestone n="310" unit="line"/>slowest in the race: 
 
-</s><s n="check:nomatch">Wherefore come, dear son, lay thou up in thy mind cunning of every sort, to the end that the prizes escape thee not.
-<milestone n="315" unit="line"/>
+</s><s n="check:23.310">therefore I deem there will be sorry work for thee. 
 
-</s><s n="check:23.315">By cunning, thou knowest, is a woodman far better than by might; 
+</s><s n="check:23.311-23.312">The horses of the others are swifter, but the men know not how to devise more cunning counsel than thine own self. 
+
+</s><s n="check:23.313-23.314">Wherefore come, dear son, lay thou up in thy mind cunning of every sort, to the end that the prizes escape thee not.
+
+
+</s><s n="check:23.315"><milestone n="315" unit="line"/>By cunning, thou knowest, is a woodman far better than by might; 
 
 </s><s n="check:23.316-23.317">by cunning too doth a helmsman on the wine-dark deep guide aright a swift ship that is buffeted by winds; 
 
@@ -21526,24 +21572,28 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.326">Now will I tell thee a manifest sign that will not escape thee. 
 
-</s><s n="check:23.327-23.328">There standeth, as it were a fathom's height above the ground, a dry stump, whether of oak or of pine, which rotteth not in the rain, and two white stones on either side
+</s><s n="check:23.327-23.328">There standeth, as it were a fathom's height above the ground, a dry stump, whether of oak or of pine, 
+
+</s><s n="check:23.328-23.333">which rotteth not in the rain, and two white stones on either side
 <milestone n="330" unit="line"/>thereof are firmly set against it at the joinings of the course, and about it is smooth ground for driving. 
 
-</s><s n="check:23.334-23.336">Haply it is a monnment of some man long ago dead, or haply was made the turning-post of a race in days of men of old; 
+Haply it is a monnment of some man long ago dead, or haply was made the turning-post of a race in days of men of old; 
 
-</s><s n="check:nomatch">and now hath switft-footed goodly Achilles appointed it his turningpost. 
+and now hath switft-footed goodly Achilles appointed it his turningpost. 
 
-</s><s n="check:nomatch">Pressing hard thereon do thou drive close thy chariot and horses, and thyself lean in thy well-plaited
-<milestone n="335" unit="line"/>car a little to the left of the pair, and to the off horse do thou give the goad, calling to him with a shout, and give him rein from thy hand. 
+</s><s n="check:23.334-23.336">Pressing hard thereon do thou drive close thy chariot and horses, and thyself lean in thy well-plaited
+<milestone n="335" unit="line"/>car a little to the left of the pair, 
 
-</s><s n="check:23.336-23.337">But to the post let the near horse draw close, that the nave of the well-wrought wheel seem to graze the surface thereof—
-<milestone n="340" unit="line"/>but be thou ware of touching the stone, lest haply thou wound thy horses and wreck thy car; 
+</s><s n="check:23.336-23.337">and to the off horse do thou give the goad, calling to him with a shout, and give him rein from thy hand. 
 
-</s><s n="check:23.340-23.341">so should there be joy for the rest, but reproach it for thyself. 
+</s><s n="check:23.338-23.340">But to the post let the near horse draw close, that the nave of the well-wrought wheel seem to graze the surface thereof—
+</s><s n="check:23.340-23.341"><milestone n="340" unit="line"/>but be thou ware of touching the stone, lest haply thou wound thy horses and wreck thy car; 
 
-</s><s n="check:23.342-23.343">Nay, dear son, be thou wise and on thy guard; 
+</s><s n="check:23.342-23.343">so should there be joy for the rest, but reproach it for thyself. 
 
-</s><s n="check:23.343">for if at the turning-post thou shalt drive past the rest in thy course,
+</s><s n="check:23.343">Nay, dear son, be thou wise and on thy guard; 
+
+</s><s n="check:23.344-23.348">for if at the turning-post thou shalt drive past the rest in thy course,
 <milestone n="345" unit="line"/>there is no man that shall catch thee by a burst of speed, neither pass thee by, nay, not though in pursuit he were driving goodly Arion, the swift horse of Adrastus, that was of heavenly stock, or those of Laomedon, the goodly breed of this land.
 </s></q></p>
 <p>
@@ -21562,22 +21612,24 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.353-23.354">and Achilles shook them, and forth leapt the lot of Nestor's son, Antilochus; 
 
 </s><s n="check:23.354">after him had the lord Eumelus a place,
-<milestone n="355" unit="line"/>and next to him Atreus' son, Menelaus, famed for his spear, and next to him Meriones drew his place; 
 
-</s><s n="check:23.355-23.356">and last of all the son of Tydeus, albeit far the best, drew a place for his chariot. 
+</s><s n="check:23.355-23.356"><milestone n="355" unit="line"/>and next to him Atreus' son, Menelaus, famed for his spear, and next to him Meriones drew his place; 
 
-</s><s n="check:23.356-23.357">Then took they their places in a row, and Achilles shewed them the turning-post afar off in the smooth plain; 
+</s><s n="check:23.356-23.357">and last of all the son of Tydeus, albeit far the best, drew a place for his chariot. 
 
-</s><s n="check:23.358-23.359">and thereby he set as an umpire
+</s><s n="check:23.358-23.359">Then took they their places in a row, and Achilles shewed them the turning-post afar off in the smooth plain; 
+
+</s><s n="check:23.359-23.361">and thereby he set as an umpire
 <milestone n="360" unit="line"/>godlike Phoenix, his father's follower, that he might mark the running and tell the truth thereof.</s></p>
 <p>
 
 <s n="check:23.362-23.364">Then they all at one moment lifted the lash each above his yoke of horses, and smote them with the reins, and called to them with words, full eagerly and forthwith they sped swiftly over the plain
-<milestone n="365" unit="line"/>away from the ships and beneath their breasts the dust arose and stood, as it were a cloud or a whirlwind, and their manes streamed on the blasts of the wind. 
 
-</s><s n="check:23.365-23.367">And the chariots would now course over the bounteous earth, and now again would bound on high; 
+</s><s n="check:23.365-23.367"><milestone n="365" unit="line"/>away from the ships and beneath their breasts the dust arose and stood, as it were a cloud or a whirlwind, and their manes streamed on the blasts of the wind. 
 
-</s><s n="check:23.368-23.369">and they that drave
+</s><s n="check:23.368-23.369">And the chariots would now course over the bounteous earth, and now again would bound on high; 
+
+</s><s n="check:23.369-23.371">and they that drave
 <milestone n="370" unit="line"/>stood in the cars, and each man's heart was athrob as they strove for victory; 
 
 </s><s n="check:23.371-23.372">and they called every man to his horses, that flew in the dust over the plain.</s></p>
@@ -21586,15 +21638,20 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.373-23.375">But when now the swift horses were fulfilling the last stretch of the course, back toward the grey sea, then verily was made manifest the worth of each,
 <milestone n="375" unit="line"/>and the pace of their horses was forced to the uttermost. 
 
-</s><s n="check:23.375-23.376">And forthwith the swift-footed mares of the son of Pheres shot to the front, and after them Diomedes' stallions of the breed of Tros; 
+</s><s n="check:23.375-23.376">And forthwith the swift-footed mares of the son of Pheres shot to the front, 
 
-</s><s n="check:23.377-23.378">not far behind were they, but close behind, for they seemed ever like to mount upon
-<milestone n="380" unit="line"/>Eumelus' car, and with their breath his back waxed warm and his broad shoulders, for right over him did they lean their heads as they flew along. 
+</s><s n="check:23.377-23.378">and after them Diomedes' stallions of the breed of Tros; 
 
-</s><s n="check:23.381">And now would Tydeus' son have passed him by or left the issue in doubt, had not Phoebus Apollo waxed wroth with him and smitten from his hand the shining lash.
-<milestone n="385" unit="line"/>
+</s><s n="check:23.379-23.381">not far behind were they, but close behind, for they seemed ever like to mount upon
+<milestone n="380" unit="line"/>Eumelus' car, and with their breath his back waxed warm and his broad shoulders, 
 
-</s><s n="check:23.385-23.387">Then from his eyes ran tears in his wrath for that he saw the mares coursing even far swiftlier still than before, while his own horses were hampered, as running without goad.
+
+</s><s n="check:23.381">for right over him did they lean their heads as they flew along. 
+
+</s><s n="check:23.382-23.384">And now would Tydeus' son have passed him by or left the issue in doubt, had not Phoebus Apollo waxed wroth with him and smitten from his hand the shining lash.
+
+
+</s><s n="check:23.385-23.387"><milestone n="385" unit="line"/>Then from his eyes ran tears in his wrath for that he saw the mares coursing even far swiftlier still than before, while his own horses were hampered, as running without goad.
 
 </s></p>
                 </div>
@@ -21604,9 +21661,12 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.388-23.390">But Athene was not unaware of Apollo's cheating of the son of Tydeus, and right swiftly sped she after the shepherd of the host,
 <milestone n="390" unit="line"/>and gave him back the lash and put strength into his horses. 
 
-</s><s n="check:23.391-23.392">Then in wrath was she gone after the son of Admetus, and the goddess brake the yoke of his steeds, and to his cost the mares swerved to this side and that of the course, and the pole was swung to the earth; 
+</s><s n="check:23.391-23.392">Then in wrath was she gone after the son of Admetus, 
 
-</s><s n="check:23.392-23.393">and Eumelus himself was hurled from out the car beside the wheel,
+
+</s><s n="check:23.392-23.393">and the goddess brake the yoke of his steeds, and to his cost the mares swerved to this side and that of the course, and the pole was swung to the earth; 
+
+</s><s n="check:23.394-23.396">and Eumelus himself was hurled from out the car beside the wheel,
 <milestone n="395" unit="line"/>and from his elbows and his mouth and nose the skin was stripped, and his forehead above his brows was bruised; 
 
 </s><s n="check:23.396-23.397">and both his eyes were filled with tears and the flow of his voice was checked. 
@@ -21631,59 +21691,63 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.407-23.409">But the horses of the son of Atreus do ye overtake with speed, and be not outstripped of them, lest shame be shed on you by Aethe that is but a mare. 
 
 </s><s n="check:23.409">Why are ye outstripped, good steeds?
-<milestone n="410" unit="line"/>
 
-</s><s n="check:23.410">For thus will I speak out to you, and verily it shall be brought to pass: 
+
+</s><s n="check:23.410"><milestone n="410" unit="line"/>For thus will I speak out to you, and verily it shall be brought to pass: 
 
 </s><s n="check:23.411-23.413">no tendance shall there be for you twain with Nestor, the shepherd of the host, but forthwith will he slay you with the sharp bronze, if through your heedlessness we win but a worse prize. 
 
 </s><s n="check:23.414">Nay, have after them with all speed ye may,
-<milestone n="415" unit="line"/>and this will I myself contrive and plan, that we slip past them in the narrow way; 
+</s><s n="check:23.415-23.416"><milestone n="415" unit="line"/>and this will I myself contrive and plan, that we slip past them in the narrow way; 
 
-</s><s n="check:23.415-23.416">it shall not escape me.
+it shall not escape me.
 </s></q></p>
 <p>
 
-<s n="check:23.417-23.418">So spake he, and they, seized with fear at the rebuke of their master, ran swiftlier on for a little time, and then quickly did Antilochus, staunch in fight, espy a narrow place in the hollow road.
-<milestone n="420" unit="line"/>
+<s n="check:23.417-23.418">So spake he, and they, seized with fear at the rebuke of their master, ran swiftlier on for a little time,
 
-</s><s n="check:23.420-23.421">A rift there was in the ground, where the water, swollen by winter rains, had broken away a part of the road and had hollowed all the place. 
+</s><s n="check:23.418-23.419"> and then quickly did Antilochus, staunch in fight, espy a narrow place in the hollow road.
+
+
+</s><s n="check:23.420-23.421"><milestone n="420" unit="line"/>A rift there was in the ground, where the water, swollen by winter rains, had broken away a part of the road and had hollowed all the place. 
 
 </s><s n="check:23.422">There drave Menelaus in hope that none other might drive abreast of him. 
 
 </s><s n="check:23.423-23.424">But Antilochus turned aside his single-hooved horses, and drave on outside the track, and followed after him, a little at one side.
-<milestone n="425" unit="line"/>
 
-</s><s n="check:23.425">And the son of Atreus was seized with fear, and shouted to Antilochus:</s></p>
+
+</s><s n="check:23.425"><milestone n="425" unit="line"/>And the son of Atreus was seized with fear, and shouted to Antilochus:</s></p>
 <p><q>
 
 <s n="check:23.426">Antilochus, thou art driving recklessly; 
 
-</s><s n="check:23.427">nay, rein in thy horses! 
+nay, rein in thy horses! 
 
-</s><s n="check:23.428">Here is the way straitened, but presently it will be wider for passing; 
+</s><s n="check:23.427">Here is the way straitened, but presently it will be wider for passing; 
 
-</s><s n="check:23.429-23.430">lest haply thou work harm to us both by fouling my car.
+</s><s n="check:23.428">>lest haply thou work harm to us both by fouling my car.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.429-23.472">
                     <p>
 
-<s n="check:nomatch">So spake he, but Antilochus drave on even the more hotly,
+<s n="check:23.429-23.430">So spake he, but Antilochus drave on even the more hotly,
 <milestone n="430" unit="line"/>and plied the goad, as he were one that heard not. 
 
 </s><s n="check:23.431-23.433">And far is the range of a discus swung from the shoulder, which a young man hurleth, making trial of his strength, even so far ran they on; 
 
-</s><s n="check:23.433-23.434">but the mares of the son of Atreus gave back, for of his own will he forbare to urge them,
+</s><s n="check:23.433-23.434">but the mares of the son of Atreus gave back, 
+
+</s><s n="check:23.434-23.437">for of his own will he forbare to urge them,
 <milestone n="435" unit="line"/>lest haply the single-hooved horses should clash together in the track, and overturn the well-plaited cars, and themselves be hurled in the dust in their eager haste for victory. 
 
 </s><s n="check:23.438">Then fair-haired Menelaus chid Antilochus, and said:</s></p>
 <p><q>
 
 <s n="check:23.439">Antilochus, than thou is none other of mortals more malicious.
-<milestone n="440" unit="line"/>
 
-</s><s n="check:23.440">Go, and perdition take thee, since falsely did we Achaeans deem thee wise. 
+
+</s><s n="check:23.440"><milestone n="440" unit="line"/>Go, and perdition take thee, since falsely did we Achaeans deem thee wise. 
 
 </s><s n="check:23.441">Howbeit even so shalt thou not bear off the prize without an oath.
 <note resp="Loeb" anchored="true">527.1</note></s></q></p>
@@ -21695,19 +21759,27 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.443">Hold not back, I bid you, neither stand ye still with grief at heart. 
 
 </s><s n="check:23.444-23.445">Their feet and knees will grow weary
-<milestone n="445" unit="line"/>before yours, for they both are lacking in youth.
+<milestone n="445" unit="line"/>before yours, 
+
+</s><s n="check:23.445">for they both are lacking in youth.
 </s></q></p>
 <p>
 
-<s n="check:23.445">So spake be, and they, seized with fear at the rebuke of their master, ran swiftlier on, and quickly came close anigh the others.</s></p>
+<s n="check:23.446-23.447">So spake be, and they, seized with fear at the rebuke of their master, ran swiftlier on, and quickly came close anigh the others.</s></p>
 <p>
 
-<s n="check:23.446-23.447">But the Argives sitting in the place of gathering were gazing at the horses, that flew amid the dust over the plain.
-<milestone n="450" unit="line"/>
+<s n="check:23.448-23.449">But the Argives sitting in the place of gathering were gazing at the horses, 
 
-</s><s n="check:23.450">And the first to mark them was Idomeneus, leader of the Cretans, for he sat without the gathering, the highest of all, in a place of outlook, and when he heard the voice of him that shouted, albeit afar off, he knew it; 
+</s><s n="check:23.449">that flew amid the dust over the plain.
 
-</s><s n="check:23.451">and he was ware of a horse, shewing clear to view in front, one that was a bay all the rest of him, but on his forehead was
+
+</s><s n="check:23.450"><milestone n="450" unit="line"/>And the first to mark them was Idomeneus, leader of the Cretans, 
+
+</s><s n="check:23.451">for he sat without the gathering, the highest of all, in a place of outlook, 
+
+</s><s n="check:23.452-23.455">and when he heard the voice of him that shouted, albeit afar off, he knew it; 
+
+and he was ware of a horse, shewing clear to view in front, one that was a bay all the rest of him, but on his forehead was
 <milestone n="455" unit="line"/>a white spot round like the moon. 
 
 </s><s n="check:23.456">And he stood up, and spake among the Argives saying:</s></p>
@@ -21720,36 +21792,42 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.460-23.461">and the mares will have come to harm out yonder on the plain, they that were in front on the outward course. 
 
-</s><s n="check:23.462-23.463">For in truth I marked them sweeping first about the turning-post, but now can I nowhere spy them, though mine eyes glance everywhither over the Trojan plain, as I gaze.
-<milestone n="465" unit="line"/>
+</s><s n="check:23.462-23.463">For in truth I marked them sweeping first about the turning-post, but now can I nowhere spy them, 
 
-</s><s n="check:23.465-23.466">Did the reins haply slip from the charioteer, and was he unable to guide the course aright about the post, and did he fail in the turn? 
+</s><s n="check:23.463-23.464">though mine eyes glance everywhither over the Trojan plain, as I gaze.
+
+
+</s><s n="check:23.465-23.466"><milestone n="465" unit="line"/>Did the reins haply slip from the charioteer, and was he unable to guide the course aright about the post, and did he fail in the turn? 
 
 </s><s n="check:23.467-23.468">Even there, methinks, must he have been hurled to earth, and have wrecked his car, and the mares must have swerved from the course in wild terror of heart. 
 
 </s><s n="check:23.469">Howbeit stand ye up also, and look; 
 
 </s><s n="check:23.469-23.470">for myself
-<milestone n="470" unit="line"/>I discern not clearly, but the man seemeth to me to be an Aetolian by race, and is king among the Argives, even the son of horse-taming Tydeus, mighty Diomedes.
+<milestone n="470" unit="line"/>I discern not clearly, 
+
+</s><s n="check:23.470-23.472">but the man seemeth to me to be an Aetolian by race, and is king among the Argives, even the son of horse-taming Tydeus, mighty Diomedes.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.473-23.513">
                     <p>
 
-<s n="check:23.470-23.472">Then shamefully chid him swift Aias, son of Oïleus:</s></p>
+<s n="check:23.473">Then shamefully chid him swift Aias, son of Oïleus:</s></p>
 <p><q>
 
-<s n="check:23.473">Idomeneus, why art thou a braggart from of old? 
+<s n="check:23.474">Idomeneus, why art thou a braggart from of old? 
 
-</s><s n="check:23.474">Nay, still afar off are
+</s><s n="check:23.474-23.475">Nay, still afar off are
 <milestone n="475" unit="line"/>the high-stepping mares speeding over the wide plain. 
 
-</s><s n="check:23.476-23.477">Neither art thou so far the youngest among the Argives, nor do thine eyes look forth from thy head so far the keenliest yet thou ever pratest loudly. 
+</s><s n="check:23.476-23.477">Neither art thou so far the youngest among the Argives, nor do thine eyes look forth from thy head so far the keenliest 
 
-</s><s n="check:23.478">It beseemeth thee not to be loud of speech, for here be others better than thou.
-<milestone n="480" unit="line"/>
+</s><s n="check:23.478">yet thou ever pratest loudly. 
 
-</s><s n="check:23.480-23.481">The selfsame mares are in the lead, that led of old, even they of Eumelus, and himself he standeth firmly in the car and holdeth the reins.
+</s><s n="check:23.478-23.479">It beseemeth thee not to be loud of speech, for here be others better than thou.
+
+
+</s><s n="check:23.480-23.481"><milestone n="480" unit="line"/>The selfsame mares are in the lead, that led of old, even they of Eumelus, and himself he standeth firmly in the car and holdeth the reins.
 </s></q></p>
 <p>
 
@@ -21757,38 +21835,46 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <p><q>
 
 <s n="check:23.483-23.484">Aias, thou master of railing, witless in counsel, in all things else thou fallest behind the other Argives, for thy mind is stubborn.
-<milestone n="485" unit="line"/>
 
-</s><s n="check:23.485-23.487">Come now, let us wager a tripod or a cauldron, and as umpire betwixt us twain let us choose Atreus' son Agamemnon, as to which mares are in the lead — that thou mayst learn by paying the price.
+
+</s><s n="check:23.485-23.487"><milestone n="485" unit="line"/>Come now, let us wager a tripod or a cauldron, and as umpire betwixt us twain let us choose Atreus' son Agamemnon, as to which mares are in the lead — that thou mayst learn by paying the price.
 </s></q></p>
 <p>
 
 <s n="check:23.488-23.489">So spake he, and forthwith uprose in wrath swift Aias, son of Oïleus, to answer him with angry words;
-<milestone n="490" unit="line"/>and yet furthur would the strife between the twain have gone, had not Achilles himself stood up, and spoken, saying:</s></p>
+</s><s n="check:23.490-23.491"><milestone n="490" unit="line"/>and yet furthur would the strife between the twain have gone, had not Achilles himself stood up, and spoken, saying:</s></p>
 <p><q>
 
-<s n="check:23.490-23.491">No longer now, O Aias and Idomeneus, answer ye one another with angry words, with evil words, for that were unseemly. 
+<s n="check:23.492-23.493">No longer now, O Aias and Idomeneus, answer ye one another with angry words, with evil words, for that were unseemly. 
 
-</s><s n="check:23.492-23.493">Ye have indignation with another, whoso should act thus.
-<milestone n="495" unit="line"/>
+</s><s n="check:23.494">Ye have indignation with another, whoso should act thus.
 
-</s><s n="check:23.495-23.496">Nay, sit ye down in the place of gathering, and watch ye the horses; 
 
-</s><s n="check:23.496-23.497">full soon in their eager haste for victory will they come hither, and then shall ye know, each man of you, the horses of the Argives, which be behind, and which in the lead.
+</s><s n="check:23.495-23.496"><milestone n="495" unit="line"/>Nay, sit ye down in the place of gathering, and watch ye the horses; 
+
+</s><s n="check:23.496-23.497">full soon in their eager haste for victory will they come hither, 
+
+
+</s><s n="check:23.497-23.498">and then shall ye know, each man of you, the horses of the Argives, which be behind, and which in the lead.
 </s></q></p>
 <p>
 
-<s n="check:23.497-23.498">So spake he, and Tydeus' son came hard anigh as he drave,
+<s n="check:23.499-23.500">So spake he, and Tydeus' son came hard anigh as he drave,
 <milestone n="500" unit="line"/>and with his lash dealt many a stroke down from the shoulder; 
 
 </s><s n="check:23.500-23.501">and his horses leapt on high as they swiftly sped on their way. 
 
-</s><s n="check:23.502-23.504">And ever did flakes of dust smite the charioteer, and his chariot overlaid with gold and tin ran on behind the swift-footed horses, and small trace there was
-<milestone n="505" unit="line"/>of the wheel tires behind in the light dust, as the twain flew speeding on. 
+</s><s n="check:23.502-23.504">And ever did flakes of dust smite the charioteer, and his chariot overlaid with gold and tin ran on behind the swift-footed horses, 
 
-</s><s n="check:23.506">Then he drew up in the midst of the place of gathering, and in streams the sweat flowed from the necks and chests of the horses to the ground. 
 
-</s><s n="check:23.507-23.508">And Diomedes himself leapt to the ground from his gleaming car,
+</s><s n="check:23.504-23.506">and small trace there was
+<milestone n="505" unit="line"/>of the wheel tires behind in the light dust, 
+
+</s><s n="check:23.506">as the twain flew speeding on. 
+
+</s><s n="check:23.507-23.508">Then he drew up in the midst of the place of gathering, and in streams the sweat flowed from the necks and chests of the horses to the ground. 
+
+</s><s n="check:23.509-23.510">And Diomedes himself leapt to the ground from his gleaming car,
 <milestone n="510" unit="line"/>and leaned the goad against the yoke. 
 
 </s><s n="check:23.510-23.513">Neither did mighty Sthenelus anywise tarry, but speedily took the prize, and gave to his comrades, high of heart, the woman and the eared tripod to bear away; 
@@ -21804,20 +21890,30 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.516">howbeit even so Menelaus guided his swift horses close behind. 
 
-</s><s n="check:23.517-23.518">Far as a horse is from the wheel, a horse that draweth his master over the plain,and straineth at the car—the tire thereof do the hindmost hairs of his tail touch,
-<milestone n="520" unit="line"/>for it runneth close behind, and but scant space is there between, as he courseth over the wide plain—even by so much was Menelaus behind peerless Antilochus, though at the first he was behind far as a man hurleth the discus; 
+</s><s n="check:23.517-23.518">Far as a horse is from the wheel, a horse that draweth his master over the plain,and straineth at the car—
 
-</s><s n="check:23.520-23.521">howbeit quickly was he overtaking Antilochus, for the goodly mettle
+</s><s n="check:23.519-23.520">the tire thereof do the hindmost hairs of his tail touch,
+
+
+</s><s n="check:23.520-23.521"><milestone n="520" unit="line"/>for it runneth close behind, and but scant space is there between, as he courseth over the wide plain—
+
+</s><s n="check:23.522-23.523">even by so much was Menelaus behind peerless Antilochus,
+
+</s><s n="check:23.523-23.524"> though at the first he was behind far as a man hurleth the discus; 
+
+howbeit quickly was he overtaking Antilochus, 
+
+</s><s n="check:23.524-23.525">for the goodly mettle
 <milestone n="525" unit="line"/>of the mare of Agamemnon, fair-maned Aethe, waxed ever higher. 
 
 </s><s n="check:23.526-23.527">And if the course had been yet longer for the twain, then had he passed him by, neither left the issue in doubt. 
 
 </s><s n="check:23.528-23.529">But Meriones, valiant squire of Idomeneus, was a spear-cast behind glorious Menelaus,
-<milestone n="530" unit="line"/>for slowest of all were his fair-maned horses, and himself least skilled to drive a chariot in the race. 
+</s><s n="check:23.530-23.531"><milestone n="530" unit="line"/>for slowest of all were his fair-maned horses, and himself least skilled to drive a chariot in the race. 
 
-</s><s n="check:23.530-23.531">And the son of Admetus came in last, behind all the rest, dragging his fair chariot and driving his horses before him. 
+</s><s n="check:23.532-23.533">And the son of Admetus came in last, behind all the rest, dragging his fair chariot and driving his horses before him. 
 
-</s><s n="check:23.532-23.533">And at sight of him swift-footed, goodly Achilles had pity
+</s><s n="check:23.534-23.535">And at sight of him swift-footed, goodly Achilles had pity
 <milestone n="535" unit="line"/>and he stood up amid the Argives, and spake winged words:</s></p>
 <p><q>
 
@@ -21830,17 +21926,21 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <p>
 
 <s n="check:23.539">So spake he, and they all assented even as he bade.
-<milestone n="540" unit="line"/>
 
-</s><s n="check:23.540-23.542">And now would he have given him the mare —for the Achaeans assented thereto —but that Antilochus, son of great-souled Nestor, uprose and answered Achilles, son of Peleus, to claim his due:</s></p>
+
+</s><s n="check:23.540-23.542"><milestone n="540" unit="line"/>And now would he have given him the mare —for the Achaeans assented thereto —but that Antilochus, son of great-souled Nestor, uprose and answered Achilles, son of Peleus, to claim his due:</s></p>
 <p><q>
 
-<s n="check:23.543-23.544">Achilles, sore wroth shall I be with thee if thou fulfill this word, for thou art minded to rob me of my prize,
-<milestone n="545" unit="line"/>bethinking thee of this, how his chariot and his swift honses came to harm, and himself withal, good man though he be. 
+<s n="check:23.543-23.544">Achilles, sore wroth shall I be with thee if thou fulfill this word, 
 
-</s><s n="check:23.546-23.547">Nay, he should have made prayer to the immortals, then had he nowise come in last of all in the race. 
+</s><s n="check:23.544-23.546">for thou art minded to rob me of my prize,
+<milestone n="545" unit="line"/>bethinking thee of this, how his chariot and his swift horses came to harm, and himself withal, good man though he be. 
 
-</s><s n="check:23.547">But if so be thou pitiest him, and he be dear to thy heart, lo, in thy hut is great store of gold, and bronze is there
+</s><s n="check:23.546-23.547">Nay, he should have made prayer to the immortals, 
+
+</s><s n="check:23.547">then had he nowise come in last of all in the race. 
+
+</s><s n="check:23.548-23.550">But if so be thou pitiest him, and he be dear to thy heart, lo, in thy hut is great store of gold, and bronze is there
 <milestone n="550" unit="line"/>and sheep, aye, and handmaids too, and single-hooved horses. 
 
 </s><s n="check:23.551-23.552">Thereof do thou hereafter take and give him even a goodlier prize, or even now forthwith, that the Achaeans may applaud thee. 
@@ -21852,43 +21952,55 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.555-23.585">
                     <p>
-<milestone n="555" unit="line"/>
 
-<s n="check:23.555-23.556">So spake he , and swift-footed, goodly Achilles smiled, having joy in Antilochus, for that he was his dear comrade; 
+
+<s n="check:23.555-23.556"><milestone n="555" unit="line"/>So spake he , and swift-footed, goodly Achilles smiled, having joy in Antilochus, for that he was his dear comrade; 
 
 </s><s n="check:23.557">and he made answer, and spake to him winged words:</s></p>
 <p><q>
 
 <s n="check:23.558-23.559">Antilochus, if thou wilt have men give to Eumelus some other thing from out my house as a further prize, even this will I do.
-<milestone n="560" unit="line"/>
 
-</s><s n="check:23.560-23.562">I will give him the corselet that I took from Asteropaeus; 
 
-</s><s n="check:23.562">of bronze is it, and thereon is set in circles a casting of bright tin, and it shall be to him a thing of great worth.
+</s><s n="check:23.560-23.562"><milestone n="560" unit="line"/>I will give him the corselet that I took from Asteropaeus; 
+
+of bronze is it, and thereon is set in circles a casting of bright tin, 
+
+</s><s n="check:23.562">and it shall be to him a thing of great worth.
 </s></q></p>
 <p>
 
-<s n="check:23.563-23.564">He spake, and bade his dear comrade Automedon bring it from the hut and he went and brought it,
-<milestone n="565" unit="line"/>and placed it in Eumelus' hands and he received it gladly.</s></p>
+<s n="check:23.563-23.564">He spake, and bade his dear comrade Automedon bring it from the hut 
+
+</s><s n="check:23.564-23.565">and he went and brought it,
+</s><s n="check:23.565"><milestone n="565" unit="line"/>and placed it in Eumelus' hands 
+
+</s><s n="check:23.565">and he received it gladly.</s></p>
 <p>
 
-<s n="check:23.565">Then among them uprose also Menelaus, sore vexed at heart, furiously wroth at Antilochus; 
+<s n="check:23.566-23.567">Then among them uprose also Menelaus, sore vexed at heart, furiously wroth at Antilochus; 
 
-</s><s n="check:23.566-23.567">and a herald gave the staff into his hand, and proclaimed silence among the Argives; 
+</s><s n="check:23.567-23.569">and a herald gave the staff into his hand, and proclaimed silence among the Argives; 
 
-</s><s n="check:23.567-23.569">and thereafter spake among them the godlike man:
-<milestone n="570" unit="line"/></s></p>
+</s><s n="check:23.569">and thereafter spake among them the godlike man:
+</s></p>
 <p><q>
 
-<s n="check:23.570">Antilochus, thou that aforetime wast wise, what a thing hast thou wrought! 
+<s n="check:23.570"><milestone n="570" unit="line"/>Antilochus, thou that aforetime wast wise, what a thing hast thou wrought! 
 
 </s><s n="check:23.571-23.572">Thou hast put my skill to shame and hast thwarted my horses, thrusting to the front thine own that were worser far. 
 
 </s><s n="check:23.573-23.575">Come now, ye leaders and rulers of the Argives, judge ye aright betwixt us twain, neither have regard unto either,
-<milestone n="575" unit="line"/>lest in aftertime some one of the brazen-coated Achaeans shall say: ‘Over Antilochus did Menelaus prevail by lies, and depart with the mare, for that his horses were worser far, but himself the mightier in worth and in power.’ Nay, but I will myself declare the right, and I deem that
-<milestone n="580" unit="line"/>none other of the Danaans shall reproach me, for my judgement shall be just. 
+<milestone n="575" unit="line"/>lest in aftertime some one of the brazen-coated Achaeans shall say: 
 
-</s><s n="check:23.580">Antilochus, fostered of Zeus, up, come thou hither and, as is the appointed way, stand thou before thy horses and chariot, and take in hand the slender lash with which aforetimethou wast wont to drive, and laying thy hand on thy horses swear by him that holdeth and shaketh the earth
+</s><s n="check:23.576-23.578">‘Over Antilochus did Menelaus prevail by lies, and depart with the mare, for that his horses were worser far, but himself the mightier in worth and in power.’ 
+
+</s><s n="check:23.579-23.580">Nay, but I will myself declare the right, and I deem that
+<milestone n="580" unit="line"/>none other of the Danaans shall reproach me, 
+
+</s><s n="check:23.580">for my judgement shall be just. 
+
+</s><s n="check:23.581-23.585">Antilochus, fostered of Zeus, up, come thou hither and, as is the appointed way, stand thou before thy horses and chariot, and take in hand the slender lash with which aforetimethou wast wont to drive, and laying thy hand on thy horses swear by him that holdeth and shaketh the earth
 <milestone n="585" unit="line"/>that not of thine own will didst thou hinder my chariot by guile.
 </s></q></p>
                 </div>
@@ -21898,16 +22010,20 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.586">Then in turn wise Antilochus answered him:</s></p>
 <p><q>
 
-<s n="check:23.587">Bear with me, now, for far younger am I than thou, king Menelaus, and thou art the elder and the better man. 
+<s n="check:23.587">Bear with me, now, 
 
-</s><s n="check:23.587-23.588">Thou knowest of what sort are the transgressions of a man that he is young,
-<milestone n="590" unit="line"/>for hasty is he of purpose and but slender is his wit. 
+</s><s n="check:23.587-23.588">for far younger am I than thou, king Menelaus, and thou art the elder and the better man. 
 
-</s><s n="check:23.590">Wherefore let thy heart be patient; 
+</s><s n="check:23.589">Thou knowest of what sort are the transgressions of a man that he is young,
 
-</s><s n="check:23.591">the mare that I have won will I give thee of my self. 
 
-</s><s n="check:23.591-23.592">Aye, and if thou shouldst ask some other goodlier thing from out my house, forthwith were I fain to give it thee out of hand, rather than all my days be cast out of thy heart, thou nurtured of Zeus,
+</s><s n="check:23.590"><milestone n="590" unit="line"/>for hasty is he of purpose and but slender is his wit. 
+
+</s><s n="check:23.591">Wherefore let thy heart be patient; 
+
+</s><s n="check:23.591-23.592">the mare that I have won will I give thee of my self. 
+
+</s><s n="check:23.592-23.595">Aye, and if thou shouldst ask some other goodlier thing from out my house, forthwith were I fain to give it thee out of hand, rather than all my days be cast out of thy heart, thou nurtured of Zeus,
 <milestone n="595" unit="line"/>and be a sinner in the eyes of the gods.
 </s></q></p>
 <p>
@@ -21915,40 +22031,46 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.596-23.597">So spake the son of great-souled Nestor, and led up the mare, and gave her into the hands of Menelaus. 
 
 </s><s n="check:23.597-23.599">And his heart was gladdened even as the corn when with the dew upon the ears it waxeth ripe, what time the fields are bristling.
-<milestone n="600" unit="line"/>
 
-</s><s n="check:23.600">In such wise, Menelaus, was thy heart gladdened in thy breast. 
+
+</s><s n="check:23.600"><milestone n="600" unit="line"/>In such wise, Menelaus, was thy heart gladdened in thy breast. 
 
 </s><s n="check:23.601">Then he spake winged words unto Antilochos, saying:</s></p>
 <p><q>
 
-<s n="check:23.602-23.604">Antilochus, lo now, I of myself cease from mine anger against thee, since nowise flighty or light of wit wast thou of old, albeit now hath thy youth got the better of thy reason.
-<milestone n="605" unit="line"/>
+<s n="check:23.602-23.604">Antilochus, lo now, I of myself cease from mine anger against thee, since nowise flighty or light of wit wast thou of old, 
 
-</s><s n="check:23.605">Another time seek not to outwit thy betters. 
+</s><s n="check:23.604">albeit now hath thy youth got the better of thy reason.
 
-</s><s n="check:23.606">Verily not soon should another of the Achaeans have persuaded me, but thou hast suffered greatly and toiled greatly, thou and thy brave father and thy brother, for my sake; 
 
-</s><s n="check:23.607-23.608">wherefore I will hearken to thy prayer, aye,
+</s><s n="check:23.605"><milestone n="605" unit="line"/>Another time seek not to outwit thy betters. 
+
+</s><s n="check:23.606">Verily not soon should another of the Achaeans have persuaded me, 
+
+</s><s n="check:23.607-23.608">but thou hast suffered greatly and toiled greatly, thou and thy brave father and thy brother, for my sake; 
+
+</s><s n="check:23.609-23.611">wherefore I will hearken to thy prayer, aye,
 <milestone n="610" unit="line"/>and will give unto thee the mare, for all she is mine own, to the end that these too may know that my heart is never over-haughty neither unbending.
 </s></q></p>
 <p>
 
-<s n="check:23.612-23.613">He spake, and gave the mare unto Nosmon, the comrade of Antilochus, to lead away, and himself thereafter took the shining cauldron. 
+<s n="check:23.612-23.613">He spake, and gave the mare unto Nosmon, the comrade of Antilochus, to lead away, 
 
-</s><s n="check:23.613">And Meriones took up the two talents of gold in the fourth place,
+</s><s n="check:23.613">and himself thereafter took the shining cauldron. 
+
+</s><s n="check:23.614-23.615">And Meriones took up the two talents of gold in the fourth place,
 <milestone n="615" unit="line"/>even as he drave; 
 
 </s><s n="check:23.615-23.616">but the fifth prize was left unclaimed, even the two-handled urn. 
 
 </s><s n="check:23.616-23.617">Unto Nestor Achilles gave this, bearing it through the gathering of the Argives; 
 
-</s><s n="check:23.618-23.619">and he came to his side, and said
+and he came to his side, and said
 </s><q>
 
-<s n="check:23.619-23.620">Take this now, old sire, and let it be treasure for thee, a memorial of Patroclus' burying; 
+</s><s n="check:23.618-23.619">Take this now, old sire, and let it be treasure for thee, a memorial of Patroclus' burying; 
 
-</s><s n="check:nomatch">for nevermore shalt thou behold him
+<s n="check:23.619-23.620">for nevermore shalt thou behold him
 <milestone n="620" unit="line"/>among the Argives. 
 
 </s><s n="check:23.620-23.621">Lo, I give thee this prize unwon; 
@@ -21961,13 +22083,17 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.624-23.663">
                     <p>
 
-<s n="check:23.624">So saying he placed the urn in his arms, and Nestor received it gladly,
+<s n="check:23.624">So saying he placed the urn in his arms, 
+
+</s><s n="check:23.624-23.625">and Nestor received it gladly,
 <milestone n="625" unit="line"/>and spake, and addressed him with winged words :</s></p>
 <p><q>
 
-<s n="check:23.626">Aye, verily, my son, all this hast thou spoken aright, for my limbs, even my feet, are no more firm, O my friend, as of old, nor do my arms as of old dart out lightly from my shoulders on either side. 
+<s n="check:23.626">Aye, verily, my son, all this hast thou spoken aright, 
 
-</s><s n="check:23.627-23.628">Would that I were young, and my strength were firm
+</s><s n="check:23.627-23.628">for my limbs, even my feet, are no more firm, O my friend, as of old, nor do my arms as of old dart out lightly from my shoulders on either side. 
+
+</s><s n="check:23.629-23.631">Would that I were young, and my strength were firm
 <milestone n="630" unit="line"/>as on the day when the Epeians were burying lord Amarynceus at Buprasium, and his sons appointed prizes in honour of the king. 
 
 </s><s n="check:23.632-23.633">Then was there no man that proved himself my peer, neither of the Epeians nor of Pylians themselves nor of the great-souled Aetolians. 
@@ -21977,24 +22103,28 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 
 </s><s n="check:23.636-23.637">Iphiclus I outran in the foot-race, good man though he was; 
 
-</s><s n="check:23.638-23.640">and in casting the spear I outthrew Phyleus and Polydorus. 
+and in casting the spear I outthrew Phyleus and Polydorus. 
 
-</s><s n="check:nomatch">In the chariot race alone the twain sons of Actor outstripped me by force of numbers crowding their horses to the front, being exceeding jealous for victory,
+</s><s n="check:23.638-23.640">In the chariot race alone the twain sons of Actor outstripped me by force of numbers crowding their horses to the front, being exceeding jealous for victory,
 <milestone n="640" unit="line"/>for that the goodliest prize abode yet there in the lists. 
 
-</s><s n="check:23.641">Twin brethren were they— the one drave with sure hand, drave with sure hand, while the other plied the goad. 
+</s><s n="check:23.641">Twin brethren were they— 
 
-</s><s n="check:23.641-23.642">Thus was I on a time, but now let men that be younger face such-like tasks; 
+</s><s n="check:23.641-23.642">the one drave with sure hand, drave with sure hand, while the other plied the goad. 
 
-</s><s n="check:23.643">me it behoveth to yield to grievous old age,
+</s><s n="check:23.643">Thus was I on a time, 
+
+</s><s n="check:23.643-23.644">but now let men that be younger face such-like tasks; 
+
+</s><s n="check:23.644-23.645">me it behoveth to yield to grievous old age,
 <milestone n="645" unit="line"/>but then was I pre-eminent among warriors. 
 
 </s><s n="check:23.646">But come, for thy comrade too hold thou funeral rites with contests. 
 
 </s><s n="check:23.647-23.649">For this gift, I receive it with gladness, and my heart rejoiceth that thou rememberest me, thy friend, neither am I forgotten of thee, and the honour wherewith it beseemeth that I be honoured among the Achaeans.
-<milestone n="650" unit="line"/>
 
-</s><s n="check:23.650">And to thee may the gods in requital thereof grant grace to satisfy thy heart.
+
+</s><s n="check:23.650"><milestone n="650" unit="line"/>And to thee may the gods in requital thereof grant grace to satisfy thy heart.
 </s></q></p>
 <p>
 
@@ -22011,9 +22141,9 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <p><q>
 
 <s n="check:23.658-23.660">Son of Atreus, and ye other well-greaved Achaeans, for these prizes we invite warriors twain, the best there are, to lift up their hands and box amain.
-<milestone n="660" unit="line"/>
 
-</s><s n="check:23.660-23.662">Let him to whom Apollo shall grant strength to endure, and all the Achaeans have knowledge thereof, go his way to his hut leading the sturdy muIe; 
+
+</s><s n="check:23.660-23.662"><milestone n="660" unit="line"/>Let him to whom Apollo shall grant strength to endure, and all the Achaeans have knowledge thereof, go his way to his hut leading the sturdy muIe; 
 
 </s><s n="check:23.663">but he that is worsted shall bear as his prize the two-handled cup.
 </s></q></p>
@@ -22024,15 +22154,15 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.664-23.666">So spake he, and forthwith uprose a man valiant and tall,
 <milestone n="665" unit="line"/>well-skilled in boxing, even Epeius, son of Panopeus; 
 
-</s><s n="check:23.667">and he laid hold of the sturdy mule, and spake, saying:</s></p>
+and he laid hold of the sturdy mule, and spake, saying:</s></p>
 <p><q>
 
-<s n="check:23.668-23.669">Let him draw nigh, whoso is to bear as his prize the two-handled cup: 
+<s n="check:23.667">Let him draw nigh, whoso is to bear as his prize the two-handled cup: 
 
-</s><s n="check:nomatch">the mule I deem that none other of the Achaeans shall lead away, by worsting me with his fists, for I avow me to be the best man.
-<milestone n="670" unit="line"/>
+</s><s n="check:23.668-23.669">the mule I deem that none other of the Achaeans shall lead away, by worsting me with his fists, for I avow me to be the best man.
 
-</s><s n="check:23.670">Sufficeth it not that I fall short in battle? 
+
+</s><s n="check:23.670"><milestone n="670" unit="line"/>Sufficeth it not that I fall short in battle? 
 
 </s><s n="check:23.670-23.671">One may not, meseemeth, prove him a man of skill in every work. 
 
@@ -22048,31 +22178,44 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.676">So spake he, and they all became hushed in silence. 
 
 </s><s n="check:23.677-23.680">Euryalus alone uprose to face him, a godlike man, son of king Mecisteus, son of Talaus, who on a time had come to Thebes for the burial of Oedipus,
-<milestone n="680" unit="line"/>when he had fallen, and there had worsted all the sons of Cadmus. 
+<milestone n="680" unit="line"/>when he had fallen, 
 
-</s><s n="check:23.680">And Tydeus' son, famed for his spear, made Euryalus ready, heartening him with words, and much he wished for him victory. 
+</s><s n="check:23.680">and there had worsted all the sons of Cadmus. 
 
-</s><s n="check:23.681-23.682">A girdle first he cast about him, and thereafter gave him well-cut thongs of the hide of an ox of the field.
-<milestone n="685" unit="line"/>
+</s><s n="check:23.681-23.682">And Tydeus' son, famed for his spear, made Euryalus ready, heartening him with words, and much he wished for him victory. 
 
-</s><s n="check:23.685-23.687">So the twain, when they had girded themselves, stepped into the midst of the place of gathering, and lifting their mighty hands on high one against the other, fell to, and their hands clashed together in heavy blows. 
+</s><s n="check:23.683-23.684">A girdle first he cast about him, and thereafter gave him well-cut thongs of the hide of an ox of the field.
 
-</s><s n="check:23.688-23.689">Dread then was the grinding of their teeth, and the sweat flowed on every side from off their limbs But upon him goodly Epeius rushed
-<milestone n="690" unit="line"/>as he peered for an opening,and smote him on the cheek, nor after that, methinks, did he long stand upright, for even there did his glorious limbs sink beneath him. 
 
-</s><s n="check:23.690-23.691">And as when beneath the ripple of the North Wind a fish leapeth up on the tangle-strewn sand of a shallow, and then the black wave hideth it, even so leapt up Euryalus when he was smitten. 
+</s><s n="check:23.685-23.687"><milestone n="685" unit="line"/>So the twain, when they had girded themselves, stepped into the midst of the place of gathering, and lifting their mighty hands on high one against the other, fell to, and their hands clashed together in heavy blows. 
 
-</s><s n="check:23.691">But great-souled Epeius
-<milestone n="695" unit="line"/>took him in his hands and set him on his feet, and his dear comrades thronged about him and led him through the place of gathering with trailing feet, spitting out clotted blood and letting his head hang to one side; 
+</s><s n="check:23.688-23.689">Dread then was the grinding of their teeth, and the sweat flowed on every side from off their limbs. 
 
-</s><s n="check:23.695-23.697">and they brought him wandering in his wits and set him down in the midst of their company, and themselves went and fetched the two-handled cup.
+
+</s><s n="check:23.689-23.690">But upon him goodly Epeius rushed
+<milestone n="690" unit="line"/>as he peered for an opening,and smote him on the cheek, 
+
+</s><s n="check:23.690-23.691">nor after that, methinks, did he long stand upright, 
+
+</s><s n="check:23.691">for even there did his glorious limbs sink beneath him. 
+
+</s><s n="check:23.692-23.694">And as when beneath the ripple of the North Wind a fish leapeth up on the tangle-strewn sand of a shallow, and then the black wave hideth it, even so leapt up Euryalus when he was smitten. 
+
+</s><s n="check:23.694-23.695">But great-souled Epeius
+<milestone n="695" unit="line"/>took him in his hands and set him on his feet, 
+
+
+</s><s n="check:23.695-23.697">and his dear comrades thronged about him and led him through the place of gathering with trailing feet, spitting out clotted blood and letting his head hang to one side; 
+
+</s><s n="check:23.698-23.699">and they brought him wandering in his wits and set him down in the midst of their company, and themselves went and fetched the two-handled cup.
 </s></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.700-23.739">
                     <p>
-<milestone n="700" unit="line"/>
 
-<s n="check:23.700-23.703">Then the son of Peleus forthwith ordained in the sight of the Danaans other prizes for a third contest, even for toilsome wrestling — for him that should win, a great tripod to stand upon the fire, that the Achaeans prized amongst them at the worth of twelve oxen; 
+		      
+
+<s n="check:23.700-23.703"><milestone n="700" unit="line"/>Then the son of Peleus forthwith ordained in the sight of the Danaans other prizes for a third contest, even for toilsome wrestling — for him that should win, a great tripod to stand upon the fire, that the Achaeans prized amongst them at the worth of twelve oxen; 
 
 </s><s n="check:23.704-23.705">and for him that should be worsted he set in the midst a woman
 <milestone n="705" unit="line"/>of manifold skill in handiwork, and they prized her at the worth of four oxen. 
@@ -22085,9 +22228,9 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <p>
 
 <s n="check:23.708-23.709">So spake he, and thereat arose great Telamonian Aias, and up stood Odysseus of many wiles, he of guileful mind.
-<milestone n="710" unit="line"/>
 
-</s><s n="check:23.710-23.713">Then the twain, when they had girded themselves, stepped into the midst of the place of gathering, and laid hold each of the other in close grip with their mighty hands, even as the gable-rafters of a high house, which some famous craftsman joineth together, that he may have shelter from the might of the winds. 
+
+</s><s n="check:23.710-23.713"><milestone n="710" unit="line"/>Then the twain, when they had girded themselves, stepped into the midst of the place of gathering, and laid hold each of the other in close grip with their mighty hands, even as the gable-rafters of a high house, which some famous craftsman joineth together, that he may have shelter from the might of the winds. 
 
 </s><s n="check:23.714-23.715">And their backs creaked beneath the violent tugging of bold hands,
 <milestone n="715" unit="line"/>and the sweat flowed down in streams; 
@@ -22107,24 +22250,28 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.724">but the issue shall rest with Zeus.
 </s></q></p>
 <p>
-<milestone n="725" unit="line"/>
 
-<s n="check:23.725">He spake, and lifted him; 
+
+<s n="check:23.725"><milestone n="725" unit="line"/>He spake, and lifted him; 
 
 </s><s n="check:23.725">but Odysseus forgat not his guile. 
 
-</s><s n="check:23.726-23.727">He smote with a sure blow the hollow of Aias' knee from behind, and loosed his limbs, so that he was thrown backward, and Odysseus fell upon his chest; 
+</s><s n="check:23.726-23.727">He smote with a sure blow the hollow of Aias' knee from behind, and loosed his limbs, so that he was thrown backward, 
 
-</s><s n="check:23.727-23.728">and the people gazed thereon and were seized with wonder. 
+</s><s n="check:23.727-23.728">and Odysseus fell upon his chest; 
 
-</s><s n="check:23.728">Then in his turn the much-enduring goodly Odysseus essayed to lift,
-<milestone n="730" unit="line"/>and moved him a little from the ground, but lifted him not, howbeit he crooked his knee within that of Aias, and upon the ground the twain fell one hard by the other, and were befouled with dust. 
+</s><s n="check:23.728">and the people gazed thereon and were seized with wonder. 
 
-</s><s n="check:23.731-23.732">And now would they have sprung up again for the third time and have wrestled, but that Achilles himself uprose, and held them back:
-<milestone n="735" unit="line"/></s></p>
+</s><s n="check:23.729-23.731">Then in his turn the much-enduring goodly Odysseus essayed to lift,
+<milestone n="730" unit="line"/>and moved him a little from the ground, but lifted him not, howbeit he crooked his knee within that of Aias, 
+
+</s><s n="check:23.731-23.732">and upon the ground the twain fell one hard by the other, and were befouled with dust. 
+
+</s><s n="check:23.733-23.734">And now would they have sprung up again for the third time and have wrestled, but that Achilles himself uprose, and held them back:
+</s></p>
 <p><q>
 
-<s n="check:23.735">No longer strain ye now, neither be worn with pain. 
+<s n="check:23.735"><milestone n="735" unit="line"/>No longer strain ye now, neither be worn with pain. 
 
 </s><s n="check:23.736">Victory is with you both; 
 
@@ -22137,115 +22284,136 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.740-23.783">
                     <p>
-<milestone n="740" unit="line"/>
 
-<s n="check:23.740-23.741">Then the son of Peleus straightway set forth other prizes for fleetness of foot: 
 
-</s><s n="check:23.741-23.745">a mixingbowl of silver, richly wrought; 
+<s n="check:23.740-23.741"><milestone n="740" unit="line"/>Then the son of Peleus straightway set forth other prizes for fleetness of foot: 
 
-</s><s n="check:nomatch">six measures it held, and in beauty it was far the goodliest in all the earth, seeing that Sidonians, well skilled in deft handiwork, had wrought it cunningly, and men of the Phoenicians brought it over the murky deep, and landed it in harbour,
+</s><s n="check:23.741-23.745">a mixing-bowl of silver, richly wrought; 
+
+six measures it held, and in beauty it was far the goodliest in all the earth, seeing that Sidonians, well skilled in deft handiwork, had wrought it cunningly, and men of the Phoenicians brought it over the murky deep, and landed it in harbour,
 <milestone n="745" unit="line"/>and gave it as a gift to Thoas; 
 
 </s><s n="check:23.746-23.747">and as a ransom for Lycaon, son of Priam, Jason's son Euneos gave it to the warrior Patroclus. 
 
 </s><s n="check:23.748-23.749">This bowl did Achilles set forth as a prize in honourof his comrade, even for him whoso should prove fleetest in speed of foot.
-<milestone n="750" unit="line"/>
 
-</s><s n="check:23.750-23.751">For the second again he set an ox great and rich with fat; 
 
-</s><s n="check:23.752">and a half-talent in gold he appointed for the last. 
+</s><s n="check:23.750-23.751"><milestone n="750" unit="line"/>For the second again he set an ox great and rich with fat; 
 
-</s><s n="check:23.753">And he stood up, and spake among the Argives saying:</s></p>
+and a half-talent in gold he appointed for the last. 
+
+</s><s n="check:23.752">And he stood up, and spake among the Argives saying:</s></p>
 <p><q>
 
-<s n="check:23.754-23.756">Up now, ye that will make essay likewise in this contest.
+<s n="check:23.753">Up now, ye that will make essay likewise in this contest.
 </s></q></p>
 <p>
 
-<s n="check:nomatch">So spake he, and forthwith uprose swift Aias, son of Oïleus,
-<milestone n="755" unit="line"/>and Odysseus of many wiles, and after them Antilochus, Nestor's son, for he surpassed all the youths in swiftness of foot. 
+<s n="check:23.754-23.756">So spake he, and forthwith uprose swift Aias, son of Oïleus,
+<milestone n="755" unit="line"/>and Odysseus of many wiles, and after them Antilochus, Nestor's son, 
 
-</s><s n="check:23.756">Then took they their places in a row, and Achilles showed them the goal, and a course was marked out for them from the turning-point.<note resp="Loeb" anchored="true">551.1</note> Then speedily the son of Oïleus forged to the front, and close after him sped goodly Odysseus;
-<milestone n="760" unit="line"/>close as is the weaving-rod to the breast of a fair-girdled woman, when she deftly draweth it in her hands, pulling the spool past the warp, and holdeth the rod nigh to her breast;<note resp="Loeb" anchored="true">551.2</note> even so close behind ran Odysseus,
-<milestone n="765" unit="line"/>and his feet trod in the footsteps of Aias or ever the dust had settled therein, and down upon his head beat the breath of goodly Odysseus, as he ran ever swiftly on; 
+</s><s n="check:23.756">for he surpassed all the youths in swiftness of foot. 
 
-</s><s n="check:23.765-23.766">and all the Achaeans shouted to further him as he struggled for victory, and called to him as he strained to the utmost. 
+</s><s n="check:23.757">Then took they their places in a row, 
 
-</s><s n="check:23.766-23.767">But when now they were running the last part of the course, straightway Odysseus made prayer in his heart to flashing-eyed Athene:
-<milestone n="770" unit="line"/></s></p>
+</s><s n="check:23.757">and Achilles showed them the goal, 
+
+</s><s n="check:23.758">and a course was marked out for them from the turning-point.<note resp="Loeb" anchored="true">551.1</note> 
+
+</s><s n="check:23.758-23.759">Then speedily the son of Oïleus forged to the front, 
+
+</s><s n="check:23.759-23.763">and close after him sped goodly Odysseus;
+<milestone n="760" unit="line"/>close as is the weaving-rod to the breast of a fair-girdled woman, when she deftly draweth it in her hands, pulling the spool past the warp, and holdeth the rod nigh to her breast;<note resp="Loeb" anchored="true">551.2</note> 
+
+</s><s n="check:23.763-23.764">even so close behind ran Odysseus,
+and his feet trod in the footsteps of Aias or ever the dust had settled therein, 
+
+
+</s><s n="check:23.765-23.766"><milestone n="765" unit="line"/>and down upon his head beat the breath of goodly Odysseus, as he ran ever swiftly on; 
+
+</s><s n="check:23.766-23.767">and all the Achaeans shouted to further him as he struggled for victory, and called to him as he strained to the utmost. 
+
+</s><s n="check:23.768-23.769">But when now they were running the last part of the course, straightway Odysseus made prayer in his heart to flashing-eyed Athene:
+</s></p>
 <p><q>
 
-<s n="check:23.770">Hear me, goddess, and come a goodly helper to my feet.
+<s n="check:23.770"><milestone n="770" unit="line"/>Hear me, goddess, and come a goodly helper to my feet.
 </s></q></p>
 <p>
 
-<s n="check:23.771">So spake he in prayer, and Pallas Athene heard him, and made his limbs light, his feet and his hands above. 
+<s n="check:23.771">So spake he in prayer, 
 
-</s><s n="check:23.771-23.772">But when they were now about to dart forth to win the prize, then Aias slipped as he ran—for Athene hampered him—
+</s><s n="check:23.771-23.772">and Pallas Athene heard him, and made his limbs light, his feet and his hands above. 
+
+</s><s n="check:23.773-23.776">But when they were now about to dart forth to win the prize, then Aias slipped as he ran—for Athene hampered him—
 <milestone n="775" unit="line"/>where was strewn the filth from the slaying of the loud bellowing bulls that swift-footed Achilles had slain in honour of Patroclus; 
 
 </s><s n="check:23.777">and with the filth of the bulls were his mouth and nostrils filled. 
 
 </s><s n="check:23.778-23.779">So then much-enduring, goodly Odysseus took up the bowl, seeing he came in the first, and glorious Aias took the ox.
-<milestone n="780" unit="line"/>
 
-</s><s n="check:23.780-23.781">And he stood holding in his hands the horn of the ox of the field, spewing forth the filth; 
 
-</s><s n="check:23.782-23.783">and he spake among the Argives:</s></p>
+</s><s n="check:23.780-23.781"><milestone n="780" unit="line"/>And he stood holding in his hands the horn of the ox of the field, spewing forth the filth; 
+
+and he spake among the Argives:</s></p>
 <p><q>
 
-<s n="check:23.784">Out upon it, lo, the goddess hampered me in my running, she that standeth ever by Odysseus' side like a mother, and helpeth him.
+<s n="check:23.782-23.783">Out upon it, lo, the goddess hampered me in my running, she that standeth ever by Odysseus' side like a mother, and helpeth him.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.784-23.825">
                     <p>
 
-<s n="check:nomatch">So spake he, but they all laughed merrily at him.
-<milestone n="785" unit="line"/>
+<s n="check:23.784">So spake he, but they all laughed merrily at him.
 
-</s><s n="check:23.785-23.786">Then Antilochus bare away the last prize, smiling the while, and spake among the Argives, saying:</s></p>
+
+</s><s n="check:23.785-23.786"><milestone n="785" unit="line"/>Then Antilochus bare away the last prize, smiling the while, and spake among the Argives, saying:</s></p>
 <p><q>
 
 <s n="check:23.787-23.788">Among you all that know it well, will I declare, my friends, that even to this day the immortals shew honour to older men. 
 
 </s><s n="check:23.789-23.790">For Aias is but a little older than I,
-<milestone n="790" unit="line"/>whereas Odysseus is of an earlier generation and of earlier men—a green old age is his, men say—yet hard were he for any other Achaean to contend with in running, save only for Achilles.
+<milestone n="790" unit="line"/>whereas Odysseus is of an earlier generation and of earlier men—
+
+</s><s n="check:23.791">a green old age is his, men say—
+
+</s><s n="check:23.791-23.792">yet hard were he for any other Achaean to contend with in running, save only for Achilles.
 </s></q></p>
 <p>
 
-<s n="check:23.791">So spake he,and gave glory to the son of Peleus, swift of foot. 
+<s n="check:23.793">So spake he,and gave glory to the son of Peleus, swift of foot. 
 
-</s><s n="check:23.791-23.792">And Achilles made answer, and spake to him, saying:
-<milestone n="795" unit="line"/></s></p>
+</s><s n="check:23.794">And Achilles made answer, and spake to him, saying:
+</s></p>
 <p><q>
 
-<s n="check:23.795-23.796">Antilochus, not in vain shall thy word of praise be spoken; 
+<s n="check:23.795-23.796"><milestone n="795" unit="line"/>Antilochus, not in vain shall thy word of praise be spoken; 
 
-</s><s n="check:23.797">nay, I will add to thy prize a half-talent of gold.
+nay, I will add to thy prize a half-talent of gold.
 </s></q></p>
 <p>
 
-<s n="check:23.798-23.800">So saying, he set it in his hands, and Antilochus received it gladly. 
+<s n="check:23.797">So saying, he set it in his hands, and Antilochus received it gladly. 
 
-</s><s n="check:nomatch">But the son of Peleus brought and set in the place of gathering a far-shadowing spear, and therewith a shield and helmet,
+</s><s n="check:23.798-23.800">But the son of Peleus brought and set in the place of gathering a far-shadowing spear, and therewith a shield and helmet,
 <milestone n="800" unit="line"/>the battlegear of Sarpedon, that Patroclus stripped from him; 
 
 </s><s n="check:23.801">and he stood up, and spake among the Argives, saying:</s></p>
 <p><q>
 
 <s n="check:23.802-23.804">To win these prizes invite we warriors twain, the best there are, to clothe them in their armour and take bronze that cleaveth the flesh, and so make trial each of the other before the host.
-<milestone n="805" unit="line"/>
 
-</s><s n="check:23.805-23.808">Whoso of the twain shall first reach the other's fair flesh, and touch the inward parts through armour and dark blood, to him will I give this silver-studded sword—a goodly Thracian sword which I took from Asteropaeus; 
+
+</s><s n="check:23.805-23.808"><milestone n="805" unit="line"/>Whoso of the twain shall first reach the other's fair flesh, and touch the inward parts through armour and dark blood, to him will I give this silver-studded sword—a goodly Thracian sword which I took from Asteropaeus; 
 
 </s><s n="check:23.809">and these arms let the twain bear away to hold in common;
-<milestone n="810" unit="line"/>and a goodly banquet shall we set before them in our huts.
+</s><s n="check:23.810"><milestone n="810" unit="line"/>and a goodly banquet shall we set before them in our huts.
 </s></q></p>
 <p>
 
-<s n="check:23.810">So spake he, and thereat arose great Telamonian Aias, and up rose the son of Tydeus, stalwart Diomedes. 
+<s n="check:23.811-23.812">So spake he, and thereat arose great Telamonian Aias, and up rose the son of Tydeus, stalwart Diomedes. 
 
-</s><s n="check:23.811-23.812">So when they had armed them on either side of the throng, into the midst strode the twain, eager for battle,
+</s><s n="check:23.813-23.815">So when they had armed them on either side of the throng, into the midst strode the twain, eager for battle,
 <milestone n="815" unit="line"/>glaring terribly; 
 
 </s><s n="check:23.815">and amazement held all the Achaeans. 
@@ -22253,9 +22421,9 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.816-23.817">But when they were come near as they advance done against the other, thrice they set upon each other, and thrice they clashed together. 
 
 </s><s n="check:23.818-23.819">Then Aias thrust upon the shield, that was well-balanced upon every side, but reached not the flesh, for the corselet within kept off the spear.
-<milestone n="820" unit="line"/>
 
-</s><s n="check:23.820-23.821">But Tydeus' son over the great shield sought ever to reach the neck with the point of his shining spear. 
+
+</s><s n="check:23.820-23.821"><milestone n="820" unit="line"/>But Tydeus' son over the great shield sought ever to reach the neck with the point of his shining spear. 
 
 </s><s n="check:23.822-23.823">Then verily the Achaeans, seized with fear for Aias, bade them cease and take up equal prizes. 
 
@@ -22269,9 +22437,9 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 <s n="check:23.826-23.827">Then the son of Peleus set forth a mass of rough-cast iron, which of old the mighty strength of Eëtion was wont to hurl; 
 
 </s><s n="check:23.828-23.829">but him had swift-footed goodly Achilles slain, and bare this away on his ships with his other possessions.
-<milestone n="830" unit="line"/>
 
-</s><s n="check:23.830">And he stood up, and spake among the Argives, saying :</s></p>
+
+</s><s n="check:23.830"><milestone n="830" unit="line"/>And he stood up, and spake among the Argives, saying :</s></p>
 <p><q>
 
 <s n="check:23.831">Up now, ye that will make essay likewise in this contest. 
@@ -22281,13 +22449,13 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.834-23.835">for not through lack of iron will his shepherd or ploughman
 <milestone n="835" unit="line"/>fare to the city; 
 
-</s><s n="check:23.836-23.838">nay, this will supply them.
+nay, this will supply them.
 </s></q></p>
 <p>
 
-<s n="check:23.839-23.840">So spake he, and thereat arose Polypoetes, staunch in fight, and the mighty strength of godlike Leonteus, and Aias, son of Telamon, and goodly Epeius. 
+<s n="check:23.836-23.838">So spake he, and thereat arose Polypoetes, staunch in fight, and the mighty strength of godlike Leonteus, and Aias, son of Telamon, and goodly Epeius. 
 
-</s><s n="check:nomatch">Then they took their places in order, and goodly Epeius grasped the mass,
+</s><s n="check:23.839-23.840">Then they took their places in order, and goodly Epeius grasped the mass,
 <milestone n="840" unit="line"/>and whirled and flung it; 
 
 </s><s n="check:23.840">and all the Achaeans laughed aloud thereat. 
@@ -22302,48 +22470,58 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.847">and the folk shouted aloud. 
 
 </s><s n="check:23.848-23.849">And the comrades of strong Polypoetes rose up and bare to the hollow ships the prize of the king.
-<milestone n="850" unit="line"/>
 
-</s><s n="check:23.850-23.855">Then for the archers he set forth as a prize dark iron—ten double axes laid he down, and ten single; 
 
-</s><s n="check:nomatch">and he set up the mast of a dark-prowed ship far off in the sands, and with a slender cord made fast thereto by the foot a timorous dove, and bade shoot thereat.
-<milestone n="855" unit="line"/></s></p>
+</s><s n="check:23.850-23.855"><milestone n="850" unit="line"/>Then for the archers he set forth as a prize dark iron—ten double axes laid he down, and ten single; 
+
+and he set up the mast of a dark-prowed ship far off in the sands, and with a slender cord made fast thereto by the foot a timorous dove, and bade shoot thereat.
+</s></p>
 <p><q>
 
-<s n="check:23.855-23.856">Whoso shall hit the timorous dove let him take up all the double axes and bear them home, and whoso shall hit the cord, albeit he miss the bird: 
+<s n="check:23.855-23.856"><milestone n="855" unit="line"/>Whoso shall hit the timorous dove let him take up all the double axes and bear them home, and whoso shall hit the cord, albeit he miss the bird: 
 
 </s><s n="check:23.857-23.858">lo, his is the worser shot; 
 
-</s><s n="check:23.859-23.860">he shall bear as his prize the single axes.
+rhe shall bear as his prize the single axes.
 </s></q></p>
                 </div>
-                <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.859-24.0">
+                <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:23.859-23.897">
                     <p>
 
-<s n="check:nomatch">So spake he, and there arose the might of the prince Teucer,
+<s n="check:23.859-23.860">So spake he, and there arose the might of the prince Teucer,
 <milestone n="860" unit="line"/>and Meriones the valiant squire of Idomeneus. 
 
 </s><s n="check:23.861-23.862">Then took they the lots and shook them in a helmet of bronze, and Teucer drew by lot the first place. 
 
 </s><s n="check:23.862-23.864">Forthwith he let fly an arrow with might, howbeit he vowed not that he would sacrifice to the king a glorious hecatomb of firstling lambs.
-<milestone n="865" unit="line"/>
 
-</s><s n="check:23.865">So he missed the bird, for Apollo grudged him that, but hit the cord beside its foot wherewith the bird was tied, and clean away the bitter arrow cut the cord. 
 
-</s><s n="check:23.865">Then the dove darted skyward, and the cord hung loose toward earth; 
+</s><s n="check:23.865"><milestone n="865" unit="line"/>So he missed the bird, for Apollo grudged him that, 
 
-</s><s n="check:23.866">and the Achaeans shouted aloud.
-<milestone n="870" unit="line"/>
 
-</s><s n="check:23.870-23.871">But Meriones speedily snatched the bow from Teucer's hand—an arrow had he long been holding while Teucer aimed—and vowed forthwith that he would sacrifice to Apollo that smiteth afar a glorious hecatomb of firstling lambs. 
+</s><s n="check:23.866">but hit the cord beside its foot wherewith the bird was tied, 
 
-</s><s n="check:23.871">High up beneath the cloud he spied the timorous dove;
-<milestone n="875" unit="line"/>there as she circled round he struck her in the midst beneath the wing, and clean through passed the shaft, and fell again and fixed itself in the ground before the foot of Meriones; 
 
-</s><s n="check:23.875-23.876">but the dove, lighting on the mast of the dark-prowed ship, hung down her head, and her thick plumage drooped.
-<milestone n="880" unit="line"/>
+</s><s n="check:23.867">and clean away the bitter arrow cut the cord. 
 
-</s><s n="check:23.880-23.881">Swiftly the life fled from her limbs, and she fell far from the mast; 
+</s><s n="check:23.868-23.869">Then the dove darted skyward, and the cord hung loose toward earth; 
+
+and the Achaeans shouted aloud.
+
+
+</s><s n="check:23.870-23.871"><milestone n="870" unit="line"/>But Meriones speedily snatched the bow from Teucer's hand—
+
+</s><s n="check:23.871"an arrow had he long been holding while Teucer aimed—
+
+</s><s n="check:23.872-23.873">and vowed forthwith that he would sacrifice to Apollo that smiteth afar a glorious hecatomb of firstling lambs. 
+
+</s><s n="check:23.874">High up beneath the cloud he spied the timorous dove;
+</s><s n="check:23.875-23.876"><milestone n="875" unit="line"/>there as she circled round he struck her in the midst beneath the wing, and clean through passed the shaft, and fell again and fixed itself in the ground before the foot of Meriones; 
+
+</s><s n="check:23.877-23.879">but the dove, lighting on the mast of the dark-prowed ship, hung down her head, and her thick plumage drooped.
+
+
+</s><s n="check:23.880-23.881"><milestone n="880" unit="line"/>Swiftly the life fled from her limbs, and she fell far from the mast; 
 
 </s><s n="check:23.881">and the people gazed thereon and were seized with wonder. 
 
@@ -22358,23 +22536,29 @@ nor shalt thou be any profit to him, Hector, seeing thou art dead, neither he to
 </s><s n="check:23.887-23.888">Up rose the son of Atreus, wide-ruling Agamemnon and Meriones, the valiant squire of Idomeneus. 
 
 </s><s n="check:23.889">But among them spake swift-footed, goodly Achilles:
-<milestone n="890" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:23.890">Son of Atreus, we know how far thou excellest all, and how far thou art the best in might and in the casting of the spear; 
+<s n="check:23.890"><milestone n="890" unit="line"/>Son of Atreus, 
+</s><s n="check:23.890-23.891">we know how far thou excellest all, and how far thou art the best in might and in the casting of the spear; 
 
-</s><s n="check:23.890-23.891">nay, take thou this prize and go thy way to the hollow ships; 
+</s><s n="check:23.892-23.894">nay, take thou this prize and go thy way to the hollow ships; 
 
-</s><s n="check:23.892-23.894">but the spear let us give to the warrior Meriones, if thy heart consenteth thereto: 
+</s><s n="check:23.892-23.894">but the spear let us give to the warrior Meriones, 
+
+if thy heart consenteth thereto: 
 
 </s><s n="check:23.894">so at least would I have it:
 </s></q></p>
 <p>
-<milestone n="895" unit="line"/>
 
-<s n="check:23.895">So spake he, and the king of men, Agamemnon, failed not to hearken. 
 
-</s><s n="check:23.896">Then to Meriones he gave the spear of bronze, but the warrior handed to the herald Talthybius the beauteous prize.</s></p>
+<s n="check:23.895"><milestone n="895" unit="line"/>So spake he, and the king of men, Agamemnon, failed not to hearken. 
+
+</s><s n="check:23.896">Then to Meriones he gave the spear of bronze, 
+
+
+</s><s n="check:23.896-23.897">but the warrior handed to the herald Talthybius the beauteous prize.</s></p>
                 </div>
             </div>
             <div type="textpart" subtype="book" n="24">
