@@ -22566,11 +22566,11 @@ if thy heart consenteth thereto:
                     <p>
 <milestone n="1" unit="line"/>
 
-<s n="check:nomatch">Then was the gathering broken up, and the folk scattered, each man to go to his own ship. 
+<s n="check:24.1-24.2">Then was the gathering broken up, and the folk scattered, each man to go to his own ship. 
 
-</s><s n="check:nomatch">The rest bethought them of supper and of sweet sleep, to take their fill thereof; 
+</s><s n="check:24.2-24.3">The rest bethought them of supper and of sweet sleep, to take their fill thereof; 
 
-</s><s n="check:nomatch">but Achilles wept, ever remembering his dear comrade, neither might sleep,
+</s><s n="check:24.3-24.8">but Achilles wept, ever remembering his dear comrade, neither might sleep,
 <milestone n="5" unit="line"/>that mastereth all, lay hold of him, but he turned him ever to this side or to that, yearning for the man-hood and valorous might of Patroclus, thinking on all he had wrought with him and all the woes he had borne, passing though wars of men and the grievous waves. 
 
 </s><s n="check:24.9-24.11">Thinking thereon he would shed big tears,
@@ -22578,24 +22578,26 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.11-24.12">and then again he would rise upon his feet and roam distraught along the shore of the sea. 
 
-</s><s n="check:24.12-24.13">Neither would he fail to mark the Dawn, as she shone over the sea and the sea-beaches, but would yoke beneath the car his swift horses,
+</s><s n="check:24.12-24.13">Neither would he fail to mark the Dawn, as she shone over the sea and the sea-beaches, 
+
+</s><s n="check:24.14-24.18">but would yoke beneath the car his swift horses,
 <milestone n="15" unit="line"/>and bind Hector behind the chariot to drag him withal; 
 
-</s><s n="check:24.18-24.20">and when he had haled him thrice about the barrow of the dead son of Menoetius, he would rest again in his hut, but would leave Hector outstretched on his face in the dust. 
+and when he had haled him thrice about the barrow of the dead son of Menoetius, he would rest again in his hut, but would leave Hector outstretched on his face in the dust. 
 
-</s><s n="check:nomatch">Howbeit Apollo kept all defacement from his flesh, pitying the warrior
-<milestone n="20" unit="line"/>even in death, and with the golden aegis he covered him wholly, that Achilles might not tear his body as he dragged him.
+</s><s n="check:24.18-24.20">Howbeit Apollo kept all defacement from his flesh, pitying the warrior
+</s><s n="check:24.20-24.21"><milestone n="20" unit="line"/>even in death, and with the golden aegis he covered him wholly, that Achilles might not tear his body as he dragged him.
 </s></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.22-24.63">
                     <p>
 
-<s n="check:24.20-24.21">Thus Achilles in his fury did foul despite unto goodly Hector; 
+<s n="check:24.22">Thus Achilles in his fury did foul despite unto goodly Hector; 
 
-</s><s n="check:24.22">but the blessed gods had pity on him as they beheld him, and bestirred the keen-sighted Argeiphontes to steal away the corpse.
-<milestone n="25" unit="line"/>
+</s><s n="check:24.23-24.24">but the blessed gods had pity on him as they beheld him, and bestirred the keen-sighted Argeiphontes to steal away the corpse.
 
-</s><s n="check:24.25-24.30">And the thing was pleasing unto all the rest, yet not unto Hera or Poseidon or the flashing-eyed maiden, but they continued even as when at the first sacred Ilios became hateful in their eyes and Priam and his folk, by reason of the sin of Alexander, for that he put reproach upon those goddesses when they came to his steading,
+
+</s><s n="check:24.25-24.30"><milestone n="25" unit="line"/>And the thing was pleasing unto all the rest, yet not unto Hera or Poseidon or the flashing-eyed maiden, but they continued even as when at the first sacred Ilios became hateful in their eyes and Priam and his folk, by reason of the sin of Alexander, for that he put reproach upon those goddesses when they came to his steading,
 <milestone n="30" unit="line"/>and gave precedence to her who furthered his fatal lustfulness. 
 
 </s><s n="check:24.31-24.32">But when at length the twelfth morn thereafter was come, then among the immortals spake Phoebus Apollo:</s></p>
@@ -22604,16 +22606,16 @@ if thy heart consenteth thereto:
 <s n="check:24.33">Cruel are ye, O ye gods, and workers of bane. 
 
 </s><s n="check:24.33-24.34">Hath Hector then never burned for you thighs of bulls and goats without blemish?
-<milestone n="35" unit="line"/>
 
-</s><s n="check:24.35-24.38">Him now have ye not the heart to save, a corpse though he be, for his wife to look upon and his mother and his child, and his father Priam and his people, who would forthwith burn him in the fire and pay him funeral rites. 
+
+</s><s n="check:24.35-24.38"><milestone n="35" unit="line"/>Him now have ye not the heart to save, a corpse though he be, for his wife to look upon and his mother and his child, and his father Priam and his people, who would forthwith burn him in the fire and pay him funeral rites. 
 
 </s><s n="check:24.39-24.43">Nay, it is the ruthless Achilles, O ye gods, that ye are fain to succour,
 <milestone n="40" unit="line"/>him whose mind is nowise right, neither the purpose in his breast one that may be bent; 
 
-</s><s n="check:24.44-24.45">but his heart is set on cruelty, even as a lion that at the bidding of his great might and lordly spirit goeth forth against the flocks of men to win him a feast; 
+but his heart is set on cruelty, even as a lion that at the bidding of his great might and lordly spirit goeth forth against the flocks of men to win him a feast; 
 
-</s><s n="check:nomatch">even so hath Achilles lost all pity, neither is shame in his heart,
+</s><s n="check:24.44-24.45">even so hath Achilles lost all pity, neither is shame in his heart,
 <milestone n="45" unit="line"/>the which harmeth men greatly and profiteth them withal. 
 
 </s><s n="check:24.46-24.47">Lo, it may be that a man hath lost one dearer even than was this—a brother, that the selfsame mother bare, or haply a son; 
@@ -22621,9 +22623,9 @@ if thy heart consenteth thereto:
 </s><s n="check:24.48">yet verily when he hath wept and wailed for him he maketh an end; 
 
 </s><s n="check:24.49">for an enduring soul have the Fates given unto men.
-<milestone n="50" unit="line"/>
 
-</s><s n="check:24.50-24.52">But this man, when he hath reft goodly Hector of life, bindeth him behind his chariot and draggeth him about the barrow of his dear comrade; 
+
+</s><s n="check:24.50-24.52"><milestone n="50" unit="line"/>But this man, when he hath reft goodly Hector of life, bindeth him behind his chariot and draggeth him about the barrow of his dear comrade; 
 
 </s><s n="check:24.52">in sooth neither honour nor profit shall he have therefrom. 
 
@@ -22632,27 +22634,31 @@ if thy heart consenteth thereto:
 </s><s n="check:24.54">for lo, in his fury he doth foul despite unto senseless clay.
 </s></q></p>
 <p>
-<milestone n="55" unit="line"/>
 
-<s n="check:24.55">Then stirred to anger spake to him white-armed Hera:</s></p>
+
+<s n="check:24.55"><milestone n="55" unit="line"/>Then stirred to anger spake to him white-armed Hera:</s></p>
 <p><q>
 
 <s n="check:24.56-24.57">Even this might be as thou sayest, Lord of the silver bow, if indeed ye gods will vouchsafe like honour to Achilles and to Hector. 
 
-</s><s n="check:24.58">Hector is but mortal and was suckled at a woman's breast, but Achilles is the child of a goddess that I mine own self
+</s><s n="check:24.58">Hector is but mortal and was suckled at a woman's breast, 
+
+<s n="check:24.59-24.61">but Achilles is the child of a goddess that I mine own self
 <milestone n="60" unit="line"/>fostered and reared, and gave to a warrior to be his wife, even to Peleus, who was heartily dear to the immortals. 
 
-</s><s n="check:24.62">And all of you, O ye gods, came to her marriage, and among them thyself too didst sit at the feast, thy lyre in thy hand, O thou friend of evil-doers, faithless ever.
+</s><s n="check:24.62">And all of you, O ye gods, came to her marriage, 
+
+</s><s n="check:24.62-24.63">and among them thyself too didst sit at the feast, thy lyre in thy hand, O thou friend of evil-doers, faithless ever.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.64-24.92">
                     <p>
 
-<s n="check:24.62-24.63">Then Zeus, the cloud-gatherer, answered her, and said:
-<milestone n="65" unit="line"/></s></p>
+<s n="check:24.64">Then Zeus, the cloud-gatherer, answered her, and said:
+</s></p>
 <p><q>
 
-<s n="check:24.65">Hera, be not thou utterly wroth against the gods; 
+<s n="check:24.65"><milestone n="65" unit="line"/>Hera, be not thou utterly wroth against the gods; 
 
 </s><s n="check:24.66">the honour of these twain shall not be as one; 
 
@@ -22661,11 +22667,13 @@ if thy heart consenteth thereto:
 </s><s n="check:24.68">So was he to me at least, for nowise failed he of acceptable gifts. 
 
 </s><s n="check:24.69-24.70">For never was my altar in lack of the equal feast,
-<milestone n="70" unit="line"/>the drink-offiering and the savour of burnt-offering, even the worship that is our due. 
+<milestone n="70" unit="line"/>the drink-offiering and the savour of burnt-offering, 
 
-</s><s n="check:24.70">Howbeit of the stealing away of bold Hector will we naught; 
+</s><s n="check:24.70">even the worship that is our due. 
 
-</s><s n="check:24.71-24.72">it may not be but that Achilles would be ware thereof; 
+</s><s n="check:24.71-24.72">Howbeit of the stealing away of bold Hector will we naught; 
+
+it may not be but that Achilles would be ware thereof; 
 
 </s><s n="check:24.72-24.73">for verily his mother cometh ever to his side alike by night and day. 
 
@@ -22675,27 +22683,29 @@ if thy heart consenteth thereto:
 <p>
 
 <s n="check:24.77-24.79">So spake he, and storm-footed Iris hasted to bear his message, and midway between Samos and rugged Imbros she leapt into the dark sea, and the waters sounded loud above her.
-<milestone n="80" unit="line"/>
 
-</s><s n="check:24.80-24.82">Down sped she to the depths hike a plummet of lead, the which, set upon the horn of an ox of the field, goeth down bearing death to the ravenous fishes. 
 
-</s><s n="check:24.83-24.84">And she found Thetis in the hollow cave, and round about her other goddesses of the sea sat in a throng, and she in their midst
+</s><s n="check:24.80-24.82"><milestone n="80" unit="line"/>Down sped she to the depths hike a plummet of lead, the which, set upon the horn of an ox of the field, goeth down bearing death to the ravenous fishes. 
+
+</s><s n="check:24.83-24.84">And she found Thetis in the hollow cave, and round about her other goddesses of the sea sat in a throng, 
+
+</s><s n="check:24.84-24.86">and she in their midst
 <milestone n="85" unit="line"/>was wailing for the fate of her peerless son, who to her sorrow was to perish in deep-soiled Troy, far from his native land. 
 
 </s><s n="check:24.87">And swift-footed Iris drew near, and spake to her:</s></p>
 <p><q>
 
-<s n="check:24.88">Rouse thee, 0 Thetis; 
+<s n="check:24.88">Rouse thee, O Thetis; 
 
 </s><s n="check:24.88">Zeus, whose counsels are everlasting, calleth thee.
 </s></q></p>
 <p>
 
 <s n="check:24.89">Then spake in answer Thetis, the silver-footed goddess:
-<milestone n="90" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:24.90">Wherefore summoneth me that mighty god? 
+<s n="check:24.90"><milestone n="90" unit="line"/>Wherefore summoneth me that mighty god? 
 
 </s><s n="check:24.90-24.91">I have shame to mingle in the company of the immortals, seeing I have measurehess griefs at heart. 
 
@@ -22706,16 +22716,16 @@ if thy heart consenteth thereto:
                     <p>
 
 <s n="check:24.93-24.94">So saying, the fair goddess took a dark-hued veil, than which was no raiment more black,
-<milestone n="95" unit="line"/>and set out to go, and before her wind-footed swift Iris led the way; 
+</s><s n="check:24.95-24.96"><milestone n="95" unit="line"/>and set out to go, and before her wind-footed swift Iris led the way; 
 
-</s><s n="check:24.95-24.96">and about them the surge of the sea parted asunder. 
+</s><s n="check:24.96">and about them the surge of the sea parted asunder. 
 
-</s><s n="check:24.96">And when they had stepped forth upon the beach they sped unto heaven; 
+</s><s n="check:24.97-24.99">And when they had stepped forth upon the beach they sped unto heaven; 
 
-</s><s n="check:24.97-24.99">and they found the son of Cronos, whose voice is borne afar, and around him sat gathered together all the other blessed gods that are for ever.
-<milestone n="100" unit="line"/>
+and they found the son of Cronos, whose voice is borne afar, and around him sat gathered together all the other blessed gods that are for ever.
 
-</s><s n="check:24.100">Then she sate her down beside father Zeus, and Athene gave place. 
+
+</s><s n="check:24.100"><milestone n="100" unit="line"/>Then she sate her down beside father Zeus, and Athene gave place. 
 
 </s><s n="check:24.101-24.102">And Hera set in her hand a fair golden cup, and spake words of cheer.; 
 
@@ -22724,8 +22734,10 @@ if thy heart consenteth thereto:
 </s><s n="check:24.103">Then among them the father of men and gods was first to speak:</s></p>
 <p><q>
 
-<s n="check:24.104-24.105">Thou art come to Olympus, 0, goddess Thetis,
-<milestone n="105" unit="line"/>for all thy sorrow, though thou hast comfortless grief at heart; 
+<s n="check:24.104-24.105">Thou art come to Olympus, O goddess Thetis,
+for all thy sorrow, 
+
+<milestone n="105" unit="line"/> though thou hast comfortless grief at heart; 
 
 </s><s n="check:24.105">I know it of myself; 
 
@@ -22734,9 +22746,9 @@ if thy heart consenteth thereto:
 </s><s n="check:24.107-24.108">For nine days' space hath strife arisen among the immortals as touching the corpse of Hector and Achilles, sacker of cities. 
 
 </s><s n="check:24.109">They are for bestirring the keen-sighted Argeiphontes to steal the body away,
-<milestone n="110" unit="line"/>yet herein do I accord honour unto Achilles; 
+</s><s n="check:24.110-24.111"><milestone n="110" unit="line"/>yet herein do I accord honour unto Achilles; 
 
-</s><s n="check:24.110-24.111">for I would fain keep in time to come thy worship and thy love. 
+for I would fain keep in time to come thy worship and thy love. 
 
 </s><s n="check:24.112">Haste thee with all speed to the host and declare unto thy son my bidding. 
 
@@ -22748,17 +22760,17 @@ if thy heart consenteth thereto:
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.120-24.158">
                     <p>
-<milestone n="120" unit="line"/>
 
-<s n="check:24.120-24.122">So spake he, and the goddess, silver-footed Thetis, failed not to hearken, but went darting down from the peaks of Olympus, and came to the hut of her son. 
+
+<s n="check:24.120-24.122"><milestone n="120" unit="line"/>So spake he, and the goddess, silver-footed Thetis, failed not to hearken, but went darting down from the peaks of Olympus, and came to the hut of her son. 
 
 </s><s n="check:24.122-24.123">There she found him groaning ceaselessly, and round about him his dear comrades with busy haste were making ready their early meal,
-<milestone n="125" unit="line"/>and in the hut a ram, great and shaggy, lay slaughtered for them. 
+</s><s n="check:24.125"><milestone n="125" unit="line"/>and in the hut a ram, great and shaggy, lay slaughtered for them. 
 
-</s><s n="check:24.125">Then she, his queenly mother, sate her down close by his side and stroked him with her hand, and spake, and called him by name:</s></p>
+</s><s n="check:24.126-24.127">Then she, his queenly mother, sate her down close by his side and stroked him with her hand, and spake, and called him by name:</s></p>
 <p><q>
 
-<s n="check:24.126-24.127">My child, how long wilt thou devour thine heart with weeping and sorrowing, and wilt take no thought of food,
+<s n="check:24.128-24.130">My child, how long wilt thou devour thine heart with weeping and sorrowing, and wilt take no thought of food,
 <milestone n="130" unit="line"/>neither of the couch? 
 
 </s><s n="check:24.130-24.131">Good were it for thee even to have dalliance in a woman's embrace. 
@@ -22784,40 +22796,42 @@ if thy heart consenteth thereto:
 </s></q></p>
 <p>
 
-<s n="check:24.141-24.142">On this wise amid the gathering of the ships mother and son spake many winged words one to the other, but the son of Cronos sent forth Iris to sacred Ilios:</s></p>
-<p><q>
+<s n="check:24.141-24.142">On this wise amid the gathering of the ships mother and son spake many winged words one to the other, 
 
-<s n="check:24.143">Up, go, swift Iris; 
+</s><s n="check:24.143">but the son of Cronos sent forth Iris to sacred Ilios:</s></p>
+<p><q><s n="check:24.144-24.148">
 
-</s><s n="check:24.144-24.148">leave thou the abode of Olympus
+Up, go, swift Iris; 
+
+leave thou the abode of Olympus
 <milestone n="145" unit="line"/>and bear tidings within Ilios unto great-hearted Priam that he go to the ships of the Achaeans to ransom his dear son, and that he bear gifts unto Achilles which shall make glad his heart; 
 
 </s><s n="check:24.149-24.151">alone let him go, neither let any man beside of the Trojans go with him. 
 
-</s><s n="check:nomatch">A herald may attend him, an elder man,
+A herald may attend him, an elder man,
 <milestone n="150" unit="line"/>to guide the mules and the light-running waggon, and to carry back to the city the dead, even him that Achilles slew. 
 
 </s><s n="check:24.152">Let not death be in his thoughts. 
 
-</s><s n="check:24.153-24.154">neither any fear; 
+neither any fear; 
 
-</s><s n="check:nomatch">such a guide will we give him, even Argeiphontes, who shall lead him, until in his leading he bring him nigh to Achilles.
-<milestone n="155" unit="line"/>
+</s><s n="check:24.153-24.154">such a guide will we give him, even Argeiphontes, who shall lead him, until in his leading he bring him nigh to Achilles.
 
-</s><s n="check:24.155-24.156">And when he shall have led him into the hut, neither shall Achilles himself slay him nor suffer any other to slay; 
+
+</s><s n="check:24.155-24.156"><milestone n="155" unit="line"/>And when he shall have led him into the hut, neither shall Achilles himself slay him nor suffer any other to slay; 
 
 </s><s n="check:24.157-24.158">for not without wisdom is he, neither without purpose, nor yet hardened in sin; 
 
-</s><s n="check:24.159">nay, with all kindliness will he spare a suppliant man.
+nay, with all kindliness will he spare a suppliant man.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.159-24.199">
                     <p>
 
-<s n="check:nomatch">So spake he, and storm-footed Iris hasted to bear his message.
-<milestone n="160" unit="line"/>
+<s n="check:24.159">So spake he, and storm-footed Iris hasted to bear his message.
 
-</s><s n="check:24.160">She came to the house of Priam, and found therein clamour and wailing. 
+
+</s><s n="check:24.160"><milestone n="160" unit="line"/>She came to the house of Priam, and found therein clamour and wailing. 
 
 </s><s n="check:24.161-24.163">His sons sat about their father within the court sullying their garments with their tears, and in their midst was the old king close-wrapped in his mantle; 
 
@@ -22835,13 +22849,13 @@ if thy heart consenteth thereto:
 </s><s n="check:24.171">Not to forbode any evil to thee am I come hither, but with good intent. 
 
 </s><s n="check:24.172-24.173">I am a messenger to thee from Zeus, who far away though he be, hath exceeding care for thee and pity.
-<milestone n="175" unit="line"/>
 
-</s><s n="check:24.175-24.177">The Olympian biddeth thee ransom goodly Hector, and bear gifts to Achilles which shall make glad his heart; 
+
+</s><s n="check:24.175-24.177"><milestone n="175" unit="line"/>The Olympian biddeth thee ransom goodly Hector, and bear gifts to Achilles which shall make glad his heart; 
 
 </s><s n="check:24.178-24.180">alone do thou go, neither let any man beside of the Trojans go with thee. 
 
-</s><s n="check:nomatch">A herald may attend thee, an elder man, to guide the mules and the light-running waggon,
+A herald may attend thee, an elder man, to guide the mules and the light-running waggon,
 <milestone n="180" unit="line"/>and to carry back to the city the dead, even him that Achilles slew. 
 
 </s><s n="check:24.181">Let not death be in thy thoughts, neither any fear; 
@@ -22853,13 +22867,13 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.186-24.187">for not without wisdom is he, neither without purpose, nor yet hardened in sin; 
 
-</s><s n="check:24.188-24.190">nay, with all kindliness will he spare a suppliant man.
+nay, with all kindliness will he spare a suppliant man.
 </s></q></p>
 <p>
 
-<s n="check:nomatch">When she had thus spoken swift-footed Iris departed; 
+<s n="check:24.188-24.190">When she had thus spoken swift-footed Iris departed; 
 
-</s><s n="check:nomatch">but the king bade his sons
+but the king bade his sons
 <milestone n="190" unit="line"/>make ready the running mule waggon, and bind the wicker box thereon. 
 
 </s><s n="check:24.191-24.192">And himself he went down to the vaulted treasure-chamber, fragrant of cedar wood and high of roof, that held jewels full many: 
@@ -22877,9 +22891,9 @@ if thy heart consenteth thereto:
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.200-24.227">
                     <p>
-<milestone n="200" unit="line"/>
 
-<s n="check:24.200">So spake he, but his wife uttered a shrill cry, and spake in answer:</s></p>
+
+<s n="check:24.200"><milestone n="200" unit="line"/>So spake he, but his wife uttered a shrill cry, and spake in answer:</s></p>
 <p><q>
 
 <s n="check:24.201-24.202">Ah, woe is me, whither now is gone the wisdom for the which of old thou wast famed among stranger folk and among them thou rulest? 
@@ -22907,9 +22921,9 @@ if thy heart consenteth thereto:
 <s n="check:24.218-24.219">Seek not to stay me that am fain to go, neither be thyself a bird of ill-boding in my halls; 
 
 </s><s n="check:24.219">thou shalt not persuade me.
-<milestone n="220" unit="line"/>
 
-</s><s n="check:24.220-24.222">For if any other of the men that are upon the face of the earth had bidden me this, whether of seers that divine from sacrifice or of priests, a false thing might we deem it, and turn away therefrom the more; 
+
+</s><s n="check:24.220-24.222"><milestone n="220" unit="line"/>For if any other of the men that are upon the face of the earth had bidden me this, whether of seers that divine from sacrifice or of priests, a false thing might we deem it, and turn away therefrom the more; 
 
 </s><s n="check:24.223-24.224">but now—for myself I heard the voice of the goddess and looked upon her face—I will go forth, neither shall her word be vain. 
 
@@ -22922,7 +22936,10 @@ if thy heart consenteth thereto:
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.228-24.264">
                     <p>
 
-<s n="check:24.228">He spake, and opened the goodly lids of chests, wherefrom he took twelve beauteous robes
+<s n="check:24.228">He spake, and opened the goodly lids of chests, 
+
+
+</s><s n="check:24.229-24.231">wherefrom he took twelve beauteous robes
 <milestone n="230" unit="line"/>and twelve cloaks of single fold, and as many coverlets, and as many white mantles, and therewithal as many tunics. 
 
 </s><s n="check:24.232-24.235">And of gold he weighed out and bare forth talents, ten in all, and two gleaming tripods, and four cauldrons, and a cup exceeding fair, that the men of Thrace had given him
@@ -22938,14 +22955,18 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.241-24.242">Count ye it not enough that Zeus, son of Cronos, hath brought this sorrow upon me, that I should lose my son the best of all? 
 
-</s><s n="check:24.242">Nay, but yourselves too shall know it, for easier shall ye be, now he is dead, for the Achaeans to slay.
-<milestone n="245" unit="line"/>
+</s><s n="check:24.242">Nay, but yourselves too shall know it, 
 
-</s><s n="check:24.247">But for me, or ever mine eyes behold the city sacked and laid waste, may I go down into the house of Hades.
+</s><s n="check:24.243-24.244">for easier shall ye be, now he is dead, for the Achaeans to slay.
+
+
+</s><s n="check:24.244-24.246">But for me, <milestone n="245" unit="line"/>or ever mine eyes behold the city sacked and laid waste, may I go down into the house of Hades.
 </s></q></p>
 <p>
 
-<s n="check:24.247-24.248">He spake, and plying his staff went among the men, and they went forth from before the old man in his haste. 
+<s n="check:24.247">He spake, and plying his staff went among the men, 
+
+</s><s n="check:24.247-24.248">and they went forth from before the old man in his haste. 
 
 </s><s n="check:24.248-24.251">Then called he aloud to his sons, chiding Helenus and Paris and goodly Agathon
 <milestone n="250" unit="line"/>and Pammon and Antiphonus and Polites, good at the war-cry, and Deiphobus and Hippothous and lordly Dius. 
@@ -22956,40 +22977,44 @@ if thy heart consenteth thereto:
 <s n="check:24.253">Haste ye, base children that are my shame; 
 
 </s><s n="check:24.253-24.254">would that ye all together in Hector's stead had been slain at the swift ships!
-<milestone n="255" unit="line"/>Woe is me, that am all unblest, seeing that I begat sons the best in the broad land of Troy, yet of them I avow that not one is left, not godlike Nestor, not Troilus the warrior charioteer, not Hector that was a god among men, neither seemed he as the son of a mortal man, but of a god:
-<milestone n="260" unit="line"/>all them hath Ares slain, yet these things of shame are all left me, false of tongue, nimble of foot, peerless at beating the floor in the dance, robbers of lambs and kids from your own folk. 
+</s><s n="check:24.255-24.259"><milestone n="255" unit="line"/>Woe is me, that am all unblest, seeing that I begat sons the best in the broad land of Troy, yet of them I avow that not one is left, not godlike Nestor, not Troilus the warrior charioteer, not Hector that was a god among men, neither seemed he as the son of a mortal man, but of a god:
 
-</s><s n="check:24.260-24.262">Will ye not make me ready a waggon, and that with speed, and lay all these things therein, that we may get forward on our way?
+</s><s n="check:24.260-24.262"><milestone n="260" unit="line"/>all them hath Ares slain, yet these things of shame are all left me, false of tongue, nimble of foot, peerless at beating the floor in the dance, robbers of lambs and kids from your own folk. 
+
+</s><s n="check:24.263-24.264">Will ye not make me ready a waggon, and that with speed, and lay all these things therein, that we may get forward on our way?
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.265-24.298">
                     <p>
-<milestone n="265" unit="line"/>
 
-<s n="check:24.265-24.269">So spake he, and they, seized with fear of the rebuke of their father, brought forth the light-running waggon drawn of mules, fair and newly-wrought, and bound upon it the wicker box; 
 
-</s><s n="check:nomatch">and down from its peg they took the mule-yoke, a box-wood yoke with a knob thereon, well-fitted with guiding-rings;
-<milestone n="270" unit="line"/>and they brought forth the yoke-band of nine cubits, and therewithal the yoke. 
+<s n="check:24.265-24.269"><milestone n="265" unit="line"/>So spake he, and they, seized with fear of the rebuke of their father, brought forth the light-running waggon drawn of mules, fair and newly-wrought, and bound upon it the wicker box; 
 
-</s><s n="check:24.270">The yoke they set with care upon the polished pole at the upturned end thereof, and cast the ring upon the thole; 
+and down from its peg they took the mule-yoke, a box-wood yoke with a knob thereon, well-fitted with guiding-rings;
+</s><s n="check:24.270"><milestone n="270" unit="line"/>and they brought forth the yoke-band of nine cubits, and therewithal the yoke. 
 
-</s><s n="check:24.271-24.274">and they bound it fast to the knob with three turns to left and right, and thereafter made it fast to the post, and bent the hook thereunder.
-<milestone n="275" unit="line"/>
+</s><s n="check:24.271-24.274">The yoke they set with care upon the polished pole at the upturned end thereof, and cast the ring upon the thole; 
 
-</s><s n="check:24.275-24.278">Then they brought forth from the treasure-chamber and heaped upon the polished waggon the countless ransom for Hector's head, and yoked the strong-hooved mules that toil in harness, which on a time the Mysians had given to Priam, a splendid gift. 
+and they bound it fast to the knob with three turns to left and right, and thereafter made it fast to the post, and bent the hook thereunder.
+
+
+</s><s n="check:24.275-24.278"><milestone n="275" unit="line"/>Then they brought forth from the treasure-chamber and heaped upon the polished waggon the countless ransom for Hector's head, and yoked the strong-hooved mules that toil in harness, which on a time the Mysians had given to Priam, a splendid gift. 
 
 </s><s n="check:24.279-24.280">And for Priam they led beneath the yoke horses that the old king
 <milestone n="280" unit="line"/>kept for his own and reared at the polished stall.</s></p>
 <p>
 
-<s n="check:24.281-24.282">Thus were the twain letting yoke their cars, in the high palace, even the herald and Priam, with thoughts of wisdom in their hearts, when nigh to them came Hecabe, her heart sore stricken, bearing in her right hand honey-hearted wine in a cup of gold, that they might make libation ere they went.
-<milestone n="285" unit="line"/>
+<s n="check:24.281-24.282">Thus were the twain letting yoke their cars, in the high palace, even the herald and Priam, with thoughts of wisdom in their hearts, 
+
+</s><s n="check:24.283-24.285">when nigh to them came Hecabe, her heart sore stricken, bearing in her right hand honey-hearted wine <milestone n="285" unit="line"/> in a cup of gold, that they might make libation ere they went.
+
 
 </s><s n="check:24.286">And she stood before the horses, and spake, saying:</s></p>
 <p><q>
 
 <s n="check:24.287-24.289">Take now, pour libation to father Zeus, and pray that thou mayest come back home from the midst of the foemen, seeing thy heart sendeth thee forth to the ships, albeit I am fain thou shouldst not go,
-<milestone n="290" unit="line"/>Thereafter make thou prayer unto the son of Cronos, lord of the dark chouds, the god of Ida, that looketh down upon all the land of Troy, and ask of him a bird of omen, even the swift messenger that to himself is dearest of birds and is mightiest in strength; 
+
+</s><s n="check:24.290-24.295"><milestone n="290" unit="line"/>Thereafter make thou prayer unto the son of Cronos, lord of the dark chouds, the god of Ida, that looketh down upon all the land of Troy, and ask of him a bird of omen, even the swift messenger that to himself is dearest of birds and is mightiest in strength; 
 
 </s><s n="check:24.290-24.295">let him appear upon thy right hand, to the end that marking the sign with thine own eyes,
 <milestone n="295" unit="line"/>thou mayest have trust therein, and go thy way to the ships of the Danaans of fleet steeds. 
@@ -23001,10 +23026,10 @@ if thy heart consenteth thereto:
                     <p>
 
 <s n="check:24.299">Then in answer spake unto her godlike Priam:
-<milestone n="300" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:24.300">Wife, I will not disregard this hest of thine; 
+<s n="check:24.300"><milestone n="300" unit="line"/>Wife, I will not disregard this hest of thine; 
 
 </s><s n="check:24.301">for good is it to lift up hands to Zeus, if so be he will have pity.
 </s></q></p>
@@ -23013,26 +23038,28 @@ if thy heart consenteth thereto:
 <s n="check:24.302-24.303">Thus spake the old man, and bade the housewife that attended pour over his hands water undefiled; 
 
 </s><s n="check:24.303-24.304">and the handmaid drew nigh bearing in her hands alike basin and ewer.
-<milestone n="305" unit="line"/>
 
-</s><s n="check:24.305">Then, when he had washed his hands, he took the cup from his wife and then made prayer, standing in the midst of thie court, and poured forth the wine, with a look toward heaven, and spake ahoud, saying:</s></p>
+
+</s><s n="check:24.305"><milestone n="305" unit="line"/>Then, when he had washed his hands, he took the cup from his wife 
+
+</s><s n="check:24.306-24.307">and then made prayer, standing in the midst of thie court, and poured forth the wine, with a look toward heaven, and spake ahoud, saying:</s></p>
 <p><q>
 
-<s n="check:24.306-24.307">Father Zeus, that rulest from Ida, most glorious, most great, grant that I may come unto Achilles' hut as one to be welcomed and to be pitied;
+<s n="check:24.308-24.313">Father Zeus, that rulest from Ida, most glorious, most great, grant that I may come unto Achilles' hut as one to be welcomed and to be pitied;
 <milestone n="310" unit="line"/>and send a bird of omen, even the swift messenger that to thyself is dearest of birds and is mightiest in strength; 
 
-</s><s n="check:24.314-24.316">let him appear upon my right hand, to the end that, marking the sign with mine own eyes, I may have trust therein, and go my way to the ships of the Danaans of fleet steeds.
+let him appear upon my right hand, to the end that, marking the sign with mine own eyes, I may have trust therein, and go my way to the ships of the Danaans of fleet steeds.
 </s></q></p>
 <p>
 
-<s n="check:nomatch">So spake he in prayer, and Zeus the Counsellor heard him.
+<s n="check:24.314-24.316">So spake he in prayer, and Zeus the Counsellor heard him.
 <milestone n="315" unit="line"/>
 
 </s><s n="check:24.317-24.319">Forthwith he sent an eagle, surest of omen among winged birds, the dusky eagle, even the hunter, that men call also the black eagle. 
 
 </s><s n="check:24.319-24.320">Wide as is the door of some rich man's high-roofed treasure-chamber, a door well fitted with bolts, even so wide spread his wings to this side and to that; 
 
-</s><s n="check:nomatch">and he appeared to them on the right,
+and he appeared to them on the right,
 <milestone n="320" unit="line"/>darting across the city. 
 
 </s><s n="check:24.320-24.321">And at sight of him they waxed glad, and the hearts in the breasts of all were cheered.</s></p>
@@ -23041,11 +23068,13 @@ if thy heart consenteth thereto:
 <s n="check:24.322-24.323">Then the old man made haste and stepped upon his car, and drave forth from the gateway and the echoing portico. 
 
 </s><s n="check:24.324-24.325">In front the mules drew the four-wheeled waggon,
-<milestone n="325" unit="line"/>driven of wise-hearted Idaeus, and behind came the horses that the old man ever plying the lash drave swiftly through the city; 
+<milestone n="325" unit="line"/>driven of wise-hearted Idaeus, 
 
-</s><s n="check:24.325-24.327">and his kinsfolk all followed wailing aloud as for one faring to his death. 
+</s><s n="check:24.325-24.327">and behind came the horses that the old man ever plying the lash drave swiftly through the city; 
 
-</s><s n="check:24.327-24.328">But when they had gone down from the city and were come to the plain,
+</s><s n="check:24.327-24.328">and his kinsfolk all followed wailing aloud as for one faring to his death. 
+
+</s><s n="check:24.329-24.332">But when they had gone down from the city and were come to the plain,
 <milestone n="330" unit="line"/>back then to Ilios turned his sons and his daughters' husbands; 
 
 </s><s n="check:24.332-24.333">howbeit the twain were not unseen of Zeus, whose voice is borne afar, as they came forth upon the plain, but as he saw the old man he had pity, and forthwith spake to Hermes, his dear son:</s></p>
@@ -23059,14 +23088,14 @@ if thy heart consenteth thereto:
                     <p>
 
 <s n="check:24.339">So spake he, and the messenger, Argeiphontes, failed not to hearken.
-<milestone n="340" unit="line"/>
 
-</s><s n="check:24.340-24.342">Straightway he bound beneath his feet his beautiful sandals, immortal, golden, which were wont to bear him over the waters of the sea and over the boundless land swift as the blasts of the wind. 
+
+</s><s n="check:24.340-24.342"><milestone n="340" unit="line"/>Straightway he bound beneath his feet his beautiful sandals, immortal, golden, which were wont to bear him over the waters of the sea and over the boundless land swift as the blasts of the wind. 
 
 </s><s n="check:24.343-24.344">And he took the wand wherewith he lulls to sleep the eyes of whom he will, while others again he awakens even out of slumber.
-<milestone n="345" unit="line"/>
 
-</s><s n="check:24.345">With this in his hand the strong Argeiphontes flew, and quickly came to Troy-land and the Hellespont. 
+
+</s><s n="check:24.345"><milestone n="345" unit="line"/>With this in his hand the strong Argeiphontes flew, and quickly came to Troy-land and the Hellespont. 
 
 </s><s n="check:24.346-24.348">Then went he his way in the likeness of a young man that is a prince, with the first down upon his lip, in whom the charm of youth is fairest.</s></p>
 <p>
@@ -23080,7 +23109,7 @@ if thy heart consenteth thereto:
 <p><q>
 
 <s n="check:24.354">Bethink thee, son of Dardanus,
-<milestone n="355" unit="line"/>here is somewhat that calls for prudent thought. 
+</s><s n="check:24.355"><milestone n="355" unit="line"/>here is somewhat that calls for prudent thought. 
 
 </s><s n="check:24.355">I see a man, and anon methinks shall we be cut to pieces. 
 
@@ -23102,9 +23131,9 @@ if thy heart consenteth thereto:
 </s><s n="check:24.366-24.367">If one of them should espy thee bearing such store of treasure through the swift bhack night, what were thy counsel then? 
 
 </s><s n="check:24.368-24.369">Thou art not young thyself, and thy companion here is old, that ye should defend you against a man, when one waxes wroth without a cause.
-<milestone n="370" unit="line"/>
 
-</s><s n="check:24.370-24.371">But as for me, I will nowise harm thee, nay, I will even defend thee against another; 
+
+</s><s n="check:24.370-24.371"><milestone n="370" unit="line"/>But as for me, I will nowise harm thee, nay, I will even defend thee against another; 
 
 </s><s n="check:24.371">for like unto my dear father art thou in mine eyes.
 </s></q></p>
@@ -23120,17 +23149,17 @@ if thy heart consenteth thereto:
 </s><s n="check:24.374-24.377">Howbeit still hath some god stretched out his hand even over me,
 <milestone n="375" unit="line"/>seeing he hath sent a way-farer such as thou to meet me, a bringer of blessing, so wondrous in form and comeliness, and withal thou art wise of heart; 
 
-</s><s n="check:24.378">blessed parents are they from whom thou art sprung.
+blessed parents are they from whom thou art sprung.
 </s></q></p>
 <p>
 
-<s n="check:24.379">Then again the messenger, Argeiphontes, spake to him:</s></p>
+<s n="check:24.378">Then again the messenger, Argeiphontes, spake to him:</s></p>
 <p><q>
 
-<s n="check:nomatch">Yea verily, old sire, all this hast thou spoken according to right.
-<milestone n="380" unit="line"/>
+<s n="check:24.379">Yea verily, old sire, all this hast thou spoken according to right.
 
-</s><s n="check:24.380-24.384">But come, tell me this, and declare it truly, whether thou art bearing forth these many treasures and goodly unto some foreign folk, where they may abide for thee in safety, or whether by now ye are all forsaking holy Ilios in fear; 
+
+</s><s n="check:24.380-24.384"><milestone n="380" unit="line"/>But come, tell me this, and declare it truly, whether thou art bearing forth these many treasures and goodly unto some foreign folk, where they may abide for thee in safety, or whether by now ye are all forsaking holy Ilios in fear; 
 
 </s><s n="check:24.384-24.385">so great a warrior, the noblest of all, hath perished,
 <milestone n="385" unit="line"/>even thy son; 
@@ -23142,29 +23171,32 @@ if thy heart consenteth thereto:
 <s n="check:24.386">And the old man, godlike Priam, answered him:</s></p>
 <p><q>
 
-<s n="check:24.387">Who art thou, noble youth, and from what parents art thou sprung, seeing thou speakest thus fitly of the fate of my hapless son?
+<s n="check:24.387">Who art thou, noble youth, and from what parents art thou sprung, 
+
+</s><s n="check:24.388">seeing thou speakest thus fitly of the fate of my hapless son?
 </s></q></p>
 <p>
 
-<s n="check:24.388">Then again the messenger, Argeiphontes, spake to him:
-<milestone n="390" unit="line"/></s></p>
+<s n="check:24.389">Then again the messenger, Argeiphontes, spake to him:
+</s></p>
 <p><q>
 
-<s n="check:24.390">Thou wouldest make trial of me, old sire, in asking me of goodly Hector. 
+<s n="check:24.390"><milestone n="390" unit="line"/>Thou wouldest make trial of me, old sire, in asking me of goodly Hector. 
 
 </s><s n="check:24.391-24.393">Him have mine eyes full often seen in battle, where men win glory, and when after driving the Argives to the ships he would slay them in havoc with the sharp bronze; 
 
 </s><s n="check:24.394">and we stood there and marvelled,
-<milestone n="395" unit="line"/>for Achilles would not suffer us to fight, being filled with wrath against the son of Atreus. 
+
+</s><s n="check:24.394-24.395">for Achilles would not suffer <milestone n="395" unit="line"/> us to fight, being filled with wrath against the son of Atreus. 
 
 </s><s n="check:24.396">His squire am I, and the selfsame well-wrought ship brought us hither. 
 
 </s><s n="check:24.397">Of the Myrmidons am I one, and my father is Polyctor. 
 
 </s><s n="check:24.398-24.399">Rich in substance is he, and an old man even as thou, and six sons hath he, and myself the seventh.
-<milestone n="400" unit="line"/>
 
-</s><s n="check:24.400">From these by the casting of lots was I chosen to fare hitherward. 
+
+</s><s n="check:24.400"><milestone n="400" unit="line"/>From these by the casting of lots was I chosen to fare hitherward. 
 
 </s><s n="check:24.401">And now am I come to the plain from the ships; 
 
@@ -23175,17 +23207,17 @@ if thy heart consenteth thereto:
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.405-24.439">
                     <p>
-<milestone n="405" unit="line"/>
 
-<s n="check:24.405">And the old man, godlike Priam, answered him:</s></p>
+
+<s n="check:24.405"><milestone n="405" unit="line"/>And the old man, godlike Priam, answered him:</s></p>
 <p><q>
 
 <s n="check:24.406-24.409">If thou art indeed a squire of Peleus' son Achilles, come now, tell me all the truth, whether my son is even yet by the ships or whether by now Achilles hath hewn him limb from limb and cast him before his dogs.
 </s></q></p>
 <p>
-<milestone n="410" unit="line"/>
 
-<s n="check:24.410">Then again the messenger Argeiphontes spake to him:</s></p>
+
+<s n="check:24.410"><milestone n="410" unit="line"/>Then again the messenger Argeiphontes spake to him:</s></p>
 <p><q>
 
 <s n="check:24.411-24.413">Old sire, not yet have dogs and birds devoured him, but still he lieth there beside the ship of Achilles amid the huts as he was at the first; 
@@ -23198,23 +23230,25 @@ if thy heart consenteth thereto:
 </s><s n="check:24.418-24.420">thou wouldst thyself marvel, wert thou to come and see how dewy-fresh he lieth, and is washen clean of blood,
 <milestone n="420" unit="line"/>neither hath anywhere pollution; 
 
-</s><s n="check:24.420-24.421">and all the wounds are closed wherewith he was stricken, for many there were that drave the bronze into his flesh. 
+</s><s n="check:24.420-24.421">and all the wounds are closed wherewith he was stricken, 
 
-</s><s n="check:24.421">In such wise do the blessed gods care for thy son, a corpse though he be, seeing he was dear unto their hearts.
+</s><s n="check:24.421">for many there were that drave the bronze into his flesh. 
+
+</s><s n="check:24.422-24.423">In such wise do the blessed gods care for thy son, a corpse though he be, seeing he was dear unto their hearts.
 </s></q></p>
 <p>
 
-<s n="check:24.422-24.423">So spake he, and the old man waxed glad, and answered, saying:
-<milestone n="425" unit="line"/></s></p>
+<s n="check:24.424">So spake he, and the old man waxed glad, and answered, saying:
+</s></p>
 <p><q>
 
-<s n="check:24.425-24.427">My child, a good thing is it in sooth e'en to give to the immortals such gifts as be due; 
+<s n="check:24.425-24.427"><milestone n="425" unit="line"/>My child, a good thing is it in sooth e'en to give to the immortals such gifts as be due; 
 
-</s><s n="check:24.428">for never did my son—as sure as ever such a one there was—forget in our halls the gods that hold Olympus; 
+for never did my son—as sure as ever such a one there was—forget in our halls the gods that hold Olympus; 
 
-</s><s n="check:24.429-24.431">wherefore they have remembered this for him, even though he be in the doom of death. 
+</s><s n="check:24.428">wherefore they have remembered this for him, even though he be in the doom of death. 
 
-</s><s n="check:nomatch">But come, take thou from me this fair goblet,
+</s><s n="check:24.429-24.431">But come, take thou from me this fair goblet,
 <milestone n="430" unit="line"/>and guard me myself, and guide me with the speeding of the gods, until I be come unto the hut of the son of Peleus.
 </s></q></p>
 <p>
@@ -23224,10 +23258,10 @@ if thy heart consenteth thereto:
 
 <s n="check:24.433-24.434">Thou dost make trial of me, old sire, that am younger than thou; 
 
-</s><s n="check:nomatch">but thou shalt not prevail upon me, seeing thou biddest me take gifts from thee while Achilles knoweth naught thereof.
-<milestone n="435" unit="line"/>
+but thou shalt not prevail upon me, seeing thou biddest me take gifts from thee while Achilles knoweth naught thereof.
 
-</s><s n="check:24.435-24.436">Of him have I fear and awe at heart, that I should defraud him, lest haply some evil befall me hereafter. 
+
+</s><s n="check:24.435-24.436"><milestone n="435" unit="line"/>Of him have I fear and awe at heart, that I should defraud him, lest haply some evil befall me hereafter. 
 
 </s><s n="check:24.437-24.438">Howbeit as thy guide would I go even unto glorious Argos, attending thee with kindly care in a swift ship or on foot; 
 
@@ -23236,35 +23270,39 @@ if thy heart consenteth thereto:
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.440-24.467">
                     <p>
-<milestone n="440" unit="line"/>
 
-<s n="check:24.440-24.442">So spake the Helper, and leaping upon the chariot behind the horses quickly grasped in his hands the lash and reins, and breathed great might into the horses and mules. 
+
+<s n="check:24.440-24.442"><milestone n="440" unit="line"/>So spake the Helper, and leaping upon the chariot behind the horses quickly grasped in his hands the lash and reins, and breathed great might into the horses and mules. 
 
 </s><s n="check:24.443-24.447">But when they were come to the walls and the trench that guarded the ships, even as the watchers were but now busying them about their supper,
 <milestone n="445" unit="line"/>upon all of these the messenger Argeiphontes shed sleep, and forthwith opened the gates, and thrust back the bars, and brought within Priam, and the splendid gifts upon the wain. 
 
 </s><s n="check:24.448-24.450">But when they were come to the hut of Peleus' son, the lofty hut which the Myrmidons had builded for their king,
-<milestone n="450" unit="line"/>hewing therefor beams of fir —and they had roofed it over with downy thatch, gathered from the meadows; 
+<milestone n="450" unit="line"/>hewing therefor beams of fir — </s><s n="check:24.450-24.451">and they had roofed it over with downy thatch, gathered from the meadows; 
 
-</s><s n="check:24.450-24.451">and round it they reared for him, their king, a great court with thick-set pales; 
+</s><s n="check:24.452-24.453">and round it they reared for him, their king, a great court with thick-set pales; 
 
-</s><s n="check:24.452-24.453">and the door thereof was held by one single bar of fir that
-<milestone n="455" unit="line"/>three Achaeans were wont to drive home, and three to draw back the great bolt of the door (three of the rest, but Achilles would drive it home even of himself)—then verily the helper Hermes opened the door for the old man, and brought in the glorious gifts for the swift-footed son of Peleus; 
+</s><s n="check:24.453-24.456">and the door thereof was held by one single bar of fir that
+<milestone n="455" unit="line"/>three Achaeans were wont to drive home, and three to draw back the great bolt of the door (three of the rest,
 
-</s><s n="check:24.456">and from the chariot he stepped down to the ground and spake, saying:
-<milestone n="460" unit="line"/></s></p>
+ </s><s n="check:24.456">but Achilles would drive it home even of himself)—
+
+</s><s n="check:24.457-24.459">then verily the helper Hermes opened the door for the old man, and brought in the glorious gifts for the swift-footed son of Peleus; 
+
+and from the chariot he stepped down to the ground and spake, saying:
+</s></p>
 <p><q>
 
-<s n="check:24.460-24.461">Old sire, I that am come to thee am immortal god, even Hermes; 
+<s n="check:24.460-24.461"><milestone n="460" unit="line"/>Old sire, I that am come to thee am immortal god, even Hermes; 
 
 </s><s n="check:24.461">for the Father sent me to guide thee on thy way. 
 
 </s><s n="check:24.462-24.463">But now verily will I go back, neither come within Achilles' sight; 
 
 </s><s n="check:24.463-24.464">good cause for wrath would it be that an immortal god should thus openly be entertained of mortals.
-<milestone n="465" unit="line"/>
 
-</s><s n="check:24.465-24.467">But go thou in, and clasp the knees of the son of Peleus and entreat him by his father and his fair-haired mother and his child, that thou mayest stir his soul.
+
+</s><s n="check:24.465-24.467"><milestone n="465" unit="line"/>But go thou in, and clasp the knees of the son of Peleus and entreat him by his father and his fair-haired mother and his child, that thou mayest stir his soul.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.468-24.506">
@@ -23273,43 +23311,49 @@ if thy heart consenteth thereto:
 <s n="check:24.468-24.469">So spake Hermes, and departed unto high Olympus; 
 
 </s><s n="check:24.469-24.470">and Priam leapt from his chariot to the ground,
-<milestone n="470" unit="line"/>and left there Idaeus, who abode holding the horses and mules; 
+<milestone n="470" unit="line"/>and left there Idaeus, 
 
-</s><s n="check:24.470-24.471">but the old man went straight toward the house where Achilles, dear to Zeus, was wont to sit. 
+</s><s n="check:24.470-24.471">who abode holding the horses and mules; 
 
-</s><s n="check:24.471-24.472">Therein he found Achilles, but his comrades sat apart: 
+</s><s n="check:24.471-24.472">but the old man went straight toward the house where Achilles, dear to Zeus, was wont to sit. 
 
-</s><s n="check:24.472-24.473">two only, the warrior Automedon and Alcimus, scion of Ares,
+</s><s n="check:24.472-24.473">Therein he found Achilles, but his comrades sat apart: 
+
+</s><s n="check:24.473-24.475">two only, the warrior Automedon and Alcimus, scion of Ares,
 <milestone n="475" unit="line"/>waited busily upon him; 
 
-</s><s n="check:24.475-24.476">and he was newly ceased from meat, even from eating and drinking, and the table yet stood by his side. 
+</s><s n="check:24.475-24.476">and he was newly ceased from meat, even from eating and drinking, 
 
-</s><s n="check:24.476">Unseen of these great Priam entered in, and coming close to Achilles, clasped in his hands his knees, and kissed his hands, the terrible, man-slaying hands that had slain his many sons.
-<milestone n="480" unit="line"/>
+</s><s n="check:24.476">and the table yet stood by his side. 
 
-</s><s n="check:24.480-24.483">And as when sore blindness of heart cometh upon a man, that in his own country slayeth another and escapeth to a land of strangers, to the house of some man of substance, and wonder holdeth them that look upon him; 
+</s><s n="check:24.477-24.479">Unseen of these great Priam entered in, and coming close to Achilles, clasped in his hands his knees, and kissed his hands, the terrible, man-slaying hands that had slain his many sons.
+
+
+</s><s n="check:24.480-24.483"><milestone n="480" unit="line"/>And as when sore blindness of heart cometh upon a man, that in his own country slayeth another and escapeth to a land of strangers, to the house of some man of substance, and wonder holdeth them that look upon him; 
 
 </s><s n="check:24.484">even so was Achilles seized with wonder at sight of godlike Priam, and seized with wonder were the others likewise, and they glanced one at the other.
-<milestone n="485" unit="line"/>
 
-</s><s n="check:24.485">But Priam made entreaty, and spake to him, saying:</s></p>
+
+</s><s n="check:24.485"><milestone n="485" unit="line"/>But Priam made entreaty, and spake to him, saying:</s></p>
 <p><q>
 
 <s n="check:24.486-24.487">Remember thy father, O Achilles like to the gods, whose years are even as mine, on the grievous threshold of old age. 
 
 </s><s n="check:24.488-24.489">Him full likely the dwellers that be round about are entreating evilly, neither is there any to ward from him ruin and bane.
-<milestone n="490" unit="line"/>
 
-</s><s n="check:24.490-24.492">Howbeit, while he heareth of thee as yet alive he hath joy at heart, and therewithal hopeth day by day that he shall see his dear son returning from Troy-land. 
+
+</s><s n="check:24.490-24.492"><milestone n="490" unit="line"/>Howbeit, while he heareth of thee as yet alive he hath joy at heart, and therewithal hopeth day by day that he shall see his dear son returning from Troy-land. 
 
 </s><s n="check:24.493-24.494">But I—I am utterly unblest, seeing I begat sons the best in the broad land of Troy, yet of them I avow that not one is left.
-<milestone n="495" unit="line"/>
 
-</s><s n="check:24.495">Fifty I had, when the sons of the Achaeans came; 
+
+</s><s n="check:24.495"><milestone n="495" unit="line"/>Fifty I had, when the sons of the Achaeans came; 
 
 </s><s n="check:24.496-24.497">nineteen were born to me of the self-same womb, and the others women of the palace bare. 
 
-</s><s n="check:24.498">Of these, many as they were, furious Ares hath loosed the knees, and he that alone was left me, that by himself guarded the city and the men,
+</s><s n="check:24.498">Of these, many as they were, furious Ares hath loosed the knees, 
+
+</s><s n="check:24.499-24.501">and he that alone was left me, that by himself guarded the city and the men,
 <milestone n="500" unit="line"/>him thou slewest but now as he fought for his country, even Hector. 
 
 </s><s n="check:24.501-24.502">For his sake am I now come to the ships of the Achaeans to win him back from thee, and I bear with me ransom past counting. 
@@ -23329,7 +23373,7 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.509-24.512">So the twain bethought them of their dead, and wept; 
 
-</s><s n="check:nomatch">the one for man-slaying Hector wept sore,
+the one for man-slaying Hector wept sore,
 <milestone n="510" unit="line"/>the while he grovelled at Achilles' feet, but Achilles wept for his own father, and now again for Patroclus; 
 
 </s><s n="check:24.512">and the sound of their moaning went up through the house. 
@@ -23342,7 +23386,7 @@ if thy heart consenteth thereto:
 
 <s n="check:24.519-24.521">Ah, unhappy man, full many in good sooth are the evils thou hast endured in thy soul. 
 
-</s><s n="check:nomatch">How hadst thou the heart to come alone to the ships of the Achaeans,
+How hadst thou the heart to come alone to the ships of the Achaeans,
 <milestone n="520" unit="line"/>to meet the eyes of me that have slain thy sons many and valiant? 
 
 </s><s n="check:24.521">Of iron verily is thy heart. 
@@ -23350,9 +23394,9 @@ if thy heart consenteth thereto:
 </s><s n="check:24.522-24.523">But come, sit thou upon a seat, and our sorrows will we suffer to lie quiet in our hearts, despite our pain; 
 
 </s><s n="check:24.524">for no profit cometh of chill lament.
-<milestone n="525" unit="line"/>
 
-</s><s n="check:24.525-24.526">For on this wise have the gods spun the thread for wretched mortals, that they should live in pain; 
+
+</s><s n="check:24.525-24.526"><milestone n="525" unit="line"/>For on this wise have the gods spun the thread for wretched mortals, that they should live in pain; 
 
 </s><s n="check:24.526">and themselves are sorrowless. 
 
@@ -23367,25 +23411,25 @@ if thy heart consenteth thereto:
 <milestone n="535" unit="line"/>from his birth; 
 
 </s><s n="check:24.535-24.537">for he excelled all men in good estate and in wealth, and was king over the Myrmidons, and to him that was but a mortal the gods gave a goddess to be his wife.
-<milestone n="540" unit="line"/>
 
-</s><s n="check:24.540-24.542">Howbeit even upon him the gods brought evil, in that there nowise sprang up in his halls offspring of princely sons, but he begat one only son, doomed to an untimely fate. 
+
+</s><s n="check:24.540-24.542"><milestone n="540" unit="line"/>Howbeit even upon him the gods brought evil, in that there nowise sprang up in his halls offspring of princely sons, but he begat one only son, doomed to an untimely fate. 
 
 </s><s n="check:24.543">Neither may I tend him as he groweth old, seeing that far, far from mine own country I abide in the land of Troy, vexing thee and thy children. 
 
 </s><s n="check:24.544-24.546">And of thee, old sire, we hear that of old thou wast blest; 
 
-</s><s n="check:nomatch">how of all that toward the sea Lesbos, the seat of Macar, encloseth,
+how of all that toward the sea Lesbos, the seat of Macar, encloseth,
 <milestone n="545" unit="line"/>and Phrygia in the upland, and the boundless Hellespont, over all these folk, men say, thou, old sire, wast preeminent by reason of thy wealth and thy sons. 
 
 </s><s n="check:24.547-24.548">Howbeit from the time when the heavenly gods brought upon thee this bane, ever around thy city are battles and slayings of men. 
 
 </s><s n="check:24.549">Bear thou up, neither wail ever ceaselessly in thy heart; 
 
-</s><s n="check:nomatch">for naught wilt thou avail by grieving for thy son,
-<milestone n="550" unit="line"/>neither wilt thou bring him back to life; 
+</s><s n="check:24.550-24.551"><milestone n="550" unit="line"/>for naught wilt thou avail by grieving for thy son,
+neither wilt thou bring him back to life; 
 
-</s><s n="check:24.550-24.551">ere that shalt thou suffer some other ill.
+ere that shalt thou suffer some other ill.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.552-24.595">
@@ -23404,19 +23448,19 @@ if thy heart consenteth thereto:
 <p>
 
 <s n="check:24.559">Then with an angry glance from beneath his brows spake to him Achilles swift of foot:
-<milestone n="560" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:24.560">Provoke me no more, old sir; 
+<s n="check:24.560"><milestone n="560" unit="line"/>Provoke me no more, old sir; 
 
 </s><s n="check:24.560-24.562">I am minded even of myself to give Hector back to thee; 
 
 </s><s n="check:24.563-24.564">for from Zeus there came to me a messenger, even the mother that bare me, daughter of the old man of the sea. 
 
-</s><s n="check:nomatch">And of thee, Priam, do I know in my heart—it nowise escapeth me—that some god led thee to the swift ships of the Achaeans.
-<milestone n="565" unit="line"/>
+And of thee, Priam, do I know in my heart—it nowise escapeth me—that some god led thee to the swift ships of the Achaeans.
 
-</s><s n="check:24.565-24.566">For no mortal man, were he never so young and strong, would dare to come amid the host; 
+
+</s><s n="check:24.565-24.566"><milestone n="565" unit="line"/>For no mortal man, were he never so young and strong, would dare to come amid the host; 
 
 </s><s n="check:24.566-24.567">neither could he then escape the watch, nor easily thrust back the bar of our doors. 
 
@@ -23432,10 +23476,10 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.578-24.579">These then loosed from beneath the yoke the horses and mules, and led within the herald, the crier of the old king, and set him on a chair; 
 
-</s><s n="check:nomatch">and from the wain of goodly felloes they took the countless ransom for Hector's head.
-<milestone n="580" unit="line"/>
+and from the wain of goodly felloes they took the countless ransom for Hector's head.
 
-</s><s n="check:24.580-24.581">But they left there two robes and a fair-woven tunic, to the end that Achilles might enwrap the dead therein and so give him to be borne to his home. 
+
+</s><s n="check:24.580-24.581"><milestone n="580" unit="line"/>But they left there two robes and a fair-woven tunic, to the end that Achilles might enwrap the dead therein and so give him to be borne to his home. 
 
 </s><s n="check:24.582-24.586">Then Achilles called forth the hand-maids and bade them wash and anoint him, bearing him to a place apart that Priam might not have sight of his son, lest in grief of heart he should not restrain his wrath,
 <milestone n="585" unit="line"/>whenso he had sight of his son, and Achilles' own spirit be stirred to anger, and he slay him, and so sin against the behest of Zeus. 
@@ -23447,9 +23491,9 @@ if thy heart consenteth thereto:
 <p><q>
 
 <s n="check:24.592-24.594">Be not thou wroth with me, Patroclus, if thou hearest even in the house of Hades that I have given back goodly Hector to his dear father, seeing that not unseemly is the ransom he hath given me.
-<milestone n="595" unit="line"/>
 
-</s><s n="check:24.595">And unto thee shall I render even of this all that is thy due.
+
+</s><s n="check:24.595"><milestone n="595" unit="line"/>And unto thee shall I render even of this all that is thy due.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.596-24.642">
@@ -23466,14 +23510,16 @@ if thy heart consenteth thereto:
 </s><s n="check:24.601">but for this present let us bethink us of supper. 
 
 </s><s n="check:24.602-24.604">For even the fair-haired Niobe bethought her of meat, albeit twelve children perished in her halls, six daughters and six lusty sons.
-<milestone n="605" unit="line"/>
 
-</s><s n="check:24.605-24.607">The sons Apollo slew with shafts from his silver bow, being wroth against Niobe, and the daughters the archer Artemis, for that Niobe had matched her with fair-cheeked Leto, saying that the goddess had borne but twain, while herself was mother to many; 
 
-</s><s n="check:24.608">wherefore they, for all they were but twain, destroyed them all.
-<milestone n="610" unit="line"/>
+</s><s n="check:24.605-24.607"><milestone n="605" unit="line"/>The sons Apollo slew with shafts from his silver bow, being wroth against Niobe, and the daughters the archer Artemis, for that Niobe had matched her with fair-cheeked Leto, 
 
-</s><s n="check:24.610-24.611">For nine days' space they lay in their blood, nor was there any to bury them, for the son of Cronos turned the folk to stones; 
+</s><s n="check:24.608">saying that the goddess had borne but twain, while herself was mother to many; 
+
+</s><s n="check:24.609">wherefore they, for all they were but twain, destroyed them all.
+
+
+</s><s n="check:24.610-24.611"><milestone n="610" unit="line"/>For nine days' space they lay in their blood, nor was there any to bury them, for the son of Cronos turned the folk to stones; 
 
 </s><s n="check:24.612">howbeit on the tenth day the gods of heaven buried them; 
 
@@ -23492,22 +23538,25 @@ if thy heart consenteth thereto:
 <p>
 
 <s n="check:24.621-24.622">Therewith swift Achilles sprang up, and slew a white-fleeced sheep, and his comrades flayed it and made it ready well and duly, and sliced it cunningly and spitted the morsels, and roasted them carefully and drew all off the spits.
-<milestone n="625" unit="line"/>
 
-</s><s n="check:24.625-24.626">And Automedon took bread and dealt it forth on the table in fair baskets, while Achilles dealt the meat. 
 
-</s><s n="check:24.626">So they put forth their hands to the good cheer lying ready before them. 
+</s><s n="check:24.625-24.626"><milestone n="625" unit="line"/>And Automedon took bread and dealt it forth on the table in fair baskets, 
 
-</s><s n="check:24.627">But when they had put from them the desire of food and drink, then verily Priam, son of Dardanus, marvelled at Achilles, how tall he was and how comely;
-<milestone n="630" unit="line"/>for he was like the gods to look upon. 
 
-</s><s n="check:24.630">And a son of Dardanus, did Achilles marvel, beholding his goodly aspect and hearkening to his words. 
+</s><s n="check:24.626">while Achilles dealt the meat. 
 
-</s><s n="check:24.631-24.632">But when they had had their fill of gazing one upon the other, then the old man, godlike Priam, was first to speak, saying:
-<milestone n="635" unit="line"/></s></p>
+</s><s n="check:24.627">So they put forth their hands to the good cheer lying ready before them. 
+
+</s><s n="check:24.628-24.630">But when they had put from them the desire of food and drink, then verily Priam, son of Dardanus, marvelled at Achilles, <milestone n="630" unit="line"/> how tall he was and how comely;
+</s><s n="check:24.630">for he was like the gods to look upon. 
+
+</s><s n="check:24.631-24.632">And a son of Dardanus, did Achilles marvel, beholding his goodly aspect and hearkening to his words. 
+
+</s><s n="check:24.633-24.634">But when they had had their fill of gazing one upon the other, then the old man, godlike Priam, was first to speak, saying:
+</s></p>
 <p><q>
 
-<s n="check:24.635-24.636">Show me now my bed with speed, O thou nurtured of Zeus, that lulled at length by sweet sleep we may rest and take our joy; 
+<s n="check:24.635-24.636"><milestone n="635" unit="line"/>Show me now my bed with speed, O thou nurtured of Zeus, that lulled at length by sweet sleep we may rest and take our joy; 
 
 </s><s n="check:24.637-24.640">for never yet have mine eyes closed beneath mine eyelids since at thy hands my son lost his life, but ever do I wail and brood over my countless sorrows,
 <milestone n="640" unit="line"/>grovelling in the filth in the closed spaces of the court. 
@@ -23526,83 +23575,87 @@ if thy heart consenteth thereto:
 </s><s n="check:24.647-24.648">So the maids went forth from the hall with torches in their hands, and straightway spread two beds in busy haste. 
 
 </s><s n="check:24.649">Then mockingly spake unto Priam Achilles, swift of foot:
-<milestone n="650" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:24.650-24.652">Without do thou lay thee down, dear old sire, lest there come hither one of the counsellors of the Achaeans, that ever sit by my side and take counsel, as is meet. 
+<s n="check:24.650-24.652"><milestone n="650" unit="line"/>Without do thou lay thee down, dear old sire, lest there come hither one of the counsellors of the Achaeans, that ever sit by my side and take counsel, as is meet. 
 
 </s><s n="check:24.653-24.655">If one of these were to have sight of thee through the swift black night, forthwith might he haply tell it to Agamemnon, shepherd of the host,
 <milestone n="655" unit="line"/>and so should there arise delay in the giving back of the body. 
 
 </s><s n="check:24.656-24.658">But come, tell me this, and declare it truly: 
 
-</s><s n="check:24.659">for how many days' space thou art minded to make funeral for goodly Hector, to the end that for so long I may myself abide, and may keep back the host.
+for how many days' space thou art minded to make funeral for goodly Hector, to the end that for so long I may myself abide, and may keep back the host.
 </s></q></p>
 <p>
 
-<s n="check:nomatch">And the old man, godlike Priam, answered him: 
+<s n="check:24.659">And the old man, godlike Priam, answered him,
 
-</s><s n="check:nomatch">saying:
+saying:
 <milestone n="660" unit="line"/></s></p>
 <p><q>
 
 <s n="check:24.660-24.661">If thou indeed art willing that I accomplish for goodly Hector his burial, then in doing on this wise, O Achilles, wilt thou do according to my wish. 
 
 </s><s n="check:24.662-24.663">Thou knowest how we are pent within the city, and far is it to fetch wood from the mountain, and the Trojans are sore afraid.
-<milestone n="665" unit="line"/>
 
-</s><s n="check:24.668">For nine days' space will we wail for him in our halls, and on the tenth will we make his funeral, and the folk shall feast, and on the eleventh will we heap a barrow over him, and on the twelfth will we do battle, if so be we must.
+
+</s><s n="check:24.664-24.667">For nine days' space will we wail for him in our halls, 
+
+<milestone n="665" unit="line"/> and on the tenth will we make his funeral, and the folk shall feast, and on the eleventh will we heap a barrow over him, and on the twelfth will we do battle, if so be we must.
 </s></q></p>
 <p>
 
-<s n="check:24.669">Then spake to him in answer swift-footed, goodly Achilles:</s></p>
+<s n="check:24.668">Then spake to him in answer swift-footed, goodly Achilles:</s></p>
 <p><q>
 
-<s n="check:nomatch">Thus shall this also be aged Priam, even as thou wouldest have it;
-<milestone n="670" unit="line"/>for I will hold back the battle for such time as thou dost bid.
+<s n="check:24.669">Thus shall this also be aged Priam, even as thou wouldest have it;
+</s><s n="check:24.670"><milestone n="670" unit="line"/>for I will hold back the battle for such time as thou dost bid.
 </s></q></p>
 <p>
 
-<s n="check:24.670">When he had thus spoken he clasped the old man's right hand by the wrist, lest his heart should any wise wax fearful. 
+<s n="check:24.671-24.672">When he had thus spoken he clasped the old man's right hand by the wrist, lest his heart should any wise wax fearful. 
 
-</s><s n="check:24.671-24.672">So they laid them to sleep there in the fore-hall of the house, the herald and Priam, with hearts of wisdom in their breasts;
-<milestone n="675" unit="line"/>but Achilles slept in the innermost part of the well-builded hut, and by his side lay fair-cheeked Briseis.
+</s><s n="check:24.673-24.675">So they laid them to sleep there in the fore-hall of the house, the herald and Priam, with hearts of wisdom in their breasts;
+<milestone n="675" unit="line"/>but Achilles slept in the innermost part of the well-builded hut, 
+
+</s><s n="check:24.676">and by his side lay fair-cheeked Briseis.
 </s></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.677-24.706">
                     <p>
 
-<s n="check:24.676">Now all the other gods and men, lords of chariots, slumbered the whole night through, overcome of soft sleep; 
+<s n="check:24.677-24.678">Now all the other gods and men, lords of chariots, slumbered the whole night through, overcome of soft sleep; 
 
-</s><s n="check:24.677-24.678">but not upon the helper Hermes might sleep lay hold,
+</s><s n="check:24.679-24.681">but not upon the helper Hermes might sleep lay hold,
 <milestone n="680" unit="line"/>as he pondered in mind how he should guide king Priam forth from the ships unmarked of the strong keepers of the gate. 
 
 </s><s n="check:24.682">He took his stand above his head and spake to him, saying:</s></p>
 <p><q>
 
 <s n="check:24.683-24.684">Old sire, no thought then hast thou of any evil, that thou still sleepest thus amid foemen, for that Achilles has spared thee.
-<milestone n="685" unit="line"/>
 
-</s><s n="check:24.685">Now verily hast thou ransomed thy son, and a great price thou gavest. 
+
+</s><s n="check:24.685"><milestone n="685" unit="line"/>Now verily hast thou ransomed thy son, and a great price thou gavest. 
 
 </s><s n="check:24.686-24.688">But for thine own life must the sons thou hast, they that be left behind, give ransom thrice so great, if so be Agamemnon, Atreus' son, have knowledge of thee, or the host of the Achaeans have knowledge.
 </s></q></p>
 <p>
 
 <s n="check:24.689">So spake he, and the old man was seized with fear, and made the herald to arise.
-<milestone n="690" unit="line"/>
 
-</s><s n="check:24.690-24.691">And Hermes yoked for them the horses and mules, and himself lightly drave them through the camp, neither had any man knowledge thereof.</s></p>
+
+</s><s n="check:24.690-24.691"><milestone n="690" unit="line"/>And Hermes yoked for them the horses and mules, and himself lightly drave them through the camp, neither had any man knowledge thereof.</s></p>
 <p>
 
 <s n="check:24.692-24.697">But when they were now come to the ford of the fair-flowing river, even eddying Xanthus, that immortal Zeus begat, then Hermes departed to high Olympus,
 <milestone n="695" unit="line"/>and Dawn, the saffron-robed, was spreading over the face of all the earth. 
 
-</s><s n="check:24.697-24.701">So they with moaning and wailing drave the horses to the city, and the mules bare the dead. 
+So they with moaning and wailing drave the horses to the city, and the mules bare the dead. 
 
-</s><s n="check:nomatch">Neither was any other ware of them, whether man or fair-girdled woman; 
+</s><s n="check:24.697-24.701">Neither was any other ware of them, whether man or fair-girdled woman; 
 
-</s><s n="check:nomatch">but in truth Cassandra, peer of golden Aphrodite,
+but in truth Cassandra, peer of golden Aphrodite,
 <milestone n="700" unit="line"/>having gone up upon Pergamus, marked her dear father as he stood in the car, and the herald, the city's crier; 
 
 </s><s n="check:24.702">and she had sight of that other lying on the bier in the waggon drawn of the mules. 
@@ -23613,18 +23666,20 @@ if thy heart consenteth thereto:
 <s n="check:24.704-24.706">Come ye, men and women of Troy, and behold Hector,
 <milestone n="705" unit="line"/>if ever while yet he lived ye had joy of his coming back from battle; 
 
-</s><s n="check:24.707-24.708">since great joy was he to the city and to all the folk.
+since great joy was he to the city and to all the folk.
 </s></q></p>
                 </div>
                 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.707-24.745">
                     <p>
 
-<s n="check:24.708">So spake she, nor was any man left there within the city, neither any woman, for upon all had come grief that might not be borne; 
+<s n="check:24.707-24.708">So spake she, nor was any man left there within the city, neither any woman, 
+
+</s><s n="check:24.708">for upon all had come grief that might not be borne; 
 
 </s><s n="check:24.709">and hard by the gates they met Priam, as he bare home the dead.
-<milestone n="710" unit="line"/>
 
-</s><s n="check:24.710-24.712">First Hector's dear wife and queenly mother flung themselves upon the light-running waggon, and clasping his head the while, wailed and tore their hair; 
+
+</s><s n="check:24.710-24.712"><milestone n="710" unit="line"/>First Hector's dear wife and queenly mother flung themselves upon the light-running waggon, and clasping his head the while, wailed and tore their hair; 
 
 </s><s n="check:24.712">and the folk thronged about and wept. 
 
@@ -23644,10 +23699,10 @@ if thy heart consenteth thereto:
 <milestone n="720" unit="line"/>laid him on a corded bedstead, and by his side set singers, leaders of the dirge, who led the song of lamentation—they chanted the dirge, and thereat the women made lament. 
 
 </s><s n="check:24.723-24.724">And amid these white-armed Andromache led the wailing, holding in her arms the while the head of man-slaying Hector:
-<milestone n="725" unit="line"/></s></p>
+</s></p>
 <p><q>
 
-<s n="check:24.725-24.726">Husband, perished from out of life art thou, yet in thy youth, and leavest me a widow in thy halls; 
+<s n="check:24.725-24.726"><milestone n="725" unit="line"/>Husband, perished from out of life art thou, yet in thy youth, and leavest me a widow in thy halls; 
 
 </s><s n="check:24.726-24.728">and thy son is still but a babe, the son born of thee and me in our haplessness; 
 
@@ -23658,13 +23713,13 @@ if thy heart consenteth thereto:
 
 </s><s n="check:24.732-24.738">These, I ween, shall soon be riding upon the hollow ships, and I among them; 
 
-</s><s n="check:nomatch">and thou, my child, shalt follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of some ungentle master, or else some Achaean shall seize thee by the arm
+and thou, my child, shalt follow with me to a place where thou shalt labour at unseemly tasks, toiling before the face of some ungentle master, or else some Achaean shall seize thee by the arm
 <milestone n="735" unit="line"/>and hurl thee from the wall, a woeful death, being wroth for that Hector slew his brother haply, or his father, or his son, seeing that full many Achaeans at the hands of Hector have bitten the vast earth with their teeth; 
 
 </s><s n="check:24.739">for nowise gentle was thy father in woeful war.
-<milestone n="740" unit="line"/>
 
-</s><s n="check:24.740-24.742">Therefore the folk wail for him throughout the city, and grief unspeakable and sorrow hast thou brought upon thy parents, Hector; 
+
+</s><s n="check:24.740-24.742"><milestone n="740" unit="line"/>Therefore the folk wail for him throughout the city, and grief unspeakable and sorrow hast thou brought upon thy parents, Hector; 
 
 </s><s n="check:24.742">and for me beyond all others shall grievous woes be left. 
 
@@ -23681,9 +23736,11 @@ if thy heart consenteth thereto:
 <p><q>
 
 <s n="check:24.748-24.749">Hector, far dearest to my heart of all my children, lo, when thou livedst thou wast dear to the gods,
-<milestone n="750" unit="line"/>and therefore have they had care of thee for all thou art in the doom of death. 
+</s><s n="check:24.750"><milestone n="750" unit="line"/>and therefore have they had care of thee for all thou art in the doom of death. 
 
-</s><s n="check:24.750">For of other sons of mine whomsoever he took would swift-footed Achilles sell beyond the unresting sea, unto Samos and Imbros and Lemnos, shrouded in smoke, but, when from thee he had taken away thy life with the long-edged bronze
+</s><s n="check:24.751-24.753">For of other sons of mine whomsoever he took would swift-footed Achilles sell beyond the unresting sea, unto Samos and Imbros and Lemnos, shrouded in smoke, 
+
+</s><s n="check:24.754-24.756">but, when from thee he had taken away thy life with the long-edged bronze
 <milestone n="755" unit="line"/>oft would he drag thee about the barrow of his comrade, Patroclus, whom thou didst slay; 
 
 </s><s n="check:24.756">howbeit even so might he not raise him up. 
@@ -23691,19 +23748,23 @@ if thy heart consenteth thereto:
 </s><s n="check:24.757-24.759">all dewy-fresh thou liest in my halls as wert thou g newly slain, like as one whom Apollo of the silver bow assaileth with his gentle shafts and slayeth.
 </s></q></p>
 <p>
-<milestone n="760" unit="line"/>
 
-<s n="check:24.760">So spake she wailing, and roused unabating lament. 
+
+<s n="check:24.760"><milestone n="760" unit="line"/>So spake she wailing, and roused unabating lament. 
 
 </s><s n="check:24.761">And thereafter Helen was the third to lead the wailing:</s></p>
 <p><q>
 
 <s n="check:24.762-24.764">Hector, far dearest to my heart of all my husband's brethren! 
 
-</s><s n="check:24.764">In sooth my husband is godlike Alexander, that brought me to Troy-land —would I died ere then!
-<milestone n="765" unit="line"/>For this is now the twentieth year from the time when I went from thence and am gone from my native land, but never yet heard I evil or despiteful word from thee; 
+In sooth my husband is godlike Alexander, that brought me to Troy-land —
 
-</s><s n="check:24.765-24.766">nay, if so be any other spake reproachfully of me in the halls, a brother of thine or a sister, or brother's fair-robed wife,
+</s><s n="check:24.764">would I died ere then!
+</s><s n="check:24.765-24.766"><milestone n="765" unit="line"/>For this is now the twentieth year from the time when I went from thence and am gone from my native land,
+
+ </s><s n="check:24.767">but never yet heard I evil or despiteful word from thee; 
+
+</s><s n="check:24.768-24.772">nay, if so be any other spake reproachfully of me in the halls, a brother of thine or a sister, or brother's fair-robed wife,
 <milestone n="770" unit="line"/>or thy mother—but thy father was ever gentle as he had been mine own—yet wouldst thou turn them with speech and restrain them by the gentleness of thy spirit and thy gentle words. 
 
 </s><s n="check:24.773">Wherefore I wail alike for thee and for my hapless self with grief at heart; 
@@ -23711,13 +23772,13 @@ if thy heart consenteth thereto:
 </s><s n="check:24.774-24.775">for no longer have I anyone beside in broad Troy
 <milestone n="775" unit="line"/>that is gentle to me or kind; 
 
-</s><s n="check:24.776">but all men shudder at me.
+but all men shudder at me.
 </s></q></p>
                 </div>
-                <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.776-24.803">
-                    <p>`So spake she wailing, and thereat the countless throng made moan. 
+                <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:24.776-24.804">
+                    <p><s n="check:24.776">So spake she wailing, and thereat the countless throng made moan. 
 
-<s n="check:24.777">But the old man Priam spake among the folk, saying:</s></p>
+</s><s n="check:24.777">But the old man Priam spake among the folk, saying:</s></p>
 <p><q>
 
 <s n="check:24.778-24.779">Bring wood now, ye men of Troy, unto the city, neither have ye anywise fear at heart of a cunning ambush of the Argives; 
@@ -23730,24 +23791,30 @@ if thy heart consenteth thereto:
 <s n="check:24.782-24.783">So spake he, and they yoked oxen and mules to waggons, and speedily thereafter gathered together before the city. 
 
 </s><s n="check:24.784">For nine days' space they brought in measureless store of wood,
-<milestone n="785" unit="line"/>but when the tenth Dawn arose, giving light unto mortals, then bare they forth bold Hector, shedding tears the while, and on the topmost pyre they laid the dead man, and cast fire thereon.</s></p>
+</s><s n="check:24.785-24.787"><milestone n="785" unit="line"/>but when the tenth Dawn arose, giving light unto mortals, then bare they forth bold Hector, shedding tears the while, and on the topmost pyre they laid the dead man, and cast fire thereon.</s></p>
 <p>
 
-<s n="check:24.785-24.787">But soon as early Dawn appeared, the rosy-fingered, then gathered the folk about the pyre of glorious Hector.
-<milestone n="790" unit="line"/>
+<s n="check:24.788-24.789">But soon as early Dawn appeared, the rosy-fingered, then gathered the folk about the pyre of glorious Hector.
 
-</s><s n="check:24.790-24.792">And when they were assembled and met together, first they quenched with flaming wine all the pyre, so far as the fire's might had come upon it, and thereafter his brethren and his comrades gathered the white bones, mourning, and big tears flowed ever down their cheeks.
-<milestone n="795" unit="line"/>
 
-</s><s n="check:24.795-24.796">The bones they took and placed in a golden urn, covering them over with soft purple robes, and quickly laid the urn in a hollow grave, and covered it over with great close-set stones. 
+</s><s n="check:24.790-24.792"><milestone n="790" unit="line"/>And when they were assembled and met together, first they quenched with flaming wine all the pyre, so far as the fire's might had come upon it, 
 
-</s><s n="check:24.797-24.798">Then with speed heaped they the mound, and round about were watchers set on every side,
+</s><s n="check:24.792-24.794">and thereafter his brethren and his comrades gathered the white bones, mourning, and big tears flowed ever down their cheeks.
+
+
+</s><s n="check:24.795-24.796"><milestone n="795" unit="line"/>The bones they took and placed in a golden urn, covering them over with soft purple robes, 
+
+</s><s n="check:24.797-24.798">and quickly laid the urn in a hollow grave, and covered it over with great close-set stones. 
+
+</s><s n="check:24.799-24.800">Then with speed heaped they the mound, and round about were watchers set on every side,
 <milestone n="800" unit="line"/>lest the well-greaved Achaeans should set upon them before the time. 
 
-</s><s n="check:24.801">And when they had piled the barrow they went back, and gathering together duly feasted a glorious feast in the palace of Priam, the king fostered of Zeus.</s></p>
+</s><s n="check:24.801">And when they had piled the barrow they went back, 
+
+</s><s n="check:24.801-24.803">and gathering together duly feasted a glorious feast in the palace of Priam, the king fostered of Zeus.</s></p>
 <p>
 
-<s n="check:24.801-24.803">On this wise held they funeral for horse-taming Hector.</s></p>
+<s n="check:24.804">On this wise held they funeral for horse-taming Hector.</s></p>
                 </div>
             </div>
             </div>
