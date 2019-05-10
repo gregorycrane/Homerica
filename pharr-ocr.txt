@@ -7478,63 +7478,52 @@ Iliad, 152-157
 
 254.	VOCABULARY
 
-atnos, ἡ, ον blamable, to blame,
-guilty, accountable, responsible,
-αίχμητήϊ, So, ὁ spearman, warrior.
-Pois, Po<5s, 6, ἡ ox, cow.
+αἴτιος αἰτίη αἴτιον blamable, to blame, guilty, accountable, responsible,
+αἰχμητής, αἰχμητᾶο, ὁ spearman, warrior.
+βοῦς, βοός, ὁ, ἡ ox, cow.
 
-Ρωτι-awipa fern., mail-nourishing,
-nurturing heroes; sulst. nurse of
-heroes.
+βωτι-άνειρα fem., man-nourishing, nurturing heroes; subst. nurse of heroes.
 
-Sevpo hither, to this place, here,
-δηλέ-ομαι*, δηΧήσομαι, ΙδηΧησάμην,
+δεῦρο hither, to this place, here,
+δηλέ-ομαι*, δηλήσομαι, ἐδηλησάμην,
 δεδήλημαι* harm, hurt, destroy,
 damage, wrong, ruin.
 
-Ιλά-ω, ΙΧά(σ)(σ)ω, ήλασ·(σ·)α, «λή-
-λακα*. 4λήΧαμαι, ήλάθην* drive,
+ἐλά-ω, ἐλά(σ)(σ)ω, ἠλασ(σ)α, ἐλήλακα*. ἐλήλαμαι, ήλάθην* drive,
 strike, carry on, push, press.
-Ιρι-βώλαξ, ακοϊ rich-clodded, heavyclodded,
+ἐρι-βώλαξ, ἐριβώλακος  rich-clodded, heavy-clodded,
 fertile.
 
-ηχήο-s, εσσα, ev ononatopoetic, (re)
-: echoing'^ roaring, (re) sounding,
+ἠχήεις, ἠχήεσσα, ἠχῆεν ononatopoetic, (re)echoing) roaring, (re) sounding,
 thundering,
-iiriros, ov, 6, ἡ horse, mare.
+ἵππος, ἵππου, ὁ, ἡ horse, mare.
 
-Kapiros, οΰ, ὁ fruit, crop, produce,
-harvest.
+καρπός, κάρποῦ, ὁ fruit, crop, produce, harvest.
 
-μαχέ-ομαι (μάχομαι), μαχήσομαι
-' (-«τσομαι ?) (μαχίομαι), Ιμαχίσ-
-(σ)άμην fight, battle.
-μ«τα|ό between, intervening,
-ovpos (Spos, 571), eos, τό mountain.
-cTKioeis, εσσα, ev shady, shadowy.
-Tpwes, ων, oi Trojans.
+μαχέ-ομαι (μάχομαι), μαχήσομαι (μαχέσσομαι ?) (μαχέομαι), ἐμαχίσ(σ)άμην fight, battle.
+μεταξύ between, intervening,
+οὖρος (ὄρος, 571), οὔρεος, τό mountain.
+σκιόεις, σκιόεσσα, σκιόεν shady, shadowy.
+Tpῶes, Τρώων, οἱ Trojans.
 
-Φθίη, ης, -η Phthia, a town and district
+Φθίη, Φθίης, ἡ Phthia, a town and district
 in northern Greece, home of
 Achilles.
 
-Derivatives : (a)etio-logy, -logic(al) ; bu-colic, -cranium,
-bovine ; elas-tic(ity) ; echo-ing, -meter, -scope ; hippo-potamus,
--drome, -crene, -crates, Phil-ip ; carp-el, carpo-genic,
--lite, -pbore, Poly-carp ; or-ead, oro-logy, -graphy, -bippus ;
-squi-rrel, scio-graph(y), -machy, -mancy, sci-optic(al).
+Derivatives : (a)etio-logy, -logic(al) ; bu-colic, bu-cranium,
+bovine ; elas-tic(ity) ; echo-ing, echo-meter, echo-scope ; hippo-potamus,
+hippo-drome, hippo-crene, Hippo-crates, Phil-ip ; carp-el, carpo-genic,
+carpo-lite, carpo-phore, Poly-carp ; or-ead, oro-logy, oro-graphy, oro-hippus ;
+squi-rrel, scio-graph(y), scio-machy, scio-mancy, sci-optic(al).
 
 255. Translate:
 
-1. ηΧθον Ἀχαιοὶ Sevpo μαχησόμενοι ἐνεκαΎρώων αιχμητάων.
-2. είσι Τρώες αἰτιοι ἀχαιοΐσιν; 3. ηΧάσαμεν βονς (= /3οας)
-Τ€ καὶ ϊτπτονς ἀχιΧήος, καρπον δ’ εΒηΧησάμεθ' ἐν Φθίτ) εριβώ-
-Χακι. 4. Τρώες εισιν τηΧόθι Φθίης βωτιανείρης. έστϊ Se μάΧα
-πολλα σκιόεντ ovpea καὶ ηχήεσσα θάΧασσα μεταξύ.
+1. ἦλθον Ἀχαιοὶ δεῦρο μαχησόμενοι ἕνεκα Τρώων αἰχμητάων.
+2. εἰσι Τρῶες αἴτιοι Ἀχαιοῖσιν; 
+3. ἠλάσαμεν βοῦς (= βόας) τε καὶ ἵτπτους Ἀχιλῆος, καρπὸν δ’ ἑδηλησάμεθ' ἐν Φθίῃ ἐριβώλακι. 
+4. Τρῶες εἰσιν τηλόθι Φθίης βωτιανείρης. ἐστὶ δὲ μάλα πολλὰ σκιόεντ’ οὔρεα καὶ ἠχήεσσα θάλασσα μεταξύ.
 
-<pb n="101"/>256-257]
-
-HOMERIC GREEK
+<pb n="101"/>
 
 256.	Read and translate :
 
@@ -7550,13 +7539,13 @@ o^ryap e<yco Tρωων ἐνεκ ηΧυθον αιχμ-ητάων
 καρπόν εδηΧήσαντ, επει ἡ μάΧα πολλὰ μεταξύ,
 ουρεὰ τε σκιόεντα θάΧασσὰ τε ηχηεσσα ·
 
-257.	152. «γώ: emphatic (1039), as contrasted with Agamemnon
+257.	152. ἐγώ: emphatic (1039), as contrasted with Agamemnon
 and his brother Menelaus, who had a strong personal interest in the
 success of the expedition.
 
-153.	μαχησόμ.«νο5 : 1109, 5.— n: 780-781.
+153.	μαχησόμενος : 1109, 5.— n: 780-781.
 
-154.	βοίϊ = βόας : throughout all history cattle have been an important
+154.	βοῦς = βόας : throughout all history cattle have been an important
 economic factor. Thus the English words “ fee, chattel, pecuniary,”
 etc., indicate the part they have played in our own and in the Roman
 monetary systems, as a medium of exchangee, before the introduction of
@@ -7564,19 +7553,19 @@ coinage. In Homer’s time maidens were called cattle-bringing, because
 their suitors regularly gave cattle to their fathers as a wedding present,
 in return for the girl as a wife. A useful woman in Homeric times
 might be worth as much as four cows. Their great importance has
-’made them an object of divine worship among many peoples, as among
+made them an object of divine worship among many peoples, as among
 the old Hebrews, who for a long period of their history worshipped a
 bull-god, of which the horns.of the altar were a survival.
 
-155.	βωτιανείρτι: observe the touch of local pride, so common throughout
-all nations. His home ]froduces heroes, of which he is one. The
+155.	βωτιανείρτῃ: observe the touch of local pride, so common throughout
+all nations. His home produces heroes, of which he is one. The
 ornamental epithets and picturesque language may indicate how dear to
 his heart his old home in Phthia was. Perhaps he is almost homesick.
 
 157.
-ήχτμο-σα: onomatopoetic, to represent the sound of the roaring
+ἠχήεσσα: onomatopoetic, to represent the sound of the roaring
 sea.—σκιόιντα refers to the long shadows which high mountains throw.
-This verse is in apposition with πολλὰ (used substantively) of the
+This verse is in apposition with πολλά (used substantively) of the
 preceding verse.
 
 Observe the heaping up of the first personal pronouns in this passage,
@@ -7586,7 +7575,7 @@ self-sacrificing spirit in joining· the undertaking, thereby throwing into
 high relief the ingratitude of Agamemnon and the deep injustice of his
 selfishness. “ The Trojans have never done me the slightest harm, that
 
-<pb n="102"/>LESSON XXXIX	[257
+<pb n="102"/>
 
 I should have gone to all this trouble in making this expedition against
 them.”
@@ -7619,29 +7608,27 @@ and serve him.” “And Joshua did
 unto them as Jehovah bade him: he
 houghed their horses, and burnt their
 chariots with fire. . . . And all the spoil
-of these cities, and the .cattle, the children
+of these cities, and the cattle, the children
 of Israel took for a prey unto themselves;
 but every man they smote with the edge
 of the sword, until they had destroyed
 them, neither left they any to breathe.”
-156-157. Achilles is not strictly logical
-; for in spite of the crashing sea that
+156-157. Achilles is not strictly logical; for in spite of the crashing sea that
 rolled between, he was doing in Troy
 the very thing which he says the Trojans
-have never done in his land because of the intervening distance.—n-ολλά
-(εστιν).
+have never done in his land because of the intervening distance.—
+
+πολλὰ (ἐστίν).
 
 Achilles is now ready to renounce all allegiance to such a leader, who
 
-103
 
-Egyptian weighing “Cow
-Gold ”
+Egyptian weighing “Cow Gold ”
 
-Eaely Roman Bau Money
+Early Roman Bar Money
 A bar of copper marked with the figure of
 a bull. Dates from the fourth century b.c.
-<pb/>258-261]
+<pb/>
 
 HOMERIC GREEK
 
@@ -7651,98 +7638,97 @@ for their own sakes, but for him and his interests.
 258. Translate :
 
 1. We came hither to fight with the Trojan warriors; for
-they are blamable to us. 2. Once the Achaeans drove
+they are blamable to us. 
+
+2. Once the Achaeans drove
 away our cattle and horses, and destroyed our crops in fertile,
-man-nourishing Phthia. 3. Phthia is far from Troy,
+man-nourishing Phthia. 
+
+
+3. Phthia is far from Troy,
 and there are very many shadowy mountains and the roaring
 sea between.
 
-LESSON XL·
-
-NUMERALS
+LESSON XL: NUMERALS
 
 Iliad, 158-164
 
 259.	Study the table of cardinals, ordinals, and numeral
 adverbs, 757. Commit the first twelve of each to memory,
-and learn the declension of el?, μία, ev one; δύο (δύω) two;
-τρεις, τρία three ; and τέσσαρες, τέσσαρα four, 758-759.
+and learn the declension of εἷς, μία, ἕν one; δύο (δύω) two;
+τρεῖς, τρία three ; and τέσσαρες, τέσσαρα four, 758-759.
 
 260.	Optional:
 
 261.	VOCABULARY
 
-ἀλ«γίζω (άλίγιΒ-), 'frith gen., 984 care,
+ἀλεγίζω (ἀλεγιζ-), with gen., 984 care,
 reck, consider, regard, worry.
 
-&μα with dot., at the same* time,
-together (with).
-av-oiSfis, e? shameless, unfeeling.
-dirciXf-ω, ἀπίίλήσω, ήτΕίληιτα
+ἅμα with dot., at the same time, together (with).
+ἀν-αιδής, ἀν-αιδές shameless, unfeeling.
+ἀπειλέ-ω, ἀπειλήσω, ἠπείλησα
 threaten, boast, menace,
-αρ-νυμαι, ἀρίομαι*, ήρόρην acquire,
+ἄρ-νυμαι, ἀρέομαι*, ἠρόμην acquire,
 win, save, preserve,
-ἀφ-αιρί'ω (αΐρί-, ΐλ ). ἀφαιρήσω, ἀφίί-
-λον (άφϊΐλον), ἀφηρηκα*, ἀφηοη
-μαι*, ἀφ-ηρίθην* take away, rob,
-deprive.
+ἀφ-αιρέω (αἱρε-, ἑλ- ). ἀφαιρήσω, ἀφέελον (άφεῖλον), ἀφήρηκα*, ἀφῄρμαι*, ἀφηρέθην* take away, rob, deprive.
 
-ϊπω (crerr-, σιτ-), ϊψω, ϊσπον be busy,
-perform; mid., follow, accompany,
-attend.
+ἕπω (σεπ-, σπ-), ἕψω, ἕσπον be busy, perform; mid., follow, accompany, attend.
 
-to-os, ἡ («to-η), ον equal, equivalent,
+ἶσος, ἴση (ἐΐση), ἶσον  equal, equivalent,
 well-balanced, symmetrical.
-Kw-iin-qs (roc. κννώπα) dog-faced,
+κυν-ώπης (voc. κυνῶπα) dog-faced,
 dog-eyed, shameless.
 
-Mtvt'XSos, οὐ, 6 Menelaus, brother
-of Agamemnon, and husband of
-Helen.
+Μενέλᾱος, Μενελάου, ὁ Menelaus, brother of Agamemnon, and husband of Helen.
 
-μίτα-τρέπω (τρίπ-, τροπ . τρατ·-), μίτα-
-τρίψω, μίτετρίψα, (ρίτίτραπον),
-μίτατίτροφα**, μίτατίτραμμαι, μί-
-Τίτράφθην (μίΤίτράπην*) turn
+μετα-τρέπω (τρεπ-, τροπ . τραπ-), μετατρίψω, μετέτρεψα, (μετέτραπον),
+μετατέτροφα**, μετατέτραμμαι, μετατετράφθην (μετετράπην*) turn
 (around) ; mid. turn oneself
 toward, heed,
-μογί-ω, {μόγησα toil, struggle,
-ναΐω (νασ-), £va<r<ra, ένόο-βην dwell,
+μογέ-ω, ἐμόγησα toil, struggle,
+ναίω (νασ-), ἐνασσα, ἐνάσθην  dwell,
 inhabit; mid. be situated.
 
 <pb n="104"/>LESSON XL	[262-264
 
-ΐΓτολΙίθρον (= it(t)6\is), οὐ, τό
+ὁπ(π)ότε when(ever).
+πρός (π(ρ)οτί) adv., and prep. with
+gen., dat., and acc., to, toward,
+also, at, on, from, on behalf of;
+with gen., from, before, at the:
+bidding, in the sight; with dat., 
+on, at, by; with acc., to, toward,
+(up) on, against.
 
-city.
+πτολίεθρον (= πόλις), πτολιέθρου, τό city.
 
-τιμή, ής, ἡ honor, satisfaction, recompense,
-retribution, value,
-χαίρω (χαρ-, χαρ«-, χαιρί-), χαιρή-
-σω, Κ€χάρη(κ)α, κεχάρ(η)μαι*, «χά-
-ρην rejoice, be glad, bail ! -welcome
-! I ;
+τιμή, τιμἠς, ἡ honor, satisfaction, recompense, retribution, value,
+χαίρω (χαρ-, χαρ«-, χαιρε-), χαιρήσω, κεχάρη(κ)α, κεχάρ(η)μαι*, ἐχά-
+ρην rejoice, be glad, hail ! welcome
+come!
 
 262.	Translate :
 
-1. ἀχιλλεύς εσπετο ἀνακτι ἀνδρῶν ἀγαμεμνονι με'γ’
-ἀναιδει, δφρα χαίρη. 2. Ἀχαιοὶ εσποντ Ἀγαμεμνονι ἀμα,
-τιμήν ἀρνύμενοὶ (1070) τψ καὶ ΧίενεΧάω. 3. ήν Ἀγαμέ-
-μνων κυνώπης;	4. ἀρνύμεθα τιμήν προς Τρώων ΜενεΧάω.
+1. Ἀχιλλεὺς ἕσπετο ἄνακτι ἀνδρῶν Ἀγαμέμνονι μέγ’
+ἀναιδέι, ὄφρα χαίρῃ. 
 
-5. Ἀγαμέμνων οὐ μετατρέπεται οὐδ’ ἀΧεγίζει των. 6. βασι-
-Χεύς αυτός ήπείΧησεν ἀφαιρήσεσθαὶ γέρας ἀχιΧήι. 7. ἀχιΧ-
-Χενς εμόγησε πολλὰ τω γεραϊ. 8. γέρα πάντες εξομεν Ισα
-βασιΧήι, δππότε εκπερσώμεθα πτοΧίεθρα Τρώων.
+2. Ἀχαιοὶ ἕσποντ Ἀγαμέμνονι ἅμα,
+τιμήν ἀρνύμενοι (1070) τῷ καὶ Μενελάῳ. 
 
-ό·π·(ιτ)ότὶ when(ever).
-irpos (ιτ(ρ)οτί) adv., and prep. with
-gen., dat., and acc., to, toward^
-also, at, on, from, on behalf of;
-with gen., from, before, at the:
-bidding, in the sight; with dat·!>,
-on, at, by; with acc., to, toward,
-(up) on, against.
+3. ἤν Ἀγαμέμνων κυνώπης;	
+
+4. ἀρνύμεθα τιμήν πρὸς Τρώων Μενελάῳ.
+
+5. Ἀγαμέμνων οὐ μετατρέπεται οὐδ’ ἀλεγίζει τῶν. 
+
+6. βασιλεὺς αὐτὸς ἠπείλησεν ἀφαιρήσεσθαι γέρας Ἀχιλῆι. 
+
+7. Ἀχιλλεὺς ἐμόγησε πολλὰ τῷ γέραϊ. 
+
+8. γέρα πάντες ἕξομεν ἶσα βασιλῆι, ὁππότε ἐκπερσώμεθα πτολίεθρα Τρώων.
+
+
 
 263.	Read and translate:
 
@@ -7763,13 +7749,21 @@ Iliad, 158-164
 Τρώων εκπερσωσ εύ ναιόμενον πτοΧίεθρον '
 
 264. 158. σοί: 1007, emphatic, as may be seen from the accent, 762.
-— μ«·γ*(α) : 780-781. — χαίρη*: 1115-1116. — σν : very emphatic, as contrasted
+— 
+
+μέγ'(α) : 780-781. — 
+
+χαίρῃξ*: 1115-1116. — 
+
+σὺ : very emphatic, as contrasted
 with Achilles (1039).
 
-159. apviptvoi: 1070. — Μίνίλαω σοὶ Tt: 997. — κυνώπα: the Homeric
+159. ἀρνύμενοι: 1070. — 
+
+Μενελάῳ σοί τε: 997. — κυνῶπα: the Homeric
 warriors were refreshingly frank in saying what they thought. To be
 compared to a dog is usually considered the height of insult, and such
-terms regnlarly form a favorite part in the vocabulary of abuse. Even
+terms regularly form a favorite part in the vocabulary of abuse. Even
 
 <pb n="105"/>264]
 
@@ -7778,58 +7772,64 @@ HOMERIC GREEK
 to-day the dog among the Asiatics typifies all that is beastly and shameful;
 and so the Mohammedans call the Christians dogs: and since Christians
 are presumptuous enough to refuse to believe in the prophet, they
-are “ infidel dogs.” Here κννωπα. is perhaps suggested by μεγ’ αναιδές,
+are “ infidel dogs.” Here κυνῶπα. is perhaps suggested by μέγ’ ἀναιδές,
 of which it is merely the more insulting equivalent.
 
-160. των (used substantively): 984.—τι: 780-781. — μετατρετη] =
+160. τῶν (used substantively): 984.—
+
+τι: 780-781. — 
+
+μετατρέπῃ =
 μετατρέπηαι, 584-585.
 
 Caiydonian boar hunt
 
-Games at tlie funeral of
-Patroclus
+Games at the funeral of Patroclus
 
-Peleus, Thetis and the
-gods
+Peleus, Thetis and the gods
 
-Pursuit of Troilus by
-Achilles
+Pursuit of Troilus by Achilles
 
-Animal scenes, sphinxes,
-etc.
+Animal scenes, sphinxes, etc.
 
 The Francois Vase
 Archaeological Museum, Florence
-
 Found in an Etruscan grave in 1S44. A black-figured terra cotta vase of about 600 B.c. It
-is nearly three feet in height and two and one half feet in diameter. The figures on the vase
-depict scenes from Greek mythology.
+is nearly three feet in height and two and one half feet in diameter. The figures on the vase depict scenes from Greek mythology.
 
-161.	μοι: 997. — αυτό?: yourself, i.e. “arbitrarily,” without the consent
+161.	μοι: 997. — 
+
+αὐτός: yourself, i.e. “arbitrarily,” without the consent
 of the army or the other chieftains.
 
-162.	iirt: 1050. — ιτολλά: 780-781.
+162.	ἔπι: 1050. — 
 
-163.	σο£: a brachylogical comparison, as in English, “what is good
+πολλά: 780-781.
+
+163.	σοί: a brachylogical comparison, as in English, “what is good
 for a cold,” i.e. “what is good for a man who has a cold.” This thought
 intensifies the injustice of Agamemnon’s action.
 
 Observe the emphasis and contrast so effectively obtained by the use
 of the personal pronouns in this passage, and the rhyming effect of σοι,
-σν, σοι, μοὶ μοί, σοι.
+σύ, σοί, μοί μοί, σοί.<note n="grc">great instance of a place where you need to specificy which moi is meant</note>
 
-<pb n="106"/>LESSON XLI	[265-268
+<pb n="106"/>
 
 265. Translate:
 
 1. They followed the very shameless Agamemnon and
 Menelaus, that they might win recompense for them from
-the Trojans. 2. But the two kings did not regard or consider
+the Trojans. 
+
+2. But the two kings did not regard or consider
 these things at all. 3. The king of men, Agamemnon,
 threatened to take away the prize of Achilles, for which he
 had struggled much, and which had been given to him by
-the sons of the Acliaeans. 4. We never had a prize of
-honor equal to Agamemnon(’s), whenever we sacked a wellsituated
+the sons of the Acliaeans. 
+
+4. We never had a prize of
+honor equal to Agamemnon(’s), whenever we sacked a well-situated
 city of the Trojans.
 
 LESSON XLI
