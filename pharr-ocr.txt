@@ -2407,15 +2407,15 @@ ends in -o instead of in -ov.
 37.	VOCABULARY
 
 ἀλλά but, moreover.	
-δῖος, δῖa,<note>Declined like θάλασσα.</note> δῖov divine, heavenly, glo-
+δῖος, δῖa,<note>Declined like θάλασσα.</note> δῖov divine, heavenly, glorious.
 
 ἄλλος, ἄλλη, ἄλλo other, another.	
-rious.
 
-αὐτός, αὐτή, αὐτό self, him(self), her(self), 
+
+αὐτός, αὐτή, αὐτό self, him(self), her(self), it(self), same.	(one),	he, she, it.
 ἐκεῖνος, ἐκείνη, ἐκεῖνo / κεῖνος, κείνη, κεῖνo that
 
-it(self), same.	(one),	he, she, it.
+
 
 
 
@@ -2556,8 +2556,8 @@ LESSON X: THE FUTURE AND AORIST OF VERBS IN -ω
 
 47.		VOCABULARY
 
-ἄγ-ω, ἄξω, ἤγαγον, 863 ; 865, 1, 4, lead, drive, conduct, bring, carry,
-ἀνάσσω (Ϝavaκ-), ἀνάξω, ἤναξα, with gen., 985, rule (over), guard, protake.	tect.
+ἄγ-ω, ἄξω, ἤγαγον, 863 ; 865, 1, 4, lead, drive, conduct, bring, carry, take.	
+ἀνάσσω (Ϝavaκ-), ἀνάξω, ἤναξα, with gen., 985, rule (over), guard, protect.
 
 
 
@@ -2571,8 +2571,7 @@ Cover of a vase found at Troy.
 αὖτις (back) again, anew.
 
 Δαναός, Δαναῦ, ὁ Danaan, Greek.
-ἑκατόμβη, ἑκατόμβη, ἡ, hecatomb, sacrifice, a number of animals (originally
-one hundred, cattle) offered in sacrifice.
+ἑκατόμβη, ἑκατόμβη, ἡ, hecatomb, sacrifice, a number of animals (originally one hundred, cattle) offered in sacrifice.
 θάνατος, θανάτου, ὁ death.
 
 Derivatives: ped-agogue, dem-agogue, syn-agogue ; aristocracy ; thanat-opsis, eu-thanasia 610, 9.
@@ -2633,7 +2632,7 @@ LESSON XI: MASCULINE NOUNS OF THE FIRST DECLENSION. COMPOUND VERBS
 
 62.	VOCABULARY
 
-ἀνα-βαίνω (βαν-, βα-), ἀναβήστω (ἀνα-βήσομαι), ἀνέβησα (ἀνέβην) go up, ascend, embark,
+ἀνα-βαίνω (βαν-, βα-), ἀναβήσω (ἀνα-βήσομαι), ἀνέβησα (ἀνέβην) go up, ascend, embark,
 
 ἀπο-λύω, ἀπολύσω, ἀπέλῡσα loose, set free, release.
 
@@ -2642,8 +2641,7 @@ LESSON XI: MASCULINE NOUNS OF THE FIRST DECLENSION. COMPOUND VERBS
 
 *κλεύω (κλευ-, κλεϜ-, κλυ-), —, ἔκλυον with gen. 984, hear, hearken to.
 
-μετέειπον or μετεῖπον = μετα-εἶπον
-(Ϝεπ-), 2d aor. of εἴρω spoke among, addressed, spoke to.
+μετέειπον or μετεῖπον = μετα-εἶπον (Ϝεπ-), 2d aor. of εἴρω spoke among, addressed, spoke to.
 
 ὅτε when (ever).
 
@@ -2703,24 +2701,16 @@ lessons, and learn the following vocabulary absolutely.
 αγλαός, -η, όν bright, shining, splendid,
 glorious.
 
-,άγ-ω, όξω, ήγαγον lead, drive, conduct,
-bring,
-άείδ-ω, άείσω, ήεισα sing (of), hymn,
-chant,
-αλλά but, moreover,
-άλλη elsewhere,
-άλλος, -η, ὁ other, another,
+ἀγ-ω, όξω, ήγαγον lead, drive, conduct, bring,
+ἀείδ-ω, άείσω, ήεισα sing (of), hymn, chant,
+ἀλλά but, moreover,
+ἀλλη elsewhere,
+ἀλλος, -η, ὁ other, another,
 άν- (ά- before consonants), an inseparable
-prefix (“alpha privative”),
-not, un-, dis-, -less, without,
-άνά, άν adv., and prep, with gen.,
-da.t., and acc., up(on), along, up
-through, thereon, high on; adv.,
-(up) on, thereon; with dat., (up)
-on, along; with acc., through
-(out), up through,
-άνα-βαίνω (βαν-, βα-), άναβήο-ω (άνα-
-βήσομαε), άνίβησα (άνε'βην) go up,
+prefix (“alpha privative”), not, un-, dis-, -less, without,
+ἀνά, άν adv., and prep, with gen., dat., and acc., up(on), along, up
+through, thereon, high on; adv., (up) on, thereon; with dat., (up)on, along; with acc., through (out), up through,
+ἀνα-βαίνω (βαν-, βα-), άναβήο-ω (άναβήσομαι), άνίβησα (άνε'βην) go up,
 
 ascend.
 
@@ -2986,12 +2976,11 @@ and
 δαίς, δαιτός, ἡ, feast, banquet, portion.
 
 Ζεύς, Διός, ὁ,  Zeus, father and king of gods and men.
-ἥρως, ἥωος, ὁ, hero, mighty warrior, protector, savior.
+ἥρως, ἥρωος, ὁ, HERO, mighty warrior, protector, savior.
 
-Derivatives:
-tionary.
 
-Translate:
+
+
 
 ἴφθῑμος, ἰφθίμη, ἴφφῑμον mighty, valiant, stout-hearted, brave,
 κύων, κυνός, ὁ, ἡ dog.
@@ -3001,21 +2990,18 @@ Translate:
 
 προ-ϊάπ-τω, προϊάψω, προΐαψα hurl, forward, send forth.
 
-τΐ-θημι,1 (θη-, θε-), θήσ-ω, ἔθηκα 1 put, place, cause.
+τΐ-θημι,<note>Verbs (if not deponent, 897) as they appear in the vocabulary (in the first person singular, present active indicative) ordinarily end in -ω, but some end in -μι. Several of those ending in -μι reduplicate (874, 886) the present with c, as τίθημι (τι-θημι) = θι-θημι (619) put, place, cause, δίδωμι (δι-δωμι) give, grant. Of these verbs ϊημι, δίδωμι, and τίθημι have -κα as the ending of the aorist, instead of σα, 841-843.</note> (θη-, θε-), θήσ-ω, ἔθηκα 1 put, place, cause.
 
-see 4, and find some new ones in the dic-
+Derivatives: see 4, and find some new ones in the dictionary.
 
-61.	1. μῆνις Πηληιάδεω Ἀχιλῆος ἦν οὐλομένη, ἔθηκε γὰρ μῡρί’ ἄλγεα τοῖσιν Ἀχαιοῖσιν, προΐαψε δὲ πολλὰς ψῡχὰς ἰφθίμους ἡρώων Ἄιδι, ἔτευχε δ αὐτοὺς ἑλώρια καὶ δαῖτα κύνεσσιν οἰωνοῖσί τε, ἐτέλεσε δὲ βουλὴν Διός. 
+61. Translate:
+
+	1. μῆνις Πηληιάδεω Ἀχιλῆος ἦν οὐλομένη, ἔθηκε γὰρ μῡρί’ ἄλγεα τοῖσιν Ἀχαιοῖσιν, προΐαψε δὲ πολλὰς ψῡχὰς ἰφθίμους ἡρώων Ἄιδι, ἔτευχε δ αὐτοὺς ἑλώρια καὶ δαῖτα κύνεσσιν οἰωνοῖσί τε, ἐτέλεσε δὲ βουλὴν Διός. 
 
 
 
 
-1	Verbs (if not deponent, 897) as they appear in the vocabulary (in the
-first person singular, present active indicative) ordinarily end in -ω, but
-some end in -μι. Several of those ending in -μι reduplicate (874, 886) the
-present with c, as τίθημι (τι-θημι) = θι-θημι (619) put, place, cause, δίδωμι
-(δι-δωμι) give, grant. Of these verbs ϊημι, δίδωμι, and τίθημι have -κα as the
-ending of the aorist, instead of σα, 841-843.
+
 
 <pb n="21"/>
 
@@ -3027,29 +3013,30 @@ ending of the aorist, instead of σα, 841-843.
 
 5. κᾱλὴ ἦν ἠ βουλὴ Διός.
 
-Greerk Soldiers in Arms
+Greek Soldiers in Arms
 From a Greek vase of about the time of the battle of Marathon.
 
 62.	Iliad, 1-5.
 
-QUOTE
+
 
 Note. — Observe that the long doubtful vowels (519) are not
 marked in the Homeric passages (520), as their length must be learned
 from the metre.
 
 63.	
-1. μἦνιν is emphatic, by position, as the central theme of the Iliad. It is the mad wrath of Achilles, and its terrible consequences to the Greeks, which the poet uses as a thread for his plot. —
- ἀείδε [άειδω] : pres. act. imperat., 2d sing., sing, i.e. inspire me with thy gift of song,
-1069. — 
+1. 
+
+μἦνιν is emphatic, by position, as the central theme of the Iliad. It is the mad wrath of Achilles, and its terrible consequences to the Greeks, which the poet uses as a thread for his plot. —
+ ἀείδε [άειδω] : pres. act. imperat., 2d sing., sing, i.e. inspire me with thy gift of song, 1069. — 
 θεά (the muse of song) is vocative. — 
 Πηληιάδεω = Πηληιάδᾱο 573 (probably Πηληιάδᾱ’ Ἀχιλῆος stood here originally).
 
-2. ουλομέννην is emphatic as being at the bead of the verse, and at the
+2. οὐλομένην is emphatic as being at the bead of the verse, and at the
 end of its clause, and out of the natural order. It is in a kind of apposition
 with μῆνιν, as though it were an afterthought, and is expanded and
 
-<pb n="22"/>LESSON XIII	[64
+<pb n="22"/>
 
 amplified by the following clause. — 
 
@@ -3116,7 +3103,7 @@ Iliad, 1-5
 2)	Copy and mark the scansion of the first five verses of the Iliad.
 
 66.	Remember that the only vowels the quantity of which
-is not known are a, t, v and that their length is indicated in
+is not known are α, ι, υ and that their length is indicated in
 the vocabulary. As soon as possible the student should
 master the rules for the length of vowels of the inflectional
 endings, so as to be free from the vocabulary in this particular.
@@ -3190,8 +3177,8 @@ Therefore the metrical scheme of this verse is:
 ˉ ˘ ˘ | ˉ ˘ ˘ |ˉ ˉ | ˉ ˘ ˘ | ˉ ˘ ˘ |ˉ ˉ |
 
 
-Now mark the next verse : ουΧομενην, ἡ μυρί' Άχαιοΐς aXye
-εθηκεν,
+Now mark the next verse : οὐλομένην, ἣ μῡρί' Ἀχαιοῖς ἄλγε’
+ἔθηκεν,
 
 The first syllable (οὐ-) is long, being a diphthong.
 
@@ -3277,8 +3264,7 @@ Glyptothek, Munich
 
 GREEK GODS AND GODDESSES
 <pb/>
-the separate feet, unless there is a pause in sense, caesura,
-1185, or diaeresis, 1188.
+the separate feet, unless there is a pause in sense, caesura, 1185, or diaeresis, 1188.
 
 77.	Careful attention must be paid to the meaning of the
 passage, and the various pauses should be indicated by the
@@ -3320,8 +3306,8 @@ you know, as you might expect, that is, in effect. It is not always translatable
 
 Λητώ, Λητὀος ἡ  (Λητούς 584-585) Leto, mother of Apollo,
 μάχ-ομαι, <note>87, Note.</note> fight, battle. 
-ξuv-ί-ημι (=σι-σημι 603-604; ἡ-, ἑ-), ξυνήσω, ξύνηκα <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> bring together, throw together, hearken, heed,
-ὄρνῡμι, ὄρσω, ώρσα (ὤρορον) stir up, kindle, incite, excite, arouse,
+ξuv-ί-ημι (=σι-σημι 603-604; ἡ-, ἑ-), ξυνήσω, ξύνηκα <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> bring together, throw together, hearken, heed.
+ὄρνῡμι, ὄρσω, ὤρσα (ὤρορον) stir up, kindle, incite, excite, arouse,
 πρῶτος, πρώτη, πρῶτον first, foremost, chief;
 τὸ πρῶτον, τὰ πρῶτα, as adverb, 781-782, at first, firstly, first,
 υἱός, υἱοῦ (υἱέος, ος), ὁ son.
@@ -3786,7 +3772,7 @@ escaped death.
 
 6.	The	child	of	the	priest	was	freed,	when he gave many shining ransoms, which the two sons of Atreus accepted.
 
-LESSON XVIII¨THE PERFECT AND PLUPERFECT ACTIVE OF VERBS
+LESSON XVIII: THE PERFECT AND PLUPERFECT ACTIVE OF VERBS
 
 99.	1) Learn the perfect and pluperfect indicative active
 of λύω 904, and of βαίνω 922.
@@ -3803,7 +3789,7 @@ of λύω 904, and of βαίνω 922.
 101.	VOCABULARY
 
 ἀγορή, ῆς, η, assembly, meeting place, gathering, harangue,
-αϊξ, αἰγός, ὁ, ἡ goat
+αἴξ, αἰγός, ὁ, ἡ goat
 Ἄργος, Ἄργεος, τό Argos, a country and city in Greece.
 γέρων, γέροντος, ὁ old man.
 γῆρας, γήραος, τό old age, eld.
@@ -3822,7 +3808,7 @@ of λύω 904, and of βαίνω 922.
 ταῦρος, ταύρου, ὁ bull.	
 
 
-φεύγω (φευγ-, φνγ-), φεύξομαι, ἔφυγον, πέφευγα flee, fly, escape, run (off, away, along).
+φεύγω (φευγ-, φυγ-), φεύξομαι, ἔφυγον, πέφευγα flee, fly, escape, run (off, away, along).
 φρήν, φρενός, ἡ diaphragm, mind, heart., soul, spirit, disposition.
 
 ὠκύς, ὠκεῖα, ὠκύ swift, speedy.
@@ -3877,10 +3863,7 @@ VOCABULARY
 
 106.
 
-Ά'γαμ.ζμ.
-Ἀγαμέμνων, Ἀγαμέμνονος, ὁ Agamemnon, king of Mycenae, brother of Helen's
-husband, Menelaus, and commander-in-chief of the allied Greet
-military expedition against, Troy.
+Ἀγαμέμνων, Ἀγαμέμνονος, ὁ Agamemnon, king of Mycenae, brother of Helen's husband, Menelaus, and commander-in-chief of the allied Greek military expedition against, Troy.
 αἰδέομαι (αἰδεσ-) αἰδέσ(σ)ομαι, ᾐδεσ(σ)άμεν reverence
 
 ἀφ-ί-ημι (ἡ-, ἑ-), ἀφήσω. ἀφῆκα (ἀφέηκα) send away, dismiss, hurl, drive off.
@@ -3890,24 +3873,16 @@ military expedition against, Troy.
 
 ἔνθα then, there(upon), here,
 ἐπ-ευ-φημέ-ω, ἐπευφήμησ-a shout assent, approve,
-ἤ (ήέ) or, than, whether,
+ἤ (ἠέ) or, than, whether,
 ἢ ... ἤ either. . . or, whether... or.
 κιχάνω (κιχ-, κιχε-), κιχήσομαι, ἐκιχησάμην (ἔκιχον, ἐκίχην) come upon, overtake, arrive (at).
 
 κρατερός. κρατερή, κρατερόν strong, harsh, powerful,stern, mighty,
 μή not, lest, that not.
 μῦθος, μύθου, ὁ word, command, story,
-νῦν now, at this time, as matters now are, as it is. Commonly
-implies a contrast.
+νῦν now, at this time, as matters now are, as it is. Commonly implies a contrast.
 
-παρά, πάρ, παραὶ adv., and prep, with gen., dat. and acc., from the
-side of, by the side of, to the
-side of, beside, along; adv., beside,
-near by; with gen., from
-(the side of, beside) ; with dat.,
-by (the side of), near, beside;
-with acc., to the side of, along
-(by), beside, stretched along,
+παρά, πάρ, παραί adv., and prep, with gen., dat. and acc., from the side of, by the side of, to the side of, beside, along; adv., beside, near by; with gen., from (the side of, beside) ; with dat., by (the side of), near, beside; with acc., to the side of, along (by), beside, stretched along,
 
 τέλλω (τελ-, ταλ-), ἔτειλα, τέταλμαι command, enjoin (upon), accomplish, rise.
 ὕστερος, ὐστέρη, ὕστερον behind, later, at another time, further(more).
@@ -3962,19 +3937,17 @@ with that of all the other Achaeans (ἄλλοι μεν πάντες). —
 κακῶς;: harshly (also perhaps
 with evil, i.e. disastrous consequences).
 
-26.	“Let me not come upon you.”— κιχήω [κιχάνω]: aor. act. subjunctive,
-1st sing., with μη, may I not come, let me not come upon. — 
+26.	“Let me not come upon you.”— 
 
-σέ
-[σύ]; acc. sing., you (thee). — 
+κιχήω [κιχάνω]: aor. act. subjunctive, n1st sing., with μη, may I not come, let me not come upon. — 
+
+σέ [σύ]; acc. sing., you (thee). — 
 
 ἐγώ is always emphatic, 761.
 
-27.	δηθύνοντ’ = δηθύνοντα [δηθύνω] and ἰόντα [εἶμι] are pres. act. participles,
-acc. sing. masc. (modifying σε), loitering, tarrying. — 
+27.	δηθύνοντ’ = δηθύνοντα [δηθύνω] and ἰόντα [εἶμι] are pres. act. participles, acc. sing. masc. (modifying σε), loitering, tarrying. — 
 
-αὖτις ἰόντα:
-coming hack, returning. — 
+αὖτις ἰόντα: coming hack, returning. — 
 ὕστερον : adv., 781. —
 
 ἢ ὕστερον = ἠϜ’ ύστερον.
@@ -4055,7 +4028,7 @@ Iliad, 28-32
 Derivatives: soterio-logy, 584-585; tele-graph, tele-phone,
 tele-pathy, tel-scope.
 
-νέομαι (veσ-) usually in fut. sense, come, go, return,
+νέομαι (vεσ-) usually in fut. sense, come, go, return,
 νύ encl. now, indeed, surely, then,
 πρίν sooner, until, before, formerly,
 σαώτερος, σαωτέρη, σαώτερον, comparative of σαός, σαή, σαόν 747-748, safer,
@@ -4115,7 +4088,9 @@ plural subject. It agrees, however, with the nearest σκῆπτρον, 973, 2.
 with a contemptuous gesture or jerk of his thumb over his shoulder
 
 toward the tent where
-the girl was. — εγώ is
+the girl was. — 
+
+ἐγώ is
 placed in emphatic contrast
 to the other Greeks.
 “ Even though the other
@@ -4135,21 +4110,18 @@ as deeply as possible. —
 shall never be returned
 to you and yours.
 
-31.	ἐποιχομένην [ἐποίχομαι]: pres. act. (deponent) part., acc. sing,
-fem, (modifies μιν, her), plying. — 
+31.	ἐποιχομένην [ἐποίχομαι]: pres. act. (deponent) part., acc. sing, fem, (modifies μιν, her), plying. — 
 
 ἀντιόωσαν : an “assimilated” form, 945-948.
 
-32.	ἴθι [εἶμι]: pres,
-act. imperat., 2d sing.,
-go, βegone. — 
+32.	ἴθι [εἶμι]: pres, act. imperat., 2d sing., go, βegone. — 
 
 ἐρέθιζε [ἐρεθίζω] : pres. act. imperat., 2d sing., vex, anger. — 
 
 νέηαι [νέομαι], pres. act. (deponent) subjunct., 2d sing., you may return. — 
 
-σαώτερος (emphatic
-by position) : more safely), i.e. than if you should attempt to remain. —
+σαώτερος (emphatic by position) : more safely), i.e. than if you should attempt to remain. —
+
 νέηαι (οἴκαδε).
 
 “You depend upon your insignia (σκῆπτρον καὶ στέμμα θεοῖο) as priest
@@ -4158,7 +4130,7 @@ to protect you. Small help will they be if you continue to anger me.”
 
 42
 
-Lions’ Gate, Mycenje
+Lions’ Gate, Mycenae
 
 The stone relief of triangular shape represents two
 lions (or lionesses) facing each other on opposite sides of a
@@ -4173,7 +4145,7 @@ shows the entrance to the fortified enclosure containing' Agamemnon’s
 palace, where he intended the daughter of the priest to serve him.
 It is characteristic of the poet’s art that Agamemnon is represented
 as leaving to the imagination just what dire form his brutality may
-take, although his threat perhaps contains an intimation that if the. old
+take, although his threat perhaps contains an intimation that if the old
 
 
 "Treasury of Atreus,” Mycenae
@@ -4223,18 +4195,15 @@ VOCABULARY
 
 120.
 
-ἀκέων, ἀκέουσα, ον silent, quiet, being
-silent.
+ἀκέων, ἀκέουσα, ἀκέον silent, quiet, being silent.
 
-ἀμφι-βαίνω (βαν-, βα-), ἀμφιβήσω,
-(άμφιβήσομαι), ἀμφέβησα, (ἀμφέβην), ἀμφιβέβηκα surround, go round, protect.
+ἀμφι-βαίνω (βαν-, βα-), ἀμφιβήσω, (άμφιβήσομαι), ἀμφέβησα, (ἀμφέβην), ἀμφιβέβηκα surround, go round, protect.
 ἀπ-άνευθε(ν) apart, away,
 ἀρά-ομαι, ἀρήσομαι, ἠρησάμην pray, curse, invoke.
 
 ἀργυρό-τοξος, ἀργυρο-τόξη, ἀργυρό-τοξον of a silver bow, equipped with a silver bow, silver-bowed one. Apollo.
 γεραιός, γεραιή, γεραιόν old; masc. as substantive, old man.
-δείδω (δϜi-, δϜei-, δϜoi-), δείσ-ομαι,
-ἔδεισα, δείδοικα (δείδια) fear, be afraid.
+δείδω (δϜi-, δϜei-, δϜoi-), δείσ-ομαι, ἔδεισα, δείδοικα (δείδια) fear, be afraid.
 
 ἔπειτα then, thereupon.
 <pb n="44"/>
@@ -4249,7 +4218,7 @@ silent.
 τίκτω (= τε-τέκω: τεκ-, τοκ-), τέξω,
 ἔτεκον, τέτοκα* bear, produce, give birth to.
 
-φημί (Φη-, φα-), φήσω, ἔφησα*, imperf. act. ϊφην, mid. ίφάμην speak, say, tell.
+φημί (Φη-, φα-), φήσω, ἔφησα*, imperf. act. ϊφην, mid. ἐφάμην speak, say, tell.
 
 ὥς (ὧς, ὡς) thus, so, in this way;
 ὣς ... ὥς as ... so.
@@ -4262,8 +4231,8 @@ poly-technic; pro-phet, pro-phecy.
 
 121. Translate :
 
-1. Ἀγαμέμνων ὣς ἔφατο, ὁ δε γέρων 8είσᾱς ἐπείθετο μύθῳ
-κρατέρῳ (996), ἀκέων δ’ ’ἔβη παρὰ θῖνα ποΧυφλοίσβοιο θαλάσσης, ἔπειτα δὲ κιὼν ἀπάνευθεν ὁ γεραιὸς ἠράετο πολλὰ (780—781) ἀνακτι Ἀπόλλωνι, τὸν ἠύκομος Λητὼ ἔτεκεν. 
+1. Ἀγαμέμνων ὣς ἔφατο, ὁ δε γέρων δείσᾱς ἐπείθετο μύθῳ
+κρατέρῳ (996), ἀκέων δ’ ἔβη παρὰ θῖνα πολυφλοίσβοιο θαλάσσης, ἔπειτα δὲ κιὼν ἀπάνευθεν ὁ γεραιὸς ἠράετο πολλὰ (780—781) ἀνακτι Ἀπόλλωνι, τὸν ἠύκομος Λητὼ ἔτεκεν. 
 
 2. Ἀπόλλων ἄναξ ἔκλυε ἱερῆος ἀραομένου (984), τὸν γὰρ ἐφίλησε.
 
@@ -4277,8 +4246,10 @@ poly-technic; pro-phet, pro-phecy.
 
 6. γέρων ἦλθε θοὰς ἐπὶ νῆας Ἀχαιῶν λῡσόμενος θύγατρα. 
 
-7. πάντες Ἀχαιοὶ λύσουσι τπαῖδα φίλην γέροντος, ἁζόμενοι υἱὸν Διὸς
-ἑκηβόλον Ἀπόλλωνα.	8. γῆρας ἔπεισι τὴν ἐνὶ οἴκῳ Ἀγαμέμνονος Κλυταιμ(ν)ήστρης τε ἐποιχομένην ἱστόν.
+7. πάντες Ἀχαιοὶ λύσουσι παῖδα φίλην γέροντος, ἁζόμενοι υἱὸν Διὸς
+ἑκηβόλον Ἀπόλλωνα.	
+
+8. γῆρας ἔπεισι τὴν ἐνὶ οἴκῳ Ἀγαμέμνονος Κλυταιμ(ν)ήστρης τε ἐποιχομένην ἱστόν.
 
 122.	Copy, scan, and translate :
 
@@ -4341,8 +4312,9 @@ calling upon him in his capacity as archer god, the priest already has in
 mind the kind of answer he desires to his prayer. He would have the
 god slay the Greeks with his arrows. Naturally the bow of Apollo must
 be of precious metal, as befits the dignity of a god. Read again the
-note on vs. 15, § 90. — ἀμφιβέβηκας : the perfect is to be translated as a
-present, dost protect. It is the figure of a warrior bestriding a fallen
+note on vs. 15, § 90. — 
+
+ἀμφιβέβηκας : the perfect is to be translated as a present, dost protect. It is the figure of a warrior bestriding a fallen
 comrade, or of an animal bestriding its young, in the face of danger, for
 protection.
 
@@ -4378,7 +4350,7 @@ active, middle and passive of λύω, 904, 910.
 
 127.	VOCABULARY
 βέλος, βέλεος, τό dart, arrow, shaft, missile.. (Cf. βάλλω.) 
-δάκρυ, δάκρυος. τό tear.
+δάκρυ, δάκρυος, τό tear.<note n="grc">note that "tear" alone does not disambiguate the noun "a tear, tears" and verb "to tear" are indistuishable</note>
 
 ἐέλδωρ (indecl.) τό desire, wish,
 εἰ (αἰ) if, whether.
@@ -4390,25 +4362,23 @@ active, middle and passive of λύω, 904, 910.
 
 ἶφι mightily, with might: an old instrumental of Ϝίς, might., cf. Lot. vis.
 
-κραιαίνω (κραν-), ἐκρήηνα accomplish,
-perform, fulfill.
+κραίνω (κραιαίνω, κραν-), ἐκρήηνα accomplish, perform, fulfill.<note n="grc">I made the lemma κραίνω to be in sync with other resources. Not sure if I should do it this way or by adding markup.</note>
 
 
 
 
 
-νηός, νηοῦ,  ὁ temple, shrine,
+νηός, νηοῦ,  ὁ temple, shrine. <note n="grc">νηός is also the gen sg of ναῦς -- so you have to be sure to search for the lemma and not the inflected form or you get swamped with false positives</note>
 ὅ-δε, ἥ-δε, τό-δε this, that.
 
 πίων, πίειρα, πῖον  fat, rich.
 
-ποτέ (encl.) ever, at any (some) time, once.
+ποτέ (Encl.) ever, at any (some) time, once.
 
 Σμινθεύς, Σμινθῆos, ὁ Smintheus, mouse god, an epithet of Apollo.
 
 Τένεδος, Τενέδου, ὁ Tenedos, an island near Troy.
-τίνω (τeι-, τι-, τινϜ-), τίσω, ἔτῑσα,
-τέτῑκα*, τέτῑσμαι* requite, atone for, pay the penalty.
+τίνω (τει-, τι-, τινϜ-), τίσω, ἔτῑσα, τέτῑκα*, τέτῑσμαι* requite, atone for, pay the penalty.
 
 χαρίεις, χαρίεσσα, χαρίεν pleasing, grateful, graceful, agreeable.
 Derivatives: charity, eu-charist.
@@ -4439,7 +4409,7 @@ Iliad, 38-42
 
 130.	38. Τενέδοιο : 985. — 
 
-ξαθέην: Cilla is called “ holy,” as containing
+ζαθέην: Cilla is called “ holy,” as containing
 a temple or sacred precinct which the god loved to frequent. Thus Jerusalem
 was the “ holy city ” of Jehovah, since it contained the house
 (temple) in which he dwelt, and there are some to-day who still call
@@ -4447,13 +4417,13 @@ Palestine the “Holy Land.” —
 
 ἀνάσσεις: art protecting lord. — 
 
-τὶ Ϝῖφι Ϝανάσσεις
-Favatro-eis.
+τε Ϝῖφι Ϝανάσσεις.<note n="grc">this is a substition for what is in the text, showing lost digammas.</note>
 
 39.	ἐπὶ . . . ἔρεψα: 1049. The part the old priest took in building
 the temple may have involved no more work than the superintending of
-the job, while ordinary people performed the labor.—τοι [συ]: dat.
-sing., for thee. — 
+the job, while ordinary people performed the labor.—
+
+τοι [συ]: dat. sing., for thee. — 
 
 Σμινθεῦ: as in vs. 37 the priest calls upon the god by
 his title of ἀργυρότοξος, thereby intimating that he should bring along
@@ -4510,8 +4480,7 @@ countless numbers of them perish in the rout that follows.
 
 41.	μοι [ἐγώ] : dat. sing., for me. — 
 
-κρήηνον [κραιαίνω]: aor. act.
-imperat., 2d sing., accomplish!
+κρήηνον [κραιαίνω]: aor. act. imperat., 2d sing., accomplish!
 
 42.	τίσειαν [τίνω]: aor. act. optative, 3d plur., may they atone for!
 
@@ -4519,7 +4488,7 @@ imperat., 2d sing., accomplish!
 βέλεσσιν : 1005. —
 
 Δαναοὶ seems to be used as a name for the Greeks in
-Homer, with no particular distinction in meaning from Ἀχαιοὶ or
+Homer, with no particular distinction in meaning from Ἀχαιοί or
 Ἀργεῖοι.
 
 The burden of the priest’s prayer (vss. 37-42) is: “I have placed you
@@ -4532,8 +4501,7 @@ In a sacrifice of this kind the priest burned choice bits of the animal
 to the god as a banquet to him. The god obtained this as it came up
 to him in the smoke that rose to heaven (cf. Gen. viii, 20-21, etc.). — 
 
-μηριά
-(vs. 40) were the thigh-pieces, the bones with the marrow and some
+μηριά (vs. 40) were the thigh-pieces, the bones with the marrow and some
 meat. The marrow of the bones was looked upon as a special delicacy.
 Observe how specific the priest is in enumerating the favors he has
 conferred upon his god. “ I have built for you a shrine, for your pleasure,
@@ -4542,8 +4510,8 @@ with the bones and marrow, and I swear that they had plenty of fat on
 them too.”
 
 In vss. 39-42 observe the rhyming effect produced by the repetition
-of the oi sound in these verses, which brings these words (τοι, tot, /rot,
-Δαναοί) into special prominence: “If I have done thy wish for thee, then
+of the οι sound in these verses, which brings these words (τοι, τοι, μοι,
+Δαναοί<note n="grc">another place where we can use very precise annotations to specify the particular instance of  a string/token</note>) into special prominence: “If I have done thy wish for thee, then
 thou shouldst do my wish for me.” The priest has done so many favors
 for the god that now the god ought to do something for the priest, and
 avenge his wrongs by slaying the Danaans. If we were in the realm of
@@ -4556,12 +4524,20 @@ results with more certainty.
 131.	Translate:
 
 1. All the gods who have Olympian homes protect very
-sacred Chrysa and Cilia. 2. Apollo Smintheus will rule
-Tenedos by his might. 3. We roofed many pleasing temples
+sacred Chrysa and Cilia. 
+
+2. Apollo Smintheus will rule
+Tenedos by his might. 
+
+3. We roofed many pleasing temples
 to the Olympian gods and burned for them the fat
-thigh-pieces of bulls and goats. 4. If we accomplish the
+thigh-pieces of bulls and goats. 
+
+4. If we accomplish the
 will of the god, he will destroy the wicked Danaans with his
-darts. 5. Agamemnon will atone for the tears of the old
+darts. 
+
+5. Agamemnon will atone for the tears of the old
 man.
 
 LESSON XXIII: THE SUBJUNCTIVE MODE OF VERBS
@@ -4590,18 +4566,15 @@ the subjunctive, 799-800.
 
 ἀμφ-ηρεφής, ἀμφ-ηρεφές (731) covered at both ends.
 
-*εἴκω (Ϝεικ-, Ϝοικ-, Ϝικ-), εἴξω*, ἔοικα be like, resemble, be fitting, seem
-(likely), appear (suitable),
+*εἴκω (Ϝεικ-, Ϝοικ-, Ϝικ-), εἴξω*, ἔοικα be like, resemble, be fitting, seem (likely), appear (suitable),
 
 εὔχ-ομαι, εὔξομαι, εὔξάμην, εὖγμαι* pray, talk loud, boast, exult,
 κάρηνον, καρήνου, τό peak, summit, headland, citadel,
-κατὰ adv., and prep, with gen. and acc., down (from), down over, down through; adv., down, below ; with gen., down (over, from, below); with acc., down (along,
-through), according to, on.
+κατά adv., and prep, with gen. and acc., down (from), down over, down through; adv., down, below ; with gen., down (over, from, below); with acc., down (along, through), according to, on.
 κῆρ, κῆρος, τό heart, soul.
 
-κῑνέω*. κῑνήσω*, ἐκῑνησα, κικίνημαι* move, stir; middle and pass., move self, bestir, go, come,
-κλάζω (κλαγγ-, κλαγ-), κλάγξω*
-ἔκλαγξα (ἔκλαγον),κέκληγα CLANG, roar, shriek, resound,
+κῑνέω*. κῑνήσω*, ἐκίνησα, κικίνημαι* move, stir; middle and pass., move self, bestir, go, come,
+κλάζω (κλαγγ-, κλαγ-), κλάγξω*, ἔκλαγξα (ἔκλαγον), κέκληγα CLANG, roar, shriek, resound,
 νύξ, νυκτὀς, ἡ night, darkness,
 ὀιστός, ὀιστοῦ, ὁ arrow, shaft,
 τόξον, τόξου, τό bow.
@@ -4621,12 +4594,13 @@ Derivatives: cranium (597-598); kinetic(al), cinema
 
 2.	θεοὶ κλύονται Ἀχαιῶν εὐχόμενων. 
 
-3. βαίνουσι θεοὶ πάντες κατὰ καρήνων Ὀλύμπον χωόμενοι κῆρ (1014).	
+3. βαίνουσι θεοὶ πάντες κατὰ καρήνων Ὀλύμπου χωόμενοι κῆρ (1014).	
 
-4.	ἔχουσι τόξα καὶ φαρέτρας ἀμφηρεφἐας ὤμοισιν. 
+4.	ἔχουσι τόξα καὶ φαρέτρας ἀμφηρεφέας ὤμοισιν. 
 
-5. κλάζουσιν ὀιστοὶ
-ἐπ’ ὤμων Ἀπόλλωνος χωομένου. 6. χωόμενος θεὸς ἤιε [εἶμι]
+5. κλάζουσιν ὀιστοὶ ἐπ’ ὤμων Ἀπόλλωνος χωομένου. 
+
+6. χωόμενος θεὸς ἤιε [εἶμι]
 
 <pb n="51"/>
 
@@ -4681,7 +4655,7 @@ gods to show anger (χωόμενος). “ And while the flesh was yet between
 their teeth, ere it was chewed, the wrath of Jehovah was kindled against
 the people, and Jehovah smote the people with a very great plague.” —
 
-βῆ κατ’ Ὀλύμποιο (Ὀλύμποιο, 571) καρήνων: of course if the gods lived
+βῆ κατ’ Οὐλύμποιο (Ὀλύμποιο, 571) καρήνων: of course if the gods lived
 in heaven, they must come down to earth in order to work their will
 
 <pb n="52"/>
@@ -4689,19 +4663,23 @@ in heaven, they must come down to earth in order to work their will
 among the children of men, as a system of telepathy had not yet been
 elaborated. “ And Jehovah came down to see the city and the tower,
 which the children of men builded. ... So Jehovah scattered them
-abroad trem thence upon the face of all the earth: and they left off to
+abroad from thence upon the face of all the earth: and they left off to
 build the city.” Apollo is thought of as resting at his ease in his palace
 on Mt. Olympus when he hears the prayer of the priest.
 
 45.	τόξα: only one bow; the use of the plural visualizes its various
 parts. — 
 
-ὤμοισιν: 1009. — ἀμφηρεφέα has its final vowel long here,
+ὤμοισιν: 1009. — 
+
+ἀμφηρεφέα has its final vowel long here,
 although it should be short. The reason is unknown.
 
 46.	ἔκλαγξαν: like πολυφλοίσβοιο (vs. 34) is an onomatopoetic word,
 by the use of which we are made to hear the rattle of the arrows of the
-god in his rage. — χωομένοιο is used substantively, of him enraged.
+god in his rage. — 
+
+χωομένοιο is used substantively, <gloss>of him enraged</gloss>.
 
 47.	αὐτοῦ κινηθέντος : 1111. — 
 
@@ -4709,33 +4687,23 @@ god in his rage. — χωομένοιο is used substantively, of him enraged.
 
 ϜεϜοικώς.— 
 
-αὐτοῦ is emphatic by position. It is none less than the mighty god himself who is
-now before us. 
+αὐτοῦ is emphatic by position. It is none less than the mighty god himself who is now before us. 
 
-νυκτὶ ἐοικώς: like unto night, both in swiftness of coming
-and in the awful gloom and dread which night brings to primitive
-peoples who have no adequate lighting facilities. This expression visualizes
-his appearance for the eye, as ἔκλαγξαν presents his coming to the
-ear.
+νυκτὶ ἐοικώς: like unto night, both in swiftness of coming and in the awful gloom and dread which night brings to primitive peoples who have no adequate lighting facilities. This expression visualizes his appearance for the eye, as ἔκλαγξαν presents his coming to the ear.
 
 139.	Translate:
 
 1. Apollo heard the Achaeans as they prayed. 
 
-2. The
-gods went down from the summits of Olympus. 
+2. The gods went down from the summits of Olympus. 
 
-3. Let us
-carry bows and quivers on (our) shoulders. 
+3. Let us carry bows and quivers on (our) shoulders. 
 
-4. The arrows
-may clang upon the shoulders of the angry gods. 
+4. The arrows may clang upon the shoulders of the angry gods. 
 
-5. May
-we not come upon you, children, beside the hollow ships.
+5. May we not come upon you, children, beside the hollow ships.
 
-6.	They may return more safely home when they have
-sacked utterly the city of Priam.
+6. They may return more safely home when they have sacked utterly the city of Priam.
 
 LESSON XXIV: IMPERATIVE VERBS, ACTIVE
 
@@ -4753,44 +4721,31 @@ form, and more particularly the imperatives.
 
 142.	VOCABULARY
 
-αἰεί, αἰέν (=αίϜεί) always, EVER, continually, eternally,
+αἰεί, αἰέν (=αἰϜεί) always, EVER, continually, eternally,
 ἀργός, ἀργή, άργον bright, swift, flashing.
 
 ἀργῡρέος, ἀργῡρέη, ἀργῡρέον silver(y), of silver,
 αΰτάρ (άτάρ 571) but, moreover, on the other hand,
-βάλλω (βαλ-, βλη-) βαλέω, ἔβαλον,
-βέβληκα, βέβλημαι throw, hurl, shoot, dash,
+βάλλω (βαλ-, βλη-) βαλέω, ἔβαλον, βέβληκα, βέβλημαι throw, hurl, shoot, dash,
 βιός, βιοῦ, ὁ bow.
 
 γίγνομαι (γεν-, γενε-, γον-) γενήσομαι*, ἐγενόμην, γέγονα, γεγένημαι* become, be, arise.
 
 ἕζομαι (σεδ- 603), ἕσσομαι, εἷσα, ἑ(ε)σσάμην sit down, seat.
-ἐφ-ί-ημι (σι-σ-ημι 603, ση-, σε- =
-ἡ-, ἑ-), ἐφήσω, ἐφῆκα (ἐφέηκα), ἐφεῖκα*, ἐφεῖμαι*, with dat., 1004, shoot against, hurl upon, send upon.
+ἐφ-ί-ημι (σι-σ-ημι 603, ση-, σε- = ἡ-, ἑ-), ἐφήσω, ἐφῆκα (ἐφέηκα), ἐφεῖκα*, ἐφεῖμαι*, with dat., 1004, shoot against, hurl upon, send upon.
 
 ἐχε-πευκής, ἐχεπευκές sharp, biting.
 
 θαμέες, θαμειαί, θαμέα thick, crowded,
-ἵ-ημι (= σι-σημι 603—604, ση-, σε- =
-ἡ-, ἑ-) ἥσω, ἧκα (ἕηκα), εἷκα*,
-εἷμαι* throw, hurl, shoot, send,
+ἵ-ημι (= σι-σημι 603—604, ση-, σε- = ἡ-, ἑ-) ἥσω, ἧκα (ἕηκα), εἷκα*, εἷμαι* throw, hurl, shoot, send,
 ἰός, ἰοῦ, ὁ arrow.
 
-μετά, adv., and prep, with gen., dat.,
-and acc., with, in, among, amid,
-into the midst of, after, next
-to; adv., among, after(ward),
-around, about, in the direction,
-in pursuit; with gen., with; with
-dat., among, in the midst of;
-with acc., among, into the midst
-of, after, in pursuit of, to.
+μετά, adv., and prep, with gen., dat., and acc., with, in, among, amid, into the midst of, after, next to; adv., among, after(ward), around, about, in the direction, in pursuit; with gen., with; with dat., among, in the midst of; with acc., among, into the midst of, after, in pursuit of, to.
 
 νέκῡς, νέκυος, ὁ dead body, corpse,
 οὐρεύς, οὐρῆος, ὁ mule.
 
-Derivatives: hyper-bole, hyper-bolic(al), para-bola, para-ble, 593-597; gen-esis, hydro-gen, oxy-gen, theo-gony, cosmo-gony; sedentary;
-nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
+Derivatives: hyper-bole, hyper-bolic(al), para-bola, para-ble, 593-597; gen-esis, hydro-gen, oxy-gen, theo-gony, cosmo-gony; sedentary; nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
 
 143. Translate:
 
@@ -4807,14 +4762,13 @@ nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
 
 6. ὁ θεὸς ἐφῑεὶς ἐχεπευκέα βέλεα αὐτοῖσιν (Ἀχαιοῖσιν) ἔβαλλεν. 
 
-7. πολλαὶ δὲ πυραὶ νεκύων πολλαι ἔκαίοντο θαμειαί. 
+7. πολλαὶ δὲ πυραὶ νεκύων πολλαὶ ἐκαίοντο θαμειαί. 
 
 8. μῆνιν ἄειδε, θεά, Πηληιάδεω Ἀχιλῆος.
 
 9.	άλλ’ ἴθι, μή μ’ ἐρέθιζε, σαώτερος ὥς κε νέηαι. 
 
-10. κλῦθί
-μευ, ἀργυρότοξε. 
+10. κλῦθί μευ, ἀργυρότοξε. 
 
 11. τόδε μοι κρήηνον ἐέλδωρ.
 
@@ -4822,7 +4776,7 @@ nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
 
 144.	Copy, scan, and translate:
 
-Iliad, ^8-52
+Iliad, 48-52
 
 εζετ’ €7Teir ἀπάνευθε νέων, μετὰ B’ ibv εηκεν ·
 
@@ -4841,7 +4795,9 @@ Iliad, ^8-52
 ἰόν: the first arrow. The poet thus makes definite and clear the picture he is
 seeking to paint.
 
-49.	8εινή : terrifying. — κλαγγή: onomatopoetic. We thus hear the
+49.	δεινή : terrifying. — 
+
+κλαγγή: onomatopoetic. We thus hear the
 clang of the bow. The rhythm of the verse, especially toward the end,
 helps in producing this effect. — 
 
@@ -4921,24 +4877,20 @@ Olympus, they seated themselves apart from the ships and
 shot arrows among them, and a terrible clang arose from
 their silver bows. 
 
-2. All the gods have bows and quivers
-covered at both ends. 
+2. All the gods have bows and quivers covered at both ends. 
 
 3. The bow of Apollo is of silver.
 
-4.	First let us attack the mules and swift dogs, and then
-hurling biting darts upon themselves, let us shoot (them).
+4.	First let us attack the mules and swift dogs, and then hurling biting darts upon themselves, let us shoot (them).
 
 5.	Let many funeral pyres be burned. 
 
-6. Burn the pyres
-of dead bodies. 
+6. Burn the pyres of dead bodies. 
 
 7. Shoot your sharp arrows, and sit down.
 
 
-8. Attack the army of the Achaeans, for they insulted
-Chryses, the beloved priest of the great god, Apollo.
+8. Attack the army of the Achaeans, for they insulted Chryses, the beloved priest of the great god, Apollo.
 
 <pb n="56"/>
 
@@ -4956,9 +4908,7 @@ VOCABULARY
 
 ἀγείρω (άγερ-) ἤγειρα, ἀγήγερμαι collect, assemble, gather.
 
-ἀν-ί-στημι (στη-, στα-). ἀναστήσω,
-ἀνέστησα (ἀνέστην), ἀνέστηκα,
-ἀνέσταμαι* stand up, set up, raise, (a) rise,
+ἀν-ί-στημι (στη-, στα-), ἀναστήσω, ἀνέστησα (ἀνέστην), ἀνέστηκα, ἀνέσταμαι* stand up, set up, raise, (a)rise,
 ἐννῆμαρ nine days.
 
 ἐπεί when, since, for.
@@ -6666,14 +6616,14 @@ LESSON XXXV: IRREGULAR VERBS IN -μι, εἰμί, AND ENCLITICS
 Iliad, 118-125
 220. Learn the conjugation of είμὶ complete, 964, and read 553-559.
 
-VOCABULARY
+
 
 
 
 
 221.	Optional :
 
-222.
+222. VOCABULARY
 
 ἀ-γέραστος, ἀ-γεράστη, ἀ-γέραστον, without a prize of
 honor (γέρας)·
@@ -6693,9 +6643,7 @@ superl.
 ξῡνήιος, ξῡνηίη, ξῡνήιον common (stock possessions),
 οἶος, οἴη, οἶον  alone, sole, only.
 
-<pb n="87"/>223-225]
-
-HOMERIC GREEK
+<pb n="87"/>
 
 ποδάρκης, ποδάρκες  swift-footed, able-footed.	
 
@@ -7823,7 +7771,9 @@ Menelaus, that they might win recompense for them from
 the Trojans. 
 
 2. But the two kings did not regard or consider
-these things at all. 3. The king of men, Agamemnon,
+these things at all. 
+
+3. The king of men, Agamemnon,
 threatened to take away the prize of Achilles, for which he
 had struggled much, and which had been given to him by
 the sons of the Acliaeans. 
