@@ -4918,7 +4918,7 @@ VOCABULARY
 κήδω (κηδ-, κηδε-, καδ-), κηδήσω, ἐκήδησα*, κέκηδα* (with gen. 984), grieve, distress, hurt, afflict.
 
 κῆλον, κήλου, τό arrow, shaft, dart.
-λευκ-ώλενος, λευκ-ώλενοον white-armed.
+λευκ-ώλενος, λευκ-ώλενον white-armed.
 μαετά-φημι (φη- φα-), μεταφήσω, μετέφησα* speak among, address, converse with,
 οἴχομαι (οἰχ-, οἰχε, οἰχο-), οἰχήσομαι*, ᾤχωκα come, go, depart.
 
@@ -4932,14 +4932,15 @@ Derivatives : pan-orama, optic(al), syn-opsis, aut-opsy.
 
 150. Translate:
 
-1. οἴχεο ἀνὰ στρατὸν  Ἀχαιῶν. 2. οἰχέσθω ἀvὰ στρατόν.
+1. οἴχεο ἀνὰ στρατὸν  Ἀχαιῶν. 
+
+2. οἰχέσθω ἀvὰ στρατόν.
 
 3.	κήλα θεοῦ Ἀπόλλωνος οἴχονται ἀνὰ στρατὸν Ἀχαιῶν.
 
-4.	πόδας ὠκὺς (1014) Ἀχιλλεύς ἐκαλέσατο λᾱὸνν Ἀχαιῶν ἀγορήνδε. 
+4.	πόδας ὠκὺς (1014) Ἀχιλλεύς ἐκαλέσατο λᾱὸν Ἀχαιῶν ἀγορήνδε. 
 
-5. θεὰ λευκώλενος Ἥρη ἐπὶ φρεσὶν ἔθηκε τὴν
-βουλὴν Ἀχιλῆι. 
+5. θεὰ λευκώλενος Ἥρη ἐπὶ φρεσὶν ἔθηκε τὴν βουλὴν Ἀχιλῆι. 
 
 6. Ἥρη ἐκήδετο Δαναῶν (984) ὅτι τοὺς θνήσκοντας ὡράετο. 
 
@@ -4970,7 +4971,7 @@ tt£ δεκάπι δ’ ayopfvhpkaXeaaaro Χαον ’^χιλλενς ·
 
 152. 53. ᾤχετο [oἴχομαι] : 973, 1.
 
-54. τῇ δεκάτῃ (ἡμέρῃ) : 1009, illa die decima, on that (never-to-be-forgotten)
+54. τῇ δεκάτῃ (ἡμέρῃ) : 1009, <foregn lang="lat">illa die decima</foreign>, on that (never-to-be-forgotten)
 tenth (day). — 
 
 τῇ is emphatic, and of importance for the
@@ -5009,7 +5010,7 @@ audience are with the hero.
 
 λευκώλενος : the poet keenly senses the features of his objects which
 are distinctive and characteristic, and which visualize them best for his
-hearers. Thus when he says while-armed (λευκώλενοϊ) Hera, one cannot
+hearers. Thus when he says while-armed (λευκώλενος) Hera, one cannot
 
 
 <pb n="58"/>
@@ -5027,8 +5028,8 @@ arrows biting (vs. 51), and the dog's are swift as a silvery flash, (vs. 50).
 
 ὁράτο = ὡράετο, 584-585; 837 ; middle of interest, 1067, 2-3. Hera has a special affection for the Greeks: “ She kept seeing her own Danaans dying.” Observe the force of the imperfects: she had no opportunity to assuage her grief, because she had to keep watching her beloved Danaans perishing.
 
-57.	ἤγερθεν = ἠγέρθησαν [ἀγείρω] : aor. passive ind., 3d plur., they were
-assembled. This with the following phrase are good examples of epic
+57.	ἤγερθεν = ἠγέρθησαν [ἀγείρω] : aor. passive ind., 3d plur., <gloss>they were
+assembled</gloss>. This with the following phrase are good examples of epic
 fullness of expression.
 
 58.	τοῖσι: 997, or 1009. — 
@@ -5046,14 +5047,11 @@ fullness of expression.
 4. We see many of the
 Achaeans dying, and we are grieved for them. 
 
-5. I suggest
-a noble plan to the son of Peleus in (his) heart.
+5. I suggest a noble plan to the son of Peleus in (his) heart.
 
-6.	We were assembled and became gathered together beside
-the swift ships of the Achaeans. 
+6.	We were assembled and became gathered together beside the swift ships of the Achaeans. 
 
-7. I arise and address
-these Danaans, who are gathered together.
+7. I arise and address these Danaans, who are gathered together.
 
 LESSON XXVI: THE OPTATIVE MODE
 
@@ -5080,8 +5078,7 @@ VOCABULARY
 
 ἀπο-νοστέ-ω*, ἀ-πονοστήσω, ἀπονόστησα return (home), go home, come, go.
 ἄψ back (again), backward(s).
-postpos. encl., emphasizing the preceding word or clause, at least,
-indeed, at any rate,
+γέ postpos. encl., emphasizing the preceding word or clause, at least, indeed, at any rate,
 δαμάζω (δαμαδ-), δαμά(σ)ω (603—604) ἐδάμασ(σ)α, subdue, overcome, crush, DOMINATE,
 ἐρέω (ἑρεϜ-) (def.) ask, inquire, seek,
 λοιμός, λοιμοῦ, ὁ plague, pest(ilence).
@@ -5103,24 +5100,31 @@ oneiro-critic ; palin-genesis, palin-ode, palin-drome; Planctae ; polem-ic(al).
 
 158.	Translate:
 
-1. otei ἀχιλλεύς τού? Ἀχαιού? ἀπονοστήσειν οϊκαδε.
+1. οἴει Ἀχιλλεὺς τοὺς Ἀχαιοὺς ἀπονοστήσειν οἴκαδε.
 
 2.	Ἀχαιοὶ οὐκ εφυχον θάνατον, tow γὰρ πόλεμος εδάμασε teal
-λοιμός όμον. 3. ερείωμεν τούτον μάντιν, ὁ γὰρ φίλος εστιν
-Ἀπόλλωνι. 4. έκη βόλος βάλλοι όιστούς πολλούς ανὰ στρα-
-τόν Ἀχαιών. 5. βουλήν Ἀιός τελείωμεν. 6. πόλεμος κακός
-όλεκοι κακώς Ἀαναονς, οννεκ ητίμασαν Ἀπόλλωνα. 7. πυρ
-μέχα καίοι έκατόμβάς ταύρων ἡ S’ αἰχών. 8. τελεσειε βουλήν
-εκηβόλος ἀναξ. 9. νμιν μεν θεοὶ δοΐεν ’Ολύμπια δωματ
-εχοντες εκπερσαι ΪΙριάμοιο πόλιν, ἐν δ’ οϊκαδ’ ίκεσθαι, παΐδα
+λοιμός όμον. 
 
-<pb n="60"/>LESSON XXVII
+3. ἐρείωμεν τοῦτον μάντιν, ὁ γὰρ φίλος εστὶν
+Ἀπόλλωνι. 
 
-[159-161
+4. ἑκηβόλος βάλλοι ὀιστοὺς πολλοὺς ἀνὰ στρατὸν Ἀχαιῶν. 
 
-σοισι
+5. βουλὸν Διὸς τελείωμεν. 
 
-β€\€σσι.ν.
+6. πόλεμος κακὸς ὀλέκοι κακῶς Δαναούς, οὕνεκ’ ἠτίμασαν Ἀπόλλωνα. 
+
+7. πῦρ
+μέγα καίοι ἑκατόμβᾱς ταύρων ἠδ’ αἰγῶν. 
+
+8. τελέσειε βουλὴν ἑκηβόλος ἄναξ. 
+
+9. ὑμῖν μὲν θεοὶ δοῖεν Ὀλύμπια δώματ’ ἔχοντες ἐκπέρσαι Πριάμοιο πόλιν, ἐὺ δ’ οἴκαδ’ ἱκέσθαι, παῖδα δ’ ἐμοὶ λύσαιτε φίλην.
+
+10. τίσειαν Δαναοὶ ἐμὰ δάκρυα σοῖσι βέλεσσιν.
+
+<pb n="60"/>
+
 
 169.	Copy, scan, and translate :
 
@@ -5128,13 +5132,14 @@ Iliad, 59-63
 
 60
 
-160. 59. ὀίω is trisyllabic; observe its accent and breathing. — ἀμμε
-[ίγώ] 971, acc. plur., us.
+160. 59. ὀίω is trisyllabic; observe its accent and breathing. — 
+
+ἄμμε [ἐγώ] 971, acc. plur., <gloss>us</gloss>.
 
 πάλιν παγχθέντας: i.e. without having captured
 Troy, the object of the expedition.
 
-60-61. φύγοιμεν . . . δαμᾷ = δμάει = δαμάσει [δαμάζω], 603-604 ; 584-585, 973, 2: by the use of the optative in the first clause and the future
+60-61. φύγοιμεν . . . δαμᾷ = δαμάει = δαμάσει [δαμάζω], 603-604 ; 584-585, 973, 2: by the use of the optative in the first clause and the future
 indicative in the second, Achilles would imply that he felt it more probable
 that they would all die there rather than escape.
 
@@ -5146,7 +5151,7 @@ to consult a specialist in theology, a priest, a prophet, or any one
 to whom the lord had revealed his will directly or indirectly, as through
 dreams. The true significance of dreams could be known only by those
 to whom the god had given the faculty of interpreting them, as to
-Joseph and to Daniel. Read 1 Sam. ix, 3-10, and 2 Kings i, 2-3. —
+Joseph and to Daniel. Read 1 Sam. ix, 3-10, and 2 Kings 1, 2-3. —
 
 ἐρείομεν = ἐρεύομεν = ἐρεύωμεν: 800, 1098. — 
 
@@ -5171,7 +5176,7 @@ return homeward, if haply they may escape evil death.
 
 <pb n="61"/>
 
-2.	They will not escape death, for war and pestilence will
+2. They will not escape death, for war and pestilence will
 crush them at the same time, 
 
 3. May the fire burn the
@@ -5237,25 +5242,24 @@ augur, soothsayer, seer.
 165.	Translate:
 
 1. ὀνειροπόλος εἴποι ὅτι τόσσον ἐχώσατο Φοῖβος Ἀπόλλων.
+
 2. οὐκ ἐλύθη θυγάτηρ ἱερῆος. 
 
 3. παῖδες Ἀχαιῶν ἐλύθησαν Ἀγαμέμνονι. 
 
 4. ἐλύθητε, Δαναοί, γέροντι. 
 
-5. ἤγερθεν Ἀχαιοί. ἠγχέρθησαν Ἀχαιοί. 
+5. ἤγερθεν Ἀχαιοί. ἠγέρθησαν Ἀχαιοί. 
 
-6. ἐδάμησαν Ἀχαιοὶ πολέμῳ τε καϊ λοιμῷ όμοῦ. 
+6. ἐδάμησαν Ἀχαιοὶ πολέμῳ τε καὶ λοιμῷ όμοῦ. 
 
 7. πάντες ἥρωες ἐπλάγχθησαν πάλιν.
 
 8. θεοὶ ἐπιμέμψονται Ἀχαιούς, οὕνεκα τὰς εὐχωλὰς οὐκ ἐτέλεσαν καὶ τὰς ἑκατόμβας ἀρνῶν αἰγῶν τε τελείων οὐκ ἔκηαν.
 
-9.	Άπόλλων βούλεται ἀντιάειν κνίσης (982) ἀρνῶν αἰγῶν τε
-τελείων καὶ λοιγὶν ἀμῦναι ἡμῖν. 
+9.	Άπόλλων βούλεται ἀντιάειν κνίσης (982) ἀρνῶν αἰγῶν τε τελείων καὶ λοιγὸν ἀμῦναι ἡμῖν. 
 
-10. Κάλχᾱς Θεστορίδης
-οἰωνοπόλων ὄχ’ ἄριστος εἴποι μῆνιν Ἀπόλλωνος.
+10. Κάλχᾱς Θεστορίδης οἰωνοπόλων ὄχ’ ἄριστος εἴποι μῆνιν Ἀπόλλωνος.
 
 166.	Copy, scan, and translate:
 
@@ -5293,8 +5297,11 @@ the god’s anger.
 
 τελείων goes with both nouns.
 
-67.	βούλεται: 800. — ήμ,ΐν [ty<4] : dat. plur., 997. — αϊτό . . . ἀμΛναι
-1018-1049.
+67.	βούλεται: 800. —
+
+ἡμῖν [ἐγώ] : dat. plur., 997. — 
+
+ἀπὸ . . . ἀμῦναι 1048-1049.
 
 66-67. The doubtful tone here shows that Achilles does not feel at
 all certain that they will be successful in their appeal to the free-shooter.
@@ -5325,7 +5332,7 @@ them what the trouble is and help them to avert the anger of the
 divinity from those who are still alive.
 
 It is characteristic of the psychology of primitive peoples to see in
-the operations of nature the direct action of their -gods, beings created
+the operations of nature the direct action of their gods, beings created
 in their own image, with feelings and passions like unto their own. If
 good fortune befell a people it was a mark of the special favor of their
 divinity; if evil came it was a sign of his displeasure, and some one had
@@ -5389,25 +5396,15 @@ also with beasts and birds and creeping things and with fishes.”
 
 168.	Translate:
 
-1. Calchas, son of Thestor, is the seer who may tell the
-Danaans why Phoebus Apollo is so greatly enraged.
+1. Calchas, son of Thestor, is the seer who may tell the Danaans why Phoebus Apollo is so greatly enraged.
 
-2. Did Apollo blame the Achaeans on account of a vow, or
-on account of a goodly hecatomb of unblemished lambs and
-goats ?	
+2. Did Apollo blame the Achaeans on account of a vow, or on account of a goodly hecatomb of unblemished lambs and goats ?	
 
-3. Apollo the free-shooter did not wish to partake
+3. Apollo the free-shooter did not wish to partake of the fat of unblemished lambs and goats, but he warded off evil destruction for the Danaans. 
 
-of the fat of unblemished lambs and goats, but he warded
-off evil destruction for the Danaans. 
+4. When the swift-footed Achilles had spoken thus he sat down, and the good(ly) seer, Calchas, son of Thestor, arose and spoke among the Achaeans in the assembly. 
 
-4. When the swiftfooted
-Achilles had spoken thus he sat down, and the
-good(ly) seer, Calchas, son of Thestor, arose and spoke
-among the Achaeans in the assembly. 
-
-5. May Calchas,
-son of Thestor, far the best of seers, speak the will of Zeus.
+5. May Calchas, son of Thestor, far the best of seers, speak the will of Zeus.
 
 169.	Optional. At this point a thorough review of all the
 preceding Homer should be taken; all the paradigms of all the
@@ -5433,7 +5430,9 @@ Iliad, 70-75
 have separate forms in the third declension. When the feminine
 differs from the masculine, it is of the first declension.
 
-171.	1) Learn the declension of all the regular adjectives
+171.	
+
+1) Learn the declension of all the regular adjectives
 of the third declension (725-732). The feminine of these
 adjectives ending in -ᾰ is declined like θάλασσα sea, 663.
 
@@ -5447,46 +5446,36 @@ VOCABULARY
 
 ἀγορά-ομαι, ἠγορησάμην harangue, address an assembly.
 
-*εἴδω (εἴδομαι) (Ϝειδ-, Ϝοιδ-, Ϝιδ-), εἰδήσω (εἴσομαι). εἶδον. οἶδα, pluperf.
-ᾖδεα; in act., aor., see ; fut.
-and perf., know; mid., seem, appear.
+*εἴδω (εἴδομαι) (Ϝειδ-, Ϝοιδ-, Ϝιδ-), εἰδήσω (εἴσομαι). εἶδον. οἶδα, pluperf. ᾖδεα; in act., aor., see ; fut. and perf., know; mid., seem, appear.
 
 εἴσω often with acc., into, to, within.
 ἑκατη-βελέτης, ἑκατη-βελέτᾱο, ὁ free-shooter, free-shooting, sharp-shooter,
-ἕο gen. 760, οἱο dat. (end.), (of) him, her, it.
+ἕο gen. 760, οἱ dat. (end.), (of) him, her, it.
 
-ἡγέ-ομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι* with dat., 1001, lead, guide,
-lead the way; with gen., 9S5, command, rule,
+ἡγέ-ομαι, ἡγήσομαι, ἡγησάμην, ἥγημαι* with dat., 1001, lead, guide, lead the way; with gen., 9S5, command, rule,
 κέλομαι (κελ-, κελε-, κλ), κελήσομαι, ἐκελησάμην* (ἐκεκλόμην) urge, command, bid, request.
 μῡθέ-ομαι, μῡθήσομαι, ἐμῡθησάμην speak, tell, declare,
 ὅς, ἥ, ὅν (ἑός, ἑή, ἑόν) his, her(s), its (own).
 
-πόρον (πορ-, πρω-) (= ἔπορον, 837),
-(2d aor., no pres.) ; give, grant,
-furnish, bestow; perf. τέτρωται
-it is fated.
+πόρον (πορ-, πρω-) (= ἔπορον, 837), (2d aor., no pres.) ; give, grant, furnish, bestow; perf. τέτρωται it is fated.<note n="grc">good case of a word where a particular tense has a distinct meaning.</note>
 
 πρό adv., and prep, with gen., before; in front, forth, forward.
 φρονέ-ω, φρονήσω*, ἐφρόνησα*, think, consider, plan; ἐὺ φρονέω be well (kindly) disposed, be wise, think carefully,
 ὧ interj., O!
 
-Derivatives: hegemony; wit, wot, wise, witch, wizard,
-idol, kaleido-scope, idea(l).
+Derivatives: hegemony; wit, wot, wise, witch, wizard, idol, kaleido-scope, idea(l).
 
 174. 
 
-1. Ἀχιλευς πόδας ὠκὺς ὣς εἶπε καὶ ἕζετο, τοῖσιν δ'
-Ἀχαιοῖσιν ἀνέστη Κάλχᾱς, οὕνεκ' ἦν ὄχ’ ἄριστος οἰωνοπόλων
+1. Ἀχιλευς πόδας ὠκὺς ὧς εἶπε καὶ ἕζετο, τοῖσιν δ' Ἀχαιοῖσιν ἀνέστη Κάλχᾱς, οὕνεκ' ἦν ὄχ’ ἄριστος οἰωνοπόλων
 
 <pb n="67"/>
 
-καὶ ᾔδη, [*εἴδω] πάντα, μάλιστα δὲ πάσας βουλὰς θεῶν.
+καὶ ᾔδη [*εἴδω] πάντα, μάλιστα δὲ πάσας βουλὰς θεῶν.
 
 2. Κάλχᾱς ἡγήσατο νήεσσι θοῇς Ἀχαιῶν εἰς Ἵλιον. 
 
-3. θεοί
-ἔπορον Κάλχαντι μαντοσύνην, διὰ τὴν ἡγήσατο νήεσσιν Ἀχαιῶν
-Ἴλιον εἴσω. 
+3. θεοί ἔπορον Κάλχαντι μαντοσύνην, διὰ τὴν ἡγήσατο νήεσσιν Ἀχαιῶν Ἴλιον εἴσω. 
 
 4. μάντις Ἀχαιοῖσιν ἐὺ φρονέων ἠγορήσατο καὶ μετέειπεν.
 
@@ -5515,7 +5504,7 @@ action and bring about such far-reaching results, we must have the best
 seer (οἰωνοπόλων ὄχ' ἄριστος, vs. 69) the world can afford. Read again
 the note to vs. 15, § 90.
 
-71.	νήεσσ’ (ι) 1001.—
+71.	νήεσσ’(ι) 1001.—
 
 Ἴλιον, the Troad, not Troy.
 
@@ -5537,13 +5526,12 @@ face to face.” “ And Moses called unto all Israel and said unto them,
 ... I have led you forty years in the wilderness.” “ Thou leddest thy
 people like a flock by the hand of Moses and Aaron.” — 
 
-μαντοσύνην, τὴν
-οἱ πόρε Φοῖβος Ἀπόλλων : that is, he was a prophet inspired of his god, an
+μαντοσύνην, τὴν οἱ πόρε Φοῖβος Ἀπόλλων : that is, he was a prophet inspired of his god, an
 idea which those of his class have never been at pains to controvert.
 
 <pb n="68"/>
 
-“Then came the word of Jehovah to Jeremiah the prophet.”. “The
+“Then came the word of Jehovah to Jeremiah the prophet.” “The
 word that Jehovah spake against Babylon and against the land of the
 Chaldaeans by Jeremiah the prophet.” “ Thus saith Jehovah.”
 
@@ -5562,32 +5550,23 @@ the last word, into strong prominence, as being of more than ordinary
 importance. This gives an air of solemnity and slow-measured speech
 to the words of Calchas.
 
-75.	Ἀπὀλλωνος Ϝεκετηβελέτᾱο Ϝάνακτος..
+75.	Ἀπόλλωνος Ϝεκετηβελέτᾱο Ϝάνακτος.
 
 177.	 Translate :
 
 1. I spoke thus and sat down. 
 
-2. Calchas the son of Thestor who arose was far the best of seers, but he did not
-know everything. 
+2. Calchas the son of Thestor who arose was far the best of seers, but he did not know everything. 
 
-3. Who knows what is, what was, and
-what shall be ?	
+3. Who knows what is, what was, and what shall be ?	
 
-4. We do not know the will of all the gods
+4. We do not know the will of all the gods who have Olympian homes. 
 
-who have Olympian homes. 
+5. Calchas the seer, who was far the best of soothsayers, guided the ships of the Achaeans into Ilium by his gift of prophecy which the gods gave to him. 
 
-5. Calchas the seer, who was
-far the best of soothsayers, guided the ships of the Achaeans
-into Ilium by his gift of prophecy which the gods gave to
-him. 
+6. Phoebus Apollo granted to many Achaeans the gift of prophecy. 
 
-6. Phoebus Apollo granted to many Achaeans the
-gift of prophecy. 
-
-7. Since we are well disposed toward the
-Danaans, we addressed them and spoke among them.
+7. Since we are well disposed toward the Danaans, we addressed them and spoke among them.
 
 LESSON XXIX: DEMONSTRATIVE PRONOUNS
 
@@ -5605,49 +5584,38 @@ with their uses, 1041.
 
 ἀρήγ-ω, ἀρήξω, ἤρηξα (with dat., 996), help, assist, succor,
 ἔπος, ἔπεος, τό word, saying, command, speech,
-ἦ surely, indeed, truly, for a fact,
+Ἦ surely, indeed, truly, for a fact,
 κρατέω (κρατεσ-), with gen., 985, rule, bear sway.
 
-κρείσσων, κρεῖσσον, comparative of κράτος,
-mightier, more powerful, better,
+κρείσσων, κρεῖσσον, comparative of κράτος, mightier, more powerful, better,
 μέγας, μεγάλη, μέγα great, large, tall, mighty.
 ὅδε, ἥδε, τόδε  this (here),
-ὄμνῡμι. (ὀμ-, ὀμο-, ἐμε-), ὀμοῦμαι (=
-ὀμό(σ)ομαι = ὀμόομαι 603, 584—585), ὤμοσ(σ)α, ὀμώμοκα*, ὀμώμο(σ)μαι*, ὠμό(σ-)θην* swear, pledge with an oath, swear by as witness, swear to.
+ὄμνῡμι. (ὀμ-, ὀμο-, ἐμε-), ὀμοῦμαι (= ὀμό(σ)ομαι = ὀμόομαι 603, 584—585), ὤμοσ(σ)α, ὀμώμοκα*, ὀμώμο(σ)μαι*, ὠμό(σ-)θην* swear, pledge with an oath, swear by as witness, swear to.
 οὗτος, αὕτη, τοῦτο that.
 πρό-φρων, πρόφρov eager, zealous, glad, joyful, kindly.
 
 συν-τί-θημι (θη-, θε-), συνθήσω. συνέθηκα, συντέθεικα*, συντέθειμαι*, συνετέθην  put together, unite, perceive, comprehend, heed.
 τοι-γάρ therefore.
 
-χέρης, χέρες (dat. χέρηι), worse, inferior,
-underling, subject, meaner.
+χέρης, χέρες (dat. χέρηι), worse, inferior, underling, subject, meaner.
 
-Derivatives : epic, ortho-epy; demo-cracy, aristo-cracy, auto-cracy, pluto-cracy,
-theo-cracy; mega-phone, mega-cephalous, megalo-mania, mega-polis,
-mega-saurus; syn-thesis.
+Derivatives : epic, ortho-epy; demo-cracy, aristo-cracy, auto-cracy, pluto-cracy, theo-cracy; mega-phone, mega-cephalous, megalo-mania, mega-polis, mega-saurus; syn-thesis.
 
 181. Translate:
 
-1. Ἀγαμέμνων διΐφιλος ἐκέλετο τόνδε μάντιν μῡθήσασθαι
-τὰς βουλὰς θεῶν πάντων. 
+1. Ἀγαμέμνων διΐφιλος ἐκέλετο τόνδε μάντιν μῡθήσασθαι τὰς βουλὰς θεῶν πάντων. 
 
-2. μῡθήσομαι μῆνιν Ἀπόλλωνος 
-Ἀχαιοῖσιν.	
+2. μῡθήσομαι μῆνιν Ἀπόλλωνος  Ἀχαιοῖσιν.	
 
-3. μῆνις Ἀπόλλωνος ἑκετηβελέτᾱο ἄνακτος ἦν
+3. μῆνις Ἀπόλλωνος ἑκετηβελέτᾱο ἄνακτος ἦν οὐλομένη Ἀχαιοῖσιν, ἔτευχε γὰρ αὐτοὺς ἑλώρια κύνεσσι πᾶσι.
 
-οὐλομένη Ἀχαιοῖσιν, ἔτευχε γὰρ αὐτοὺς ἑλώρια κύνεσσι πᾶσι.
-
-4. ἐγὼ ἐρέω, εἰ συνθήσεις καί μοι ἀρήξεις πρόφρων ἔπεσι χερσί
-τε. 
+4. ἐγὼ ἐρέω, εἰ συνθήσεις καί μοι ἀρήξεις πρόφρων ἔπεσι χερσί τε. 
 
 5. εὶ Κάλχᾱς ἐρέει, χολώσει Ἀγαμέμνονα, ὃς μέγα κρατέει πάντων Ἀργείων. 
 
 6. οὗτοι Ἀχαιοὶ πείθονται Ἀγαμέμνονι.
 
-7.	βασιλεὺς κρείσσων ἐστὶν ἀνδρὸς ἄλλου (993), ὅτε δὲ χώσηται ἀνδρὶ χέρηι, 
-τὂν ὀλέκει κακῶς. 
+7. βασιλεὺς κρείσσων ἐστὶν ἀνδρὸς ἄλλου (993), ὅτε δὲ χώσηται ἀνδρὶ χέρηι, τὸν ὀλέκει κακῶς. 
 
 8. Ἀγαμέμνων βασιλεὺς ἐχώσατο Κάλχαντι χέρηι ἀνδρί, οὕνεκα ἐμῡθήσατο μῆνιν Ἀπόλλωνος.
 
@@ -5688,13 +5656,12 @@ pledge and an assurance of protection. As he will have to indicate that
 Agamemnon is guilty, and as all are well aware of the violent temperament
 of the son of Atreus, he makes the legitimate demand that Achilles
 will not merely stand and talk while the god’s holy prophet is being
-roughly handled. Observe in vs. 76 the emphasis placed upon ίγώ and <ri
+roughly handled. Observe in vs. 76 the emphasis placed upon ἐγώ and σύ
 (which are always emphatic when expressed, since they are contained in
 the personal endings of the verb and are ordinarily omitted). “<emph>I</emph> am
-willing to perform my duty, if you will see to yours.” — 
+willing to perform my duty, if you will see to <emph>yours</emph>.” — 
 
-ἔπεσιν καὶ χερσίν :
-“ by word and deed.”
+ἔπεσιν καὶ χερσίν : “ by word and deed.”
 
 78.	χολωσέμεν = χολώσειν, 908; observe its accent, 902, 2. — 
 
@@ -5707,26 +5674,25 @@ Agamemnon.
 
 79. Ἀργείων (another name for the Greeks before Troy), 985. — 
 
-οἱ  can
-be only the dat. of eo, 760, since it is an enclitic (as can be seen from the
+οἱ  can be only the dat. of ἑο, 760, since it is an enclitic (as can be seen from the
 accent of καί, 550, and formerly had Ϝ before it (Ϝοι) as is seen from the
 meter, 1173,1175. It is a dative with a special verb, 996. Calchas gives
 it as his opinion that what he has to say will enrage Agamemnon, whom
 he does not mention by name, however, but describes so accurately that
 no one could be in the least doubt as to whom he means.
 
-80.	κρείσσων (ἐστίν) βασιλεύς: that is, when a king and a man of the
+80. κρείσσων (ἐστίν) βασιλεύς: that is, when a king and a man of the
 common people become at odds, the king is the mightier, and naturally
-will punish the ordinary man for his presumption. — ἀνδρί: 996.
+will punish the ordinary man for his presumption. — 
+
+ἀνδρί: 996.
 
 184.	Translate:
 
-1. The seer will speak if Achilles will hearken and swear
-to defend him zealous(ly) with words and hands. 
+1. The seer will speak if Achilles will hearken and swear to defend him zealous(ly) with words and hands. 
 
 2. I
-think Calchas will enrage Agamemnon, who rules all the
-Argives, and the Achaeans obey him. 
+think Calchas will enrage Agamemnon, who rules all the Argives, and the Achaeans obey him. 
 
 
 
@@ -5734,8 +5700,7 @@ Argives, and the Achaeans obey him.
 
 3. Agamemnon is king and is mightier than the seer or any other inferior man.
 
-4.	When the king is enraged at an inferior man, he will
-destroy him, for he is mightier.
+4. When the king is enraged at an inferior man, he will destroy him, for he is mightier.
 
 LESSON XXX: PERSONAL AND POSSESSIVE PRONOUNS
 
@@ -5754,8 +5719,7 @@ pronouns, 760-764.
 θαρσ-έω, θαρσήσω*, ἐθάρσησα, τεθάρσηκα take heart, take courage, be bold, dare, be resolute.
 Θεο-πρόπιον, Θεο-προπίου, τό oracle, prophecy
 
-κατα-πέσσω (πεκ- , πεπ-). καταπέψω*,
-κατέπεψα, καταπέπεμμαι *, κατεπέφθην* digest, repress, cook.
+κατα-πέσσω (πεκ- , πεπ-). καταπέψω*, κατέπεψα, καταπέπεμμαι *, κατεπέφθην* digest, repress, cook.
 κότος, κότου, ὁ grudge, rancor, hate,
 μάλα very, exceedingly, even, by all means, much, enough.
 
@@ -5764,16 +5728,13 @@ pronouns, 760-764.
 πέρ end, exceedingly, very, even (if), although.
 πρόσ-φημι (φη-, φα-). προσφήσ-ω, προσ-έφησ-α* speak to, address.
 
-σαό-ω, σαώσω. ἔσάωσα, ἐσαώθην, save, protect, rescue, preserve.
+σαό-ω, σαώσω. ἐσάωσα, ἐσαώθην, save, protect, rescue, preserve.
 στῆθος, στήθεος, τό breast, chest,
-φράζω* (φραδ-), φράσω*, ἔφρασα
-((ἐ)πέφραδον), πέφρακα*, πέφρασμαι* έφράσθην tell, point out, declare; mid. consider, plan, think.
+φράζω* (φραδ-), φράσω*, ἔφρασα ((ἐ)πέφραδον), πέφρακα*, πέφρασμαι* ἐφράσθην tell, point out, declare; mid. consider, plan, think.
 
 χόλος, χόλου, ὁ hot, furious wrath, blind anger, choler.
 
-Derivatives: amoeba, amoebean (593-595); pep-sin, pep-tic,
-eu-pepsia, dys-pep-sia ; opistho-dome, opistho-graphy; stetho-scope;
-phrase-o-logy, peri-phrasis, para-phrase.
+Derivatives: amoeba, amoebean (593-595); pep-sin, pep-tic, eu-pepsia, dys-pep-sia ; opistho-dome, opistho-graphy; stetho-scope; phrase-o-logy, peri-phrasis, para-phrase.
 
 188. Translate:
 
@@ -5782,8 +5743,7 @@ phrase-o-logy, peri-phrasis, para-phrase.
 
 <pb n="72"/>
 
-2. πὀδας ὠκὺς Ἀχιλλεὺς φράσεται εἰ σαώσει Κάλχαντα μάντιν
-ὄχ’ ἄριστον. 
+2. πὀδας ὠκὺς Ἀχιλλεὺς φράσεται εἰ σαώσει Κάλχαντα μάντιν ὄχ’ ἄριστον. 
 
 3. Κάλχᾱς θαρσήσει καὶ ἐρέει  θεοπρόπιον Ἀπόλλωνος. 
 
@@ -5808,11 +5768,13 @@ ev στήθεσσιν έοΐσι. σύ Se φράσαι, el με σ σώσεις.
 
 εἴ περ γάρ τε for even if.
 
-82.	τὶ καὶ ἀο. — οψρα TiXio-o-g (parenthetical):
+82.	τε καὶ also. — 
+
+ὄφρα τελέσσῃ (parenthetical):
 i.e., till he obtains his revenge.
 
-81-82. χὀλος, κότος : the first of hot resentment,
-which may pass, the second of a deepseated
+81-82. χόλος, κότος : the first of hot resentment,
+which may pass, the second of a deep-seated
 grudge, which calculates upon revenge.
 
 83. ἐν στήθεσσιν ἑοῖσι : the possessive pronoun
@@ -5868,14 +5830,13 @@ grudge.
 
 191. Translate :
 
-1. The very mighty king was enraged at an inferior man,
-but on that selfsame day he digested his wrath. 
+1. The very mighty king was enraged at an inferior man, but on that selfsame day he digested his wrath. 
 
-2. Many
-men have evil grudges in their own breasts until they accomplish
-(them). 3. Let us consider if we will save the
-king of men Agamemnon. 4. The seer will take courage
-and speak the oracles of the gods, for he knows them all.
+2. Many men have evil grudges in their own breasts until they accomplish (them). 
+
+3. Let us consider if we will save the king of men Agamemnon. 
+
+4. The seer will take courage and speak the oracles of the gods, for he knows them all.
 
 LESSON XXXI: RELATIVE, INTERROGATIVE, AND INDEFINITE PRONOUNS
 
@@ -5889,8 +5850,7 @@ and indefinite pronouns, 767-713, 776-777.
 194.	VOCABULARY
 
 ἀ-μύμων, ἀμύμον blameless, noble. 
-ἀνα-φαίνω (φαν-), ἀναφανέω, ἀνέφηνα,
-ἀναπέφηνα*, ἀναπέφασμαι, ἀνεφάνην reveal, show (up), manifest.
+ἀνα-φαίνω (φαν-), ἀναφανέω, ἀνέφηνα, ἀναπέφηνα*, ἀναπέφασμαι, ἀνεφάνην reveal, show (up), manifest.
 
 αὐδάω, αὐδήσω*, ηὔδησα speak, say, declare, shout, cry out.
 βαρύς, βαρεῖα, βαρύ heavy, weighty, violent, severe, grave, serious.
@@ -5898,52 +5858,39 @@ and indefinite pronouns, 767-713, 776-777.
 
 
 δέρκομαι (δερκ-, δορκ-, δρακ-), —, ἔδρακον, δέδορκα, ἐδέρχθην* (ἐδράκην)* see, look, behold,
-ἐπι-φέρω (φερ-, οἰ-, ἐνεκ-), ἐποίσω,
-ἐπήνεικα (ἐπήνεικον), ἐπενήνοχα*,
-ἐπενήνεγμαι*, ἐπηνέχθην* bear upon, bear against.
+ἐπι-φέρω (φερ-, οἰ-, ἐνεκ-), ἐποίσω, ἐπήνεικα (ἐπήνεικον), ἐπενήνοχα*, ἐπενήνεγμαι*, ἐπηνέχθην* bear upon, bear against.
 
 ζώ-ω live,
 ἤν ( = ἄν) if.
 <pb/>
 
 
-θέο-προπίη, θεοπροπίης, ἡ oracle, prophecy. 
+θεο-προπίη, θεοπροπίης, ἡ oracle, prophecy. 
 
 οὐδέ not even, and not, nor, but not.
 μά adv. of swearing, surely, verily. 
 
-σύμ-πᾱς, σύμ-πᾱσα, σύμ-παν all (tons
-ὅς τε, ἥ τε, ὅ τε (ὅστε, ἥτε, ὅτε) who, gether).
 
-which, what(ever).	
+ὅς τε, ἥ τε, ὅ τε (ὅστε, ἥτε, ὅτε) who,  which, what(ever).	
 
+σύμ-πᾱς, σύμ-πᾱσα, σύμ-παν all (together).
 χθών, χθονός, ἡ earth, land, country.
 
-Derivatives : phenomenon, dia-phanous, phan-tasm, -tom,
-fan-tasy, fan-cy ; bar-o-meter, bar-y-tone ; Dorcas, drag-on, drag-oon;
-epi-zootic, zoo-logy, zoo-chemistry, zoo-morphism, proto-zoa, palaeo-zoic,
-meso-zoic, ceno-zoic, eo-zoic, a-zoic; chthon-ic, chthon-o-phagy.
+Derivatives : phenomenon, dia-phanous, phan-tasm, phan-tom, fan-tasy, fan-cy ; bar-o-meter, bar-y-tone ; Dorcas, drag-on, drag-oon; epi-zootic, zoo-logy, zoo-chemistry, zoo-morphism, proto-zoa, palaeo-zoic, meso-zoic, ceno-zoic, eo-zoic, a-zoic; chthon-ic, chthon-o-phagy.
 
 195.	Translate :
 
-1. πόδας ὠκὺς Ἀχιλλεὺς εἶπε μάντει ἀμύμονι · “ ὄμνῡμι μὰ
-θεὸν Ἀπόλλωνα διΐφιλον, Ἀγαμέμνων ἄριστος Ἀχαιῶν οὐκ
-ἐποίσει βαρείας χεῖρας σοι κοίλῃς παρὰ νηυσίν.” 
+1. πόδας ὠκὺς Ἀχιλλεὺς εἶπε μάντει ἀμύμονι · “ ὄμνῡμι μὰ θεὸν Ἀπόλλωνα διΐφιλον, Ἀγαμέμνων ἄριστος Ἀχαιῶν οὐκ ἐποίσει βαρείας χεῖράς σοι κοίλῃς παρὰ νηυσίν.” 
 
-2. Κάλχας
-μάντις ἀμύμων εὐχόμενος Ἀπάλλωνι ἀναφαίνει θεοπροπίᾱς
-Δαναοῖσιν. 
+2. Κάλχας μάντις ἀμύμων εὐχόμενος Ἀπόλλωνι ἀναφαίνει θεοπροπίᾱς Δαναοῖσιν. 
 
-3. Ἀχιλῆος ξῶντος καῖ δερκόμενοιο (1111) ἐπὶ
-χθονί, οὔ τις συμπάντων Δαναῶν ἐποίσει βαρείας χεῖρας Κάλχαντι μάντει. 
+3. Ἀχιλῆος ζῶντος καῖ δερκόμενοιο (1111) ἐπὶ χθονί, οὔ τις συμπάντων Δαναῶν ἐποίσει βαρείας χεῖρας Κάλχαντι μάντει. 
 
-4. δῖος Ἀχιλλεὺς σαώσει Κάλχαντα μάντιν,
-ἢν εἴπῃ Ἀγαμέμνονα, ὅς εὔχεται εἶναι πολλὸν ἄριστος Ἀχαιῶν.
+4. δῖος Ἀχιλλεὺς σαώσει Κάλχαντα μάντιν, ἢν εἴπῃ Ἀγαμέμνονα, ὅς εὔχεται εἶναι πολλὸν ἄριστος Ἀχαιῶν.
 
-5.	ἢν Ἀχιλλεὺς σαώσει μάντιν, θαρσήσει καὶ αὐδήσει θεοπροπίᾱς ἑκετηβελέταο ἄνακτος. 
+5. ἢν Ἀχιλλεὺς σαώσει μάντιν, θαρσήσει καὶ αὐδήσει θεοπροπίᾱς ἑκετηβελέταο ἄνακτος. 
 
-6. Ἀπόλλων ἐστὶ θεὸς ᾧ τε [ὅς
-τε, ἥ τε, ὅ τε] Κάλχᾱς εὔχεται.
+6. Ἀπόλλων ἐστὶ θεὸς ᾧ τε [ὅς τε, ἥ τε, ὅ τε] Κάλχᾱς εὔχεται.
 
 196.	Copy, scan, and translate :
 
@@ -5959,20 +5906,20 @@ Iliad 86—92
 δς νυν πολλόν ἀριστος Ἀχαιῶν εύχεται είναι.”
 καὶ τότε δή θάρσησε καὶ ηύδα μάντις ἀμύμων
 
-197.	86. οὐ μᾶ γὰρ Ἀπόλλωνα (ὄμνῡμι) : this is the answer of
+197.	86. οὐ μὰ γὰρ Ἀπόλλωνα (ὄμνῡμι) : this is the answer of
 Achilles to the demand of Calchas that he swear, (ὄμοσσον, vs. 76) to protect
 him. He meets the issue fairly and promises frankly. — 
 
-ᾦ τε [ὅς τε,
-ἥ τε, ὅ τε].
+ᾦ τε [ὅς τε, ἥ τε, ὅ τε].
 
 <pb n="75"/>
 
 87. Prayer was one of the means by which a prophet could learn the
 will of his God. “And Samuel prayed unto Jehovah. And Jehovah
 said unto Samuel, Hearken unto the voice of the people.” “ The prayer
-of a righteous man availeth much.” — 86—87. ᾧ τε. . . ἀναφαίνείς
-parenthetic.
+of a righteous man availeth much.” — 86—87. 
+
+ᾧ τε. . . ἀναφαίνεις parenthetic.
 
 88: 994. There is of course the definite promise here that Achilles
 is willing to defend the safety of Calchas, even with his own life, if need
@@ -6044,26 +5991,20 @@ speak out unambiguously.
 198.	Translate:
 
 1. Take courage and speak the oracles of Apollo the freeshooter.
-2. By Apollo, son of Zeus, the Achaeans shall
-not lay heavy, hands upon you beside the hollow ships.
+2. By Apollo, son of Zeus, the Achaeans shallnnot lay heavy, hands upon you beside the hollow ships.
 
-3. The blameless seer prays to Apollo the free-shooter and
-reveals the oracles of God to the Danaans. 
+3. The blameless seer prays to Apollo the free-shooter andn reveals the oracles of God to the Danaans. 
 
-4. While the
-Achaeans live and look out upon the earth Agamemnon
-shall not lay heavy hands upon the old priest of Apollo beside
-the hollow ships. 
+4. While the Achaeans live and look out upon the earth Agamemnon shall not lay heavy hands upon the old priest of Apollo beside the hollow ships. 
 
-5. Who boast that they are far the
-best of the Danaans ?
+5. Who boast that they are far the best of the Danaans ?
 
 LESSON XXXII: REGULAR VERBS IN -μι
 
 Iliad, 98-100
 
 199.	Learn the conjugation of the present, and the first and
-second aorist, active of ἵτημι, τίθημι, ἵημι, and δίδωμι, 949-951.
+second aorist, active of ἵστημι, τίθημι, ἵημι, and δίδωμι, 949-951.
 
 200.	Optional:
 
@@ -6072,85 +6013,48 @@ second aorist, active of ἵτημι, τίθημι, ἵημι, and δίδωμι,
 201.	VOCABULARY
 
 ἀ-εἰκής, ἀ-εἰκές unseemly, grievous, shameful, unfitting.
-ἀv-ά-ποινος, ἀv-ά-ποινov unransomed, without
-a ransom paid,
-ἀπτο-δέχ-ομαι, ἀποδέξομαι, ἀπεδεξάμην
-(άπίδέγμην), ἀποδέγμαι, ἀπεδέχθην* receive, accept,
+ἀv-ά-ποινος, ἀv-ά-ποινov unransomed, without μa ransom paid,
+ἀπτο-δέχ-ομαι, ἀποδέξομαι, ἀπεδεξάμην (ἀπεδέγμην), ἀποδέγμαι, ἀπεδέχθην* receive, accept,
 ἀ-πρίατος, ἀπριάτη, ἀ-πρίατον unbought, without
 price.
 
-ἀπ-ωθέω (ὠθ-, ὠθε- = Ϝωθ-, Ϝωθε-),
-ἀπώσω, ἀπέωσ·α, ἀπέωσμαι*, ἀπεώσθην* shove away, push off, drive
-off.
+ἀπ-ωθέω (ὠθ-, ὠθε- = Ϝωθ-, Ϝωθε-), ἀπώσω, ἀπέωσ·α, ἀπέωσμαι*, ἀπεώσθην* shove away, push off, drive off.
 
 ἀ-τῑμά-ω, ἀτῑμήσω, ἠτίμησα, dishonor, insult, slight, despise.
 ἑλίκ-ωψ, ἑλίκ-ωπος m., ἑλικ-ώπις, ἑλικωπιδος f.,
 bright-eyed, flashing-eyed.
 
-ἕνεκα (εἵνεκα, 571) with gen., usually postpos., on account, because of,
-for the sake of. in yet, still, in addition, further,
+ἕνεκα (εἵνεκα, 571) with gen., usually postpos., on account, because of, for the sake of. in yet, still, in addition, further,
 ἱερός, ἱερή, ἱερόν sacred, holy,
 ίλά-σκομαι, ἱλάσ(σ)ομαι, ίλασ(σ)άμην, ἱλάσθην* propitiate, appease.
 
 κούρη, κούρης, ἡ girl, maiden, young woman.
 
-οὔ-τε and not, nor. οὔτε . . . οὔτε
-neither . . . nor.
+οὔ-τε and not, nor. οὔτε . . . οὔτε neither . . . nor.
 πατήρ, πατέρος, ὁ father, sire.
 
-τούνεκα (= τοῦ ἕνεκα) on account
-of this, for this reason, therefore,
-consequently.
+τούνεκα (= τοῦ ἕνεκα) on account of this, for this reason, therefore, consequently.
 
-Derivatives : pan-dect; helix, op-tic(al), syn-opsis, autopsy
-; hiero-glyphics, hier-archy ; patri-arch, patri-archal, patri-ate.
+Derivatives : pan-dect; helix, op-tic(al), syn-opsis, autopsy; hiero-glyphics, hier-archy ; patri-arch, patri-archal, patri-archate.
 
 202. Translate :
 
 1. Ἀπόλλων ἐπιμέμφεται ἡμᾶς εὐχωλῆς καὶ ἑκατόμβης (979, 6).	
 
-2. θεοὶ ἐπιμέμφονται Ἀχαιοὺς ἕνεκ’ Ἀρητῆρος
+2. θεοὶ ἐπιμέμφονται Ἀχαιοὺς ἕνεκ’ ἀρητῆρος φίλου Ἀπόλλωνι, τὸν γὰρ ἠτίμησαν. 
 
-φίλου Ἀπόλλωνι, τὸν γὰρ ἠτίμησαν. 3. Ἀπόλλων ἔδωκεν
-ἄλγεα τοῖσιν Ἀχαιοῖσιν ἠδὲ δώσει ἔτι, οὕνεκ’ Ἀγαμέμνων
-ἠτίμησεν ἀρητῆρα, οὐδ’ ἐβούλετο λύειν θύγατρα καὶ ἀγλὰ
-δέχθαι ἄποινα. 
+3. Ἀπόλλων ἔδωκεν ἄλγεα τοῖσιν Ἀχαιοῖσιν ἠδὲ δώσει ἔτι, οὕνεκ’ Ἀγαμέμνων ἠτίμησεν ἀρητῆρα, οὐδ’ ἐβούλετο λύειν θύγατρα καὶ ἀγλαὰ δέχθαι ἄποινα. 
 
-4. εἰ ἑκηβόλος ἀπώσει λοιγὸν ἀεικέα Δαναοῖσιν, δώσουσι ἑλικώπιδα κούρην φίλῳ πατρὶ ἀπριάτην ἀνάποινον,
-ἄξουσι δ’ Ἱερὴν ἑκατόμβην ἐς Χρύσην · τότε θεόν ἱλασσάμενοι
+4. εἰ ἑκηβόλος ἀπώσει λοιγὸν ἀεικέα Δαναοῖσιν, δώσουσι ἑλικώπιδα κούρην φίλῳ πατρὶ ἀπριάτην ἀνάποινον, ἄξουσι δ’ Ἱερὴν ἑκατόμβην ἐς Χρύσην· τότε θεόν ἱλασσάμενοι
 πείσουσιν.
 
 203. Copy, scan, and translate :
 
 Iliad 93-100
 
-“οντ dp’ 6 y’ εύχϊύΧής ετημεμφεται ο’ύθ’ εκατόμβης,
-
-' i ) ' :A_>V	1	Ai/ ) ) 1	/
-
-αλΛ evetc αρητηρο9, ον ήπμησ Ἀηαμβμνων,
-
 <pb n="93"/>
 
-•πριν 7 alto 7τατρϊ φί
-ἀπριάτην ἀνάτtolvov.
-it βρύσην ■
 
-yptv θ’ ιερήν εκατόμβην
-
-204
-
-ούδ’ ἀπεΧυσε θύγατρα καὶ οὐκ απεύέζατ _ ἀποινα,	95
-
-τοννεκ ἀρ q\ye εΒωκεν ΐκηβόλος ηο ετι Εώτει.
-oyh’j ojye πριν Ἀαναοΐσιν ἀεικέα Xoiybv ἀπώσει,
-πριν y aiib πατρι φίλω ἀρμεναl εΧικώπιΕα κονι
-
-κουρην
-
-rore κψν μιν ίΧασσιίμενοι πεπίθοιμεν.'
-
-100
 
 204. 93. εὐχωλῆς, ἑκατόμβης : 979, 6.
 
@@ -6186,13 +6090,17 @@ each other.
 98.	The subject of δόμεναι may be the Greeks, but more likely it is
 intended to refer to Agamemnon, and would thus be omitted on purpose
 by the priest, who is afraid of his anger, in spite of the assurance of
-Achilles. — Ἑλικώπιδα.: “ bright-eyes,” is another of those speaking epithets
+Achilles. — 
+
+ἑλικώπιδα: “ bright-eyes,” is another of those speaking epithets
 which brings the object vividly before the mind, and helps to
 explain Agamemnon’s infatuation for the girl with her flashing eyes,
 that sparkled with the fullness of rippling laughter.
 
 97-98. πρὶν . . . πρίν: he will not sooner drive off pestilence . . . till
-(we) give back .... — ἀπριάτην ἀνάποινον: “ without money and without
+(we) give back .... — 
+
+ἀπριάτην ἀνάποινον: “ without money and without
 price.” Tautology for the sake of emphasis. Restoration and
 
 <pb n="79"/>
@@ -6228,17 +6136,9 @@ god which forces him to yield his prize.
 
 205. Translate:
 
-1. Do the gods blame the Achaeans on account of a vow,
-or of a hecatomb, or on account of Chryses the priest, whom
-Agamemnon dishonored ?	
+1. Do the gods blame the Achaeans on account of a vow, or of a hecatomb, or on account of Chryses the priest, whom Agamemnon dishonored ?	
 
-2. If Agamemnon will not release the dear daughter of the aged priest and receive the
-shining ransoms, the free-shooter will still give many woes to
-the Danaans, nor will he ward off unseemly destruction for
-them until they give back to her own father the white-armed
-maiden, unbought, and unransomed, and lead a sacred hecatomb
-into Chrysa ; then perhaps they may appease the god
-and persuade his soul.
+2. If Agamemnon will not release the dear daughter of the aged priest and receive the shining ransoms, the free-shooter will still give many woes to the Danaans, nor will he ward off unseemly destruction for them until they give back to her own father the white-armed maiden, unbought, and unransomed, and lead a sacred hecatomb into Chrysa ; then perhaps they may appease the god and persuade his soul.
 
 <pb n="80"/>
 
@@ -6265,15 +6165,14 @@ and δίδωμι, 957-962.
 μένος, μένεος, τό rage, anger, might, courage,	fury,	power,	spirit,
 ὄσσε (dual only), eyes.
 ὄσσομαι (όκ-)	eye,	look upon, look, glare at.
-πίμ-πλημι (πη-, πλα-), πλήσω, ἔπλησα (έπλήμην), πέπληκα*, πέπλησμαι*, ἐπλήσθην, with gen. of material, 986, fill, sate, stuff.
+πίμ-πλημι (πη-, πλα-), πλήσω, ἔπλησα (ἐπλήμην), πέπληκα*, πέπλησμαι*, ἐπλήσθην, with gen. of material, 986, fill, sate, stuff.
 πρώτιστos, πρωτίστη, πρώτιστον a double superlative, first, chiefest, the very first,
 πῦρ, πυρός, τό fire, flame, flame.
 πώ (enclit.) in some way, any way, ever, yet, at some time, at any time,
 
 μαντεύ-ομαι, μαντεύσομαι, ἐμαντευσάμην  predict, prophesy, act as seer, divine.
 
-Derivatives: melan-choly; lamp-a-drome ; mant-ic, -is
-(42) ; oc-n-lar, -list; ple-thora, -onasm; proto- (80) ;
+Derivatives: melan-choly; lamp-a-drome ; mant-ic, -is (42)<note n="grc">revised edition leaves this out -- I don't know what the derivative is myself</note> ; oc-u-lar, ocu-list; ple-thora, ple-onasm; proto- (80) <n>this remains in Debnar but I don't see what section 80 does to explain this. I presume the derivative is protoplasm.</n> ;
 pyr(e)- (15).
 
 209.	Translate:
@@ -6288,36 +6187,34 @@ pyr(e)- (15).
 
 <pb n="81"/>
 
-ἄνακτι. 
+5. Κάλχᾱς μάντις κακῶν οὔ πώ ποτε κρήγυον εἶπεν Ἀγαμέμνονι ἄνακτι. 
 
-6. τὰ κακὰ μάντει αἰειὶ φίλ’ ἐστὶν μαντεύεσθαι.
+6. τὰ κακὰ μάντει αἰεὶ φίλ’ ἐστὶν μαντεύεσθαι.
 
 7. Άχίλλεὺς εἶπεν ἐσθλὰ ἔπεα πολλὰ καὶ τὰ ἔτελεσσεν.
 
 210. Read and translate :
 
-Iliad, 101-iOS
+Iliad, 101-108
 
-η τυι ο y ωὶ είπων κατ’ ἀρ' έζετο, τοΐσο S’ ἀνεστη ιοί
-ήρως ἀτρείΰης εὐρύ κρείων Ἀγαμέμνων
-ἀ-χνύμενος ■ μενεος Se μέγα φρένες ἀμφιμεΧαιναι
-•κίμπΧαντ , οσσε Se oi 7rvpl Χαμπετόωντι είκτην.
-Κ,άλχαντα 7τρώτιστα κάκ δσσόμενος ιτροσεείπεν ·	]05
 
-“μάντι κακών, οΰ πώ ποτέ μοι το κρήγνον εΐπας ·
-alei τοι τὰ κάκ εστϊ φίΧα φρεσϊ μαντεύεσθαί,
-εσθΧον S’ οὐτε τὶ 7τω εϊπας eVo? οὐτε τεΧεσσας.
 
-211. 102. εὐρύ: adverbial, 780-781. — εὐρὺ κρείων : widely ruling.
+211. 102. εὐρύ: adverbial, 780-781. — 
+
+εὐρὺ κρείων : widely ruling.
 
 103. μένεος : 986. — 
 
 μέγα : adverbial, 780-781.
 
-104.	οἱ [ἕο] : dat. of interest or reference (or possibly of possession).
+104.	
+
+οἱ [ἕο] : dat. of interest or reference (or possibly of possession).
 — 
 
-πυρί: 1003. — ἐίκτην [εἴκω]. — 
+πυρί: 1003. — 
+
+ἐίκτην [εἴκω]. — 
 
 λαμπετόωντι (945-948): to contrast
 with ἀμφιμέλαιναι, verse 108.
@@ -6330,7 +6227,11 @@ scene demonstrates that the seer well knew what he was about (ὃς ᾔδη
 τὰ τ’ ἐόντα, etc., vs. 70) when he demanded protection of Achilles before
 making his accusation of the king.
 
-105.	πρώτιστα : 780—781. — κάκ’: 780-781, 1012. — κάκ’ ὀσσόμενος :
+105.	πρώτιστα : 780—781. — 
+
+κάκ’: 780-781, 1012. — 
+
+κάκ’ ὀσσόμενος :
 “with evil look” (literally “looking evil things”), i.e. a look that
 boded trouble for Calchas. —
 
@@ -6357,7 +6258,9 @@ daughter, Iphigeneia, before the gods would send suitable winds for the
 Greek fleet to set sail for Troy.
 
 107. τοι echoes the μοι of the preceding verse, with which it is contrasted.
-— τὰ κάκ’ ἐστί: 973, 1.
+— 
+
+τὰ κάκ’ ἐστί: 973, 1.
 
 106-108. Agamemnon’s fury is aroused as he thinks he detects a plot
 (of which Calchas and Achilles are the ringleaders) to rob him of his
@@ -6375,17 +6278,13 @@ common to the heat of passion.
 
 212.	Translate:
 
-1. When we had spoken thus we sat down; thereupon
-the hero, swift-footed Achilles, arose and spake among the
-Achaeans. 
+1. When we had spoken thus we sat down; thereupon the hero, swift-footed Achilles, arose and spake among the Achaeans. 
 
-2. When he is vexed, his heart, black all
-around, is mightily filled with anger, and his eyes are like
-unto blazing fire.
+2. When he is vexed, his heart, black all around, is mightily filled with anger, and his eyes are like unto blazing fire.
 
 3. Agamemnon eyed Calchas evilly and addressed him.	
 
-4. Because you are a prophet of evils you have never spoken or accomplished anything good for me, but it is always dear to· your heart to prophesy evil.
+4. Because you are a prophet of evils you have never spoken or accomplished anything good for me, but it is always dear to your heart to prophesy evil.
 
 5. “ Prophet ” said I, “ bird of evil! ”
 
@@ -6402,16 +6301,11 @@ Iliad, 109-117
 
 215.	VOCABULARY
 
-ἀ- (ά-) inseparable prefix (“ alpha
-copulative") denoting likeness,
-union, association with, intensification.
+ἀ- (ά-) inseparable prefix (“ alpha copulative") denoting likeness, union, association with, intensification.
 
-ἀγορεύω, ἀγορεύσω, ἠγόρευσα speak,
-say, tell, harangue, address an
-assembly.
+ἀγορεύω, ἀγορεύσω, ἠγόρευσα speak, say, tell, harangue, address an assembly.
 
-ἄλοχος, ἀλόχου ἡ (cf. λέχος) wife,
-spouse.
+ἄλοχος, ἀλόχου ἡ (cf. λέχος) wife, spouse.
 
 ἀμείνων, ἀμεῖνον better, braver, superior, preferable; compar, of ἀγαθός 754.
 
@@ -6419,35 +6313,29 @@ spouse.
 
 δέμας, δέμαος,  τό build, stature, size, form, body, structure.
 
-(ἐ)θέλω  (ἐθελ-, ἐθελε-) ίβίλήσω, ἠθέλησα, ἠθέληκα* wish, desire, be willing.
+(ἐ)θέλω  (ἐθελ-, ἐθελε-) ἐθελήσω, ἠθέλησα, ἠθέληκα* wish, desire, be willing.
 
 Derivatives: Apollyon.
 
 εἰμί (ἐσ-), ἔσ(σ)ομαι be.
-θέο-προιπέ-ω prophesy, foretell, declare
-an oracle, inquire of a god,
-interpret the divine will.
+θεο-προπέ-ω prophesy, foretell, declare an oracle, inquire of a god, interpret the divine will.
 κουρίδιος, κουριδίη, κουρίδιον  lawfully wedded, legally married, wedded in youth.
 
-οἴκοι οίκοι [οἶκος loc. 657, 714], at home,
+οἴκοι  [οἶκος loc. 657, 714], at home,
 
-προ-βούλομαι (βουλ-, βουλί-), προβουλήσομαι*, προβέβουλα, προβέβουλημαι*, προεβουλήθην* prefer, wish rather,
+προ-βούλομαι (βουλ-, βουλί-), προβουλήσομαι*, προβέβουλα, προβεβούλημαι*, προεβουλήθην* prefer, wish rather,
 σόος, σόη, σόον (= σάος = σάϜος) SAFE,
 sound, unhurt, unharmed, well,
-φυή, φυῦς, ἡ form, nature, beauty,
-growth, appearance, character.
+φυή, φυῦς, ἡ form, nature, beauty, growth, appearance, character.
 χέρείων, χερεῖον worse, inferior (754, 3).
 Χρῡσηίς, Χρῡσηίδος, ἡ Chryseis, daughter of Chryses.
 
 216. Translate :
 
-1. θεοπροπέοντες ἐν Ἀχαιοῖσι μάντιες ἀγορεύουσιν, ὡς (how)
-δὴ Ἀγαμέμνονος ἕνεκα ἑκηβόλος τεύχει ἄλγεαa, οὕνεκ’ οὐκ ἤθελε
-δέξασθαι ἀγλὰ ἄποινα κούρης Χρῡσηίδος. 
+1. θεοπροπέοντες ἐν Ἀχαιοῖσι μάντιες ἀγορεύουσιν, ὡς (how) δὴ Ἀγαμέμνονος ἕνεκα ἑκηβόλος τεύχει ἄλγεa, οὕνεκ’ οὐκ ἤθελε δέξασθαι ἀγλαὰ ἄποινα κούρης Χρῡσηίδος. 
 
-2. ’Ayaμέμvωv
-ούκ ἤθελε δέξασθαι ἄποινα, ἐπεὶ πολὺ βούλεται ἔχειν τὴν κούρην
-αὐτήν οἴκοι. 
+2. Ἀγαμέμvωv ούκ ἤθελε δέξασθαι ἄποινα, ἐπεὶ πολὺ βούλεται ἔχειν τὴν κούρην
+αὐτὴν οἴκοι. 
 
 3. προβουλήσεται Ἀγαμέμνων  Χρῡσηίδα Κλυταιμ(ν)ήστρης κουριδίης ἀλόχου; (988).	
 
@@ -6455,17 +6343,15 @@ growth, appearance, character.
 4. Χρῡσηίς οὔκ ἐστι χερείων Κλυταιμ(ν)ήστρης (988), οὐ δέμας οὐδὲ φυὴν οὔτ’
 ἄρ φρένας οὔτε τι ἔργα (1014).	
 
-5. ἔθελουσιν Ἀχαιοὶ δόμεναι πάλιν ἑλικώπιδα κούρην, εἰ τό γ’ ἐστιν ἄμεινον, ἐπεὶ βούλονται
-λάον εἶναι σόον ἢ (rather than) ἀπολέσθαι. 
+5. ἔθελουσιν Ἀχαιοὶ δόμεναι πάλιν ἑλικώπιδα κούρην, εἰ τό γ’ ἐστιν ἄμεινον, ἐπεὶ βούλονται λάον εἶναι σόον ἢ (rather than) ἀπολέσθαι. 
 
-6. δοθείη ἡ κούρη
-πατρὶ φίΧῳ. 
+6. δοθείη ἡ κούρη πατρὶ φίλῳ. 
 
-7. ἔστη ἱερεὺς Χρήσης ἐν στρατῷ Ἀχαιῶν και
-ἑλίσσετ Ἀγαμέμνονα, ἀλλ' οὐδ’ ὡς παῖς φίλη ἐτέθη πατρῖ ἐν
-χερσίν.
+7. ἔστη ἱερεὺς Χρήσης ἐν στρατῷ Ἀχαιῶν καὶ ἐλίσσετ’ Ἀγαμέμνονα, ἀλλ' οὐδ’ ὧς παῖς φίλη ἐτέθη πατρῖ ἐν χερσίν.
 
-<pb n="84"/>THE APHRODITE OF MELOS
+<pb n="84"/>
+
+THE APHRODITE OF MELOS
 
 Louvre, Paris
 
@@ -6498,7 +6384,9 @@ ovve/c eyd> κούρη 9 Χρυσή idos ayXa ἄποινα
 
 βούΧομ’ eyd) Χαον σόον e μ pe ναι ἡ αποΧέσθαι.
 
-218.	109. In vss. 106 ff. Agamemnon makes sweeping general charges
+218.	
+
+109. In vss. 106 ff. Agamemnon makes sweeping general charges
 against Calchas; in vs. 109 he proceeds to the particular, καὶ νῦν, as proof
 of his assertions.
 
@@ -6514,12 +6402,14 @@ to the god. —
 κούρης: 979, 5.
 
 112.	αὐτήν: the girl’s own self, as contrasted with the ransom. —
-βούλομαι: prefer. — ιτολύ : 780-781.
+βούλομαι: prefer. — 
+
+πολύ : 780-781.
 
 113.	ῥα Κλυταιμ(v)ήστρης: 524, 988. The correct spelling of this
 name is Κλυταιμήστρη, although practically all modern texts have Κλυταιμνήστρη, and we ordinarily have “ Clytaemnestra ” in English.
 
-114.	ἑθέν [εο] : 993. When Chryseis is said to be no worse than Clytaem(n)estra,
+114.	ἑθέν [ἕο] : 993. When Chryseis is said to be no worse than Clytaem(n)estra,
 it is only another way of saying that she is much more
 preferable.
 
@@ -6568,7 +6458,9 @@ help if vittles is cold, and Love ain’t enough for a soldier”), could spin
 and weave, kept his soldier hut neat and clean, and saw to it that his
 clothes were kept properly mended.
 
-116.	καί: even. — εἰ τό γ’ ἄμεινον (ἐστιν) : Agamemnon still would
+116.	καί: even. — 
+
+εἰ τό γ’ ἄμεινον (ἐστιν) : Agamemnon still would
 intimate that it is not for the best, and takes advantage of this opportunity
 for another innuendo at the honesty of the seer.
 
@@ -6587,34 +6479,22 @@ the accusation there made.
 
 219. Translate:
 
-1. You prophesy to the Danaans and harangue them,
-saying that it is on account of me that the free-shooter is
-causing them countless woes. 
+1. You prophesy to the Danaans and harangue them, saying that it is on account of me that the free-shooter is causing them countless woes. 
 
-2. For this (reason) the
-free-shooter has caused many woes to the Achaeans, and he
-will still cause them, because Agamemnon was not willing
-to accept the splendid ransoms for (of) the bright-eyed
-maiden Chryseis. 
+2. For this (reason) the free-shooter has caused many woes to the Achaeans, and he will still cause them, because Agamemnon was not willing to accept the splendid ransoms for (of) the bright-eyed maiden Chryseis. 
 
-3. Agamemnon wished to have her at
-home, since he greatly preferred her to Clytaem(n)estra his
-lawful wife. 
+3. Agamemnon wished to have her at home, since he greatly preferred her to Clytaem(n)estra his lawful wife. 
 
-4. Chryseis is not inferior to Clytaem(n)estra,
-either in build, in beauty, or in accomplishments. 
+4. Chryseis is not inferior to Clytaem(n)estra, either in build, in beauty, or in accomplishments. 
 
-5. If
-that is better, Agamemnon will be willing to give back the
-bright-eyed maiden to her dear father. 
+5. If that is better, Agamemnon will be willing to give back the bright-eyed maiden to her dear father. 
 
-6. We wished the
-people to be safe rather than to perish.
+6. We wished the people to be safe rather than to perish.
 
 LESSON XXXV: IRREGULAR VERBS IN -μι, εἰμί, AND ENCLITICS
 
 Iliad, 118-125
-220. Learn the conjugation of είμὶ complete, 964, and read 553-559.
+220. Learn the conjugation of εἰμί complete, 964, and read 553-559.
 
 
 
@@ -6625,9 +6505,8 @@ Iliad, 118-125
 
 222. VOCABULARY
 
-ἀ-γέραστος, ἀ-γεράστη, ἀ-γέραστον, without a prize of
-honor (γέρας)·
-ἀμέίβ-ω, ἀμείψω*', ἠμείψα, ἠμείφθην* (ex)change; (mid.), answer, reply.
+ἀ-γέραστος, ἀ-γεράστη, ἀ-γέραστον, without a prize of honor (γέρας)·
+ἀμέίβ-ω, ἀμείψω*, ἠμείψα, ἠμείφθην* (ex)change; (mid.), answer, reply.
 
 αὐτίκα immediately, forthwith,
 γέρας, γέραος, τό prize (of honor),
@@ -6636,8 +6515,7 @@ honor (γέρας)·
 
 ἑτοιμάζω* (ἑτοιμαδ-), ἑτοιμάσω* ἡτοίμασα. prepare, make ready.
 κεῖ-μαι, κείσομαι lie, recline, repose.
-κύδιστος, κῡδίστη, κύδιστον most glorious;
-superl.
+κύδιστος, κῡδίστη, κύδιστον most glorious; superl.
 
 λεύσσω (λευκ-) see, behold, observe, LOOK,
 ξῡνήιος, ξῡνηίη, ξῡνήιον common (stock possessions),
@@ -6659,40 +6537,22 @@ Derivatives : amoeba, amoebean (593-595), pod- (101).
 
 223.	Translate :
 
-1. ἑτοιμάσομεv αὐτίκα γέρας Ἀγαμέμνονι, ὄφρα μὴ οἶος
-Ἀχαιῶν ἔῃ ἀγέραστος, τόδε γὰρ οὐδὲ ἔοικεν. 
+1. ἑτοιμάσομεv αὐτίκα γέρας Ἀγαμέμνονι, ὄφρα μὴ οἶος Ἀχαιῶν ἔῃ ἀγέραστος, τόδε γὰρ οὐδὲ ἔοικεν. 
 
-2. πάντες Ἀχαιοὶ
-λεύσσουσιν ὅτι γέρας Ἀγαμέμνονος ἔρχεται ἄλλῃ. 
+2. πάντες Ἀχαιοὶ λεύσσουσιν ὅτι γέρας Ἀγαμέμνονος ἔρχεται ἄλλῃ. 
 
 3. ἠμειψάμεθα ἄνακτα καὶ εἴπομεν. 
 
-4. ποδάρκης διος Ἀχιλλεύς
-εἶπε μῦθον κρατερὸν Ἀγαμέμνονι  κύδίστῳ, φίλοκτεανωτάτῳ δὲ
-πάντων ἀνδρῶν. 
+4. ποδάρκης διος Ἀχιλλεύς εἶπε μῦθον κρατερὸν Ἀγαμέμνονι κύδίστῳ, φίλοκτεανωτάτῳ δὲ πάντων ἀνδρῶν. 
 
-5. Ἀχαιοὶ ἐκπέρσουσι πολλὰ ἐκ λᾱῶν
-πολίων καὶ δάσονται πάντα λᾱῷ. 
+5. Ἀχαιοὶ ἐκπέρσουσι πολλὰ ἐκ λᾱῶν πολίων καὶ δάσονται πάντα λᾱῷ. 
 6. οὐ δώσομεν γέρας Ἀγαμέμνονι, οὐ γὰρ ἔχομέν που ξῡνήια κείμενα (1027).
 
 224.	Read and translate :
 
 Iliad, 118-125
 
-αντάρ εμοι yepa; αντίχ ετοιμάσατ, δφρα μη olo;
 
-'ApyeOav 'ayepaaTo; έω, επει οὐδέ εοικεν ·
-
-Χεύσσετε γὰρ τδ yε π ἀντε;, ο μοι yepa; 'έρχεται ἀλλη.” 120
-τον δ’ ημείβετ’ έπειτα ποδάρκη; δΐο; ἀχιλλεύ; ·
-
-“ ἀτρείδη, κύδιστε, φίΧοκτεανώτατε πάντων,
-
-πώ; yάp τοι δώσουσι yepa; μeyάθυμοι Ἀχαιοί;
-
-ουδέ τὶ που ϊδμεν ξννήια κείμενα πολλά,
-
-ἀλλὰ τὰ μεν ποΧίων εξεπράθομεν, τα δέδασται,	125
 
 225.	118. ἐμοί: 997. It is this unreasonable demand, which Achilles
 
@@ -6721,8 +6581,7 @@ avarice beyond all other men.
 
 120.	ὅ = ὅτι: that.—
 
-μοι: dat. of interest, or possibly of disadvantage,
-997-998.
+μοι: dat. of interest, or possibly of disadvantage, 997-998.
 
 121.	Achilles, who has summoned the assembly and who has promised
 protection to Calchas, is the logical candidate to answer Agamemnon,
@@ -6790,23 +6649,13 @@ God hath given thee.”
 
 226.	Translate :
 
-1. The Achaeans will prepare another gift of honor immediately
-for Agamemnon, in order that not alone of all the
-Argives he may be without a prize of honor ; for it is not
-seemly so. 
+1. The Achaeans will prepare another gift of honor immediately for Agamemnon, in order that not alone of all the Argives he may be without a prize of honor ; for it is not seemly so. 
 
-2. They all see that the prize of the king is
-going elsewhere. 
+2. They all see that the prize of the king is going elsewhere. 
 
-3. Thereupon all the Achaeans answered
-the swift-footed, god-like Achilles. 
+3. Thereupon all the Achaeans answered the swift-footed, god-like Achilles. 
 
-4. The son of Atreus
-was the most glorious, but tire most avaricious of all men,
-for he was not willing to give his own prize of honor back
-to her beloved father, because he did not see many common
-(stores) lying about, and what the great-souled Achaeans
-had sacked from the cities had been divided.
+4. The son of Atreus was the most glorious, but the most avaricious of all men, for he was not willing to give his own prize of honor back to her beloved father, because he did not see many common (stores) lying about, and what the great-souled Achaeans had sacked from the cities had been divided.
 
 227.	Optional. At this point another review, similar to the
 one at the end of Lesson XXVII, should be taken. Before
@@ -6850,49 +6699,34 @@ of ἵστημι set, stand, 924, 964-969.
 
 233.	VOCABULARY
 
-ἀπο-τίνω (τει-, τι-, τινϜ-), ἀποτίσω, 
-
-ἀπέτῑσα, ἀποτέτεκα*, ἀποτέτισμαι*,
-ἀπετίσθην* repay, requite, recompense, atone for.
+ἀπο-τίνω (τει-, τι-, τινϜ-), ἀποτίσω, ἀπέτῑσα, ἀποτέτεκα*, ἀποτέτισμαι*, ἀπετίσθην* repay, requite, recompense, atone for.
 
 <pb n="91"/>
 
-ἐξ-αλαπάζω (άλαπαγ-), ἐξαλαπάξω,
-ἐξηλάπαξα sack utterly, destroy utterly.
+ἐξ-αλαπάζω (άλαπαγ-), ἐξαλαπάξω, ἐξηλάπαξα sack utterly, destroy utterly.
 
-ἐπαγείρω (ἀγερ-), ἐπήγειρα, ἐπαγήγερμαι, ἐπηγέρθην collect, gather
-(together).
+ἐπαγείρω (ἀγερ-), ἐπήγειρα, ἐπαγήγερμαι, ἐπηγέρθην collect, gather (together).
 
-*ἐπείκω (Ϝεικ-, Ϝοικ-, Ϝικ-), ἐπ-έοικα, perf. as pres, he seemly, be fitting
-(either, also, in addition).
+*ἐπείκω (Ϝεικ-, Ϝοικ-, Ϝικ-), ἐπ-έοικα, perf. as pres, he seemly, be fitting (either, also, in addition).
 εὐτείχεος, εὐτείχεον  well-walled.
 θεο-είκελος, θεο-εικέλη, θεο-είκελον godlike,
-κλέπτω (κλεπ-, κλοπ-, κλαπ-), κλέψω *,
-ἔκλεψα, κέκλοφα**, κέκλεμμαι*,
-ἐκλέφβην]· (ἐκλάπην)* steal, be stealthy, deceive, hide,
+κλέπτω (κλεπ-, κλοπ-, κλαπ-), κλέψω *, ἔκλεψα, κέκλοφα**, κέκλεμμαι*, ἐκλέφθην]· (ἐκλάπην)* steal, be stealthy, deceive, hide,
 νόος, νόου, ὁ mind, plan, purpose.
 
 ὅ-δε, ἥ-δε, τό-δε this, that; he, she, it.
 οὕτω(ς) thus, so, in this way.
-παλἰλ-λογος, παλιλ-λόγη, παλἰλ-λογον gathered together
-again, re-collected, re-assembled.
+παλίλ-λογος, παλιλ-λόγη, παλίλ-λογον gathered together again, re-collected, re-assembled.
 
 
 
-παρ-έρχομαι (ἐρχ-, ἠλθ-, ἐλυθ-, ἐλευθ-),
-παρελεύσομαι, παρῆλθον (παρήλυθον), παρελήλυθα (παρειλήλουθα)
-
-evade, pass by, outwit, elude,
-circumvent,
+παρ-έρχομαι (ἐρχ-, ἠλθ-, ἐλυθ-, ἐλευθ-), παρελεύσομαι, παρῆλθον (παρήλυθον), παρελήλυθα (παρειλήλουθα) evade, pass by, outwit, elude, circumvent,
 
 ποθί (encl.) ever, at any time.
-προ-ΐ-ημι (ση-, σε- = ἡ-, ἑ-), προήσω,
-προέηκα (προῆκα), προεῖκα*, προεῖμαι*, προείθην send forward, send forth, give up.
+προ-ΐ-ημι (ση-, σε- = ἡ-, ἑ-), προήσω, προέηκα (προῆκα), προεῖκα*, προεῖμαι*, προείθην send forward, send forth, give up.
 τετρα-πλῇ fourfold, quadruply.
 τρι-πῇ threefold, triply.
 
-Τροίη, Τροίης, ἡ Troy, the city, a famous ancient city in Asia Minor, commanding the Hellespont (Dardanelles). According to the legend it
-was sacked by the ancient Greeks, under Agamemnon, after a siege of ten years.
+Τροίη, Τροίης, ἡ Troy, the city, a famous ancient city in Asia Minor, commanding the Hellespont (Dardanelles). According to the legend it was sacked by the ancient Greeks, under Agamemnon, after a siege of ten years.
 
 Derivatives:	klepto-mani(c), cleps-ydra; tetra-gon, tetra-hedron, tetra-meter ; tri-ple(t), tri-ply, tri-gono-metry, tri-meter, tri-pod.
 
@@ -6901,38 +6735,24 @@ Derivatives:	klepto-mani(c), cleps-ydra; tetra-gon, tetra-hedron, tetra-meter ; 
 1. ἐπέοικεν Ἀχαιοὺς γέρα παλίλλογα βασιλῆι ἐπαγαγεῖν;
 
 
-2. νῦν μὲν Ἀγαμέμνων προήσει Χρῡσηίδα κούρην ἑλικώπιδα
-θεῷ ἑκηβόλῳ, ὕστερον δ’ Ἀχαιοὶ τὸν ἀποτίσουσιν. 
+2. νῦν μὲν Ἀγαμέμνων προήσει Χρῡσηίδα κούρην ἑλικώπιδα θεῷ ἑκηβόλῳ, ὕστερον δ’ Ἀχαιοὶ τὸν ἀποτίσουσιν. 
 
 3. δώσει Ζεὺς Ἀχαιοῖσίν ποθι ἐξαλαπάξαι Τροίην πόλιν εὐτείχεον.
 
-4.	Ἀχαιοὶ προσέφησαν Ἀχιλῆα ποδάρκεα. 
+4. Ἀχαιοὶ προσέφησαν Ἀχιλῆα ποδάρκεα. 
 
-5. ἀγαθὸς μὲν ἐστι θεοείκελος Ἀχιλλεύς, κλέπτει δὲ νόῳ καὶ ἐθέλει παρελθεῖν
-Ἀχαμέμνονα ἄνακτα ἀνδρῶν.
+5. ἀγαθὸς μὲν ἐστι θεοείκελος Ἀχιλλεύς, κλέπτει δὲ νόῳ καὶ ἐθέλει παρελθεῖν Ἀχαμέμνονα ἄνακτα ἀνδρῶν.
 
 235.	Read and translate :
 
 Iliad, 126-132
 
-Χάους δ’ οὐκ επέοικε iraXiXXoya ταΰτ επαηείρειν.
-αλλα συ μεν νΰν τήνδε θεω πράες, αύτάρ Ἀχαιοί
 
-92
+<pb n="92"/>
 
-<pb n="126"/>LESSON λλΧΥΙ
+236. 
 
-[236
-
-τρπτΧη τετραπΧη τ’ αποτίσομεν, αὶ κε ποθι Ζευς
-δωσι πόΧιν Τροίην εὐτείγεον εξαΧαπάξαι. ”
-
-τον δ’ απαμειβόμενος προσέφη κρείων Ἀγαμέμνων ·	130
-
-“ μη δη όντως, αγαθός περ έών, θεοείκεΧ' ἀχιλλεϋ,
-κΧεπτε νόω, επεϊ οὐ ίταρεΧεύσεαι οὐδέ με πείσεις.
-
-236. 126. λᾱούς: 971. In demanding a prize immediately (vs. 118),
+126. λᾱούς: 971. In demanding a prize immediately (vs. 118),
 Agamemnon asserts that it is not fitting (vs. 119) that one of his rank
 should be the only one to suffer from lack. Achilles retorts that it is
 not fitting either (observe the force
@@ -7001,7 +6821,7 @@ Jericho fought against you. . . . And I delivered them into your hand.”
 
 131.	δὴ οὕτως: synizesis, 586. — 
 
-ἀγαθός περ ἐών (concessive): although νyou are brave.
+ἀγαθός περ ἐών (concessive): although you are brave.
 
 132.	νόῳ : 1009. —
 
@@ -7017,7 +6837,7 @@ men must be a scoundrel; and as Calchas was a liar (vs. 108, etc.), so
 Achilles is a thief at heart. This accusation would be a grave insult to
 the free and frank Achilles. On another occasion, when referring by
 innuendo to Agamemnon, he says, “ For hateful to me even as the gates
-of hell is he that hideth one thiug in his heart and uttereth another.”
+of hell is he that hideth one thing in his heart and uttereth another.”
 Agamemnon feels sure that Achilles is trying to steal his prize from
 him secretly, by having him give her up without bestowing another
 upon him. He is not satisfied with a vague promise of future recompense,
@@ -7029,24 +6849,15 @@ for the quarrel to be avoided.
 
 237. Translate :
 
-1. What the Achaeans had sacked from the well-walled
-cities had been divided, and Agamemnon was not willing to
-gather this together again from the people. 
+1. What the Achaeans had sacked from the well-walled cities had been divided, and Agamemnon was not willing to gather this together again from the people. 
 
 
 
 <pb n="94"/>
 
-2. If Agamemnon will give up his prize of honor to the gods, the Achaeans
-will recompense him threefold, yea fourfold, if ever the gods
-who have Olympian homes should grant to them to sack
-utterly the well-walled city of Priam. 
+2. If Agamemnon will give up his prize of honor to the gods, the Achaeans will recompense him threefold, yea fourfold, if ever the gods who have Olympian homes should grant to them to sack utterly the well-walled city of Priam. 
 
-3. The Achaeans
-answered the ruling Agamemnon and said, “Though you
-are very brave in war, divine son of Atreus, do not be
-stealthy in mind, for it is not fitting for a very mighty king
-to outwit the people and persuade them evilly.”
+3. The Achaeans answered the ruling Agamemnon and said, “Though you are very brave in war, divine son of Atreus, do not be stealthy in mind, for it is not fitting for a very mighty king to outwit the people and persuade them evilly.”
 
 LESSON XXXVII: PREPOSITIONS
 
@@ -7059,14 +6870,10 @@ Iliad, 133-141
 240.	VOCABULARY
 
 Αἴᾱς, Αἴαντος, ὁ Ajax,
-αἱρέω (αἱρ- ,	ἑλ-),	αἱρήσω, ἕελον
-
-(εἷλον, 584-585), ᾕρηκα*, ἥρημαι*,
-ήρέθην* take, seize, deprive, (mid.)
-choose,
+αἱρέω (αἱρ- ,	ἑλ-),	αἱρήσω, ἕελον (εἷλον, 584-585), ᾕρηκα*, ἥρημαι*,
+ήρέθην* take, seize, deprive, (mid.) choose,
 ἅλς, ἁλος, ὁ, ἡ sea, brine,
-ἀντ-άξιος, ἀντ-αξίη, ἀντ-άξιον equivalent, of equal
-value.
+ἀντ-άξιος, ἀντ-αξίη, ἀντ-άξιον equivalent, of equal value.
 
 ἀπο-δί-δωμι (δω-, δο-), ἀποδώσω, ἀπέδωκα, ἀποδέδωκα*, ἀποδίδομαι, ἀπέδόθην give back, return, give away, pay.
 
@@ -7074,75 +6881,46 @@ value.
 
 αὔτως in the same way, thus, so, as matters now are.
 
-Derivatives :	sal-t, sal-ine (603-604), hali-eutic(s), -odose,
 
-hali-o-graphy, halite ; axiom(atic) ; dose, dowry; mela(n)- (208).
 
-δεύομαι (δευ-, δευε-), δευήσομαι, ἐδεύσα lack, need, he in want,
-ἐρύω (Ϝερυ-, Ϝρυ-), ἐρυ(ύ)ω, εἴρυσ(σ)a,
-εἴρυσ(σ)μαι draw, drag, launch,
+δεύομαι (δευ-, δευε-), δευήσομαι, ἐδεύησα lack, need, he in want,
+ἐρύω (Ϝερυ-, Ϝρυ-), ἐρυ(ύ)ω, εἴρυσ(σ)a, εἴρυσ(σ)μαι draw, drag, launch,
 ἧμαι (ἡσ-) (pres. only) sit, be seated,
-μέλας, μέλαινα, μέλav black, dark, dusky,
-μετα-φράζω* (φραδ), μεταφράσω*,
-μετέφρασα (μετέφραδον), μεταπέφρακα**, μεταπέφρασμαι*. μεταφράσθην tell, point out, declare;
-mid., consider later, plan hereafter,
-reflect on later.
+μέλᾱς, μέλαινα, μέλav black, dark, dusky,
+μετα-φράζω* (φραδ), μεταφράσω*, μετέφρασα (μετέφραδον), μεταπέφρακα**, μεταπέφρασμαι*. μεταφράσθην tell, point out, declare; mid., consider later, plan hereafter, reflect on later.
 Ὀδυσσεύς, Ὀδυσσεύς, ὁ Odysseus (Ulysses).
 οὕτως in order that, that, how (that).
 
 τεός, τεή, τεόν thy, thine, your(s).
 
-
+Derivatives :	sal-t, sal-ine (603-604), hali-eutic(s), -odose, hali-o-graphy, halite ; axiom(atic) ; dose, dowry; mela(n)- (208).
 
 <pb n="95"/>
 
 241. Translate:
 
-1. οὐκ ἐθέλει Ἀχιλλεὺς Ἀγαμέμνονα δευόμενον ἧσθαι, ὄφρ’
-αὐτὸς ἔχῃ γέρας. 
+1. οὐκ ἐθέλει Ἀχιλλεὺς Ἀγαμέμνονα δευόμενον ἧσθαι, ὄφρ’ αὐτὸς ἔχῃ γέρας. 
 
 2. Ἀγαμέμνων ἧσται αὔτως δευόμενος, κέλεεται δ’ Ἀχιλῆα γέρας ἀποδοῦναι. 
 
-3. μεγάθῡμος Ἀχιλλεῦς οὐ
-δώσει Ἀγαμέμνονι πολλὰ γέρα, ἄρσᾱς τὰ κατὰ θῡμόν, ὅπως
-ἔσονται ἀντάξια. 
+3. μεγάθῡμος Ἀχιλλεῦς οὐ δώσει Ἀγαμέμνονι πολλὰ γέρα, ἄρσᾱς τὰ κατὰ θῡμόν, ὅπως ἔσονται ἀντάξια. 
 
 4. εἰ δὲ κε μὴ δώωσιν Ἀχοιοὶ μεγάθῡμοι γέρας Ἀγαγμέμνονι,  ἄρσαντες τὸ κατὰ θῡμόν, ὅπως ἔσται ἀντάξιον, αὐτός κεν ἕληται ἦ γέρας Άχιλῆος ἦ Αἴαντος ἦ Ὀδυσσῆος. 
 
 5. Ἀγaμέμvωv ἰὼν ἕληται γέρας, ἑλὼν δὲ τὸ ἄξῃ, Ἀχιλλεύς δέ κεν κεχολώσεται, τόν κεν Ἀγαμέμνων ἵκηται. 
 
-6. πάντες Ἀχαιοὶ
-μετεφράζοντο πάντα καὶ αὖτις. 
+6. πάντες Ἀχαιοὶ μετεφράζοντο πάντα καὶ αὖτις. 
 
-7. εἴρυσαν νῆας μελαίνᾱς εἰς
-ἅλα δῖαν.
+7. εἴρυσαν νῆας μελαίνᾱς εἰς ἅλα δῖαν.
 
 242. Read and translate.
 
 Iliad, 133-141
 
-η εψεΧεις, οφρ’ αυτός εχης
 
-,£	5	\	if~~)	At
+243. 133. ἔχῃς : keep, 1115-1110. — 
 
-m?, αυταρ €μ^αυτω9
-η&θίαι 8ξνιήίενον^κε%εάι ^ε^^τηί^ ἀτηοοΰναι;
-ίιἈΧ’ έίγΐεν δώρ^θϋσι ρμερας μεγάθυμοι Ἀχαιοί,^
-ἀρσάντες κφα θυμόν, όπώφ’ανταξιον,εάάάι—
-
-Ke βη όωωσιν, εγώ Se κεν ἀψτος[ε1Χωμαι"
-
-'η τ’έον ff Ἀφαντος l&v yepat, ψ’Οφυσηος ;f>	,
-
-αβ*ό εΧ'ων · $ %έ 'κεν κεχόΧώ'σεται, pv' iceν Μψμαι,ι^
-ἀλλ’ ἡ τοι μενπαΰτα μεταφράσόμεσθα καὶ ck/τίς,
-ΐίύτ) ί$ i4fa μεΧαιναν ερνσσομεν^ εις ἀλα Βίαν,
-
-135
-
-140
-
-243. 133. ἔχῃς : keep, 1115-1110. — ὄφρ’ αὐτὸς ἔχῃς γέρας : parenthetical.
+ὄφρ’ αὐτὸς ἔχῃς γέρας : parenthetical.
 
 133-134.
 Said in scornful and bitter derision. The question is of
@@ -7152,7 +6930,9 @@ such a plan in mind. The answer of Agamemnon to the charge of covetousness
 by Achilles, is that Achilles is the one who has a selfish end in
 view, and that he wishes further to disgrace the commander-in-chief in
 the eyes of the army by talcing away his prize of honor, while he keeps
-his own. — avros : yourself, as contrasted with me and my situation.
+his own. — 
+
+αὐτός : yourself, as contrasted with me and my situation.
 
 135. Agamemnon repeats the words of Achilles in verse 123, to indi-
 
@@ -7165,14 +6945,14 @@ those of Achilles, and it must be done now.
 the possibility he mentions here, but may have caught an evil
 inspiration to rob Achilles of his prize, and so when he assails him by
 demanding μη κλέπτε νόῳ (vss. 131-132), he may be employing a device
-inown the world around, of accusing his enemy of a crime which he is
+known the world around, of accusing his enemy of a crime which he is
 contemplating himself. Probably Agamemnon makes a gesture at the
 end of this verse, which would make the aposiopesis less violent.
 
 137. ἕλωμαι: 1146. ἐγώ and αὐτός are added with a proud feeling of
 conscious superior power.
 
-138.	Observe how the addition of ιῶν makes the picture definite and
+138.	Observe how the addition of ἰών makes the picture definite and
 adds a touch of the dramatic.
 
 137-139. This is all more subterfuge. Agamemnon has not the
@@ -7196,37 +6976,25 @@ for the eyes as well as for the ears of his audience. From the time of
 seams water-tight. This gave them the black appearance which the
 poet uses to visualize them for his hearers. — 
 
-ἐρύσσομεν [ἐρύσωμεν] : 800,
-1098. 
+ἐρύσσομεν [ἐρύσωμεν] : 800, 1098. 
 
 244. Translate :
 
-1. Surely we do not wish that the son of Atreus should
-sit (inf.) thus lacking, in order that we ourselves may have
-prizes of honor; and we do not order him to give back the
-flashing-eyed maiden to her dear father. 
+1. Surely we do not wish that the son of Atreus should sit (inf.) thus lacking, in order that we ourselves may have prizes of honor; and we do not order him to give back the flashing-eyed maiden to her dear father. 
 
-2. We shall give
-the great-souled Achaeans many prizes of honor, adapting
-them to their desire, so that they may be equivalent. 
+2. We shall give the great-souled Achaeans many prizes of honor, adapting them to their desire, so that they may be equivalent. 
 
-3. If
-we do not give (it), the son of Atreus himself will seize either
-your prize, or (that) of Ajax, or of Odysseus, and when he
+3. If we do not give (it), the son of Atreus himself will seize either your prize, or (that) of Ajax, or of Odysseus, and when he
 
 <pb n="97"/>
 
-has seized (it), he will lead (it) to the broad camp of the
-Achaeans. 
+has seized (it), he will lead (it) to the broad camp of the Achaeans. 
 
-4. If Agamemnon should come upon Achilles,
-he would perchance be enraged. 
+4. If Agamemnon should come upon Achilles, he would perchance be enraged. 
 
-5. But he considered this
-also afterward. 
+5. But he considered this also afterward. 
 
-6. We shall now drag many swift black
-ships into the divine sea.
+6. We shall now drag many swift black ships into the divine sea.
 
 LESSON XXXVIII: COMPARISON OF ADJECTIVES
 
