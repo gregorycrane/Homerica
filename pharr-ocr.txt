@@ -7010,52 +7010,34 @@ VOCABULARY
 247.
 
 ἀv-αιδείη, ἀναιδείης, ἡ shamelessness,
-ἀρχός, ἀρχοῦ, ὁ leader, commander,
-ruler, pilot, guide, chief,
-βουλη-φόρος, βουληφόρον counsel-bearing,
-full of counsel, discreet.
+ἀρχός, ἀρχοῦ, ὁ leader, commander, ruler, pilot, guide, chief,
+βουλη-φόρος, βουληφόρον counsel-bearing, full of counsel, discreet.
 
 εἷς, μία, ἕν (758) one, only, sole.
-ἑκά-εργος, ἑκα-έργου, ὁ free-worker, working
-his will, Apollo.
+ἑκά-εργος, ἑκα-έργου, ὁ free-worker, working his will, Apollo.
 
 ἔκ-παγλος, ἔκ-παγλον terrible, awful, dread(ful), frightful, fearful.
 
-ἐπι-έννῡμι (ἐφ-έννῡμι) (Ϝεσ-), ἐφέσ(σ)ω,
-ἔφεσ(σ)α, ἐφεῖμαι (ἐφέσμαι) (both
-with and without elision) clothe,
-invest.
+ἐπι-έννῡμι (ἐφ-έννῡμι) (Ϝεσ-), ἐφέσ(σ)ω, ἔφεσ(σ)α, ἐφεῖμαι (ἐφέσμαι) (both
+with and without elision) clothe, invest.
 
-ἐπι-τηδές sufficiently, in sufficient
-numbers, appropriately, suitably.
+ἐπι-τηδές sufficiently, in sufficient numbers, appropriately, suitably.
 
 ἐρέτης, ἐρέτᾱο, ὁ oarsman, rower, sailor.
 
 Ἰδομενεύς, Ἰδομενῆος, ὁ Idomeneus.
-ἱερόν, ἱεροῦ, τό sacrifice, sacred rite,
-victim for sacrifice.
-καλλί-πάρηος, καλλί-πάρηον beautiful-cheeked,
-fair-cheeked.
-κερδαλεό-φρων, κερδαλεό-φρον crafty-minded,
-cunning-(minded), sly, mindful
-of gain.
+ἱερόν, ἱεροῦ, τό sacrifice, sacred rite, victim for sacrifice.
+καλλι-πάρηος, καλλι-πάρηον beautiful-cheeked, fair-cheeked.
+κερδαλεό-φρων, κερδαλεό-φρον crafty-minded, cunning-(minded), sly, mindful of gain.
 
-ὁδός, ὁδοῦ, ἡ road, way, path, journey,
-expedition.
+ὁδός, ὁδοῦ, ἡ road, way, path, journey, expedition.
 
-ῥέζω (Ϝρεγ-) ῥέξω ἔρ(ρ)εξα, ἐρέχθην  
-
-
-
-WORK, accomplish, do, perform,
+ῥέζω (Ϝρεγ-) ῥέξω ἔρ(ρ)εξα, ἐρέχθην WORK, accomplish, do, perform,
 make, sacrifice,
-ὑπτό-δρα scowlingly, askance, looking
-at darkly, from beneath (ὑπό)
-the brows drawn down,
+ὑπό-δρα scowlingly, askance, looking at darkly, from beneath (ὑπό) the brows drawn down,
 ὤ μοι alas ! ah me ! good gracious !
 
-Derivatives: an-archy, hier-archy, mon-archy, olig-archy, patri-arch(y, ic(al)),
-arch-angel, arch-bishop, arch-duke, arch-i-tect, arch- (as arch-fiend, etc.) ;
+Derivatives: an-archy, hier-archy, mon-archy, olig-archy, patri-archy, patri-archic, patri-archical, arch-angel, arch-bishop, arch-duke, arch-i-tect, arch- (as arch-fiend, etc.) ;
 phos-phoros, zoo-phorus; work (593-595); vest-ment; hier- (101);
 
 <pb n="98"/>
@@ -7071,38 +7053,22 @@ drag(o)on.
 
 3. ἀνὰ τὴν θοὴν νῆα μέλαιναν Ἀγαμέμνων ἔβησεν (1069) αὐτήν Χρῡσηίδα καλλιπάρηον. 
 
-4. εἷς τις ἀῆρ βουληφόφος ἔσται ἀρχὸς τῶν νηῶν Ἀχαιῶν.	
+4. εἷς τις ἀνὴρ βουληφόφος ἔσται ἀρχὸς τῶν νηῶν Ἀχαιῶν.	
 
 5. Πηληιάδης ἐκπαγλότατος ἀνδρῶν ἔσται ἀρχὸς τῆς νηός. 
 
-6. Ἀχιλλεὺς ρέξει ἱερὰ καὶ ἱλάσεται
-ἑκάεργον Ἀπόλλωνα τοῖσιν Ἀχαιοῖσιν. 
+6. Ἀχιλλεὺς ρέξει ἱερὰ καὶ ἱλάσεται ἑκάεργον Ἀπόλλωνα τοῖσιν Ἀχαιοῖσιν. 
 
-7. οὔ τις Ἀχαιῶν πρόφρων πείσεται ἔπεσιν Ἀγαμέμνονι ἀναιδείην ἐπιειμένῳ (1020, μ1; 1071) καὶ κερδαλεόφρονι. 
+7. οὔ τις Ἀχαιῶν πρόφρων πείσεται ἔπεσιν Ἀγαμέμνονι ἀναιδείην ἐπιειμένῳ (1020, 1; 1071) καὶ κερδαλεόφρονι. 
 
-8. οὔ τις ἐθέλει ὁδὸν ἐλθεῖν ἢ
-ἀνδράσιν μάχεσθαι ἶφι.
+8. οὔ τις ἐθέλει ὁδὸν ἐλθεῖν ἢ ἀνδράσιν μάχεσθαι ἶφι.
 
 249.	Read and translate :
 
-Iliad, ΙΙβ-151
-ες δ’ έρέτας έπιτηδές ἀγείρ&μεν, ές δ’ εκατόμβας
-θήόμεν, αν δ’ αυτήν ἀρνσηίδα καλλητάρηον
-βήσομεν. εις δε τις affybk ἀνήρ βουΧηφόρος έστω,
-ή Ἀίας ἡ Ίδομενεύς ἡ δΐος Όδυσσεύς	145
+Iliad, 142-151
 
-ήέ σύ, ΤίηΧε'ίδη, πάντων έκπαγΧότατ ἀνδρών,
-όφρ’ ήμϊν εκάεργον ΐΧάσσεαι, ιερὰ ρέξας.”
 
-τον δ’ ἀρ’ ύπόδρα Ιδῶν προσέφη πόδας ώκίις Ἀχιλλευς'
-
-“ ώ μοι, ἀναιδείην έπιειμένε, κερδαΧεόφρον,
-
-■πώς Tt? Tot 7τρόφρων έπεσιν πείθηται Ἀχαιών	150
-
-ή οδόν έΧθέμεναι / ἀνδράσιν ίφι μάχεσθαι ;
-
-250.	142. ἐς, ἐς : 1048-1049. — 
+250.	142. ἐς, ἐς<n>another case where we need token level citation</n> : 1048-1049. — 
 
 ἀγείρομεν: 800, 1098. Agamemnon
 hurries along in his description of what he wants done, employing a well-known
@@ -7144,7 +7110,7 @@ Agamemnon “ crafty-minded.” —
 ἔπεσιν : 996. — 
 
 πείθηται: 1100. Observe the alliteration
-of π in this verse.
+of π in this verse.<n>string level citation needed</n>
 
 151. ὁδόν: 1012. — 
 
@@ -7158,30 +7124,17 @@ the soldiery against such high-handed injustice.
 
 251. Translate:
 
-1. But come, drag the swift black ships into the divine
-Sea, collect oarsmen in sufficient numbers therein, place in
-them many sacred hecatombs, and cause to go on board
-many beautiful-cheeked maidens. 
+1. But come, drag the swift black ships into the divine sea, collect oarsmen in sufficient numbers therein, place in them many sacred hecatombs, and cause to go on board many beautiful-cheeked maidens. 
 
-2. Some counsel-bearing
-man shall be commander. 
+2. Some counsel-bearing man shall be commander. 
 
-3. Neither Ajax nor Idomeneus
-nor the divine Odysseus was cowardly, but they feared
-the son of Peleus, most terrible of men. 
+3. Neither Ajax nor Idomeneus nor the divine Odysseus was cowardly, but they feared the son of Peleus, most terrible of men. 
 
-4. Will you perform
-sacrifices and appease the free-worker for us ?	
+4. Will you perform sacrifices and appease the free-worker for us ?	
 
-5. We
+5. We looked askance at the swift-footed Achilles and addressed him. 
 
-looked askance at the swift-footed Achilles and addressed
-him. 
-
-6. Alas ! how many of the great-souled Achaeans
-will zealously obey a crafty-minded man clothed in shamelessness,
-either to go on an expedition or to fight mightily
-with men?
+6. Alas ! how many of the great-souled Achaeans will zealously obey a crafty-minded man clothed in shamelessness, either to go on an expedition or to fight mightily with men?
 <pb/>
 
 LESSON XXXIX: FORMATION AND COMPARISON OF ADVERBS
@@ -7201,32 +7154,25 @@ Iliad, 152-157
 βωτι-άνειρα fem., man-nourishing, nurturing heroes; subst. nurse of heroes.
 
 δεῦρο hither, to this place, here,
-δηλέ-ομαι*, δηλήσομαι, ἐδηλησάμην,
-δεδήλημαι* harm, hurt, destroy,
-damage, wrong, ruin.
+δηλέ-ομαι*, δηλήσομαι, ἐδηλησάμην, δεδήλημαι* harm, hurt, destroy, damage, wrong, ruin.
 
-ἐλά-ω, ἐλά(σ)(σ)ω, ἠλασ(σ)α, ἐλήλακα*. ἐλήλαμαι, ήλάθην* drive,
-strike, carry on, push, press.
-ἐρι-βώλαξ, ἐριβώλακος  rich-clodded, heavy-clodded,
-fertile.
+ἐλά-ω, ἐλά(σ)(σ)ω, ἠλασ(σ)α, ἐλήλακα*. ἐλήλαμαι, ήλάθην* drive, strike, carry on, push, press.
+ἐρι-βώλαξ, ἐριβώλακος  rich-clodded, heavy-clodded, fertile.
 
-ἠχήεις, ἠχήεσσα, ἠχῆεν ononatopoetic, (re)echoing) roaring, (re) sounding,
-thundering,
+ἠχήεις, ἠχήεσσα, ἠχῆεν onomatopoetic, (re)echoing) roaring, (re)sounding, thundering,
 ἵππος, ἵππου, ὁ, ἡ horse, mare.
 
 καρπός, κάρποῦ, ὁ fruit, crop, produce, harvest.
 
-μαχέ-ομαι (μάχομαι), μαχήσομαι (μαχέσσομαι ?) (μαχέομαι), ἐμαχίσ(σ)άμην fight, battle.
+μαχέ-ομαι (μάχομαι), μαχήσομαι (μαχέσσομαι ?) (μαχέομαι), ἐμαχεσ(σ)άμην fight, battle.
 μεταξύ between, intervening,
 οὖρος (ὄρος, 571), οὔρεος, τό mountain.
 σκιόεις, σκιόεσσα, σκιόεν shady, shadowy.
 Tpῶes, Τρώων, οἱ Trojans.
 
-Φθίη, Φθίης, ἡ Phthia, a town and district
-in northern Greece, home of
-Achilles.
+Φθίη, Φθίης, ἡ Phthia, a town and district in northern Greece, home of Achilles.
 
-Derivatives : (a)etio-logy, -logic(al) ; bu-colic, bu-cranium,
+Derivatives : (a)etio-logy, aetio-logic(al) ; bu-colic, bu-cranium,
 bovine ; elas-tic(ity) ; echo-ing, echo-meter, echo-scope ; hippo-potamus,
 hippo-drome, hippo-crene, Hippo-crates, Phil-ip ; carp-el, carpo-genic,
 carpo-lite, carpo-phore, Poly-carp ; or-ead, oro-logy, oro-graphy, oro-hippus ;
@@ -7236,30 +7182,22 @@ squi-rrel, scio-graph(y), scio-machy, scio-mancy, sci-optic(al).
 
 1. ἦλθον Ἀχαιοὶ δεῦρο μαχησόμενοι ἕνεκα Τρώων αἰχμητάων.
 2. εἰσι Τρῶες αἴτιοι Ἀχαιοῖσιν; 
-3. ἠλάσαμεν βοῦς (= βόας) τε καὶ ἵτπτους Ἀχιλῆος, καρπὸν δ’ ἑδηλησάμεθ' ἐν Φθίῃ ἐριβώλακι. 
+3. ἠλάσαμεν βοῦς (= βόας) τε καὶ ἵππους Ἀχιλῆος, καρπὸν δ’ ἑδηλησάμεθ' ἐν Φθίῃ ἐριβώλακι. 
 4. Τρῶες εἰσιν τηλόθι Φθίης βωτιανείρης. ἐστὶ δὲ μάλα πολλὰ σκιόεντ’ οὔρεα καὶ ἠχήεσσα θάλασσα μεταξύ.
 
 <pb n="101"/>
 
 256.	Read and translate :
 
-V i ' Iliad, ISf-lg!1
-
-*3	,	.	^	-■
-
-o^ryap e<yco Tρωων ἐνεκ ηΧυθον αιχμ-ητάων
-^$εΰρο μαχησόμενος^ ίπε'ὶ οΰ τὶ μοι αἰτιοὶ είσιν ’
-ου γὰρ πιο ητοτ εμάς βούς ηΧασαν οὐδε μεν Ίππους,
-ουδέ ποτ ἐν Φθίρ εριβώΧακι βωτιανείρτ)	155
-
-καρπόν εδηΧήσαντ, επει ἡ μάΧα πολλὰ μεταξύ,
-ουρεὰ τε σκιόεντα θάΧασσὰ τε ηχηεσσα ·
+Iliad, 152-157
 
 257.	152. ἐγώ: emphatic (1039), as contrasted with Agamemnon
 and his brother Menelaus, who had a strong personal interest in the
 success of the expedition.
 
-153.	μαχησόμενος : 1109, 5.— n: 780-781.
+153.	μαχησόμενος : 1109, 5.—
+
+τι: 780-781.
 
 154.	βοῦς = βόας : throughout all history cattle have been an important
 economic factor. Thus the English words “ fee, chattel, pecuniary,”
@@ -7271,23 +7209,25 @@ in return for the girl as a wife. A useful woman in Homeric times
 might be worth as much as four cows. Their great importance has
 made them an object of divine worship among many peoples, as among
 the old Hebrews, who for a long period of their history worshipped a
-bull-god, of which the horns.of the altar were a survival.
+bull-god, of which the horns of the altar were a survival.
 
-155.	βωτιανείρτῃ: observe the touch of local pride, so common throughout
+155.	βωτιανείρῃ: observe the touch of local pride, so common throughout
 all nations. His home produces heroes, of which he is one. The
 ornamental epithets and picturesque language may indicate how dear to
 his heart his old home in Phthia was. Perhaps he is almost homesick.
 
 157.
 ἠχήεσσα: onomatopoetic, to represent the sound of the roaring
-sea.—σκιόιντα refers to the long shadows which high mountains throw.
+sea.—
+
+σκιόεντα refers to the long shadows which high mountains throw.
 This verse is in apposition with πολλά (used substantively) of the
 preceding verse.
 
 Observe the heaping up of the first personal pronouns in this passage,
 to indicate that Achilles had no personal interest, as did Agamemnon,
-in the expedition. Achilles emphasizes his own generous motives and
-self-sacrificing spirit in joining· the undertaking, thereby throwing into
+in the expedition.<n>can we show that this is statistically significant? Note that we have egw and moi as well as emas -- different lemmas</n> Achilles emphasizes his own generous motives and
+self-sacrificing spirit in joining the undertaking, thereby throwing into
 high relief the ingratitude of Agamemnon and the deep injustice of his
 selfishness. “ The Trojans have never done me the slightest harm, that
 
@@ -7329,6 +7269,7 @@ of Israel took for a prey unto themselves;
 but every man they smote with the edge
 of the sword, until they had destroyed
 them, neither left they any to breathe.”
+
 156-157. Achilles is not strictly logical; for in spite of the crashing sea that
 rolled between, he was doing in Troy
 the very thing which he says the Trojans
@@ -7346,24 +7287,18 @@ A bar of copper marked with the figure of
 a bull. Dates from the fourth century b.c.
 <pb/>
 
-HOMERIC GREEK
 
 repays with base ingratitude the loyalty of those who were fighting not
 for their own sakes, but for him and his interests.
 
 258. Translate :
 
-1. We came hither to fight with the Trojan warriors; for
-they are blamable to us. 
+1. We came hither to fight with the Trojan warriors; for they are blamable to us. 
 
-2. Once the Achaeans drove
-away our cattle and horses, and destroyed our crops in fertile,
-man-nourishing Phthia. 
+2. Once the Achaeans drove away our cattle and horses, and destroyed our crops in fertile, man-nourishing Phthia. 
 
 
-3. Phthia is far from Troy,
-and there are very many shadowy mountains and the roaring
-sea between.
+3. Phthia is far from Troy, and there are very many shadowy mountains and the roaring sea between.
 
 LESSON XL: NUMERALS
 
@@ -7378,63 +7313,45 @@ and learn the declension of εἷς, μία, ἕν one; δύο (δύω) two;
 
 261.	VOCABULARY
 
-ἀλεγίζω (ἀλεγιζ-), with gen., 984 care,
-reck, consider, regard, worry.
+ἀλεγίζω (ἀλεγιζ-), with gen., 984 care, reck, consider, regard, worry.
 
-ἅμα with dot., at the same time, together (with).
+ἅμα with dat., at the same time, together (with).
 ἀν-αιδής, ἀν-αιδές shameless, unfeeling.
-ἀπειλέ-ω, ἀπειλήσω, ἠπείλησα
-threaten, boast, menace,
-ἄρ-νυμαι, ἀρέομαι*, ἠρόμην acquire,
-win, save, preserve,
-ἀφ-αιρέω (αἱρε-, ἑλ- ). ἀφαιρήσω, ἀφέελον (άφεῖλον), ἀφήρηκα*, ἀφῄρμαι*, ἀφηρέθην* take away, rob, deprive.
+ἀπειλέ-ω, ἀπειλήσω, ἠπείλησα threaten, boast, menace,
+ἄρ-νυμαι, ἀρέομαι*, ἠρόμην acquire, win, save, preserve.
+ἀφ-αιρέω (αἱρε-, ἑλ- ). ἀφαιρήσω, ἀφέελον (άφεῖλον), ἀφήρηκα*, ἀφῄρημαι*, ἀφηρέθην* take away, rob, deprive.
 
 ἕπω (σεπ-, σπ-), ἕψω, ἕσπον be busy, perform; mid., follow, accompany, attend.
 
-ἶσος, ἴση (ἐΐση), ἶσον  equal, equivalent,
-well-balanced, symmetrical.
-κυν-ώπης (voc. κυνῶπα) dog-faced,
-dog-eyed, shameless.
+ἶσος, ἴση (ἐΐση), ἶσον  equal, equivalent, well-balanced, symmetrical.
+κυν-ώπης (voc. κυνῶπα) dog-faced, dog-eyed, shameless.
 
 Μενέλᾱος, Μενελάου, ὁ Menelaus, brother of Agamemnon, and husband of Helen.
 
-μετα-τρέπω (τρεπ-, τροπ . τραπ-), μετατρίψω, μετέτρεψα, (μετέτραπον),
-μετατέτροφα**, μετατέτραμμαι, μετατετράφθην (μετετράπην*) turn
-(around) ; mid. turn oneself
-toward, heed,
+μετα-τρέπω (τρεπ-, τροπ . τραπ-), μετατρίψω, μετέτρεψα, (μετέτραπον), μετατέτροφα**, μετατέτραμμαι, μετατετράφθην (μετετράπην*) turn (around) ; mid. turn oneself toward, heed,
 μογέ-ω, ἐμόγησα toil, struggle,
-ναίω (νασ-), ἐνασσα, ἐνάσθην  dwell,
-inhabit; mid. be situated.
+ναίω (νασ-), ἐνασσα, ἐνάσθην  dwell, inhabit; mid. be situated.
 
 <pb n="104"/>LESSON XL	[262-264
 
 ὁπ(π)ότε when(ever).
-πρός (π(ρ)οτί) adv., and prep. with
-gen., dat., and acc., to, toward,
-also, at, on, from, on behalf of;
-with gen., from, before, at the:
-bidding, in the sight; with dat., 
-on, at, by; with acc., to, toward,
-(up) on, against.
+πρός (π(ρ)οτί) adv., and prep. with gen., dat., and acc., to, toward, also, at, on, from, on behalf of; with gen., from, before, at the bidding, in the sight; with dat., on, at, by; with acc., to, toward, (up) on, against.
 
 πτολίεθρον (= πόλις), πτολιέθρου, τό city.
 
 τιμή, τιμἠς, ἡ honor, satisfaction, recompense, retribution, value,
 χαίρω (χαρ-, χαρ«-, χαιρε-), χαιρήσω, κεχάρη(κ)α, κεχάρ(η)μαι*, ἐχά-
-ρην rejoice, be glad, hail ! welcome
-come!
+ρην rejoice, be glad, hail ! welcome come!
 
 262.	Translate :
 
-1. Ἀχιλλεὺς ἕσπετο ἄνακτι ἀνδρῶν Ἀγαμέμνονι μέγ’
-ἀναιδέι, ὄφρα χαίρῃ. 
+1. Ἀχιλλεὺς ἕσπετο ἄνακτι ἀνδρῶν Ἀγαμέμνονι μέγ’ ἀναιδέι, ὄφρα χαίρῃ. 
 
-2. Ἀχαιοὶ ἕσποντ Ἀγαμέμνονι ἅμα,
-τιμήν ἀρνύμενοι (1070) τῷ καὶ Μενελάῳ. 
+2. Ἀχαιοὶ ἕσποντ Ἀγαμέμνονι ἅμα, τιμήν ἀρνύμενοι (1070) τῷ καὶ Μενελάῳ. 
 
-3. ἤν Ἀγαμέμνων κυνώπης;	
+3. ἦν Ἀγαμέμνων κυνώπης;	
 
-4. ἀρνύμεθα τιμήν πρὸς Τρώων Μενελάῳ.
+4. ἀρνύμεθα τιμὴν πρὸς Τρώων Μενελάῳ.
 
 5. Ἀγαμέμνων οὐ μετατρέπεται οὐδ’ ἀλεγίζει τῶν. 
 
@@ -16226,9 +16143,9 @@ Numerals
 100,000	δ€κακι<τμΰριοι,* at, a	δεκακισμϋριοστός,* ή, όν	δεκακισμϋριάκις^
 758.	Declension of	the First Four Cardinals	
 
-cts, μία, tv		one	δύω (δύο)	Tpttsι, τρία	τ&τσαρες,	τε'σσαρα
+cts, μία, tv		one	δύω (δύο)	τρεῖς<note>= τρέες, 584, 5.</note>, τρία	τ&τσαρες,	τε'σσαρα
 (ev-.	, μια-, iv-)		(δυω-, ο-)	(τρί-, τρι-)	(τεσσαρ-)	
-ts	μία	ϊν	δύω indecl.	Tpets1 τρία	τ^σσαρες	τε'σσαρα
+ts	μία	ϊν	δύω indecl.	τρεῖς<note>= τρέες, 584, 5.</note> τρία	τ^σσαρες	τε'σσαρα
 νός	μιή®	ivos		τριῶν τριών	Tco-σάρων	τεσσάρων
 νί	μΐή	ivi		τρισὶ τρισί	τίσσαρσι	τίσσαρσι
 va	μίαν	■iv		Tpets τρία	τίσσαρας	τάτσαρα
@@ -16243,45 +16160,58 @@ Personal Pronouns
 
 SINGULAR
 
-N. y. ίγώ(ν) I
+1st sg N. V. ἐγώ(ν) I
 
-G. έμεΐο, iu v (ίμίο. έμ€τ>,
-ϊμίθιν)
+1st sg G. ἐμεῖο, μευ (ἐμέο, ἐμεῦ, ἐμέθεν)
 
-I). ίμοί, μοι
-A. «μί, μί
+1st sg D. ἐμοί, μοι
+1st sg A. ἐμέ, με
 
-<rv [τυνη] you
-CT6LO, <Γ60 (<rCO, CcC, <τ€υ,
-<T€0€v)
+2nd sg N. V.  σύ [τύνη] you
+2nd sg G. σεῖο, σεο, (σέο,μ σεῦ, σευ, σέθεν) 
+2nd sg D. σοί, τοι [τεΐν]
+2nd sg A. σέ, σε
 
-(Γθί, ΤΟΙ [τ€Ϊν]
-
-<Γ€, <Γ€
 
 —- he, she, it
+3rd sg G. εἷο, ἑο (ἕο, εὗ, εὑ, ἕθεν, ἑθεν)
+3rd sg D. ἑοῖ, οἱ (οἷ)
+3rd sg A. ἑέ, ἑ (ἕ, μιν)
 
-€Ϊ0, CO, («Ο, CV, CV,
-Wev, cOcv)
-cot, οὶ (οΐ)
 
-«, e («, μι»)
 
-1 = rp^es, 584, 5.
 
-<pb n="258"/>NUMERALS, PRONOUNS	[761-765
+<pb n="258"/>
 
 	DUAL	
-V0H, VW	<τφώι, σφώ	<τφω€
-νώιν	<τφώιν (<τφων)	(τφωιν
-	PLUKAL	
-ήμ€ΐδ (οίμμ€$)	νμ€Ϊε (ΰμμίε)	
-ήμ€ΐα>ν (ήμ^ων)	νμ€ίων (ΰμ^ων)	<τφείων, σφίων
-		(σφίων, <τφών)
-ήμίν (αμμι(ν),	ὶ Viv I	\ rφ£σ·ιJ <τφι<τι
-ήμίν, ημΐν)	1 χίμίν) 1	1 (<ΓΦι(ν))
-ήμ£'α5 (ημα5,	νμίαβ (ΐμμ«) 1	ο-φίαβ, OT|>e(as),
-ήμβαβ, ἀμμ£)	1	, σφάε
+1st du N.A.V. νῶι, νώ
+1st du G.D. νῶιν
+
+2nd du N.A.V. σφῶι, σφώ
+2nd du G.D. σφῶιν (σφῷν)
+
+3rd du N.A.V. σφωε
+3rd du G.D. σφωιν
+
+Plural
+
+1st pl N.V. ἡμεῖς (ἄμμες)
+1st pl G. ἡμείων (ἡμέων)
+1st pl D. ἡμῖν (ἄμμι(ν), ἥμῑν, ἧμιν <n>ἡμῖν and ἥμῑν look metrically equivalent -- why do we have both in this formulaic system?</n>
+1st pl A. ἡμέας (ἧμας, ἥμεας, ἄμμε)
+
+2nd pl N.V. 
+2nd pl G. ὑμείων (ὑμέων)
+2nd pl D. ὑμῖν (ὕμμι(ν), ὕμῑν)
+2nd pl A. ὑμέας (ὔμμε)
+
+3rd pl N.V. 
+3rd pl G. σφείων, σφεων (σφέων, σφῶν)
+3rd pl D. σφίσι, σφισι (σφι(ν))
+3rd pl A. σφέας, σφε(ας), σφάς
+
+
+
 
 761.	The nominative singular of the personal pronouns is used
 only for the sake of emphasis and contrast, being omitted under
@@ -16299,28 +16229,42 @@ the sentence.
 
 764.	The possessive pronouns are formed from the stems of
 the personal pronouns and are declined like adjectives of the
-vowel declension, i.e. like καλό?, V, °V (721).
+vowel declension, i.e. like κᾱλός, κᾱλή, κᾱλόν  (721).
 
-Possessive Pronouns .......
+Possessive Pronouns
 
-Sing. ίμόβ, ή, °» my, mine. σis, σή, σόν (tciSs, τβή, τίόν) your(s).
+Sing.
 
-eos, ίή, eov (os, ή, ον) his, her(s), its (own), [my, your own].
-Dual.	veviTepos, ἡ, ον our(s). σφωίτβροβ, ἡ, ον your(s).
+ἐμός, ἐμή, ἐμόν my, mine. 
 
-Plukal. hp<Tepos, ἡ, ον our(s). αμό$, ή, όν our(s).
+σός, σή, σόν (τεός, τεή, τεόν) your(s).
 
-vplrepos, ἡ, ον your(s). vfios, ή, όν your(s).
-o-<j>0Tepos, ἡ, ον their(s). σφόβ, σφή, σφόν their(s).
+ἑός, ἑή, ἑόν (ὅς, ἥ, ὅν) his, her(s), its (own), [my, your own].
+Dual.	
 
-765.	The most common pronoun, b, ή, τό, used regularly as the
-definite article in later Greek, is usually employechas the demon-
+vεώτερος, νεωτέρη, νεώτατον our(s). 
 
-<pb n="259"/>766-767]
+σφωίτερος, σφωιτέρη, σφωίτερον your(s).
 
-HOMERIC GREEK
+Plural. 
 
-strative, but sometimes as a	personal or as	a relative pronoun in
+ἡμέτερος, ἡμετέρη, ἡμέτερον our(s). 
+
+ἀμός, ἀμή, ἀμόν our(s).
+
+ὑμέτερος, ὑμετέρη, ὑμέτερον your(s). 
+
+ὑμός, ὑμή, ὑμόν your(s).
+σφέτερος, σφετέρη, σφέτερον their(s). 
+
+σφός, σφή, σφόν their(s).
+
+765.	The most common pronoun, ὁ, ἡ, τό, used regularly as the
+definite article in later Greek, is usually employed as the demon-
+
+<pb n="259"/>
+
+strative, but sometimes as a personal or as a relative pronoun in
 Homer. It is declined as follows :		
 ό, ή, τό this, that;	he, she, it; who,	which, what
 	SINGULAR	
@@ -16524,7 +16468,7 @@ the origin is unknown.
 781.	The most common occurrence of the use of various cases
 of the noun, pronoun, and adjective adverbially is the employment
 of the neuter accusative of the adjective, singular or plural,
-with or without the pronoun το, τά, as an adverb. The neuter of
+with or without the pronoun τό, τά, as an adverb. The neuter of
 nouns and pronouns is sometimes, but less commonly, used in
 the same way.
 
@@ -16535,16 +16479,17 @@ formed from adjectives and pronouns. They have the accent of
 the genitive plural neuter of the word from which they are
 formed.
 
-<pb n="264"/>Figures from the Pediment of the Parthenon
+<pb n="264"/>
+
+Figures from the Pediment of the Parthenon
 
 Groups from the Parthenon Frieze
 
 Corner of the Parthenon
 (Restored)
 
-Caryatid Porch of the
-Erechtheum
-<pb/>PRONOUNS, ADVERBS, VERBS	[784-789
+Caryatid Porch of the Erechtheum
+<pb/>
 
 784.	For the comparative of these abverbs, the neuter accusative
 singular of the comparative of the adjective is used, and for
@@ -16552,7 +16497,7 @@ the superlative the neuter accusative plural of the superlative of
 the adjective.
 
 785.	Adverbs of place which end in -ω (and a few others) form
-the comparative by adding -τφω, and the superlative by adding
+the comparative by adding -τέρω, and the superlative by adding
 -τάτω to the stem (628).
 
 786.	The prepositions were originally adverbs, and most of
@@ -16561,16 +16506,16 @@ them are still so used in Homer.
 787.	Examples	of	Formation
 
 ADJECTIVE	STEM	GENITIVE PLURAL	ADVERB
-καλός, ή, όν	κάλο-	καλών	καλώς
-κακός, ή, όν	κακο-	κακών	κακώς
-ἀλλος, ἡ, ο	άλλο-	άλλων	άλλως
+κᾱλός, κᾱλή, κᾱλόν	κᾱλο-	κᾱλῶν	κᾱλῶς
+κακός, κακή, κακόν	κακο-	κακῶν	κακῶς
+ἄλλος, ἄλλη, ἄλλο	ἀλλο-	ἄλλων	ἄλλως
 
 788.	The most important suffixes (630) used in the formation
 of adverbs (780, 2) are:
 
-1)	-i, -σι, -θί, -ον, denoting place where.
+1)	-ι, -σι, -θι, -ου, denoting place where.
 
-2)	-θα, -0ε(ν), denoting place where.
+2)	-θα, -θε(ν), denoting place where.
 
 3)	-θίν, denoting place whence.
 
@@ -16581,16 +16526,16 @@ whither.
 
 6)	-τε, denoting time.
 
-7)	-Tos, denoting where.
+7)	-τος, denoting where.
 
 8)	-κα (origin unknown), as in αντί-κα.
 
 9)	-κας (origin unknown), as in έ-κά?.
 
-10)	-κι? (with generalizing, indefinite meaning; akin to tis, τι),
-as πολλά-ιας many a time, often.
+10)	-κις (with generalizing, indefinite meaning; akin to τὶς, τὶ),
+as πολλά-κις many a time, often.
 
-11)	Some other endings are -a, -δψ, -δον, -τι, -σπ.
+11)	Some other endings are -α, -δην, -δον, -τι, -στι.
 
 Verbs
 
@@ -17623,7 +17568,7 @@ AORIST 1	PERFECT	1, 3
 
 2	λύσαις λύσαισθα λύσειας  may you loose λελύκοις λελύκοισθα may you loose
 
-3	λύσαι (λύσεie) may he loose	λελύκοι may he loose
+3	λύσαι (λύσειε) may he loose	λελύκοι may he loose
 
 <note><p>The different tenses of the subjunctive, optative, imperative, and infinitive,
 do not of themselves represent distinctions of time. The present of
@@ -17716,175 +17661,161 @@ Middle Voice of λύω loose
 
 PRESENT
 
-S. I λύομαι I loose (for) myself, I am loosed1
+S. I λύομαι I loose (for) myself, I am loosed<note>The most common meanings are I loose for myself, I am loosed; I was
+loosing for myself, I was being loosed, etc. The context must determine
+which of these is most suitable. When it has an active meaning, I loose, it
+is with the strict implication of loosing one's own, or something in which the
+subject has an active personal interest, hence : to ransom, redeem, deliver,
+etc.</note>
 
-2	λύιαι [(λυη)] you loose (for) yourself, are loosed
 
-3	λύίται he looses (for) himself, is loosed
+2	λύεαι [(λύῃ)] you loose (for) yourself, are loosed
 
-Du. 2 λύίο-θον you two loose (for) yourselves, are loosed
-3 λύιο-θον they two loose (for) themselves, are loosed
+3	λύεται he looses (for) himself, is loosed
 
-Pl. 1 λυόμι(ο-)θα we loose (for) ourselves, are loosed
+Du. 2 λύεσθον you two loose (for) yourselves, are loosed
+3 λύεσθον they two loose (for) themselves, are loosed
 
-2	λύίσθι you loose (for) yourselves, are loosed
+Pl. 1 λυόμε(σ)θα we loose (for) ourselves, are loosed
+
+2	λύοισθε you loose (for) yourselves, are loosed
 
 3	λύονται they loose (for) themselves, are loosed
 
 IMPERFECT
 
-S. 1 ίλνόμην I was loosing (for) myself, was being loosed
+S. 1 ἐλυόμην I was loosing (for) myself, was being loosed
 
-2	ΐλύιο [(!λύ«υ)] you were loosing (for) yourself, were being loosed
+2	ἐλύεο [(ἐλύευ)] you were loosing (for) yourself, were being loosed
 
-3	ίλύιτο he was loosing (for) himself, was being loosed
+3	ἐλύετο he was loosing (for) himself, was being loosed
 
-Du. 2 ίλύιο-θον you two were loosing (for) yourselves, were being loosed
-3 Ιλυίο-θην they two were loosing (for) themselves, were being loosed
+Du. 2 ἐλύεσθον you two were loosing (for) yourselves, were being loosed
+3 ἐλυέσθην they two were loosing (for) themselves, were being loosed
 
-Pl. 1 £λυόμί(<τ)θα we were loosing (for) ourselves, were being loosed
+Pl. 1 ἐλυοίμε(σ)θα we were loosing (for) ourselves, were being loosed
 
-2	ίλύ«Γ0£ you were loosing (for) yourselves, were being loosed
+2	ἐλύοισθε you were loosing (for) yourselves, were being loosed
 
-3	ίλύοντο they were loosing (for) themselves, were being loosed
+3	ἐλύοντο they were loosing (for) themselves, were being loosed
 
 FUTURE
 
-S. 1 λνσομαι I shall loose (for) myself, shall be loosed
+S. 1 λύσομαι I shall loose (for) myself, shall be loosed
 
-2	λύομαι [(λνσg)] you will loose (for) yourself, will be loosed
+2	λύσεαι [(λύσῃ)] you will loose (for) yourself, will be loosed
 
-3	λυσ·£ται he will loose (for) himself, will be loosed
+3	λύσεται he will loose (for) himself, will be loosed
 
-Du. 2 λυ<Γ£σθον you two will loose (for) yourselves, will be loosed
-3 λυο-£<τθον they two will loose (for) themselves, will be loosed
+Du. 2 λύσεσθον you two will loose (for) yourselves, will be loosed
+3 λύσεσθον they two will loose (for) themselves, will be loosed
 
-Pl. 1 λΰσ·όμ£(ο*)θα we will loose (for) ourselves, will be loosed
+Pl. 1 λῡσόμε(σ)θα we will loose (for) ourselves, will be loosed
 
-2	λνσιο-θι you will loose (for) yourselves, will be loosed
+2	λύσεσθε you will loose (for) yourselves, will be loosed
 
-3	λυσονται they will loose (for) themselves, will be loosed
+3	λύσονται they will loose (for) themselves, will be loosed
 
-1	The most common meanings are I loose for myself, I am loosed; I was
-loosing for myself, I was being loosed, etc. The context must determine
-which of these is most suitable. When it has an active meaning, I loose, it
-is with the strict implication of loosing one's own, or something in which the
-subject has an active personal interest, hence : to ransom, redeem, deliver,
-etc.
 
-<pb n="286"/>INFLECTION OF λυω
+<pb n="286"/>
 
 [910
 
-AOItIST
+AORIST
 
-S. 1 «λϋσάμην 1 loosed (for) myself, was loosed	1 4λΰμην
+S. 1 ἐλῡσάμην (ἐλύμην) loosed (for) myself, was loosed	
 
-2	4λΰσαο [(ίλνσω)] you loosed (for) yourself, were loosed «λυ(σ)ο
+2	ἐλύσαο [(ἐλύσω) ἔλυ(σ)o] you loosed (for) yourself, were loosed 
 
-3	ίλυσατο lie loosed (for) himself, was loosed	«λυτό
+3	ἐλύσατο (ἔλυτο) he loosed (for) himself, was loosed	
 
-Du. 2 ίλΰσασθον you two loosed (for) yourselves, were loosed «λυσθον
+Du. 2 ἐλύσασθον (ἔλυσθον) you two loosed (for) yourselves, were loosed 
 
-3 «λϋσάσβην they two loosed (for) themselves, were «λύσθην
+3 ἐλῡσάσθην (ἐλύσθην) they two loosed (for) themselves, were 
 loosed
 
-Pl. 1 4λΰσάμ«(<τ)βα we loosed (for) ourselves, were loosed
+Pl. 1 ἐλῡσάμε(σ)θα (ἐλύμε(σ)θα) we loosed (for) ourselves, were loosed
 
-2	4λΰσα<τθ« you loosed (for)'yourselves, were loosed
+2	ἐλύσασθε (ἔλυσθε) you loosed (for) yourselves, were loosed
 
-3	4λΰσαντο they loosed (for) themselves, were loosed
+3	ἐλύσαντο (ἔλυντο) they loosed (for) themselves, were loosed
 
-4λΰμ«(σ)θα
-
-tXucr6t
-
-«λυντο
 
 ’PERFECT
 
-S. 1 Χ4λυμαι I have loosed (for) myself, have been loosed
+S. 1 λέλυμαι I have loosed (for) myself, have been loosed
 
-2	λ«λυο-αι you have loosed (for) yourself, have been loosed
+2	λέλυσαι you have loosed (for) yourself, have been loosed
 
-3	Χ4λυται he has loosed (for) himself, has been loosed
+3	λέλυται he has loosed (for) himself, has been loosed
 
-Du. 2 λ4λυσθον you two have loosed (for) yourselves, have been loosed
-3 λ«λυσθον they two have lposed (for) themselves, have been loosed
-Pl. 1 λ«λΰμ«(σ)θα we have loosed (for) ourselves, have been loosed
+Du. 2 λέλυσθον you two have loosed (for) yourselves, have been loosed
+3 λέλυσθον they two have lposed (for) themselves, have been loosed
+Pl. 1 λελύμε(σ)θα we have loosed (for) ourselves, have been loosed
 
-2	λ«λυσθ« you have loosed (for) yourselves, have been loosed
+2	λέλυσθε you have loosed (for) yourselves, have been loosed
 
-3	λ«λυνται (λίλΰαται) 2 they have loosed (for) themselves, have been
-
-loosed
+3	λέλυνται (λελύαται) 2 they have loosed (for) themselves, have been loosed
 
 PLUPERFECT
 
-S. 1 4Χ4λύμην I had loosed (for) myself, had been loosed
+S. 1 ἐλελύμην I had loosed (for) myself, had been loosed
 
-2	4λ«λυ<το you had loosed (for) yourself, had been loosed
+2	ἐλέλυσο you had loosed (for) yourself, had been loosed
 
-3	4λ«λυτο he had loosed (for) himself, had been loosed
+3	ἐλέλυτο he had loosed (for) himself, had been loosed
 
-Du. 2 4X4Xvcr$ov you two had loosed (for) yourselves, had been loosed
-3 4λ«λΰσθην they two had loosed (for) themselves, had been loosed
-Pl. 1 4λ«λΰμ«(ο-)θα we had loosed (for) ourselves, had been loosed
+Du. 2 ἐλέλυσθov you two had loosed (for) yourselves, had been loosed
+3 ἐλελύσθην they two had loosed (for) themselves, had been loosed
+Pl. 1 ἐλελύμε(σ)θα we had loosed (for) ourselves, had been loosed
 
-2	4λ4λυ<τθ« you had loosed (for) yourselves, had been loosed
+2	ἐλέλυσθε you had loosed (for) yourselves, had been loosed
 
-3	«Χ4λυντο (Ιλίλύατο) 1 2 they had loosed (for) themselves, had been
-
-loosed
+3	ἐλέλυντο (ἐλελύατο) 1 2 they had loosed (for) themselves, had been loosed
 
 FUTURE PERFECT
 
-S. 1 λ«λυσομαι. I shall have loosed (for) myself, shall have been loosed
+S. 1 λέλυσομαι. I shall have loosed (for) myself, shall have been loosed
 
-2	λ«λΰ<Γ€αι. [(-ti)] you will have loosed (for) yourself, will have been
+2	λελύσεαι. [(λελυσέῃ)] you will have loosed (for) yourself, will have been loosed
 
-loosed
-
-3	λ«λΰ<τ«ται. he will have loosed (for) himself, will have been loosed
+3	λελύσεαι. he will have loosed (for) himself, will have been loosed
 
 1	Less common, athematic (797-798) 2d aorist forms.
 
 2	-αται, -ατο (= -νται, -ντο, 597-598) regularly in verbs with consonantal
-stems, and stems ending in i; sometimes in stems ending in other vowels.
+stems, and stems ending in ι; sometimes in stems ending in other vowels.
 
-<pb n="287"/>911]	HOMERIC GREEK
+<pb n="287"/>
 
-Du. 2 λϊλΰσνσθον you two will have loosed (for) yourselves, will have
+Du. 2 λελύσεσθον you two will have loosed (for) yourselves, will have been loosed
+
+3 λελύσεσθον they two will have loosed (for) themselves, will have
 been loosed
 
-3 λίλΰσίσβον they two will have loosed (for) themselves, will have
-been loosed
-
-Pu. 1 λελΰσόμί(<r)θα we will have loosed (for) ourselves, will have been
+Pu. 1 λελῡσόμί(σ)θα we will have loosed (for) ourselves, will have been
 loosed
 
-2	XcXv<r«r6c you will have loosed (for) yourselves, will have been
+2	λελύσεσθε you will have loosed (for) yourselves, will have been loosed
 
-loosed
-
-3	Χίλΰσονται they will have loosed (for) themselves, will have been
+3	λελύσονται they will have loosed (for) themselves, will have been
 
 loosed
 
-911.	' Subjunctive
+911.	Subjunctive
 
 PRESENT 1
 
-S. 1 λύωμαι I may loose (for) myself, may be loosed 1
+S. 1 λύωμαι I may loose (for) myself, may be loosed <note>Read the note at the end of 905.</note>
 
-2	λύηαι [(Xiu)] you may loose (for) yourself, may be loosed
+2	λύηαι [(λύῃ)] you may loose (for) yourself, may be loosed
 
 3	λύηται he may loose (for) himself, may be loosed
 
 Du. 2 λύησθον you two may loose (for) yourselves, may be loosed
 3 λύησθον they two may loose (for) themselves, may be loosed
 
-Pu. 1 λυώμι(σ)θα we may loose (for) ourselves, may be loosed
+Pu. 1 λυώμε(σ)θα we may loose (for) ourselves, may be loosed
 
 2	λύησθε you may loose (for) yourselves, may be loosed
 
@@ -17892,46 +17823,43 @@ Pu. 1 λυώμι(σ)θα we may loose (for) ourselves, may be loosed
 
 aorist 1
 
-S. 1 λΰσωμαι I may loose (for) myself, be loosed 1
+S. 1 λύσωμαι I may loose (for) myself, be loosed 1
 
-2	λΰσηαι [(λΰσή)] you may loose (for) yourself, be loosed
+2	λύσηαι [(λΰσή)] you may loose (for) yourself, be loosed
 
-3	λΰσηται he may loose (for) himself, be loosed
+3	λύσηται he may loose (for) himself, be loosed
 
-Du. 2 λΐσησθον you may loose (for) yourselves, be loosed
+Du. 2 λύσησθον you may loose (for) yourselves, be loosed
 
-3 λΰσησθον they two may loose (for) themselves, be loosed
+3 λύσησθον they two may loose (for) themselves, be loosed
 
-Pi. 1 λϋσώ|Μ(σ)θα we may loose (for) ourselves, be loosed
+Pi. 1 λῡσώμε(σ)θα we may loose (for) ourselves, be loosed
 
-2	λυσησθε you may loose (for) yourselves, be loosed
+2	λύσησθε you may loose (for) yourselves, be loosed
 
-3	λΰσωνται they may loose (for) themselves, may be loosed
+3	λύσωνται they may loose (for) themselves, may be loosed
 
 perfect 1
 
-S. 1 XeXv|A€vos (o> I may loose (for) myself, may be loosed
+S. 1 λελύμενος ἔω  I may loose (for) myself, may be loosed
 
-2	λίλυμένο! ct]s you may loose (for) yourself, may be loosed
+2	λίλυμένο! ἔῃς you may loose (for) yourself, may be loosed
 
-3.	λίλυμένο! ΐη he may loose (for) himself, be loosed
+3.	λίλυμένο! ἔῃ he may loose (for) himself, be loosed
 
-Du. 2 λελυμένω Ιητον you two may loose (for) yourselves), may be loosed
+Du. 2 λελυμένω ἔητον you two may loose (for) yourselves), may be loosed
 
-3	λίλυμίνω ϊητον they two may loose (for) themselves, may be loosed
+3	λελυμένω ἔητον they two may loose (for) themselves, may be loosed
 
-1	Read the note at the end of 905.
 
-288 .
-<pb/>INFLECTION OF λύω
 
-[912
+<pb/>
 
-ET. 1 λίλυμένοι εωμεν we may loose (for) ourselves, may be loosed
+ET. 1 λελυμένοι ἔωμεν we may loose (for) ourselves, may be loosed
 
-2	λελυμενοι 2ητ€ you may loose (for) yourselves, may be loosed
+2	λελυμένοι ἔητε you may loose (for) yourselves, may be loosed
 
-3	λελυμε'ν<Η «ooa they may loose (for) themselves, may be loosed
+3	λελυμένοι ἔωσι they may loose (for) themselves, may be loosed
 
 912.	Optative
 
@@ -17939,71 +17867,64 @@ present 1
 
 S. 1 λυοίμην may I loose (for) myself, may I be loosed 2
 
-2	λΐοιο may you loose (for) yourself, may you be loosed..
+2	λύοιο may you loose (for) yourself, may you be loosed..
 
 3	λύοιτο may he loose (for) himself, may he be loosed
 
-Du. 2 λύοισθον may you two loose (for) yourselves, may you two be
-loosed
+Du. 2 λύοισθον may you two loose (for) yourselves, may you two be loosed
 
 3 λυοίσθην may they two loose (for) themselves, may they two be
 loosed
 
 Pl. 1 λυοίμε(σ)θα may we loose (for) ourselves, may we be loosed
 
-2	λύοιο-θε may you loose (for) yourselves, may you be loosed
+2	λύοισθε may you loose (for) yourselves, may you be loosed
 
-3	λυοίατο majjlthey loose (for) themselves, may they be loobda
+3	λυοίατο may they loose (for) themselves, may they be loosed
 
 AORIST 1
 
-S. 1 λϋσαίμην may I loose (for) myself, may I be loosed2
+S. 1 λῡσαίμην may I loose (for) myself, may I be loosed2
 
-2	λ «rcuo may you loose (for) yourself, may you be loosed
+2	λύσαιο may you loose (for) yourself, may you be loosed
 
-3	λΰσαιτο may he loose (for) himself, may he be loosed
+3	λύσαιτο may he loose (for) himself, may he be loosed
 
-Du. 2 λνσαισθον may you two loose (for) yourselves, may you two be
-loosed
+Du. 2 λύσαισθον may you two loose (for) yourselves, may you two be loosed
 
-3 λϋσαίσθην may they two loose (for) themselves, may they two be
-loosed
+3 λῡσαίσθην may they two loose (for) themselves, may they two be loosed
 
-Pl. 1 λΰ<ταίμε(σ·)θα may we loose (for) ourselves, may we be loosed
+Pl. 1 λῡσαίμε(σ)θα may we loose (for) ourselves, may we be loosed
 
-2	λΰσα,ισθε may you loose (for) yourselves, may you be loosed
+2	λύσαισθε may you loose (for) yourselves, may you be loosed
 
-3	λϋσα(ατο may they loose (for) themselves, may they be loosed
+3	λῡσαίατο may they loose (for) themselves, may they be loosed
 
 perfect 1
 
-S. 1 λελυμένοδ εϊην may I loose (for) myself, may I be loosed 2
+S. 1 λελυμένος εἴην may I loose (for) myself, may I be loosed 2
 
-2	λίλυμένοϊ εϊη$ may you loose (for) yourself, may you be loosed
+2	λελυμένος εἴης may you loose (for) yourself, may you be loosed
 
-3	λελυμίνοὶ εϊη3 may he loose (for) himself, may he be loosed
+3	λελυμένος εἴη may he loose (for) himself, may he be loosed
 
-Du. 2 λελυμε'νω είτον may you two loose (for) yourselves, may you two
-be loosed
+Du. 2 λελυμένω εἶτον may you two loose (for) yourselves, may you two be loosed
 
-3 λελυμενω είτην may they two loose (for) themselves, may they two
-be loosed
+3 λελυμένω εἴτην may they two loose (for) themselves, may they two be loosed
 
-1	Read the note a.t the end of 905.
+<note>Read the note at the end of 905.</note>
 
-2	Read the note on 906.
+<note>Read the note on 906.</note>
 
-3	Also λελΟτο (= λελυ-ϊ-το).
+3	Also λελΟτο (= λελυ-ῑ-το).
 
-<pb n="289"/>913-914]
+<pb n="289"/>
 
-HOMERIC GREEK
+Pl. 1 λελυμένοι εἶμεν may we loose (for) ourselves, may we be loosed
 
-Pl. 1 λίλνμί'νοι «Ιμ-ev may we loose (for) ourselves, may we be loosed
+2	λελυμένοι εἶτε may you loose (for) yourselves, may you be loosed
 
-2	λίλυμίνοι «Ire may you loose (for) yourselves, may you be loosed
-
-3	λίλυμίνοι «lev may they loose (for) themselves, may they be loosed
+3	λελυμένοι εἶεν may they loose (for) themselves, may they be loosed
 
 913.
 
@@ -18011,30 +17932,30 @@ Imperative
 
 PRESENT 1
 
-Xvto [(λΐίυ)] loose (for) yourself, be loosed
-λ-ικ'σβω let him loose (for) himself, let him be loosed
+S. 2. λύεο [(λύευ)] loose (for) yourself, be loosed
+3. λυέσθω let him loose (for) himself, let him be loosed
 
-Du. 2 λΰίσβον loose (for) your two selves, be loosed
+Du. 2 λύεσθον loose (for) your two selves, be loosed
 
-3 λυίσθων let those two loose (for) themselves, let them be loosed
+3 λυέσθων let those two loose (for) themselves, let them be loosed
 
-Pl. 2 λί«α-θ« loose (for) yourselves, be loosed
+Pl. 2 λύεσθε loose (for) yourselves, be loosed
 
-3 λυίσθων let them loose (for) themselves, let them be loosed
+3 λυέσθων let them loose (for) themselves, let them be loosed
 
 AORIST1
 
-S. 2 λϊσαι loose (for) yourself, be loosed
+S. 2 λῦσαι loose (for) yourself, be loosed
 
-3	λΰσάσθω let him loose (for) himself, let him be loosed
+3	λῡσάσθω let him loose (for) himself, let him be loosed
 
-Du. 2 λΰσασθον loose (for) your two selves, be loosed
+Du. 2 λύσασθον loose (for) your two selves, be loosed
 
-3 λϋσάσθων let these two loose (for) themselves, let them be loosed
+3 λῡσάσθων let these two loose (for) themselves, let them be loosed
 
-Pl. 2 λΰσασθὶ loose (for) yQurselves, be loosed
+Pl. 2 λῡσασθε loose (for) yourselves, be loosed
 
-3 λϋσ·ά<τβων let them loose (for) themselves, let them be loosed
+3 λῡσάσθων let them loose (for) themselves, let them be loosed
 
 perfect 1
 
