@@ -16550,7 +16550,7 @@ of two principal elements :
 
 790.	Often more than one suffix is fused with a verb stem, to
 indicate its various relations of mode, tense, voice, person, number,
-etc., as \v-o~fjL€v, Xv-t-rc (from λυ-ω loose), where the primary stem
+etc., as λύ-ο-μεν, λύ-ε-τε (from λύ-ω loose), where the primary stem
 of the verb is λυ-, to which the suffixes are attached.
 
 791.	The forms of a Greek verb fall into two main classes :
@@ -16648,9 +16648,7 @@ systems of tenses :
 4)	second aorist, consisting of the second aorist, active and
 middle.
 
-<pb n="267"/>808-809]
-
-HOMERIC GREEK
+<pb n="267"/>
 
 5)	first perfect, consisting of the first perfect and pluperfect
 active.
@@ -16671,48 +16669,46 @@ to which are added certain endings to denote person and number.
 809.	Tense Suffixes. — The suffixes (630) by which the various
 tense stems are formed from the verb stem are as follows:
 
-1)	present: a) thematic % (o before μ or v, or in the optative,
-otherwise O, as Χν~ο-μεν, Av-e-re; b) athematic none, as φάμεν,
+1)	present: a) thematic ε/ο (ο before μ or v, or in the optative,
+otherwise ε), as λύ~ο-μεν, λύ-ε-τε; b) athematic none, as φά-μεν,
 φά-τε.
 
-2)	future: ἀ) σ(σ)% (same rule as the present for % ; σ after
+2)	future: a) σ(σ)ε/ο  (same rule as the present for ε/ο  ; σ after
 long vowels or diphthongs; either σ or σσ after short vowels),
-as Χν-σο-μεν, καΧεσσο-μεν.
+as λύ-σο-μεν, καλέσσ-ο-μεν.
 
-b) ίσ% in liquid and nasal stems (514-516), and σ regularly
-dropped (603), as βαΧ-ε-ω, φαν-ε-ω ; exceptions κε'λ-σω, κυρ-σω,
-op-σιύ.	s
+b) εσ ε/ο in liquid and nasal stems (514-516), and σ regularly
+dropped (603), as βαλ-έ-ω, φαν-έ-ω ; exceptions κέλ-σω, κέρ-σω,
+ὄρ-σω.	
 
 3)	first aorist σ(σ)α (σ after long vowels or diphthongs; either
 σ or σσ after short vowels);
 
-b)	σ% in a few cases.
+b)	σε/ο in a few cases.
 
 c)	σ is usually lost in liquid and nasal verbs, and the preceding
-vowel lengthened by compensation (601), as ί-μ^ν-ο., ί-φψ-α, for
+vowel lengthened by compensation (601), as ἔ-μειν-α., ἔ-φην-α, for ἔμενσα, ἔφανσα.
 
-ΐμΐνσα, ίφανσα.
+Exceptions to c) : ἔ-κελ-σα, ἔ-κυρ-σα, ὦρ-σα.
 
-Exceptions to c) : Ι-κελ-σα, l-κνρ-σα, ωρ-σα.
+4)	second aorist: a) thematic ε/ο, as ἐ-λίπ-o-μεν, ἐ-λίπ-ε-τε.
 
-4)	second aorist: a) thematic %, as i-Xlv-o-pev, ε-λίιτ-ε-τε.
+b) athematic none, as ἔ-βην, ἔ-στη-ν, ἔ-δῡ-τε, ἔ-γνω-ν.
 
-b) athematic none, as ΐ-βψν, t-στη-ν, Ι-δΰ-τε, ϋ-γνω-ν.
+5)	first perfect κα, pluperfect κε, as βέ-βη-κα, έ-βέβή-κε-α (-η)·
 
-5)	first perfect κα, pluperfect κε, as βί-βψκα, έ- ■β*βή -Κ€-α (-ν)·
+6)	second perfect α, pluperfect ε, as πέ-ποιθ-α, ἐ-πε-ποίθ-ε-α (-η), or
+none, as ἕ-στα-μεν, ἕ-στα-τε.
 
-6)	second perfect a, pluperfect ε, as πί-τοιθ-α, ί-πε-ποίθ-ε-α {-η), or
-none, as i-στα-μεν, ε-στα-τε.
+7)	perfect middle none, as λέ-λυ-μαι; future perfect σ(σ)ε/ο.
 
-7)	perfect middle none, as Χί-λν-μαι; future perfect σ(σ)%.
+8)	first passive θ η/ε, as ἐ-λύ-θημεν, ἔ-λυ-θε-ν.
 
-8)	first passive θ v/ε, as i-Χν-θψμεν, Ι-Χν-θε-ν.
+9)	second passive η/e, as ἐ-δάμ-η-μεν, ἔ-δαμ-ε-ν.
 
-9)	second passive v/e, as ε-δάμ-η-μεν, ε-δαμ-ε-r.
+<pb n="268"/>
 
-<pb n="268"/>VERBS: TENSES, ENDINGS	[810-819
-
-810.	Principal Parts. — The principal parts of a verb are the'
+810.	Principal Parts. — The principal parts of a verb are the
 first person singular of each tense system found in it.
 
 811.	No verb has all the tense systems entire. Most verbs
@@ -16727,8 +16723,8 @@ future, perfect, and aorist. This includes both first and
 second aorists, middle and passive, if they occur.
 
 813.	Mode Suffix. — Observe that the optative has also the mode
-suffix ι/ίη, which contracts with the final vowel of the tense stem,
-as λι.Όι/ιι for kv-o-l-μι. Ισταίην for ί-στα-ιη-ν.
+suffix ῑ/ιη, which contracts with the final vowel of the tense stem,
+as λύοιμι for λύ-o-ῑ-μι. ἰσταίην for ἱ-στα-ιη-ν.
 
 814.	Tenses. — Of the tenses, seven are found in the indicative
 mode: the present, imperfect, aorist, future, perfect, pluperfect,
@@ -16736,17 +16732,17 @@ and future perfect.
 
 815.	The other modes have the present, aorist, and perfect
 tenses; the infinitive and participle have in addition the future
-tense. -
+tense. 
 
 816.	The tenses of the indicative are distinguished as:
 
-1)	principal (primary) tenses : the I present, future, perfect, ·
+1)	principal (primary) tenses : the present, future, perfect, 
 and future perfect.
 
 2)	past (secondary) tenses: imperfect, aorist, and pluperfect
 (historical tenses).
 
-817.	The passive has a distinct form only in the aorist;1 in
+817.	The passive has a distinct form only in the aorist;<note>Two second future forms (δαήσεαι, μιγήσεσθαι) are found.</note> in
 the other tenses the middle form has both the middle and passive
 meaning.
 
@@ -16757,11 +16753,9 @@ dual, plural) of the Greek verb, as in nouns, and three persons
 819.	Endings. — Certain suffixes, called personal endings, are
 attached to the tense stems of the various finite (791) modes, and
 
-1 Two second future forms (δαήσεαι, μιγήσισθαι) are found.
 
-<pb n="269"/>820-022]
 
-HOMERIC GREEK
+<pb n="269"/>
 
 other endings are attached to the infinitives and participles, to
 make the complete verbal forms.
@@ -16771,101 +16765,132 @@ changes.
 
 821.	In their earlier form they were as follows:
 
-Active	'	·	Middle
 
-	Indicative	Indicative	Indicative		Indicative
-primary tenses.		secondary tenses, primary tenses,			secondary lenses,
-and Subjunctive		and Optativ	e and Subjunctive		and Optative
-			SINGULAR		
-1	-μι, -ω	-v? -v — -a  ? 0		-μαι	-μην
-2	-<ri, -s, -(σ)θα	-S, -σθα		-σαι	-σο
-3	-τι = -<rt	-0)	DUAL	-ταν	-το
-\				-μ€0ον	[-μ€0ον]
-					
-2	-τον	-τον		-σθον	-σθον
-3	-τον	-την	PLURAL	-σθον	-σθην
-1·	-JJ.CV	-μ€ν	-μ€0α (-μ€σθα)		-μ€0α (-μεσθα)
-2	-Τ€	-Τ€	-σ0€		-σ0€
-3	-VTi = -VCTL	-ν(τ), -σαν	-νται	(-αται = -νται,	-ντο (-ατο =
-			597-598)		-ντο 597-598)
-			Imperative		
-		Active	SINGULAR	Middle	
-	2	—, -θι, -S		-σο	
-	3	-ΤΟ)	DUAL	-σθω	
-	2	-τον		-σθον	
-	3	-των	PLURAL	-σθων	
-	2	“Τ€		-σ0€	
-	3	-ντων		-σθων	
+Active
+
+Indicative primary tenses, and Subjunctive				
+S1	-μι, -ω	
+S2	-σι, -ς, -(σ)θα	
+S3	-τι = -σι
+D1			
+D2	-τον
+D3	-τον
+P1	-μεν
+P2	-τε
+P3	-ντι = -νσι
+Indicative secondary lenses, and Optative	
+S1	   -v, -v0 = -α  
+S2 -ς, -σθα		
+S3 -(τ)	
+D1
+D2	-τον
+D3	-την
+P1	-μεν
+P2	-τε
+P3	-ν(τ), -σαν
+
+Middle
+
+Indicative primary tenses, and Subjunctive		
+S1 -μαι	
+S2 -σαι	
+S3 -ται
+D1  -μεθον	
+D2 -σθον
+D3 -σθον
+P1	-μεθα (-μεσθα)
+P2	-σθε
+P3	-νται	(-αται = -ν0ται, -ντο 597-598)
+
+
+Indicative secondary tenses,  and Optative
+S1 -μην
+S2 -σο
+S3 -το
+D1 [-μεθον]
+D2 -σθον
+D3 -σθην
+P1	-μεθα (-μεσθα)
+P2	-σθε
+P3	-ντο	(-ατο = -ν0το 597-598)
+
+			
+Imperative Active		
+
+S2	—, -θι, -ς
+S3	-τω
+D2	-τον
+D3	-των
+P2	-τε
+P3	-ντων
+
+Imperative Middle
+S2	-σο	
+S3	-σθω	
+D2	-σθον	
+D3	-σθων	
+P2	-σθε	
+P3	-σθων	
 
 822.	Observe that the subjunctive has the. same endings
 throughout as the primary tenses of the indicative, while the
 
-<pb n="270"/>VERBS: PERSONAL ENDINGS
+<pb n="270"/>
 
-[823-826
-
-optative (except at times in the first singular, when it ends in-μι),
+optative (except at times in the first singular, when it ends in -μι),
 has the same endings as the secondary tenses of the indicative.
 
 823.	The first and second aorists passive have the same endings
 as the secondary tenses of the active voice.
 
-824.	Primary Endings or tub Active Voice (Indicative
-
-and Subjunctive)
+824.	Primary Endings or the Active Voice (Indicative and Subjunctive)
 
 1	sing.: -μι is found in the present indicative of all -μι verbs,
 and in a few subjunctives of -ω verbs, -ω is found in the present
 indicative of all -ω verbs, in all futures, and in the subjunctive.
-In the perfect indicative there is no personal ending, -a taking the
+In the perfect indicative there is no personal ending, -α taking the
 place of the thematic vowel.
 
-2	sing.: -σι is found only in ΐσσι you are; elsewhere -s has taken
+2	sing.: -σι is found only in ἐσσί you are; elsewhere -ς has taken
 its place, -θα (-σθα) is used at times in the perfect, imperfect
 and pluperfect of the indicative, and occasionally in the subjunctive
 and optative.
 
-3	sing.: -τι is found only in' ίστὶ he is. It becomes -σι in the
+3	sing.: -τι is found only in ἐστί he is. It becomes -σι in the
 other -μι verbs, and -σι is occasionally found in the subjunctive of
 -ω verbs, -ω verbs have another ending, of which the origin is
-uncertain. The perfect, -i, has no personal ending.
+uncertain. The perfect, -ε, has no personal ending.
 
-3 plur.: -vri regularly becomes -νσι, and y is then lost, with
+3 plur.: -ντι regularly becomes -νσι, and ν is then lost, with
 lengthening of the preceding vowel (613). Many -μι verbs seem
-to have ended in -αντί, which first became -ανσι, and then -άσι (612).
-The perfect of consonant stems ended in -yn (-νσι) which became
--vTi (-νσι) and then -ασι (597-8). Generally -ασι in both present and
-perfect has been replaced by -άσι.
+to have ended in -αντι, which first became -ανσι, and then -ᾱσι (612).
+The perfect of consonant stems ended in -ντι (-νσι) which became
+-v0τι (-ν0σι) and then -ασι (597-8). Generally -ασι in both present and
+perfect has been replaced by -ᾱσι.
 
-825.	Secondary Endings of the Active (Indicative and
+825.	Secondary Endings of the Active (Indicative and Optative)
 
-Optative)
-
-1	sing.: -v after vowels remained unchanged; after consonants
-it became -v, and then -a (597-8). Pluperfect -ax is usually contracted
-to -η. The optative has -v when the mode suffix is -ιψ
+1	sing.: -ν after vowels remained unchanged; after consonants
+it became -v0, and then -α (597-8). Pluperfect -εα is usually contracted
+to -η. The optative has -ν when the mode suffix is -ιη-
 (813); otherwise it has -μι.
 
-3 sing.: -r is always dropped (605); Ιλνι from ίλυιτ; cf. amat;
+3 sing.: -τ is always dropped (605); ἔλυε from ἐλυετ; cf. amat;
 ίλνσε has no personal ending; it takes its -e from the perfect.
 
 2	dual: -την sometimes occurs instead of -τον.
 
 3	dual: -τον sometimes occurs instead of -την.
 
-<pb n="271"/>826-828]
+<pb n="271"/>
 
-HOMERIC GREEK
-
-3 plur.: -v is for an earlier -vt, t being lost (605), the vowel
+3 plur.: -v is for an earlier -ντ, t being lost (605), the vowel
 before it being regularly short, -σαν, from the first aorist ending,
 is used in the imperfect, and often in the second aorist of -μι verbs,
 at times in the aorist passive, in the pluperfect active, and in the
-optative when it has the mode suffix -ιψ.
+optative when it has the mode suffix -ιη-.
 
-826.	Middle Endings, Primary and Secondary (Indicative,
-
-Subjunctive, and Optative)
+826.	Middle Endings, Primary and Secondary (Indicative, Subjunctive, and Optative)
 
 2	sing.: -σαι drops its σ between vowels (603), except in the
 perfect, and in the present indicative of -μι verbs.
@@ -16879,17 +16904,16 @@ Dual: the first dual -μεθον is rare ; -σθον occurs once instead of
 
 3	plur.: -νται, -ντο regularly become -αται, -ατο (-νται, -ντο) in the
 perfect and pluperfect of verbs with consonant stems, stems ending
-in -i, occasionally in vowel stems, and always in the optative.
+in -ι, occasionally in vowel stems, and always in the optative.
 Elsewhere occasionally -νται, -ντο become -αται, -ατο (597-8).
 
 827.	Endings of this Imperative
 
-' 2 sing, active: -e of the second sing, is the thematic vowel, and
-forms like λώ, ἀ«δε have no personal ending.
+2 sing, active: -ε of the second sing, is the thematic vowel, and
+forms like λύε, ἄειδε have no personal ending.
 -θι is common, with both an active and passive
-meaning. In the first aorist passive -θι becomes
--τι after -θψ of the passive stem (619).
--s occurs in a few cases. The endings of the
+meaning. In the first aorist passive -θι becomes -τι after -θη- of the passive stem (619).
+-ς occurs in a few cases. The endings of the
 aorist, -σον (active) and -σαι (middle) are
 obscure.
 
@@ -16897,7 +16921,7 @@ obscure.
 the perfect of all verbs and the pres, of -μι
 verbs.
 
-Endings op the Infinitives, Participles, and Verbal
+Endings of the Infinitives, Participles, and Verbal
 Adjectives
 
 828.	Infinitives have the following endings :
@@ -16905,28 +16929,26 @@ Adjectives
 1) dative (794) : -αι (-ναι, -μεναι, -εναι, -σαι active ; and -σθαι, -θαι
 middle and passive).
 
-<pb n="272"/>VERBS: ENDINGS, AUGMENT
+<pb n="272"/>
 
-[829-836
-
-2) locative (794): -ev, -μεν (following the thematic vowel ε, ε-εν
-regularly contracts to -αν, 584-5).
+2) locative (794): -εν, -μεν (following the thematic vowel ε, ε-εν
+regularly contracts to -ειν, 584-5).
 
 829.	Participles have the following endings added to the tense
 stem:
 
-1)	-vT- for all active tenses, except the perfect (usually), and the
+1)	-ντ- for all active tenses, except the perfect (usually), and the
 first and'second aorists passive.
 
-2)	-OT- (-for-), occasionally -οντ- in the perfect active.
+2)	-οτ- (-Ϝοτ-), occasionally -οντ- in the perfect active.
 
-3)	-μινο- (feminine -μίνα.-) in the middle; and in the passive,
+3)	-μενο- (feminine -μενᾱ.-) in the middle; and in the passive,
 except the aorist passive.
 
-Note. — Verbal adjectives end.in-τόϊ, and are usually equivalent
+Note. — Verbal adjectives end.in-τός, and are usually equivalent
 to passive (sometimes active) participles in meaning, or else denote
-possibility, as -γνωτός [γιγνωσκω] known, ποιητός [ποιεω] made, τνκτός
-[τευχω] made. They are formed by adding the ending tos to the verb
+possibility, as -γνωτός [γιγνώσκω] known, ποιητός [ποιέω] made, τυκτός
+[τεύχω] made. They are formed by adding the ending tos to the verb
 stem, usually as it appears in the first or second aorist passive.
 
 830.	Augment. — Greek verbs prefix an augment (increase) at
@@ -16935,58 +16957,56 @@ to denote past time.
 
 831.	This augment is of two kinds :
 
-1)	syllabic augment, which prefixes I- to verbs beginning with a
-consonant, as λύω I loose, imperfect Ιλυον I was loosing.
+1)	syllabic augment, which prefixes ἐ- to verbs beginning with a
+consonant, as λύω I loose, imperfect ἔλυον I was loosing.
 
 2)	temporal augment, which lengthens the first syllable of words
-beginning with a vowel or a diphthong, as ακούω I hear, ηκονον
+beginning with a vowel or a diphthong, ἀκούω I hear, ἤκουον
 I was hearing.
 
-832.	When, augmented α, ε regularly become η; ι, o, v become I,
-ω, ii respectively; <n and a become y; while oi becomes ω.
+832.	When augmented α, ε regularly become η; ι, o, υ become ῑ,
+ω, ῡ respectively; αι and ᾳ become ῃ; while οι becomes ῳ.
 
-833.	Of course ἡ, y, ϊ, ϋ, ω, and ω do not undergo any change
+833.	Of course η, ῃ, ῑ, ῡ, ω, and ῳ do not undergo any change
 when augmented.
 
-834.	Verbs beginning with p regularly double it after the
+834.	Verbs beginning with ρ regularly double it after the
 augment. Those beginning with λ, μ, v, or σ sometimes double
 the initial consonant after the augment.
 
 835.	Verbs beginning with a vowel formerly preceded by a lost
 consonant (usually p, or σ), may take the syllabic instead of the
-temporal augment, as iavSavov, imperfect of ίνδάνω (σρανδανω)
+temporal augment, as ἑανδάνω, imperfect of ἁνδάνω (σϜανδάνω)
 please.
 
-836.	When initial σ. has thus been lost, the augment always
+836.	When initial σ has thus been lost, the augment always
 
-<pb n="273"/>837-844]
-
-HOMERIC GREEK
+<pb n="273"/>
 
 contracts with the first vowel of the stem, according to the rules
-(584-5); when initial p has been lost, contraction may or may not
-take place. Thus εχω (σεχω), imperfect εΐχον (σεσε-χον, εεχον) ·
-έπομαι (σέπομαι), imperfect ειπόμην (σεσεπομην, εεπομην) ; εΐ&ον
-(έριδον), second aorist of όράω (ροραω) ; αγννμι (ραγνυμι, aorist εαζα
-(έραξα).
+(584-5); when initial Ϝ has been lost, contraction may or may not
+take place. Thus ἔχω (σεχω), imperfect εἶχον (σέσε-χον, ἔεχον) ·
+ἕπομαι (σέπομαι), imperfect εἰπόμην (σεσεπόμην, ἐεεπόμην) ; εἴδον
+(ἔϜιδον), second aorist of ὁράω (Ϝοράω) ; ἄγνμι (ράγῡνυμι, aorist ἔαξα
+(ἔϜαξα).
 
 837.	The augment, both syllabic and temporal, is often omitted.
 
 838.	Compound Verbs. — Some prepositions (originally adverbs)
 are prefixed to verbs, the whole forming a compound. If the
 preposition ends with a vowel and the verb begins with one, the
-vowel of the preposition is usually elided (575), as δάστημι
-(διά-ΐστημί), ἀφαιρεω (ά,πό-αιρέω (582)).
+vowel of the preposition is usually elided (575), as διίστημι
+(διά-ἵστημι), ἀφαιρέω (ἀπό-αἱρέω (582)).
 
 839.	The augment of compound verbs comes between the
 preposition and the verb. If two vowels are thus brought
-together, the first is usually elided, as απολύω loose, free ; imperfect
-ἀπελνον (άπό-ελνον) ; aorist απέλυσα (άπό-ελϋσα).
+together, the first is usually elided, as ἀπολύω loose, free ; imperfect
+ἀπέλυον (ἀπό-ἔλυον) ; aorist ἀπέλυσα (ἀπό-ἔλῡσα).
 
 840.	Imperfect. — The imperfect (a secondary tense (816)) is
 formed by adding the secondary endings (821) to the augmented
-stem of the present, as λύω I loose, imperfect ελνον I was loosing;
-τίθημι I place, imperfect ετίθψ-
+stem of the present, as λύω I loose, imperfect ἔλυον I was loosing;
+τίθημι I place, imperfect ἐτίθην.
 
 841.	First Aorist. — The first aorist of vowel and mute verbs
 (849) (a secondary tense, 816) is regularly formed by adding
@@ -16996,27 +17016,27 @@ long vowel or a consonant only one σ is ever added; if it ends
 in a short vowel, either one or two sigmas may be used.
 
 842.	“Mixed” Aorists. — A few aorists (sometimes called
-“ mixed aorists ”) are formed by adding -σ%, followed by the personal
+“ mixed aorists ”) are formed by adding -σο/ε, followed by the personal
 endings of the secondary tenses, to the augmented verb stem.
 
-843.	Ιημι throw, send; δ/δω/u give, grant; and τίθημι put, place,
-have -κα in the aorist instead of '-σα.
+843.	ἵημι throw, send; δίδωι give, grant; and τίθημι put, place,
+have -κα in the aorist instead of -σα.
 
 844.	Future. — The future (a primary tense) of vowel and
 mute verbs (849) is regularly formed by adding the tense suffix
--σ(σ) % to the verb stem, followed by the personal endings of
+-σ(σ)ε/ο to the verb stem, followed by the personal endings of
 the primary tenses.
 
-<pb n="274"/>AUGMENT, TENSES, VERB CLASSES [845-853
+<pb n="274"/>
 
 845.	If the verb stem ends in a long vowel, the stem is not
-affected by the addition of -σ% and -σα in the formation of the
+affected by the addition of -σο/ε and -σα in the formation of the
 future and aorist.
 
 846.	If the verb stem ends in a short vowel, all tenses except
-the present and imperfect regularly lengthen this, a and € becoming
-η; o becoming ω ; as ποιέω, ποιήσω, eποίησα; χολόω, χολώσω,
-«χόλωσα.
+the present and imperfect regularly lengthen this, α and ε becoming
+η; ο becoming ω ; as ποιέω, ποιήσω, ἐποίησα; χολόω, χολώσω,
+ἐχόλωσα.
 
 847.	Some verbs do not lengthen the short vowel according to
 the rule in 846.
@@ -17032,82 +17052,78 @@ in a vowel, a liquid, a nasal, or a mute.
 euphonic changes take place:
 
 1)	a labial mute (π, β, φ) unites with the sigma following and
-forms ψ, as πέμπω, πέμψω (πεμπσω), έπεμψα (ίπεμπσα) send, escort:
-αμείβω, αμείψω, ήμειψα (άμείβσω, ημειβσα) (exchange ;
+forms ψ, as πέμπω, πέμψω (πέμπσω), ἔπεμψα (ἔπεμπσα) send, escort:
+ἀμείβω, ἀμείψω, ἤμειψα (ἀμείβσω, ἤμειβσα) (exchange ;
 
 2)	a palatal mute (κ, y, χ) unites with the sigma following and
-forms £, as ἀρή-γω, ἀρήζω (αρη-γσω), ήρηζα (τ/ρη-γσαί) help, assist;
-τενχω, τενξω (τευχσω), έτευςα (ετευχσα) make, fashion, cause.
+forms ξ, as ἀρή-γω, ἀρήξω (ἀρήγσω), ἤρηξα (ἤρηγσα) help, assist;
+τεύχω, τεύξω (τεύχσω), ἔτευξα (ἔτευχσα) make, fashion, cause.
 
-3)	a lingual mute (r, δ, Θ) before the σ is assimilated (610, 4),
-as πείθω, πείσω, έπεισα persuade; κλέπτω, κλέψω, έκλεψα steal.
+3)	a lingual mute (τ, δ, Θ) before the σ is assimilated (610, 4),
+as πείθω, πείσω, ἔπεισα persuade; κλέπτω, κλέψω, ἔκλεψα steal.
 
 851.	Liquid and Nasal Verbs. —If a verb stem ends in a liquid
-(λ, p) or a nasal {μ, v), the future is regularly formed by adding
--εσ%, with the loss of σ between vowels (603), to the verb stem,
+(λ, p) or a nasal (μ, v), the future is regularly formed by adding
+-εσε/ο, with the loss of σ between vowels (603), to the verb stem,
 to which are attached the primary personal endings, as βάλλω,
-βαλέω (from βαλεσω) throw, shoot.
+βαλέω (from βαλέσω) throw, shoot.
 
-852.	In a few cases the first e is omitted, and σ is retained in
-verbs of this kind, as ορνΰμι, ορσω arouse, stir up.
+852.	In a few cases the first ε is omitted, and σ is retained in
+verbs of this kind, as ὄρνῡμι, ὄρσω arouse, stir up.
 
 853.	A few verbs in addition to those with liquid and nasal
 stems have lost σ in the future, as καλέω, καλέω call, summon. In
 general these verbs have a liquid or nasal before the final vowel
 
-<pb n="275"/>854-862]
-
-HOMERIC GREEK
+<pb n="275"/>
 
 of the stem, and imitate the forms of the futures of liquid and
 nasal verbs.
 
-854.	Those formations in which σ is dropped after a or ε are
+854.	Those formations in which σ is dropped after α or ε are
 sometimes called “ Attic futures.”
 
 855.	A few verbs have active forms in the present, but middle
-forms in the future, as ακούω, ἀκούσομαι hear.
+forms in the future, as ἀκούω, ἀκούσομαι hear.
 
 856.	Verbs with liquid and nasal stems regularly form their
 aorists by dropping the σ and lengthening the stem vowel by
-compensation (601), a becoming ἡ, ε becoming a, i becoming I,
-and D becoming ϋ, as φαίνω (φαν-), φανίω (φανεσω), Ιφηνα (ίφανσα)
-show ' μένω, μζνίω (μενεσω), ίμανα (έμενσα) remain, await.
+compensation (601), α becoming η, ε becoming ει, ι becoming ῑ,
+and υ becoming ῡ, as φαίνω (φαν-), φανέω (φανέσω), ἔφηνα (ἔφανσα)
+show; μένω, μενέω (μενέσω), ἔμεινα (ἔμενσα) remain, await.
 
 857.	In some cases the σ is retained in formations of this kind,
-as όρνϋμι, ωρσα Stir up, arouse j κίλλω, εκελσα land j κίρω, κχψσω
+as ὄρνϋμι, ὦρσα stir up, arouse; κέλλω, ἔκελσα land; κύρω, κύρσω
 meet.
 
 858.	The present of most liquid and nasal verbs regularly
 lengthens the last syllable of the stem by compensation (601)
 as the original form of the stem of these verbs ended in consonantal
-i (600).
+ι (600).
 
 859.	Presents in -λλω are from an earlier form in -λιω. Thus
-αγγέλλω, βάλλω, στίλλω, τίλλω, etc., were Originally ἀγγελιω, βαλιω,
-στΐλιω, τελ^ω, etc. In these cases the last syllable of the stem
+ἀγγέλλω, βάλλω, στέλλω, τέλλω, etc., were Originally ἀγγελίω, βαλίω,
+στελίω, τελίω, etc. In these cases the last syllable of the stem
 is lengthened by doubling the final λ.
 
-860.	Verbs with presents in -αινώ, -αίρω, -εινω, -ειρω, -ΐνω, -ιρω, ννω,
-νρω originally had the endings -αν£ω, -αριω, -ενιω, -εριω, -ινιω, -ιρ„ω
--υνιω, -υρίω (consonantal i, 600) respectively.
+860.	Verbs with presents in -αινω, -αιρω, -εινω, -ειρω, -ῑνω, -ῑρω, -ῡνω,
+-ῡρω originally had the endings -ανιω, -αριω, -ενιω, -εριω, -ινιω, -ιριω
+-υνιω, -υριω (consonantal ι, 600) respectively.
 
 861.	The quantity of the last vowel of the stem of many verbs
-often varies, as λυω, λύσω, ελϋσα, λίλνκα*, λίλνμαί, ίλύθην.
+often varies, as λύω, λῡσω, ἔλῡσα, λέλνκα*, λέλυμαι, ἐλύθην.
 
 862.	Ablaut (vowel gradation, 593-595) is seen in the various
 tense systems of many verbs, particularly in what are known as
 “second” (863) tenses. The second aorist and second passive
-systems commonly have the weak (594-595) grades i, v, a. The
+systems commonly have the weak (594-595) grades ι, υ, α. The
 other systems usually have the corresponding strong grades ει
-(οι), εὐ (συ), ἡ (ω); οι, ον, ω in the second perfect. When ε is preceded
-or followed by a liquid or a nasal its weak grade is a.
+(οι), ευ (ου), η (ω); οι, ον, ω in the second perfect. When ε is preceded
+or followed by a liquid or a nasal its weak grade is α.
 
-<pb n="276"/>ABLAUT, SECOND TENSES
+<pb n="276"/>
 
-[863-865
-
-863.	Second Tenses. — Many verbs liave what are called second
+863.	Second Tenses. — Many verbs have what are called second
 tenses, as second aorists (active, middle, and passive), and second
 perfects and pluperfects (active). These second tenses are irregular
 in formation, and are thus named to distinguish them from
@@ -17120,41 +17136,39 @@ when a verb has both forms. Then the first and second tenses
 may differ slightly in meaning, usually by the first being transitive
 (sometimes causative), the second intransitive, Compare the
 Americanism shine, shined, shined, used transitively, as in the
-expression “ he shined my shoes,” with the more eommon forms
+expression “ he shined my shoes,” with the more common forms
 of the verb, shine, shone, shone, used intransitively, as “ the sun
 shone.” “ Shined ” may be compared in form and meaning to a
 first aorist, while “ shone ” would correspond in form and meaning
-to a second aorist. Thus in Greek, ΐβψ (2d aor.) signifies
-I went, walked (intransitive), while εβησα (1st aor.) signifies I
+to a second aorist. Thus in Greek, ἔβην (2d aor.) signifies
+I went, walked (intransitive), while ἔβησα (1st aor.) signifies I
 caused to go, walked (transitive), as in English I walked my horse
-(εβησα ίππον) i.e. I caused my horse to walk.
+(ἔβησα ἵππον) i.e. I caused my horse to walk.
 
 865.	Second aorists are formed in various ways :
 
 1)	A common method is for them to have the secondary (816)
-endings, following the thematic vowel %, thus being conjugated
-like the imperfect, as εχω, εξω, εσχον to have, where εσχον the
-second aorist is conjugated like ελνον, the imperfect of λυ'ω to loose.
+endings, following the thematic vowel ε/ο, thus being conjugated
+like the imperfect, as ἔχω, ἕξω, ἔσχον to have, where ἔσχον the
+second aorist is conjugated like ἔλυον, the imperfect of λὐω to loose.
 
 2)	Many have the secondary endings attached directly to the
 tense stem, and thus are conjugated like the aorist passive, hut
-without the Θ of the passive stem. Thus ϊβψ (βαίνω), ε8ϋν (δύω),
-Ζγνων (γιγνωσκω), etc. These are athematic (797) of course.
+without the Θ of the passive stem. Thus ἔβην (βαίνω), ἔδῡν (δύω),
+ἔγνων (γιγνώσκω), etc. These are athematic (797) of course.
 
-3)	Others end in -a and are conjugated with the same endings
-as the first (regular) aorists, hut without the σ, as είπα, εκηα.
+3)	Others end in -α and are conjugated with the same endings
+as the first (regular) aorists, hut without the σ, as εἶπα, ἔκηα.
 
-4)	Many are reduplicated (867), as ήγαγον [άγω], κεχαρόμην
+4)	Many are reduplicated (867), as ἤγαγον [ἄγω], κεχαρόμην
 
 [χαίρω].
 
 Note. — The stem of the second aorist usually diSers from the
 present, regularly standing in ablaut (593-5) relation to it, as βαίνω,
-εβ-ην; λείπω, ελιπον.
+ἔβην; λείπω, ἔλιπον.
 
-<pb n="277"/>866-874]
-
-HOMERIC GREEK
+<pb n="277"/>
 
 866.	The stem of the singular of athematic (797, 865,2) second
 aorists regularly stands in ablaut (593-5) relation to the stem
@@ -17165,71 +17179,67 @@ presents, second aorists and futures) in all modes have reduplication
 (doubling), which regularly denotes completed (sometimes
 intensified) action, a state, or a condition.
 
-868.	Verbs beginning with a single consonant, except p, prefix
-this consonant, followed by the letter t, as δέω, δ/δΰκα go in.
+868.	Verbs beginning with a single consonant, except ρ, prefix
+this consonant, followed by the letter ε, as δέω, δέδῡκα go in.
 Often the stem stands in ablaut (593-5) relation to the stem of the
-present, as βαίνω (βαν-, βα-), βίβηκα come, go.
+present, as βαίνω (βαν-, βα-), βέβηκα come, go.
 
 869.	Verbs beginning with a double consonant (518), with two
 consonants (except a mute followed by a liquid or nasal (509, 516),
-those beginning with p, and some beginning with μ, instead of
-being reduplicated, simply add e, the reduplication in these cases
+those beginning with ρ, and some beginning with μ, instead of
+being reduplicated, simply add ε, the reduplication in these cases
 having the same form as the syllabic augment (830-1).
 
 870.	A rough mute when reduplicated is changed to its cognate
-Smooth (510-511), as φνω, πίφυκα ; θνήσκω, τΐθνηκα. This is deaspiration
+smooth (510-511), as φύω, πέφυκα ; θνήσκω, τέθνηκα. This is deaspiration
 (dissimilation) (619).
 
 ■ 871. In verbs beginning with a vowel or diphthong the reduplication
-has the form of the temporal (831) augment, as οίχομαι,
-
-ωχωκα.
+has the form of the temporal (831) augment, as οίχομαι, ὤχωκα.
 
 872.	Verbs beginning with a vowel which was formerly preceded
 by a lost consonant may take the reduplication in the form
-of the syllabic augment' (830-1).
+of the syllabic augment (830-1).
 
-873.	Some verbs beginning with a, e, or o, followed by a consonant,
+873.	Some verbs beginning with α, ε, or ο, followed by a consonant,
 reduplicate by repeating this vowel and the consonant and
-by lengthening the vowel, a and ε becoming ἡ, and o becoming ω,
-as εδω, έδ^δώς ; αραρισκω, aprjpa όλλΰμι, όλωλα. This is sometimes
+by lengthening the vowel, a and ε becoming η, and o becoming ω,
+as ἔδω, ἐδήδώς ; ἀραρίσκω, ἄρηρα; ὄλλῡμι, ὄλωλα. This is sometimes
 called “ Attic reduplication.”
 
 874.	A few verbs reduplicate the present by prefixing the first
 consonant of the stem followed by i, as ΐστημι βηστημι 603-4),
-τίθ'ημι, όίόωμι, l-ημι (σισημι 603—4), πίμπλημι, ·γί·γνομαι., ·γιγνωσκω,
+τίθημι, δίδωμι, ἵημι (σίσημι 603—4), πίμπλημι, γίγνομαι, γιγνωσκω,
 μιμνήσκω.
 
-<pb n="278"/>REDUPLICATION, PERFECTS
-
-[875-886
+<pb n="278"/>
 
 875.	When the reduplicated perfect begins with a consonant,
 the pluperfect prefixes the syllabic augment (e) to the reduplication,
-as βίβηκα (perfect), ίβεβήκεα. (pluperfect).
+as βέβηκα (perfect), ἐβεβήκεα. (pluperfect).
 
 876.	In other cases the pluperfect usually retains the temporal
 (831) apgment of the perfect unchanged.
 
-877.	'''Perfect. — The first (regular) perfect adds -m, the pluperfect
+877.	Perfect. — The first (regular) perfect adds -m, the pluperfect
 -*e, to the reduplicated theme to form the singular. The dual
 and plural regularly have the endings of the second perfect, except
-at times in the third plural, which often has. the endings of the
+at times in the third plural, which often has the endings of the
 first perfect.
 
 878.	The stem is not affected by the addition of -κα, -κε, except
 that a final short vowel is usually lengthened (846).
 
-879r''This form of the perfect (first or regular perfect) is found
+879. This form of the perfect (first or regular perfect) is found
 only in verbs with vowel stems and in only about twenty verbs in
 the whole of the Homeric poems.
 
 880.	Second Perfect. — The stem of the second (irregular) perfect
-is formed by adding -a to the reduplicated theme, and the
+is formed by adding -α to the reduplicated theme, and the
 pluperfect by adding -ε.
 
 881.	The second perfects are the earlier and are much more
-common in the Homeric poems than are the first or «-perfects.
+common in the Homeric poems than are the first or κ-perfects.
 They are found regularly in verbs with consonantal and sometimes
 in those with vowel stems.
 
@@ -17245,11 +17255,11 @@ occurring in only about twenty verbs.
 
 885.	Verbs compounded with a preposition (838) regularly
 have the augment and the reduplication between the preposition
-and the verb, as ίρ,φφίβηκa, προβίβονλα (αμφιβαίνω, προβονλομαι').
+and the verb, as ἀμφιβέβηκa, προβέβουλα (ἀμφιβαίνω, προβούλομαι).
 
 886.	When futures and second aorists are reduplicated it is
 usually after the manner of the reduplication of perfects ; presents
-are reduplicated in various ways, but chiefly with t (874).
+are reduplicated in various ways, but chiefly with ι (874).
 
 <pb n="279"/>887-898]
 
@@ -17261,7 +17271,7 @@ from those of the active.
 888.	Passive. — The aorist passive has active endings; the
 other forms of the passive have middle endings.
 
-889.	Since only the aorist1 of the passive differs in form from
+889.	Since only the aorist<note>But see 817, note, for two exceptions.</note> of the passive differs in form from
 the middle, all the other tenses having the same forms in both
 voices, the context must determine in these other tenses which
 voice is intended.
@@ -17274,19 +17284,19 @@ the aorist passive is often used with a middle meaning.
 (797), i.e. the personal endings are attached directly to the
 reduplicated verb stem.
 
-892.	The future perfect passive stem is formed by adding -σ%
+892.	The future perfect passive stem is formed by adding -σε/ο
 to the perfect middle (passive) stem. A vowel which precedes
-this -σ% is lengthened, even though it be short in the perfect
+this -σε/ο is lengthened, even though it be short in the perfect
 middle.
 
-893:. The first aorist passive stem is formed by adding θ€/η to
+893:. The first aorist passive stem is formed by adding θε/η to
 the verb stem.
 
 894.	Sometimes a sigma also is added to the verb stem before
-the θ(/η·
+the θε/η·
 
 895.	Before the theta of the passive stem, π and β become φ ;
-k and y become χ; τ, δ, and Θ regularly become σ (610, 1, 2).
+κ and γ become χ; τ, δ, and Θ regularly become σ (610, 1, 2).
 
 896.	Many verbs have a second aorist passive, which does not
 have the Θ, but otherwise has the same endings as the first aorist
@@ -17299,9 +17309,9 @@ with an active meaning. These are called deponent verbs.
 898.	Defective Verbs. — Many verbs do not have all the principal
 parts, that is, they are defective. When any parts are omitted
 
-i	But see 817, note, for two exceptions.
 
-<pb n="280"/>MIDDLE AND PASSIVE, ACCENT [899-902
+
+<pb n="280"/>
 
 from the vocabularies of this book, it indicates that these forms
 do not occur either in Homer or in later classical Greek.
@@ -18100,7 +18110,7 @@ Du. 2 λύθητον you two be loosed
 Du. 3 λυθήτων let these two be loosed
 
 Pl. 2 λύθητε be loosed
-]Pl. 3 λυθέντων let them be loosed
+Pl. 3 λυθέντων let them be loosed
 
 
 
