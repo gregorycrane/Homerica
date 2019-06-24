@@ -2492,7 +2492,7 @@ LESSON IX: THE IMPERFECT OF VERBS IN -ω
 
 8ιά adv., and prep, with gen. and acc., through, on account of, by means of; adv., between, among; with gen., through; with acc., through, by means of, on account of, during.
 
-διΐ-φιλος, διϊ-φίλη, διΐ-φιλον dear to Zeus,
+διΐ-φιλος, διϊ-φίλη, διΐ-φιλον dear to Zeus (1168)<n>Thanks to Wright-Debnar</n>
 εἴρω speak, say, tell,
 έμός, ἐμή, ἐμόν my, mine,
 ἔρον, ἔργου, τό (ϝέργον) work, deed, accomplishment.
@@ -2750,7 +2750,7 @@ counsel, council,
 Δαναόs, οΰ, 6 Danaan, Greek.
 
 84 (postpositive) and, hut, for, so.
--8i, with acc. (788, I) to.
+-8i, with acc. (788, 1) to.
 
 Sctvos, ή, όν terrible, awful, dread
 (ful), fearful,
@@ -14089,8 +14089,8 @@ becomes short (e), while the short vowel (o) becomes long (ω).
 remains as it was before the metathesis took place. Thus Τϊηλγμ-
 ἀδαο becomes Π^λ^ιάδεω, Βριάρηο^ becomes Bpuxpcos, etc.
 
-575.	Elision. — A short final vowel (very rarely the diphthongs at
-and oi also) is regularly dropped when the next word begins with a
+575.	Elision. — A short final vowel (very rarely the diphthongs αι
+and οι also) is regularly dropped when the next word begins with a
 vowel or a diphthong. This is called elision. An apostrophe (’)
 marks the omission, as 
 στέμματ’ ἔχων (for στέμματα ἔχων) having fillets, 
@@ -14101,47 +14101,45 @@ marks the omission, as
 vowels in the same word, is elided, only the last vowel is lost, and the
 other vowels remain unchanged.
 
-577.	The most frequent occurrences of elisiou are in :
+577.	The most frequent occurrences of elision are in :
 
-1)	Words of one syllable ending in -ε, as yi, δε, κέ, τί.
+1)	Words of one syllable ending in -ε, as γέ, δέ, κέ, τέ.
 
 2)	Prepositions and conjunctions of two syllables, as ἀλλά,
 
-ἀμφί, επί, παρά.
+ἀμφί, ἐπί, παρά.
 
-3)	Some common adverbs, as ράλα, τάχα, ἀμα, ετι, επειτα, εΐτα.
+3)	Some common adverbs, as μάλα, τάχα, ἅμα, ἔτι, ἔπειτα, εἶτα.
 
-578.	Τη the following words elision does not usually take place:
-1) ἀχρι, μίχρι, περί, πρό, on, τὶ and its compounds.
+578.	In the following words elision does not usually take place:
+1) ἄχρι, μέχρι, περί, πρό, ὅτι, τί and its compounds.
 
-<pb n="217"/>579-584]
+<pb n="217"/>
 
-HOMERIC GREEK
+2)	Monosyllables (except those ending in -ε, and a very few
+others), as σά, ῥα, and (rarely) σοί, τοί, μοί.
 
-2)	Monosyllables (except those ending in -e, and a very few
-others), as σά, pa, and (rarely) σοί, τοί, μοί.
-
-3)	Words ending in -v.
+3)	Words ending in -υ.
 
 579.	Elision occurs also in the formation of compound words,
-but then without the apostrophe to mark it, as Επευφήμησαν (επί
-ενφήμησαν they shouted assent.
+but then without the apostrophe to mark it, as ἐπευφήμησαν (ἐπὶ
+εὐφήμησαν they shouted assent.
 
 580.	When the following word begins with a vowel which was
-formerly preceded by a lost consonant, especially p, elision does
-not ordinarily take place, as ivl οΐκω (— ἐνϊ ροίκω in (pur) home.
+formerly preceded by a lost consonant, especially ϝ, elision does
+not ordinarily take place, as ἐνὶ οἴκῳ (= ἐνὶ ϝοίκῳ in (our) home.
 
-581.	F, a semi-vowel corresponding to Eng. w, was pronounced
+581.	ϝ, a semi-vowel corresponding to Eng. w, was pronounced
 at times, and at other times neglected.
 
 582.	A smooth mute (512) brought before a rough breathing
 (527) by elision (575) is changed to the cognate rough mute
 (511-512). Thus κ before a rough breathing becomes χ, τ becomes
-Θ, and π becomes φ, as αἰδεΐσθαὶ θ' Ιερή a and to reverence the
-priest, for αἰδεΐσθαὶ τε Ιερή a; ωχ’ «κατόγχίΐρον καλέσάσ’ «s μάκρον
-*Όλυμπον quickly having summoned the hundred-handed (giant) into
-lofty Olympus, for ωκα έκατόγχεψον, etc.; ἀφίει he sent (him) away,
-for ἀτΓΟ-le i.
+Θ, and π becomes φ, as αἰδεῖσθαὶ θ' ἱερῆα and to reverence the
+priest, for αἰδῖΐσθαὶ τε ἱερῆα; ὦχ’ ἑκατόγχειρον καλέσᾱσ’ ές μάκρον
+Ὄλυμπον quickly having summoned the hundred-handed (giant) into
+lofty Olympus, for ὦκα ἑκατόγχειρον, etc.; ἀφίει he sent (him) away,
+for ἀπο-ἵει.
 
 583.	If an accented final syllable of a preposition or a conjunction
 is elided (575), the accent of the word is lost with the
@@ -14418,7 +14416,7 @@ conducted, sent, there is only partial assimilation.
 
 610.	The most important of these changes are:
 
-1) A labial (-π-, β, ψ), or a palatal (*, y, χ) mute before a’dental
+1) A labial (-π-, β, ψ), or a palatal (κ, γ, χ) mute before a dental
 (τ, δ, Θ) mute must be of the same order (512).
 
 <pb n="223"/>611-613]
@@ -14428,34 +14426,35 @@ HOMERIC GREEK
 2)	A dental (τ, δ, Θ) mute before another dental mute becomes σ.
 
 3)	Before μ a labial mute (π, β, φ) becomes μ, while the palatal
-mutes k and χ regularly become gamma-nasal (508), and a dental
+mutes κ and χ regularly become gamma-nasal (508), and a dental
 mute (τ, δ, Θ) regularly becomes σ.
 
-4)	Before σ: a labial mute (π, β, φ) combines and becomes φ.
+4)	Before σ: 
+a labial mute (π, β, φ) combines and becomes φ.
 
-a palatal mute («, y, χ) combines and becomes ξ.
-a dental mute (r, 8, Θ) is usually assimilated (608),
-becoming σ, and one σ is often dropped, as ποσ(σ)ὶ = πο8σι loith
+a palatal mute (κ, γ, χ) combines and becomes ξ.
+a dental mute (τ, δ, Θ) is usually assimilated (608),
+
+becoming σ, and one σ is often dropped, as ποσ(σ)ὶ = ποδσι loith
 his feet.
 
-. 5) μ before a labial mute (it, β, φ) remains unchanged.
+5) μ before a labial mute (π, β, φ) remains unchanged.
 
 6)	v before a labial mute (π, β, φ) becomes μ.
 
-v before a palatal mute («, y, χ) becomes gamma-nasal (508).
-v before λ, p is assimilated (608), becoming λ, or p respectively.
+v before a palatal mute (κ, γ, χ) becomes gamma-nasal (508).
+v before λ, ρ is assimilated (608), becoming λ, or ρ respectively.
 
-7)	A
-smooth mute (512) before Θ becomes a rough mute of the
+7)	A smooth mute (512) before Θ becomes a rough mute of the
 same class (510).
 
 8)	β + v becomes μν ; δ or τ + π becomes ππ ; δ + λ = λλ ; λ
 + ν = λλ; ν + μ = μμ.
 
 9)	τ + ι (when ι is final, or medial followed by another vowel)
-usually = σι, πλούσιος (πλούτος).
+usually = σι, πλούσιος (πλοῦτος).
 
-Note. — ντ before final ι becomes vs; the v is then dropped and the
+Note. — ντ before final ι becomes νς; the v is then dropped and the
 preceding vowel lengthened by compensation, 601, 618.
 
 611. Thus, with the exception of	(out of, from) in composition,
@@ -14672,7 +14671,7 @@ form being masculine, the second feminine, and the third neuter.
 
 638.	The form of the noun which appears in the vocabulary is
 the nominative singular, unless otherwise indicated. This is followed
-by the ending of the genitive singular, which denotes to
+by the ending of the genitive singular<n>grc:I think we should change this and show the whole form -- more space but more explicit</n>, which denotes to
 which declension the noun belongs. After the ending of the genitive
 singular is placed the appropriate form of this,, pronoun, to
 indicate the gender. Thus θεός, θεοῦ, ὁ god is second declension
@@ -14702,13 +14701,13 @@ all other cases.
 
 643.	An accented ultima in general takes the acute, but in the
 genitive and dative of all numbers a long ultima, if accented,
-takes the circumflex, as ψύχη soul (nom. sing.), but ψνχτ}<; of a soul
-(gen. sing.), ψνχβ to, for a soul (dat. sing.), etc.
+takes the circumflex, as ψύχη soul (nom. sing.), but ψνχῆς of a soul
+(gen. sing.), ψνχῃ to, for a soul (dat. sing.), etc.
 
 644.	Declensions. —Nouns are declined in two general ways:
 
 1)	The vowel declension, for stems (628) ending in the open
-vowels, d, o.
+vowels, ᾱ, ο.
 
 2)	The consonant declension, for stem's ending in a consonant,
 or the closed vowels, i, v.
@@ -14716,17 +14715,17 @@ or the closed vowels, i, v.
 645.	The vowel declension has two forms, according as the
 noun stem ends in d or o. Hence we have:
 
-1)	The a declension, commonly called the first declension;
+1)	The α declension, commonly called the first declension;
 
-2)	The o declension, commonly called the second declension.
+2)	The ο declension, commonly called the second declension.
 
 646.	The consonant declension, for stems ending in a closed
-vowel (t, v, which were at times semi-consonantal) or a consonant,
+vowel (ι, υ, which were at times semi-consonantal) or a consonant,
 is commonly called the third declension.
 
 647.	Words of the first declension have stems ending in ᾱ,
 which either becomes shortened in the nominative singular to ᾰ,
-or else becomes ἡ (621), except in the one word θεἀ goddess, and a
+or else becomes η (621), except in the one word θεἀ goddess, and a
 very few proper names. Nouns of the first declension are either
 masculine or feminine.
 
@@ -14736,83 +14735,230 @@ of substantives and adjectives :
 
 <pb n="229"/> 
 
-Vowel Declension	Consonant	Declension
-
-singular
-
-First	Second
-
-	Masc.	Fem.	M. AND F.	Neut.	M. and F. Neut.
-Nom.	ς (none)
-
-none	ς	ν
+Vowel Declension	
 
 
-ς (none) none
-Gen.	ο (ιο?) ης
 
-ο (ιο)	o (ιo)
-ος ος
-Dat.	ι	ι	ι	ι	ι ι
-Acc. ν	ν	ν	ν	ν, α (γ)1 none
-Voc.	none	none	none 2
+First Declension
 
-	ω	ς (none) none
+Masculine
+Singular
+Nom. ς (none)
+Gen. ο (ιο?)
+Dat.	ι
+Acc. ν
+Voc.	none
 
-
-DUAL
-N. A. V.	none	none	none	none	ε ε
-G. D.	ιιν	ιιν	ιιν  	ιιν	οιιν οιιν
+Dual
+N. A. V. none
+G. D.	ιιν
 
 PLURAL
-N. V.	ι	ι	ι	ᾰ	ες ᾰ
-Gen.	ων	ων	ων	ων	ων ων
-3 Dat.	(ι)σι, ις	(ι)σι, ις	(ι)σι, ις	(ι)σι, ις       σ(σ)ι, εσ(σ)ι   σ(σ)ι, εσ(σ)ι
+N. V.	ι
+Gen.	ων
+3 Dat.	(ι)σι, ις
+Acc.	νς5
+
+Feminine
+singular
+Nom. ς (none)
+Gen. ο (ιο?)
+Dat.	ι
+Acc. ν
+Voc.	none
+
+Dual
+N. A. V. none
+G. D.	ιιν
+
+PLURAL
+N. V.	ι
+Gen.	ων
+3 Dat.	(ι)σι, ις
+Acc.	νς5
+
+Second Declension
+Masculine and Feminine
+
+Nom. none
+Gen. ο (ιο)
+Dat.	ι
+Acc. ν
+Voc.	none<n n="2">But with ablaut of the final vowel of the stem ο : ε (595).</n>
 
 
-Acc.	νς5	νς5	νς5	ᾰ	νς,5 ν0σ1 ᾰ
+Dual
+N. A. V. none
+G. D.	ιιν
+
+PLURAL
+N. V.	ι
+Gen.	ων
+Dat.	(ι)σι, ις<n n="3">Usually ισι; rarely the shorter form ις.</n>
+Acc.	νς
+
+Neuter
+
+Nom. ν
+Gen. ο (ιο)
+Dat.	ι
+Acc. ν
+Voc.	ν
+
+
+Dual
+N. A. V. none
+G. D.	ιιν
+
+PLURAL
+N. V.	ᾰ
+Gen.	ων
+Dat.	(ι)σι, ις<n n="3">Usually ισι; rarely the shorter form ις.</n>
+Acc.	ᾰ
+
+Consonant Declension
+
+M. AND F.
+Singular 
+Nom.	ς (none)
+Gen. ος 
+Dat.	ι
+Acc. ν, α (ν0)<n n="1">597 ; 598, 4.</n>
+Voc. ς (none)
+
+DUAL
+N. A. V.	ε
+G. D.	οιιν
+
+PLURAL
+N. V.	ες
+Gen.	ων
+Dat.	σ(σ)ι, εσ(σ)ι	
+Acc.	νς,<n n="5">613</n> ν0ς<n n="1">597; 598,4.</n>
+
+
+Neut.
+Nom. none
+Gen. ος 
+Dat.	ι
+Acc.  none
+Voc.	none
+
+DUAL
+N. A. V.	ε
+G. D.	οιιν
+
+PLURAL
+N. V.	ᾰ
+Gen.	ων
+Dat. σ(σ)ι, εσ(σ)ι
+Acc. 	ᾰ
+
+
+
 
 649.	When these suffixes combined with the stem of a word,
 the following endings were produced:
 
-First Declension	Second	Declension
+First Declension
 
-singular
+Masculine
 
-	Masc.	Fem.	Masc. and Fem.	Neut.
-N.	ης, [α, ᾱς] 5	η, α, ᾱ	os, [(ως, ους)6]	ον
-G.	ᾱο, [εω, ω] 7	ης, ᾱς	οιο, ου, [οο, ωο	(ω)]
-D.	ῃ, [ᾳ]	ῃ, ᾳ	ῳ	ῳ
-A.	ην, [αν]	ην, αν, ᾱν	ον, [(ων)]	ov
-V.	η, α, [ᾱ]	η, α, ᾱ	ε [ος]	ον
+SINGULAR
+N.	ης, [α, ᾱς] <n n-"5">613.</n>
+G.	ᾱο, [εω, ω] <n n="7">-εω, -εων regularly pronounced as one syllable by synizesis, 586 ; -εω usually contracted to -ω after a vowel.</n>	
+D.	ῃ, [ᾳ]		
+A.	ην, [αν]	
+V.	η, α, [ᾱ]
 
-1	597 ; 598, 4.
+DUAL
+N. A. V.	ᾱ
+G. D.		[ῃιν]	
 
-2	But with ablaut of the final vowel of the stem o : e (595).
+PLURAL		
+N. V.	αι
+G.	ᾱων, [έων,1 (ῶν)]
+D.	ῃσι, ῃς, [αις]
+A.	ᾱς	
 
-3	Usually ισι; rarely the shorter form ις.
+Feminine
+SINGULAR
+N.      η, α, ᾱ	
+G.	ης, ᾱς	
+D.	ῃ, ᾳ
+A.	ην, αν, ᾱν
+V.	η, α, ᾱ
 
-4	-εσι unusually rare.
-5	613.
+DUAL
+N. A. V.	ᾱ
+G. D.		[ῃιν]
 
-6	Forms in square brackets [	]	are	rare	and	need	not	be	memorized;
 
-those in parentheses (	) are contracted.
+PLURAL		
+N. V.	αι	
+G.	ᾱων, [έων,1 (ῶν)]	
+D.	ῃσι, ῃς, [αις]	
+A.	ᾱς	
 
-7	-εω, -εων regularly pronounced as one syllable by synizesis, 586 ; -εω
-usually contracted to -ω after a vowel.
+Second	Declension
+
+Masculine and Feminine
+SINGULAR.
+
+os, [(ως, ους)]<n n="6">Forms in square brackets [ ] are rare and need not be memorized; those in parentheses ( ) are contracted.</n>
+G.      οιο, ου, [οο, ωο	(ω)]
+D.	ῳ	
+A.	ον, [(ων)]	
+V.      ε [ος]	
+
+N. A. V.	ω
+G. D.		οιιν
+
+PLURAL		
+N. V.	οι [(ῳ)]
+G.	ων
+D.      οισι, οις
+A.	ους, [(ως)]
+
+
+Neuter
+SINGULAR.
+
+N. 	ον
+G.      οιο, ου, [οο, ωο	(ω)]
+D.	ῳ
+A.      ov
+V.      ον
+
+N. A. V.	ω
+G. D.		οιιν
+
+
+PLURAL		
+N. V.           ᾰ
+G.		ων
+D.              οισι, οις
+A.		ᾰ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <pb n="230"/>
 
 DUAL
 
-N. A. Y.	ᾱ	ᾱ	ω	ω
-G. D.		[ῃιν]	[ῃιν]	οιιν	οιιν
-		PLURAL		
-N. V.	αι	αι	οι, [(ῳ)]	α
-G.	ᾱων, [έων,1 (ῶν)]	άων, [έων, ῶν]	ων	ων
-D.	ῃσι, ῃς, [αις]	ῃσι, ῃς	οισι, οις	οισι, οις
-A.	ᾱς	ᾱς	ους, [(ως)]	α
+
 
 	Third (Consonant) Declension			
 		SINGULAR,		
@@ -14827,7 +14973,7 @@ V. (ς none)
 
 
 DUAL	
-N. A. Y. ε			ε	
+N. A. V. ε			ε	
 	G. D. οιιν		οιιν	
 
 PLURAL
@@ -14937,7 +15083,7 @@ article, either definite (the) or indefinite (a, an). One decides
 from the context whether or not the English article is to be
 employed in translation.
 
-661.	Meanings of Cases. — The variety of meaning found in tire
+661.	Meanings of Cases. — The variety of meaning found in the
 genitive and dative is due to the fact that each represents the
 fusion of two or more earlier cases (657). An attempt is made
 to represent this above by the use of semicolons to separate
@@ -14949,40 +15095,47 @@ meanings which once belonged to different cases.
 
 SINGULAR
 
-N. καλή βουλή (a, the) good plan (as subject).
+N. κᾱλὴ βουλή (a, the) good plan (as subject).
 
-G. καλής βουλής of; off, from (a, the) good plan.
+G. κᾱλῆς βουλῆς of; off, from (a, the) good plan.
 
-D. καλή βουλή to, for; with, by; in, at, on (a, the) good plan.
+D. κᾱλὴ βουλή to, for; with, by; in, at, on (a, the) good plan.
 
-A. καλήν βουλήν (a, the) good plan (as object.).
+A. κᾱλὴν βουλήν (a, the) good plan (as object.).
 
-Ύ. καλή βουλή O good plan !
+V. κᾱλὴ βουλή O good plan !
 
 DUAL
 
-N. A. V. καλα βουλὰ (the) two good plans (as subject, or object) ; O two
+N. A. V. κᾱλὰ βουλά (the) two good plans (as subject, or object) ; O two
 good plans!
 
-G. D. καλήιν βουλήιν of ; off, from ; to, for; with, by; in, at, on (the)
-two good plans.
+G. D. κᾱλῇιν βουλῇιν of ; off, from ; to, for; with, by; in, at, on (the) two good plans.
 
 PLURAL
 
-N. Υ. καλα! βουλαὶ (the) good plans (as subject) ; O good plans!
+N. κᾱλαὶ βουλαί (the) good plans (as subject) 
 
-G. καλαων βουλαων [ίων, ών] of ; off, from (the) good plans.
+V. κᾱλαὶ βουλαί  O good plans!
 
-D. κάλήσι βουλήο-ι, ής to, for; with, by; in, at, on (the) good plans.
+G. κᾱλάων βουλάων [βουλέων, βουλῶν] of good plans; off or from (the) good plans.
 
-A. καλας βούλας (the) good plans (as object).
+D. κᾱλῇσι βουλῇσι βουλῇς to, for; with, by; in, at, on (the) good plans.
 
-<pb n="288"/>663-665]
+A. κᾱλὰς βουλάς (the) good plans (as object).
 
-HOMERIC GREEK
+<pb n="288"/>
 
-663.	6ta, as, ή	θάλασσα, rjs, ή	■yata, ηβ, ή
-	(6ea-)	(θαλασσα-)	(yai*-)
+663.	θεά, ᾶs, ή  (θεᾱ-)		
+
+θάλασσα, θαλάσσης, ἡ	
+
+γαῖα, γαίης, ἡ
+
+
+(θαλασσᾱ-)	
+
+(γαιᾱ-)
 	goddess	sea	land, country, earth
 		SINGULAR	
 N.	θία	θάλασσα	yata
@@ -15104,27 +15257,27 @@ if. Y. θυμοί	κακοὶ ιτόλίμοι
 G. θυμών	κακῶν ιτολ^μων
 D. θϋμοΐσι, οΐς	κακοΐαι πολέμοιοΊ, οΐς οις
 A. θυμούς	κακούς ιτολίμους
-679. καλόν «ργον, οὐ, τό noble deed.	κακή νοΰσος, οὐ, ἡ destructive
-(καλό- ρ€ργο-)	(κακα- νουσο-) plague.
+679. κᾱλόν «ργον, οὐ, τό noble deed.	κακή νοΰσος, οὐ, ἡ destructive
+(κᾱλό- ρ€ργο-)	(κακα- νουσο-) plague.
 SINGULAR	
-if. καλόν «ργον	κακή νοΰσος ^
+if. κᾱλόν «ργον	κακή νοΰσος ^
 G. κάλοΰ «ργου, οΐο, οιο [όο, οο]	κακής νουιτου, οιο [οο]
-D. καλώ €ργω	κακή νούσ*ω
-Ἀ. καλόν ίργον	κακήν νοΰο“ον
-Υ. καλόν €ργον	κακή νοΰσ·€
+D. κᾱλώ €ργω	κακή νούσ*ω
+Ἀ. κᾱλόν ίργον	κακήν νοΰο“ον
+Υ. κᾱλόν €ργον	κακή νοΰσ·€
 DUAL	
-if. Ἀ. Υ. καλώ φγω	κακα νούο*ω
+if. Ἀ. Υ. κᾱλώ φγω	κακα νούο*ω
 G. D. κάλοΐιν «ργοιιν	κακήιν vovcrouv
 
 <pb n="236"/>NOUNS, THIRD DECLENSION	[680-685
 
 PLURAL
 
-N. V. καλὰ έργα '
+N. V. κᾱλὰ έργα '
 
-G. καλῶν έργων
-D. καλοίσιεργοισι, ots, ois
-A. καλὰ έργα
+G. κᾱλῶν έργων
+D. κᾱλοίσιεργοισι, ots, ois
+A. κᾱλὰ έργα
 
 κακαὶ νοΰιτοι
 
@@ -15533,76 +15686,74 @@ is the nominative singular of all genders (except in the case
 of a very few of only one gender, in which case the nominative
 and genitive singular are given).
 
-720.	Adjectives of the firs.taiid second, declensions have three
-endings (os, ἡ, ον) in the nominative singular, for the three
+720.	Adjectives of the first and second declensions have three
+endings (ος, η, ον) in the nominative singular, for the three
 genders, masculine, feminine, and neuter, respectively.
 
 Adjectives of the First and Second Declensions
 
-721.	καλός,	ή, όν beautiful, noble
+721.	κᾱλός,	καλή, καλόν beautiful, noble
 
-.(καλό-, καλα-, καλό-)
+(κᾱλό-, κᾱλα-, κᾱλό-)
 
 	SINGULAE	
 Masc.	Fem.	Neut.
-Ιν. καλό;	καλή	καλόν
-G. καλού, οΐο [όο]	καλή;	καλού, οΐο [όο]
-D. καλώ	καλή	καλώ
-Ἀ. καλόν	καλήν	καλόν
-V. καλ4	καλή	καλόν
+Ιν. κᾱλός	κᾱλή	κᾱλόν
+G. κᾱλοῦ, οῖο [όο]	κᾱλῆς	κᾱλοῦ, οῖο [όο]
+D. κᾱλώ	κᾱλή	κᾱλώ
+Ἀ. κᾱλόν	κᾱλήν	κᾱλόν
+V. κᾱλέ	κᾱλή	κᾱλόν
 	DUAL	
-N.A.V. καλώ	καλα	καλώ
-G. D. κάλοΐιν	καλήιν	καλοΐιν
+N.A.V. κᾱλώ	κᾱλά	κᾱλώ
+G. D. κάλοῖιν	κᾱλῇιν	κᾱλοῖιν
 	PLURAL	
-N.V. καλοί	κάλαί	καλά
-G. καλών	καλαων [εων, ών]	καλών
-Γλ καλοισι, οΐ;	καλήσ·»,, ή;	καλοισι, οΐ;
-Ἀ. καλού;	καλα;	καλά
+N.V. κᾱλοί	κάλαί	κᾱλά
+G. κᾱλῶν	κᾱλάων [καλέων, καλῶν]	κᾱλῶν
+Γλ κᾱλοῖσι, καλοῖς	κᾱλῇσι, κᾱλῇς	κᾱλοῖσι, καλοῖς
+Ἀ. κᾱλούς	κᾱλάς	κᾱλά
 
-φίλος, ἡ, ον dear, lovely, beloved
+φίλος, φίλη, φίλον dear, lovely, beloved
 (φίλο-, φίλα-, φίλο-)
 
 SINGULAR
 
 Masc.	Fem.	Neut.
-Ν. φίλο;	φίλη	φίλον
-G. φίλου, οιο [οο]	φίλης	φίλου, οιο [οο]
-D. φίλω	φίλη	φίλω
+Ν. φίλος	φίλη	φίλον
+G. φίλου, φίλοιο [φίλοο]	φίλης	φίλου, φίλοιο [φίλοο]
+D. φίλῳ	φίλῃ	φίλῳ
 Ἀ. φίλον	φίλην	φίλον
-V. φίλί	φίλη	φίλον
-	245	
-<pb/>HOMERIC GREEK
-
-722-727]
+V. φίλε	φίλη	φίλον
+		
+<pb/>
 
 DUAL
 
 N. A. V. φίλω	φίλα	φίλω
-G. I). φίλοιιν	φίληιν	φίλοιιν
+G. D. φίλοιιν	φίλῃιν	φίλοιιν
 	PLURAL	
 N.V, φίλοι	φίλαι	φίλα
-G. φίλων	φιλαων [«ων, ών]	φίλων
-D. φίλοκτι, Ois	φίλησα, η$	φίλοισα, οις
-φίλους	φίλας	φίλα
+G. φίλων	φιλάων [φιλέων, φιλῶν]	φίλων
+D. φίλοισι, φίλοις	φίλῃσι, φίλῃς	φίλοισι, φίλοις
+A. φίλους	φίλας	φίλα
 
-Note. — Superlatives (as ἀριστος, ἡ, ον), participles in os, ἡ, ον and
+Note. — Superlatives (as ἄριστος, ἀρίστη, ἄριστον), participles in ος, η, ον and
 all words that have these three endings in the nominative singular are
 similarly declined.
 
 722.	The feminine of adjectives of the first and second declensions
-regularly ends in -η, and is declined as .above ; a few end in
-the -a, as 8tos, a, ov, and are declined as θάλασσα (663).
+regularly ends in -η, and is declined as above ; a few end in
+the -α, as δῖος, δῖα, δῖον, and are declined as θάλασσα (663).
 
 723.	Adjectives of the second declension have only two endings
-(os, ov), of which the first is both masculine and feminine,
+(ος, ον), of which the first is both masculine and feminine,
 the second neuter. Most of these adjectives are compounds.
 
 724.	The masculine form of many adjectives is often used for
 both masculine and feminine, even in the case of those which
 have separate forms for the feminine.
 
-• 725. Adjectives of the first and third declensions have a separate
-form for the feminine, which is declined like a noun in -a
+725. Adjectives of the first and third declensions have a separate
+form for the feminine, which is declined like a noun in -α
 (θάλασσα, 663) of the first declension.
 
 726. The masculine and neuter of adjectives with stems in
@@ -15753,7 +15904,7 @@ A. iroXfas [ιτολίβ]
 
 734. In addition to the irregular form πολύς, πολλή, πολύ, there
 is another form (u-oXXos, ή, όν) of this adjective which is regular
-and declined like καλός, ή, όν (721).
+and declined like κᾱλός, ή, όν (721).
 
 ιτολία
 
@@ -15766,7 +15917,7 @@ and declined like καλός, ή, όν (721).
 Declension of Participles
 
 735.	All middle and. passive participles, except those of the
-first and second aorist passive, are declined like καλός, ή, όν (721).
+first and second aorist passive, are declined like κᾱλός, ή, όν (721).
 
 736.	All active participles (except the perfect, 744) and both
 first and second aorist passive participles have stems in -vt.
@@ -15995,7 +16146,7 @@ Positive	Comparative	Superlative
 μαλακοὶ (μαλακό-) soft, gentle	μαλακώτίροί	μαλακώτατοϊ
 
 750.	The declension of comparatives and superlatives is usually
-the regular vowel declension of adjectives, as καλός, ή, όν (721).
+the regular vowel declension of adjectives, as κᾱλός, ή, όν (721).
 
 <pb n="255"/>751^55]
 
@@ -16016,7 +16167,7 @@ Positive	Comparative	Superlative
 shameful
 
 753.	The comparative of these adjectives is.declined like ἀμ,ΰ-
-νων, ον (731), and the superlative like καλός, ή, όν (721).
+νων, ον (731), and the superlative like κᾱλός, ή, όν (721).
 
 754.	The most important cases of irregular comparison are :
 
@@ -16034,7 +16185,7 @@ rcpos) powerful
 
 cowardly
 
-4)	καλός, ή, όν beauti-
+4)	κᾱλός, ή, όν beauti-
 
 ful, noble
 
@@ -16539,10 +16690,9 @@ of adverbs (780, 2) are:
 
 2)	-θα, -θε(ν), denoting place where.
 
-3)	-θίν, denoting place whence.
+3)	-θεν, denoting place whence.
 
-4)	-δε (originally an enclitic preposition = English to), denoting
-whither.
+4)	-δε (originally an enclitic preposition = English to), denoting whither.
 
 5)	-σε, denoting whither.
 
@@ -16550,12 +16700,11 @@ whither.
 
 7)	-τος, denoting where.
 
-8)	-κα (origin unknown), as in αντί-κα.
+8)	-κα (origin unknown), as in αὐτί-κα.
 
-9)	-κας (origin unknown), as in έ-κά?.
+9)	-κας (origin unknown), as in ἑ-κάς.
 
-10)	-κις (with generalizing, indefinite meaning; akin to τὶς, τὶ),
-as πολλά-κις many a time, often.
+10)	-κις (with generalizing, indefinite meaning; akin to τὶς, τὶ), as πολλά-κις many a time, often.
 
 11)	Some other endings are -α, -δην, -δον, -τι, -στι.
 
@@ -17077,7 +17226,7 @@ euphonic changes take place:
 forms ψ, as πέμπω, πέμψω (πέμπσω), ἔπεμψα (ἔπεμπσα) send, escort:
 ἀμείβω, ἀμείψω, ἤμειψα (ἀμείβσω, ἤμειβσα) (exchange ;
 
-2)	a palatal mute (κ, y, χ) unites with the sigma following and
+2)	a palatal mute (κ, γ, χ) unites with the sigma following and
 forms ξ, as ἀρή-γω, ἀρήξω (ἀρήγσω), ἤρηξα (ἤρηγσα) help, assist;
 τεύχω, τεύξω (τεύχσω), ἔτευξα (ἔτευχσα) make, fashion, cause.
 
@@ -18502,18 +18651,56 @@ Second Aorist System of Χίίπω leave
 933.	Second	Aorist Active
 
 INDICATIVE	SUBJUNCTIVE	OPTATIVE	IMPERATIVE INFINITIVE	
-S. 1 ελιπον	λί-πω	λίποιμι		λιπεΐν (λι-πεεν),
-S. 2 ελιπεδ	λίπτ]5(θα)	Χΐ7Γθΐ5(θα)	λίπε	ΧιΐΓε'μεν(αι)
-S. 3 ελιπε	λ1πτ|(<π)	λίποι	λιπε'τω	
-Du. 2 έλίπετον	λίπητον	XClTOlTOV	λίπετον	PARTICIPLE
-Du. 3 ελιπετην	λίπητον	λιιτοίτην	λιπ^των	λιιτών, οΰσα, όν
-Pl. 1 ελίπομεν	λίπωμεν	λίτ-οιμεν		
-Pl. 2 ίλί'ϊτετε	λίπητε	λίποιτε	λίπετε	
-Pl. 3 ελιπον	λίπωσι	λίποιεν	λιιτόντων	
-		296		
-<pb/>AORISTS AND CONTRACT VERBS
+S. 1 ἔλιπον	λί-πω	λίποιμι		λιπεΐν (λι-πεεν),
+S. 2 ἔλιπεw	λίπτ]5(θα)	Χΐ7Γθΐ5(θα)	λίπε	ΧιΐΓε'μεν(αι)
+S. 3 ἔλιπε	λ1πτ|(<π)	λίποι	λιπε'τω	
+Du. 2 ἐλίπετον	λίπητον	XClTOlTOV	λίπετον	PARTICIPLE
+Du. 3 ἐλιπετην	λίπητον	λιιτοίτην	λιπ^των	λιιτών, οΰσα, όν
+Pl. 1 ἐλίπομεν	λίπωμεν	λίτ-οιμεν		
+Pl. 2 ἐλίπετε	λίπητε	λίποιτε	λίπετε	
+Pl. 3 ἔλιπον	λίπωσι	λίποιεν	λιιτόντων	
 
-[934-938
+SUBJUNCTIVE
+S. 1 	λίπω
+S. 2 	λίπη(θα)
+S. 3 	λίπῃ(σι)
+Du. 2 	λίπητον	
+Du. 3 	λίπητον
+Pl. 1 	λίπωμεν
+Pl. 2 	λίπητε
+Pl. 3 	λίπωσι
+
+OPTATIVE
+S. 1	λίποιμι
+S. 2 	λιποις/λίποισθα
+S. 3 	λίποι
+Du. 2 	λίποιτον
+Du. 3 λιποίτην	
+Pl. 1 	λίποιμεν		
+Pl. 2 	λίποιτε	
+Pl. 3 	λίποιεν	
+
+
+IMPERATIVE 	
+
+S. 2 λίπε
+S. 3 λιπέτω	
+Du. 2 λίπετον	
+Du. 3 	λιπέτων	
+
+Pl. 2 	λίπετε	
+Pl. 3 	λιπόντων
+
+INFINITIVE
+λιπεῖν (λιπέεν)
+λιπέμεναι
+λιπέμεν
+
+PARTICIPLE
+λιπών, λιποῦσα, λιπόν
+
+		296		
+<pb/>
 
 934.	Second Aobist Middle		
 INDICATIVE	SUBJUNCTIVE OPTATIVE IMPERATIVE		INFINITIVE
