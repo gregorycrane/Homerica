@@ -49,6 +49,8 @@ such as the following.
 :end eon         imperf ind act 1st sg  epic doric ionic aeolic         ew_pr
 ~~~~
 
+The output the Iliad and the Odyssey is in the file `homer-lmorph.txt`.
+
 The Beta Code transliteration is not as attractive for most readers as modern unicode
 and creating a unicode version of this data is an important task. Still
 Beta Code offers at least two advantages.
@@ -66,6 +68,8 @@ a CSV file.
 ~~~~
 προσεφώνεον     προσεφώνεον     προσφωνέω       πρόσ-ἐ-φων-εον  prvb-aug1-stem-end      ew_pr,ew_denom  imperf ind act 3rd pl
 ~~~~
+
+The full output is in the file `homer-morphu.txt`.
 
 The line above includes the following fields:
 
