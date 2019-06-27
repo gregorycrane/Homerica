@@ -1,0 +1,101 @@
+#Integrating Treebank data  with rich Morpheus output
+
+
+Support for those learning ancient Greek provided the impulse for this work. The Treebanks
+provide information about the part of speech and morphological analysis for individual forms,
+but the Treebank does not record the paradigm that particular forms follow. Thus the forms μῆνιν ("wrath")
+and νοῦσον ("disease") are
+both the same part of speech tag in the treebank (postag="n-s---fa-") because each is a feminine singular
+accusative noun, listed under the dictionary headwords μῆνις and νοῦσος (the nominative singular
+forms).
+
+From the standpoint of someone learning Greek, however, the two words are very different. The word
+μῆνις uses different endings than does νοῦσος (they are, respectively,
+ so-called third and first declension nouns). Greek morphology is much more complex than
+ English, French, German or Italian. Developing an ability to recognize the
+ different morphological patterns is a major task for the learning.
+
+When students learn a paradigm, we want them to be able to do the following:
+
+* Learn the precise frequency with which that paradigm will appear in the corpus that they wish to master.
+(For the purposes of this document, we will assume that the corpus consists of the Iliad and
+Odyssey, but that is an opportunistic starting point that leverages the many resources --
+such as the Treebanks for the Iliad and Odyssey -- that already exist.)
+
+* See visualizations that allow them to see where that paradigm appears in the corpus of interest.
+
+* Examine passages where those paradigms appear, both the treebank and translations aligned at the
+word and phrase level allowing them to look at the Greek from the first class.
+
+* Understand how often particular endings reappear in other paradigms -- the endings of them
+three declensions are reused over and over again. Learners should recognize the
+multiplier effect of mastering the core elements of the language.
+
+* Be able to practice what they have learned both with vocabulary that they have
+encountered in their formal classes and with unseen vocabulary from the corpus of
+interest.
+
+
+In its verbose mode (`cruncher -d`), Morpheus outputs information
+such as the following.
+
+~~~~
+:workw prosefw/neon
+:lem prosfwne/w
+:prvb pro/s
+:aug1 e)
+:stem fwn        ind                    ew_pr,ew_denom
+:suff
+:end eon         imperf ind act 1st sg  epic doric ionic aeolic         ew_pr
+~~~~
+
+The Beta Code transliteration is not as attractive for most readers as modern unicode
+and creating a unicode version of this data is an important task. Still
+Beta Code offers at least two advantages.
+
+* It is transparent. There are different ways of representing Greek accents
+in the file that look the same to the user. This can cause great confusion (e.g., failed
+searches because the query and the file to be searched use different encodings.)
+
+* It is expressive. There are some combinations of accents and long/short markers
+that cannot be easily entered on a keyboard in unicode.
+
+We are developing a simplified version of the above, one suited for exchange as
+a CSV file.
+
+~~~~
+προσεφώνεον     προσεφώνεον     προσφωνέω       πρόσ-ἐ-φων-εον  prvb-aug1-stem-end      ew_pr,ew_denom  imperf ind act 3rd pl
+~~~~
+
+The line above includes the following fields:
+
+1. The raw word as it appears in the text. This is particularly important when we have ellipsis,
+e.g., the text has a form such as ἐπέμπετ᾽, which could stand for ἐπέμπετε ("you [pl] were sending") or ἐπέμπετο ("s/he was being sent").
+
+2. The working model of the word. In most cases, the raw and work word are identical. In the case above, we
+would test both ἐπέμπετε and ἐπέμπετο.
+
+3. The dictionary word (lemma) associated with this analysis.
+
+4. The word segmented into various components.
+
+5. The stem type defining the paradigm from which this analysis was derived.
+The key `ew_pr` indicates that this form belongs to the epsilon contract variation
+on the present stem.
+
+* In addition, the example above includes information about derivational
+morphology. The present stem was derived from the fact that this verb is an
+epsilon-contract verb from which all six principal parts can be automatically
+generated.
+
+6. The morphological analysis.
+
+7. [not featured in the above example] Additional keys derived From
+analysis of the form.
+
+8. [not yet implemented] Information about the dialect(s) to which the form
+might belong. This is problematic. We can use dialectical information to
+filter out analyses (e.g., strictly Doric forms would not appear in
+Attic prose) but the dialects reflect comments in print lexica and grammars
+that have been incorporated in Morpheus. We should we rederive our models
+of dialectical features by developing curated corpora.
