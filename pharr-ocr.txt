@@ -1797,34 +1797,34 @@ practice,3 covering with a card the English transliteration
 
 Spell and pronounce: <note>In spelling these words it is not necessary to have memorized the namesof the Greek letters, but the sounds should be familiar. Thus, for the present, α may be called a, β may be called 6, γ may be called g, etc.</note>
 
-μῆνις wrath, fury, madness, rage,
-ἀείδω 	     sing (of), hymn.
+<item n="menis-cunliffe-lex">μῆνις wrath, fury, madness, rage,</item>
+<item n="aeido-cunliffe-lex">ἀείδω 	     sing (of), hymn.</item>
 
-θεά goddess.
+<item n="thea-cunliffe-lex">θεά goddess.</item>
 
-Πηληιάδης son of Peleus, Achilles.
-Ἀχιλλεύς Achilles.
-οὐλόμενος accursed, destructive,
-ὅς who, which, what,
-μυρίοι countless, innumerable.
-Ἀχαιός Achaean, Greek.
-ἄλγος grief, pain, woe, trouble,
-τίθημι put, place, cause.
+<item n="peleides-cunliffe-name">Πηληιάδης son of Peleus, Achilles.</item>
+<item n="achilleus-cunliffe-name">Ἀχιλλεύς Achilles.</Item>
+<item n="apollymi-cunliffe-lex ollymi-cunliffe-lex KEYS FOR PART">οὐλόμενος accursed, destructive,</item>
+<item n="hos-cunliffe-lex:II">ὅς who, which, what,</item>
+<item n="myrios-cunliffe-lex">μυρίοι countless, innumerable.</item>
+<item n="achaius-cunliffe-name">Ἀχαιός Achaean, Greek.</item>
+ <item n="algos-cunliffe-lex">ἄλγος grief, pain, woe, trouble,</item>
+<item n="tithemi-cunliffe-lex">τίθημι put, place, cause.</item>
 
-πολλός much, many, numerous.
+<item n="pollos-cunliffe-lex">πολλός much, many, numerous.</item>
 
-δέ but, and, for, so.
+<item n="de-cunliffe-lex">δέ but, and, for, so.</item>
 
-ἴφθιμος valiant, mighty,
-ψυχή soul, spirit, breath, life.
+<item n="iphthimos-cunliffe-lex">ἴφθιμος valiant, mighty,</item>
+<item n="psyche-cunliffe-lex">ψυχή soul, spirit, breath, life.</item>
 
-Ἄις (nominative not used), Hades, god of the lower world.
-προϊάπτω hurl forward, send forth,
-ἥρως hero, mighty warrior, protector, savior,
-αὐτός self, same.
-ἑλώριov booty, prey, spoils,
-τεύχω make, fashion, cause,
-κύων dog.
+<item n="aides-cunliffe-name">Ἄις (nominative not used), Hades, god of the lower world.</item>
+<item n="proiapto-cunliffe-lex">προϊάπτω hurl forward, send forth,</item>
+<item n="heros-cunliffe-lex">ἥρως hero, mighty warrior, protector, savior,</item>
+<item n="autos-cunliffe-lex">αὐτός self, same.</item>
+<item n="heloria-cunliffe-lex">ἑλώριov booty, prey, spoils,</item>
+<item n="teuxo-cunliffe-lex">τεύχω make, fashion, cause,</item>
+<item n="cyon-cunliffe-lex">κύων dog.</item>
 
 1	The figures refer to sections in this book.
 
@@ -1834,14 +1834,14 @@ Spell and pronounce: <note>In spelling these words it is not necessary to have m
 
 <pb n="1"/>4]	HOMERIC	GREEK
 
-οἰωνός bird (of prey), vulture, omen.
-τέ and, also.
+<item n="">οἰωνός bird (of prey), vulture, omen.</item>
+<item n="">τέ and, also.</item>
 
-δαίς portion, feast, banquet.
+<item n="">δαίς portion, feast, banquet.</item>
 
-Ζεύς Zeus, father and king of gods and men.
-τελείω accomplish, fulfill,
-βουλή will, wish, plan, purpose, counsel, council.
+<item n="">Ζεύς Zeus, father and king of gods and men.</item>
+<item n="">τελείω accomplish, fulfill,</item>
+<item n="">βουλή will, wish, plan, purpose, counsel, council.</item>
 
 
 Derivatives: <note><Derivatives are to be connected with the Greek words by the students. When in doubt consult a good English dictionary,/note> mania(c-al) 621; ode(um), melody,
@@ -1886,24 +1886,24 @@ LESSON III: NOUNS OF THE FIRST DECLENSION
 
 10.	VOCABULARY
 
-βουλή, βουλῆs, ἡ <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, ὁ, ἡ, τό, to indicate the gender, 637-638.</note> plan, will, wish, purpose, counsel, council,
-δεινή fearful, terrible, awful, dread(ful).
+<item n="boule-cunliffe-lex">βουλή, βουλῆs, ἡ <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, ὁ, ἡ, τό, to indicate the gender, 637-638.</note> plan, will, wish, purpose, counsel, council,</item>
+<item n="deinos-cunliffe-lex">δεινή fearful, terrible, awful, dread(ful).</item>
 
-ἐν, ἐνί, εἰν, tlv adv., and prep, with dat., in, among, there (in, -on),
-ἔχει (he, she, it) has, holds.
-ἔχουσιν, ἔχουσιν<note>nu-movable, 661.</note> (they) have, hold,
-ἦν (he, she, it) was, there was.
-ἦσαν (they) were, there were,
-καί and, also, even.
+<item n="en-cunliffe-lex">ἐν, ἐνί, εἰν, adv., and prep, with dat., in, among, there (in, -on),</item>
+<item n="exo-cunliffe-lex pres-ind-act-3rd-sg">ἔχει (he, she, it) has, holds.</item>
+<item n="exo-cunliffe-lex pres-ind-act-3rd-pl">ἔχουσι, ἔχουσιν<note>nu-movable, 661.</note> (they) have, hold,</item>
+<item n="eimi-cunliffe-lex imperf-ind-act-3rd-sg">ἦν (he, she, it) was, there was.</item>
+<item n="eimi-cunliffe-lex imperf-ind-act-3rd-pl">ἦσαν (they) were, there were.</item>
+<item n="cai-cunliffe-lex">καί and, also, even.</item>
 
-κακή bad, poor, ugly, mean, cowardly, evil, wicked,
-καλή good(ly), noble, handsome, brave, fair, beautiful,
-κλαγγή, κλαγγῆς, ἡ CLANG, (up)roar, roar, noise,
-τίς (m., f.), who? which? what?
-τί (neut.), which? what? why?
-Χρύση, Χρύσης, ἡ Chrysa, a town in the Troad.
+<item n="cacos-cunliffe-lex fem">κακή bad, poor, ugly, mean, cowardly, evil, wicked,</item>
+<item n="calos-cunliffe-lex Fem">κᾱλή good(ly), noble, handsome, brave, fair, beautiful,</item>
+<item n="clagge-cunliffe-lex">κλαγγή, κλαγγῆς, ἡ CLANG, (up)roar, roar, noise,</item>
+<item n="tis-cunliffe-lex masc/fem nom sg">τίς (m., f.), who? which? what?</item>
+<item n="tis-cunliffe-lex neut nom sg">τί (neut.), which? what? why?</item>
+<item n="philos-cunliffe-lex">Χρύση, Χρύσης, ἡ Chrysa, a town in the Troad.</item>
 
-φίλη dear, darling, lovely, beloved.
+<item n="philos-cunliffe-lex fem">φίλη dear, darling, lovely, beloved.</item>
 
 
 
@@ -1916,7 +1916,7 @@ Gravestone of Aristion
 
 National Museum,
 Athens
-Found near Marathon in 1838. Belongs to the late sixnth century B.C. Incorrectiy called the “ Warrior of Marathon.”	 
+Found near Marathon in 1838. Belongs to the late sixth century B.C. Incorrectiy called the “ Warrior of Marathon.”	 
 
 Translate:
 
@@ -1965,11 +1965,11 @@ a bad plan (nom.), for a bad plan, a bad plan (acc. sg.), bad plans (acc. pl.)
 LESSON IV: NOUNS OF THE FIRST DECLENSION (Continued)
 
 
-13. Learn the declension of θεά, goddess,
+13. Learn the declension of θεά [θεᾱ], <gloss>goddess</gloss>,
 
 
 
-and θἀλασσα, sea (663), and review the paradigms of βουλή and καλή βουλή, 659—662.
+and θάλασσα, <gloss>sea</gloss> (663), and review the paradigms of βουλή and καλή βουλή, 659—662.
 
 
 
@@ -1987,7 +1987,7 @@ and θἀλασσα, sea (663), and review the paradigms of βουλή and κα�
 
 <pb n="4"/>
 
-ἐκ ἐξ 1 2 adv., and prep, with gen. from, out of.
+ἐκ before consonants, ἐξ before vowels: adv., and prep, with gen. from, out of.
 
 ἐπί adv., and prep, with gen., dat., and acc. to, at, (up)on, against, over, for; adv., (up)on, thereon; with gen., (up)on, over, during; with dat., (up)on, in, for, about, against, at, beside, by; with acc., to, up to, over, (up) on.
 
@@ -1995,12 +1995,12 @@ and θἀλασσα, sea (663), and review the paradigms of βουλή and κα�
 
 θεά, θεᾶς, ὴ goddess.
 
-Κίλλα, Κίλλης, ἡ Cilia, a town in the Troad.
-οὐ οὐκ, οὐχ 2 not, no.
-πάτρη, πάτρης, η fatherland, native land,
+Κίλλα, Κίλλης, ἡ Cilla, a town in the Troad.
+οὐ, οὐκ, οὐχ not, no: 	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, 527-53
+πάτρη, πάτρης, ἡ fatherland, native land,
 πολλή much, many, numerous,
 πυρή, πυρῆς, ἡ (funeral) pyre.
-ψυχή, ψυχῆς, ἡ soul, breath, life, spirit.
+ψῡχή, ψῡχῆς, ἡ soul, breath, life, spirit.
 
 Derivatives: thalasso-cracy; patriotic; pyro-latry, pyro-technical),
 pyro-graphy; psycho-logy, psycho-therapy, psychic(al).
@@ -2011,42 +2011,77 @@ Translate:
 
 
 
-1. καλὴ θεὰ ἔχει βουλἠν καλήν.
+1. καλὴ θεὰ ἔχει βουλὴν καλήν.
 
-
+A noble goddess has a good plan.
 
 2. καλαὶ θεαί εἰσι φίλαι ψύχῃ θεᾶς θαλάσσης δεινῆς.
 
+Noble goddesses are dear to the soul of the goddess of the fearful sea.
+
+or (less likely?) 
+
+Noble goddesses are dear to the soul of the fearful goddess of the sea.
+
 2. Κίλλα καὶ Χρύση  εἰσι καλαὶ καὶ φίλαι θεῇσι θαλασσάων.
 
+Killa and Chryse are beautiful and dear to the goddesses of the seas.
+
 4. καλὴ θεὰ οὐκ ἔχει ψυχὴν καλήν.  
+
+The beautiful goddess does not have a beautiful heart.
+
 5. καλή 3 ἐστι 3 θεά, ἔχει δὲ ψυχὴν κακήν.
 
+The goddess is beautiful but she has a bad heart.
 
-6. δεινὴ κλαγγή 3 ἐστιν3 ἐκ Θαλλάσσης. 
+6. δεινὴ κλαγγή 3 ἐστιν3 ἐκ Θαλάσσης. 
+
+The fearful sound is from the sea.
 
 7. Κίλλα και Χρύση ἤσαν ἐπὶ θαλάσσῃ. 
 
+Killa and Chryse are next to the sea.
+
 8. θεαὶ Θαλάσσης εἰσὶ4 φίλαι ψυχῇς πολλῇς, φίλαι γάρ3 εἰσιν.3 
+
+The goddesses of the sea are dear to many souls, for they are dear.
 
 9. πάτρη καλή3 ἐστι3 φίλη πολλῇς ψυχῇς καλῇς. 
 
+The fair fatherlan is dear to many noble hearts.
+
 10. ἐκ πάτρης κακῆς ἦν. 
+
+S/he was from a bad fatherland.
 
 11. ἦσαν πυραὶ πολλαὶ ἐν φίλῃ πάτρῃ ἐπὶ δεινῇ θαλάσσῃ. 
 
+There were many pyres in the dear fatherland next to the fearful sea.
+
 12. τίς ούκ ἔχει καλὴν ψυχήν;
+
+Who does not have a noble soul?
 
 17.	
 
-1. Are the good plans dear to the souls of the goddesses?	
-2.	They	have	many	plans, but (they are) cowardly (ones). 
+1. Are the good plans dear to the souls of the goddesses?
 
-3. The plans are dear to the soul of the beautiful goddess, for they are noble. 
-4. The lovely goddess of the sea was not in Cilia. 
+εἰσι βουλαὶ καλαὶ φίλαι ψῡχῃς θεάων;
+	
+2. They	have many plans, but (they are) cowardly (ones). 
+
+ἔχουσι πολλὰς βούλας, εἰσι δὲ κακαί.
+
+3. The plans are dear to the soul of the beautiful goddess, for they are noble.
+
+βουλαί εὶσι φίλαι ψῡχῇ θεᾶς καλῆς, καλαὶ γάρ εἰσι.
+ 
+4. The lovely goddess of the sea was not in Cilla.
+ 
 5. There are many funeral pyres by the sea in (our) beloved fatherland.
 
-6.	Who was in Cilia by the sea ?
+6. Who was in Cilia by the sea ?
 
 Note. — Do not translate words in parentheses.
 
