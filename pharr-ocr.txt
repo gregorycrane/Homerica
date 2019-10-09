@@ -1886,24 +1886,24 @@ LESSON III: NOUNS OF THE FIRST DECLENSION
 
 10.	VOCABULARY
 
-<item n="boule-cunliffe-lex">βουλή, βουλῆs, ἡ <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, ὁ, ἡ, τό, to indicate the gender, 637-638.</note> plan, will, wish, purpose, counsel, council,</item>
-<item n="deinos-cunliffe-lex">δεινή fearful, terrible, awful, dread(ful).</item>
+<item xml:id="boule-cunliffe-lex">βουλή, βουλῆs, ἡ <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, ὁ, ἡ, τό, to indicate the gender, 637-638.</note> plan, will, wish, purpose, counsel, council,</item>
+<item xml:id="deinos-cunliffe-lex">δεινή fearful, terrible, awful, dread(ful).</item>
 
-<item n="en-cunliffe-lex">ἐν, ἐνί, εἰν, adv., and prep, with dat., in, among, there (in, -on),</item>
-<item n="exo-cunliffe-lex pres-ind-act-3rd-sg">ἔχει (he, she, it) has, holds.</item>
-<item n="exo-cunliffe-lex pres-ind-act-3rd-pl">ἔχουσι, ἔχουσιν<note>nu-movable, 661.</note> (they) have, hold,</item>
-<item n="eimi-cunliffe-lex imperf-ind-act-3rd-sg">ἦν (he, she, it) was, there was.</item>
-<item n="eimi-cunliffe-lex imperf-ind-act-3rd-pl">ἦσαν (they) were, there were.</item>
-<item n="cai-cunliffe-lex">καί and, also, even.</item>
+<item xml:id="en-cunliffe-lex">ἐν, ἐνί, εἰν, adv., and prep, with dat., in, among, there (in, -on),</item>
+<item xml:id="exo-cunliffe-lex">ἔχει (he, she, it) has, holds.</item>
+<item xml:id="exo-cunliffe-lex">ἔχουσι, ἔχουσιν<note>nu-movable, 661.</note> (they) have, hold,</item>
+<item xml:id="eimi-cunliffe">ἦν (he, she, it) was, there was.</item>
+<item xml:id="eimi-cunliffe-lex">ἦσαν (they) were, there were.</item>
+<item xml:id="cai-cunliffe-lex">καί and, also, even.</item>
 
-<item n="cacos-cunliffe-lex fem">κακή bad, poor, ugly, mean, cowardly, evil, wicked,</item>
-<item n="calos-cunliffe-lex Fem">κᾱλή good(ly), noble, handsome, brave, fair, beautiful,</item>
-<item n="clagge-cunliffe-lex">κλαγγή, κλαγγῆς, ἡ CLANG, (up)roar, roar, noise,</item>
-<item n="tis-cunliffe-lex masc/fem nom sg">τίς (m., f.), who? which? what?</item>
-<item n="tis-cunliffe-lex neut nom sg">τί (neut.), which? what? why?</item>
-<item n="philos-cunliffe-lex">Χρύση, Χρύσης, ἡ Chrysa, a town in the Troad.</item>
+<item xml:id="cacos-cunliffe-lex">κακή bad, poor, ugly, mean, cowardly, evil, wicked,</item>
+<item xml:id="calos-cunliffe-lex">κᾱλή good(ly), noble, handsome, brave, fair, beautiful,</item>
+<item xml:id="clagge-cunliffe-lex">κλαγγή, κλαγγῆς, ἡ CLANG, (up)roar, roar, noise,</item>
+<item xml:id="tis-cunliffe-lex">τίς (m., f.), who? which? what?</item>
+<item xml:id="tis-cunliffe-lex">τί (neut.), which? what? why?</item>
+<item xml:id="philos-cunliffe-lex">Χρύση, Χρύσης, ἡ Chrysa, a town in the Troad.</item>
 
-<item n="philos-cunliffe-lex fem">φίλη dear, darling, lovely, beloved.</item>
+<item xml:id="philos-cunliffe-lex fem">φίλη dear, darling, lovely, beloved.</item>
 
 
 
@@ -1977,30 +1977,30 @@ and θάλασσα, <gloss>sea</gloss> (663), and review the paradigms of βου
 
 15.	VOCABULARY
 
-γάρ post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj., for, in fact.	
+<item n="γάρ">γάρ post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj., for, in fact.	</item>
 
-εἰσί/εἰσίν <note>These words are enclitics, 553-554.</note> (they) are, there are.
+<item n="">εἰσί/εἰσίν <note>These words are enclitics, 553-554.</note> (they) are, there are.</item>
 
-δέ, post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj. but, and, so, for.	
-ἐστί/ἐστίν <note>These words are enclitics, 553-554.</note> (he, she, it) is, there is.
+<item n="γάρ">δέ, post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj. but, and, so, for.	</item>
+<item n="">ἐστί/ἐστίν <note>These words are enclitics, 553-554.</note> (he, she, it) is, there is.</item>
 
 
 <pb n="4"/>
 
-ἐκ before consonants, ἐξ before vowels: adv., and prep, with gen. from, out of.
+<item n="ἐκ">ἐκ before consonants, ἐξ before vowels: adv., and prep, with gen. from, out of.</item>
 
-ἐπί adv., and prep, with gen., dat., and acc. to, at, (up)on, against, over, for; adv., (up)on, thereon; with gen., (up)on, over, during; with dat., (up)on, in, for, about, against, at, beside, by; with acc., to, up to, over, (up) on.
+<item n="ἐπί">ἐπί adv., and prep, with gen., dat., and acc. to, at, (up)on, against, over, for; adv., (up)on, thereon; with gen., (up)on, over, during; with dat., (up)on, in, for, about, against, at, beside, by; with acc., to, up to, over, (up) on.</item>
 
-θάλασσα, θαλάσσης, ἡ sea.
+<item n="θάλασσα">θάλασσα, θαλάσσης, ἡ sea.</item>
 
-θεά, θεᾶς, ὴ goddess.
+<item n="θεά">θεά, θεᾶς, ὴ goddess.</item>
 
-Κίλλα, Κίλλης, ἡ Cilla, a town in the Troad.
-οὐ, οὐκ, οὐχ not, no: 	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, 527-53
-πάτρη, πάτρης, ἡ fatherland, native land,
-πολλή much, many, numerous,
-πυρή, πυρῆς, ἡ (funeral) pyre.
-ψῡχή, ψῡχῆς, ἡ soul, breath, life, spirit.
+<item n="Κίλλα">Κίλλα, Κίλλης, ἡ Cilla, a town in the Troad.</item>
+<item n="οὐ">οὐ, οὐκ, οὐχ not, no: 	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, 527-53</item>
+<item n="πάτρη">πάτρη, πάτρης, ἡ fatherland, native land,</item>
+<item n="">πολλή much, many, numerous,</item>
+<item n="πυρή">πυρή, πυρῆς, ἡ (funeral) pyre.</item>
+<item n="ψυχή">ψῡχή, ψῡχῆς, ἡ soul, breath, life, spirit.</item>
 
 Derivatives: thalasso-cracy; patriotic; pyro-latry, pyro-technical),
 pyro-graphy; psycho-logy, psycho-therapy, psychic(al).
@@ -2078,10 +2078,16 @@ Who does not have a noble soul?
 βουλαί εὶσι φίλαι ψῡχῇ θεᾶς καλῆς, καλαὶ γάρ εἰσι.
  
 4. The lovely goddess of the sea was not in Cilla.
+
+καλὴ θεἀ θαλάσσης οὐκ ἦν ἐν Κίλλῃ.
  
 5. There are many funeral pyres by the sea in (our) beloved fatherland.
 
-6. Who was in Cilia by the sea ?
+ἦσαν πολλαὶ πυραὶ ἐπὶ θαλάσσῃ ἐν φίλῃ πάτρῇ.
+
+6. Who was in Cilla by the sea ?
+
+τίς ἦν ἐν Κίλλῃ ἐπὶ θαλάσσῃ;
 
 Note. — Do not translate words in parentheses.
 
@@ -2104,24 +2110,24 @@ LESSON V: THE PRESENT ACTIVE INDICATIVE OF VERBS IN -ω
 
 20.	VOCABULARY
 
-ἀείδω<note>The form of the verb (if not defective) appearing in the vocabulary is the first person singular of the present active indicative.</note> sing (of), hymn, chant.
-άν-<note>Sometimes called “ alpha privative.”</note> (ά- before consonants), an inseparable prefix, not, un-, dis-, -less, without,
-ἁνδάνω please (with dat, 996).
-ἀ-τιμάζω dishonor, slight, insult,
-βαίνω come, go, walk.
+<item n="ἀείδω">ἀείδω<note>The form of the verb (if not defective) appearing in the vocabulary is the first person singular of the present active indicative.</note> sing (of), hymn, chant.</item>
+<item n="">άν-<note>Sometimes called “ alpha privative.”</note> (ά- before consonants), an inseparable prefix, not, un-, dis-, -less, without,</item>
+<item n="ἁνδάνω">ἁνδάνω please (with dat, 996).</item>
+<item n="ἀτιμάζω">ἀ-τιμάζω dishonor, slight, insult,</item>
+<item n="βαίνω">βαίνω come, go, walk.</item>
 
-εἰs (ἐς) adv., and prep, with acc., to, into, until, therein.
+<item n="εἰς">εἰς (ἐς) adv., and prep, with acc., to, into, until, therein.</item>
 
-ἔχω have, hold, keep,
-καίω burn, consume.
+<item n="ἔχω">ἔχω have, hold, keep,</item>
+<item n="καίω">καίω burn, consume.</item>
 
-λύω loose, free, break up, destroy,
-ὀλέκω kill, destroy, ruin.
+<item n="λύω">λύω Loose, free, break up, destroy,</item>
+<item n="ὀλέκω">ὀλέκω kill, destroy, ruin.</item>
 
-πέμπω send, escort, conduct,
-τελείω accomplish, fulfill, complete,
-τεύχω make, do, fashion, perform, cause, prepare,
-φέρω bear, carry, bring.
+<item n="πέμπω">πέμπω send, escort, conduct,</item>
+<item n="τελείω">τελείω accomplish, fulfill, complete,</item>
+<item n="τεύχω">τεύχω make, do, fashion, perform, cause, prepare,</item>
+<item n="φέρω">φέρω bear, carry, bring.</item>
 
 Derivatives: ode(-um), mel-ody, palin-ode; a-theist, an-archy; caustic, cauterize, holo-caust; ana-lysis; pomp (593) ;
 teleo-logy ; peri-phery, phos-phor-us (593).
@@ -2129,21 +2135,63 @@ teleo-logy ; peri-phery, phos-phor-us (593).
 Translate :
 
 21. 1. ἀείδομεν βουλὰς θεάων πολλάων. 
-2. κλαγγὴ δεινὴ κακῆς θαλάσσης οὐχ ἁνδάνει ψύχῇ θεᾶς.	
-3.	τίς	ἀτιμάζει καλὰς θεάς;	
-4.	οὐκ	ἀτιμάζομεν πάτρην, φίλη γάρ ἐστιν. 
+
+We sing the plans of many goddesses.
+
+2. κλαγγὴ δεινὴ κακῆς θαλάσσης οὐχ ἁνδάνει ψύχῇ θεᾶς.
+
+The terrible sound of the bad sea does not please the soul of the goddess.
+	
+3. τίς ἀτιμάζει καλὰς θεάς;	
+
+Who dishonors to the noble goddesses.
+
+4. οὐκ ἀτιμάζομεν πάτρην, φίλη γάρ ἐστιν. 
+
+We do not dishonor the homeland, because it is dear.
+
 5. βαίνουσιν ἐκ Κίλλης εἰς Χρυσήν. 
+
+They are moving from Cilla to Chryse.
+
 6. καίουσι πυρὰς πολλὰς ἐν Χρύσῃ ἐπὶ θαλάσση; 
+
+Are they burning many pyres in Chryse next to the sea.
+
 7. ἔχομεν πολλὰς καὶ καλὰς βουλὰς.
 
-8.	καίετε πυράς έν πάτρῃ;	
-9.	λύετον,	λύεις,	λύομεν,	λύουσιν, λὐετε. 
+We have many, fine plans.
+
+8. καίετε πυράς έν πάτρῃ;
+
+Are you burning the pyres in your homeland?
+	
+9. λύετον,	λύεις,	λύομεν,	λύουσιν, λὐετε. 
+
+You (two) are freeing or the two of them are freeing; you (sg) are freeing; we are freeing; they are freeing; you (pl) are freeing.
 10. ὀλέκομεν ψυχὰς πολλὰς και κακάς ἐν πάτρῃ φίλῃ.
-11. τις πέμπει θεάς ές Χρυσήν; 
+
+We are killing many bad souls in our dear homeland.
+
+11. τις πέμπει θεὰς ἐς Χρυσήν; 
+
+Who sends goddesses to Chryse?
+
 12. τελείετε βουλὰς καλὰς πάτρῃ φίλῃ. 
+
+You are completing fine plans for the dear homeland.
+
 13. τελείομεν βουλὴν φίλης θεᾶς. 
+
+We are completing the plan of the dear goddess.
+
 14. τεύχομεν πυρήν. 
+
+We are fashioning a pyre.
+
 15. τί φέρετε; τί φέρουσιν;
+
+What are you brining? What are they bringing?
 
 
 
@@ -2155,26 +2203,64 @@ Translate :
 number, that the teacher may have a wider range of choice. Most will find three or four of the more representative of these quite sufficient for their purposes; some may give less, others may wish to use all of them.</note>
 1. Who is singing the evil plans of the fair goddesses ?
 
-2. The roar of the sea is pleasing to the soul of the goddess in Cilia. 
+τίς ἀείδει βουλὰς κακὰς θεᾶς καλῆς;
+
+2. The roar of the sea is pleasing to the soul of the goddess in Cilla. 
+
+κλαγγὴ θαλάσσης οὐχ ἁνδάνει ψυχῇ θεᾶς ἐν Κίλλῃ.
+
 3. We do not dishonor the goddesses of (our) dear fatherland. 
 
-4. Are you going from Chrysa to Cilia by the sea ?	
+οὐκ ἀτιμάζομεν θεἀς έν φίλῃ πάτρῃ.
+
+4. Are you going from Chrysa to Cilla by the sea ?
+
+βαίνεις έκ Χρύσῃ εἰς Κίλλαν ἐπὶ θαλάσσῃ;
+	
 5. The two goddesses come from the sea into Cilla. 
+
+θεὰ βαίνετον ἐκ θαλάσσης εἰς Κίλλαν.
+
 6. They are burning two funeral pyres in (their) fatherland. 
+
+καίουσι πυρῇιν ἐν πάτρῃ.
+
 7. They have many fair plans. 
+
+ἔχουσι πολλὰς καὶ καλὰς βουλάς.
+
 8. We loose, you loose, they (two) loose, he is loosing. 
+
+λύομεν, λύεις, λύετε, λύετον, λύει.
+
 9. The goddess destroys many wicked souls. 
+
+θεὰ ὀλέκει ψυχὰς πολλὰς καὶ κακὰς.
+
 10. We escort the goddesses into (our) dear fatherland. 
+
+πέμπομεν θεὰς εἰς πάτρην φίλην.
+
 11. They accomplish the will of (their) fatherland. 
+
+τελείουσι βουλὴν πάτρης.
+
 12. He is making a funeral pyre.
+
+τεύχει πυρήν.
+
 13. What does he bring ?
+
+τί φέρει;
 
 LESSON VI: THE SECOND DECLENSION
 
 23. 1) Learn the declension of 
 θῡμός heart, spirit, 
 ἔργον deed, work, 678-679,
- and the adjectives 
+
+
+and the adjectives 
 κᾱλός, κᾱλή, κᾱλόν, good,
 and φίλος, φίλη, φίλον dear, darling, lovely, beloved, 717-721.
 
@@ -2190,35 +2276,35 @@ for example).
 
 25.	VOCABULARY
 
-ἀγλαός, ἀγλαή, ἀγλαόν bright, shining, splendid, glorious.	
+<item n="">ἀγλαός, ἀγλαή, ἀγλαόν bright, shining, splendid, glorious.	</item>
 
 
 
-ἀνά, ἄν adv., and prep, with gen., dat., and acc., up(on), along, up through; adv., (up)on, thereon; with dat, (up)on, along; with acc., through(out), up through.
-ἀ-περείσιος, ἀ-πειρεσίη, ἀ-πειρείσιον boundless, countless, immeasureable.
-ἄποινα, ἀποίνων, τά ransom(s).
+<item n="ἀνά">ἀνά, ἄν adv., and prep, with gen., dat., and acc., up(on), along, up through; adv., (up)on, thereon; with dat, (up)on, along; with acc., through(out), up through.</item>
+<item n="ἀπερείσιος">ἀ-περείσιος, ἀ-πειρεσίη, ἀ-πειρείσιον boundless, countless, immeasureable.</item>
+<item n="ἄποινα">ἄποινα, ἀποίνων, τά ransom(s).</item>
 
 
 
 <pb n="7"/>
 
-Ἀχαιοί, Ἀχαιοῦ, ὁ Achaean, Greek.
-δεινός, δεινή, δεινόν terrible, awful, dread(ful), fearfuL
-ἑλώριον, ἑλωρίου, τό booty, spoils, prey.
-θεός, θεοῦ, ὁ god, divinity,
-θῡμός, θῡμοῦ, ὁ heart, soul, spirit, courage, passion.
-κακόs, κακή, κακόν bad, poor, ugly, mean, cowardly, evil, wicked,
-κᾱλός, κᾱλή, κᾱλόν good(ly), noble, handsome, brave, fair, beautiful.
+<item n="Ἀχαιός">Ἀχαιοί, Ἀχαιοῦ, ὁ Achaean, Greek.</item>
+<item n="δεινός">δεινός, δεινή, δεινόν terrible, awful, dread(ful), fearfuL</item>
+<item n="ἑλώριον">ἑλώριον, ἑλωρίου, τό booty, spoils, prey.</item>
+<item n="θεός">θεός, θεοῦ, ὁ god, divinity,</item>
+<item n="θυμός">θῡμός, θῡμοῦ, ὁ heart, soul, spirit, courage, passion.</item>
+<item n="κακό">κακός, κακή, κακόν bad, poor, ugly, mean, cowardly, evil, wicked,</item>
+<item n="καλός">κᾱλός, κᾱλή, κᾱλόν good(ly), noble, handsome, brave, fair, beautiful.</item>
 
-λᾱός, λᾱοῦ, ὁ people, host, soldiery,
-μῡρίοι, μῡρίαι, μῡρίa countless, innumerable.
-voῦσος νούσου, ἡ plague, disease, pest(ilence).
-οἰωνός, οἰωνοῦ, ὁ bird (of prey), vulture, omen.
+<item n="λαός">λᾱός, λᾱοῦ, ὁ people, host, soldiery,</item>
+<item n="μυρίος">μῡρίοι, μῡρίαι, μῡρίa countless, innumerable.</item>
+<item n="νοῦσος">νοῦσος νούσου, ἡ plague, disease, pest(ilence).</item>
+<item n="οἰωνός">οἰωνός, οἰωνοῦ, ὁ bird (of prey), vulture, omen.</item>
 
-πολλός, πολλή, πολλόν much, many, numerous,
-στρατός, στρατοῦ, ὁ army, encampment, host.
+<item n="πολύς">πολλός, πολλή, πολλόν much, many, numerous,</item>
+<item n="στρατός">στρατός, στρατοῦ, ὁ army, encampment, host.</item>
 
-φίλος, φίλη, φίλον dear, darling, lovely, beloved.
+<item n="φίλος">φίλος, φίλη, φίλον dear, darling, lovely, beloved.</item>
 
 Derivatives: ana-tomy; pena-lty;  theo-logy, theo-cracy,
 a-theism, poly-theism, mono-theism, heno-theism, pan-theism ; laity, lay-man;
@@ -2233,38 +2319,94 @@ Translate:
 
 1. ἀγλαὰ ἄποινα φέρουσιν Ἀχαιοὶ εἰς στρατόν. 
 
+The Greeks bring shining ransoms to the army.
+
 2. φέρομεν άπερείσι' (575) ἄποινα ἀνὰ στρατὸν Άχαιῶν.	
+
+We bring the countless ransoms up through the army of the Achaeans.
+
 3. θεὸς τεύχει πολλοὺς Ἀχαιοὺς ἑλώρια οἰωνοῖσιν. 
+
+The god makes many Greek into snacks for birds.
+
 4. ἦσαν Ἀχαιοὶ κακοί;
+
+Were the Greeks bad?
+
 5. οὐκ ἦσαν κακοί, κᾱλοὶ δέ. νοῦσος κακὴ ὀλέκει λαὸν καλόν. 
+
+They were not bad but noble. A bad disease destroys the fair people.
 6. Ἀχαιοὶ πέμπουσιν ἄποινα μῡρί' (575) εἰς πάτρην. 
+
+The Greek send countless ransoms to their homeland. [575 explains that the last short syllable of the adjective gets dropped when the next word starts with a vowel.]
+
 7. θεὸς βαίνει ἐς στρατόν, ὀλέκει δὲ λᾱὸν Ἀχαιῶν.
+
+The god goes to the army and he slaughters the people of the Greeks.
+
 8. τίς ἀτιμάζει θεοὺς καλούς;	
+
+Who dishonors the nobles goddesses?
+
 9. κακοί λαοὶ ἀτῑμάζουσι θεοὺς πάτρης. 
+
+Bad people dishonor the gods of the homeland.
+
 10. θεὸς πέμπει νοῦσον κακὴν ἀνὰ στρατὸν Ἀχαιῶν, οὐ γὰρ τελείουσι βουλὴν θεῶν πἀτρης. 
-11. βαίνει ἐπὶ θάλασσαν δεινὴν καὶ τεύχει τπυρὰς πολλὰς ἀνὰ στρατὸν Ἀχαιῶν.
+
+The god sends an evil disease up through the army of the Achaeans, for they do not accomplish the plan of the gods [why is it not "goddesses"?] of the homeland.
+
+11. βαίνει ἐπὶ θάλασσαν δεινὴν καὶ τεύχει πυρὰς πολλὰς ἀνὰ στρατὸν Ἀχαιῶν.
+
+She goes to the terrible sea and makes many funeral pyres up through the army of the Greeks.
 
 12. ἔχουσιν ἀπερείσι' (575) ἄποινα Ἀχαιῶν ἐνὶ στρατῷ.
 
+They have countless ransoms in the army of the Achaeans.
+
 13. βουλὴ στρατοῦ οὐχ ἁνδάνει θῡμῷ (996) θεοῦ. 
+
+The plan of the army does not please the soul of the goddess [996: explains that the verb takes the dative.]
+
 14. λᾱὸς Κίλλης φίλος ἦν ψῡχῇ θεᾶς θαλάσσης. 
+
+The people of Killa was dear to the soul of the goddess of the sea.
 15. οὐκ ἀείδομεν καλὰς βουλὰς θεῶν στρατῷ, οὐ γὰρ ἁνδάνει Ἀχαιοῖσι (996) θῡμῷ (1009).
 
-
+We do not sing the fair plans of the gods for the army because it does not please the Greeks in their soul [1066: explains that use the simple dative to render "in" the soul]
 
 <pb n="8"/>
 
 27.	
 1. The terrible roar of the sea is pleasing to the goddess (996) in (her) soul (1009).	
+
+δεινὴ κλαγγὴ θαλάσσης ἁνδάνει θεᾷ θυμῷ.
+
 2. We bring many splendid ransoms to the army of the Achaeans. 
+
+φέρομεν ἄποινα πολλὰ καὶ ἀγλαὰ ἐπὶ στρατὸν Ἀχαιῶν.
 8. The god does not destroy the host of the Achaeans, for they do not dishonor
 the gods of (their) fatherland. 
+
+θεὸς οὐκ ὀλέκει λαὸν Άχαιῶν, οὐ γὰρ άτιμάζουσι θεοὺς πάτρης.\
+
 4. The evil plague makes countless Achaeans a booty (use plural) for many birds. 
-5. The people of the Achaeans send countless shining ransoms to the goddess of the sea in Cilia. 
+νοῦσος κακὴ τεύχει ἀπειρεσίους ἑλώρια οἰωνοῖς πολλοῖς.
+
+5. The people of the Achaeans send countless shining ransoms to the goddess of the sea in Cilla. 
+
+λαὸς Ἀχαιῶν πέμπει ἄποινα ἀπειρέσια καὶ ἀγλαὰ εἰς θεὰν / θεᾷ θαλάσσης ἐν Κίλλῃ.
+
 6. The Achaeans go to the sea and sing, but the noise is not
-pleasing to the goddess (996) in (her) soul (1009).	
+pleasing to the goddess (996) in (her) soul (1009).
+
+Ἀχαιοὶ βαίνουσι ἐπὶ θάλασσαν καὶ ἀείδουσι, κλαγγὴ δ´ οὐχ ἁνδάνει θεᾷ θυμῷ.
+
 7. The plague destroys the people, for they dishonor the god of
 Chrysa.
+
+νοῦσος ὀλέκει λαόν, ἀτιμάζουσι γὰρ θεὸν Χρύσης.
+
 
 LESSON VII: REVIEW
 
@@ -2390,30 +2532,87 @@ Translate :
 
 31.	
 
-1. ἀείδομεν θεὰν θαλλάσσης δεινῆς κλαγγῇ πολλῇ. 
-2. οὐκ ἀτῑμάζουσι θεούς. 
-3. βουλαὶ Ἀχαιῶν οὐχ ἁνδάνουσι θεᾷ κᾱλῇ θῡμῷ.
-4. βαίνει ἐκ στρατοῦ Ἀχαιῶν εἰς Κίλλαν καὶ φέρει ἀπερείσι’ ἄποινα θεῷ. 
-5. νοῦσος κακὴ βαίνει ἀνά στρατὸν καὶ τεύχει πολλούς Ἀχαιοὺς ἑλώρια οἰωνοῖσιν. 
-6. καὶ θεοὶ καὶ θεαὶ ὀλέκουσι λᾱὸν Ἀχαιῶν. 
-7. τίς Ἀχαιῶν ἔχει θῡμὸν κακόν; 
-8. ἦσαν πολλαὶ θεαὶ ἐνὶ Θαλάσσῇ;	
+1. Ἀείδομεν θεὰν θαλλάσσης δεινῆς κλαγγῇ πολλῇ. 
+
+We sing the goddess of the fearful see with much noise
+
+2. οὐκ ἀτιμάζουσι θεούς. 
+
+They do not dishonor the gods.
+
+3. βουλαὶ Ἀχαιῶν οὐχ ἁνδάνουσι θεᾷ καλῇ θυμῷ.
+
+The plans of the Achaeans do not please the goddess in her noble soul.
+
+
+4. βαίνει ἐκ στρατοῦ Ἀχαιῶν εἰς Κίλλαν καὶ φέρει ἀπερείσια ἄποινα θεῷ. 
+
+He goes from the army of the Achaeans and brings countless ransoms to the god.
+
+5. νοῦσος κακὴ βαίνει ἀνά στρατὸν καὶ τεύχει πολλοὺς Ἀχαιοὺς ἑλώρια οἰωνοῖσιν.
+
+The evil disease goes up up through the army and makes many Achaeans snacks for the birds.
+ 
+6. καὶ θεοὶ καὶ θεαὶ ὀλέκουσι λαὸν Ἀχαιῶν. 
+
+Both the gods and goddesses destroy the host of the Achaeans.
+7. τίς Ἀχαιῶν ἔχει θυμὸν κακόν; 
+
+Who of the Achaeans has an evil heart?
+
+8. ἦσαν πολλαὶ θεαὶ ἐνὶ Θαλάσσῇ;
+
+Where there many goddesses in the sea?
+	
 9. καίει πυρὰς ἐπὶ θαλάσσῃ.
+
+He burns pyres next to the sea.
+
 10. λύετε στρατὸν Ἀχαιῶν. 
-11. πάτρη εστὶ φίλη ψῡχῇ μῡρίων Ἀχαιῶν.
+
+You are loosing the army of the Achaeans.
+
+11. πάτρη ἐστὶ φίλη ψυχῇ μυρίων Ἀχαιῶν.
+
+The homeland is dear to the heart of countless Achaeans.
 
 <pb n="10"/>
 
 12. τίς πέμπει στρατὸν ἐκ Κίλλης ἐπὶ Χρυσήν; 
+
+Who sends the army from Killa to Chryse?
+
 13. βουλὴ κακὴ ἐστιν, ἁνδάνει δὲ θεᾷ θῡμῷ.
+
+The plan is bad but it pleases the goddess in her heart.
+
 14. τί ἀείδετε ;
 
+What are you singing?
+
 32.	1. The Achaeans sing the beautiful goddess of the terrible sea. 
+
+oἱ Ἀχαιοὶ ἀείδουσι θεὰν καλὴν θαλάσσης δεινῆς.
+
 2. We do not dishonor the gods, for they are dear to (our) souls. 
+
+οὐκ ἀτιμάζομεν τοὺς θεούς, εἰσιν γὰρ φίλαι ψυχῇς.
+
 3. The plans of the army are pleasing to the goddess in (her) noble soul. 
+
+βουλαὶ στρατοῦ ἁνδάνουσι θεᾷ ψυχῇ καλῇ
+
 4. Many Achaeans are going from the encampment and are bringing countless glorious ransoms to the gods. 
+
+πολλοὶ Ἀχαιοὶ βαίνουσι ἐκ στρατοῦ καὶ φέρουσι ἄποινα ἀπειρέσια καὶ ἀγλαὰ τοῖς θεοῖς.
+
 5. The evil plague destroys the people and makes the army a booty for countless birds.
+
+νοῦσος κακὴ ὀλέκει λαὸν καὶ τεύχει στρατὸν ἑλώριον οἰωνοῖς ἀπειρεσίοις
+
 6. We do not sing, for it is not pleasing to the soul of the goddess.
+
+οὐκ ἀείδομεν, οὐ γὰρ ἁνδάνει ψυχῇ θεᾶς.
 
 LESSON VIII: SECOND DECLENSION (Continued)
 
@@ -2441,14 +2640,14 @@ ends in -o instead of in -ov.
 
 37.	VOCABULARY
 
-ἀλλά but, moreover.	
-δῖος, δῖa,<note>Declined like θάλασσα.</note> δῖov divine, heavenly, glorious.
+<item>ἀλλά but, moreover.	</item>
+<item>δῖος, δῖa,<note>Declined like θάλασσα.</note> δῖov divine, heavenly, glorious.</item>
 
-ἄλλος, ἄλλη, ἄλλo other, another.	
+<item>ἄλλος, ἄλλη, ἄλλo other, another.	</item>
 
 
-αὐτός, αὐτή, αὐτό self, him(self), her(self), it(self), same.	(one),	he, she, it.
-ἐκεῖνος, ἐκείνη, ἐκεῖνo / κεῖνος, κείνη, κεῖνo that
+<item>αὐτός, αὐτή, αὐτό self, him(self), her(self), it(self), same.	(one),	he, she, it.</item>
+<item>ἐκεῖνος, ἐκείνη, ἐκεῖνo / κεῖνος, κείνη, κεῖνo that</item>
 
 
 
@@ -2456,20 +2655,20 @@ ends in -o instead of in -ov.
 
 <pb n="11"/>
 
-ἑκηβόλος, ἑκηβόλου, ὁ free-shooter, sharpshooter, epithet of Apollo. Originally an adjective: shooting according to will (desire, inclination, pleasure) ; as subst.: freeshooter, sure-shooter, sharpshooter.
+<item>ἑκηβόλος, ἑκηβόλου, ὁ free-shooter, sharpshooter, epithet of Apollo. Originally an adjective: shooting according to will (desire, inclination, pleasure) ; as subst.: freeshooter, sure-shooter, sharpshooter.</item>
 
-κακῶς evilly, wickedly, harshly, with evil consequences,
+<item>κακῶς evilly, wickedly, harshly, with evil consequences,</item>
 
 
-ὁ, ἡ, τό this, that; he, she. it; who, which, what.
+<item>ὁ, ἡ, τό this, that; he, she. it; who, which, what.</item>
 
-ὅς, ἥ, ὄ who, which, what,
-οὕνεκα (οὗ-ἕνεκα) because.
+<item>ὅς, ἥ, ὄ who, which, what,</item>
+<item>οὕνεκα (οὗ-ἕνεκα) because.</item>
 
-σκῆπτρον, σκήπτρου, τό sceptke, staff.
-τέ (enclitic, postpositive) and, also; τέ ... τέ (or τέ . . . καί, or καί . . . τέ) both . . . and, not only . . . but also.
+<item>σκῆπτρον, σκήπτρου, τό sceptke, staff.</item>
+<item>τέ (enclitic, postpositive) and, also; τέ ... τέ (or τέ . . . καί, or καί . . . τέ) both . . . and, not only . . . but also.</item>
 
-χρύσεος, χρῡσέη, χρύσεov gold(en), of gold.
+<item>χρύσεος, χρῡσέη, χρύσεov gold(en), of gold.</item>
 
 Derivatives :	allo-pathy; auto-maton, auto-cracy, auto-graph,
 
@@ -2519,29 +2718,29 @@ LESSON IX: THE IMPERFECT OF VERBS IN -ω
 
 42.	VOCABULARY
 
-ἄλλῃ elsewhere.
+<item>ἄλλῃ elsewhere.</item>
 
-Ἀργεῖος, Ἀργείου, ό Argive, Greek.
+<item>Ἀργεῖος, Ἀργείου, ό Argive, Greek.</item>
 
--δε with acc. 788, 4, to.
+<item>-δε with acc. 788, 4, to.</item>
 
-8ιά adv., and prep, with gen. and acc., through, on account of, by means of; adv., between, among; with gen., through; with acc., through, by means of, on account of, during.
+<item>διά adv., and prep, with gen. and acc., through, on account of, by means of; adv., between, among; with gen., through; with acc., through, by means of, on account of, during.</item>
 
-διΐ-φιλος, διϊ-φίλη, διΐ-φιλον dear to Zeus (1168)<n>Thanks to Wright-Debnar</n>
-εἴρω speak, say, tell,
-έμός, ἐμή, ἐμόν my, mine,
-ἔρον, ἔργου, τό (ϝέργον) work, deed, accomplishment.
+<item>διΐ-φιλος, διϊ-φίλη, διΐ-φιλον dear to Zeus (1168)<n>Thanks to Wright-Debnar</n></item>
+<item>εἴρω speak, say, tell,</item>
+<item>ἐμός, ἐμή, ἐμόν my, mine,</item>
+<item>ἔργον, ἔργου, τό (ϝέργον) work, deed, accomplishment.</item>
 
--θεν gen. ending 788, 3, from.
-Κλυταιμ(ν)ήστρη, Κλυταιμ(ν)ήστρης,  ἡ, Clytaemnestra, wife of Agamemnon, leader of the Greeks before Troy. She proved unfaithful to her husband in his absence, and murdered him on his return home.
-μαντοσύνη, μαντοσύνης, ἡ gift of prophecy,
-οἶκος, οἴκου, ὁ house, home.
+<item>-θεν gen. ending 788, 3, from.</item>
+<item>Κλυταιμ(ν)ήστρη, Κλυταιμ(ν)ήστρης,  ἡ, Clytaemnestra, wife of Agamemnon, leader of the Greeks before Troy. She proved unfaithful to her husband in his absence, and murdered him on his return home.</item>
+<item>μαντοσύνη, μαντοσύνης, ἡ gift of prophecy,</item>
+<item>οἶκος, οἴκου, ὁ house, home.</item>
 
-Ὀλύμπιος, Ὀλυμπίη, Ὀλύμπιov Olympian.
-Ὄλυμπος, Ὀλύμπου, ὁ Olympus.
+<item>Ὀλύμπιος, Ὀλυμπίη, Ὀλύμπιov Olympian.</item>
+<item>Ὄλυμπος, Ὀλύμπου, ὁ Olympus.</item>
 
-Πρίαμος, Πριάμου, ὁ Priam, king of Troy.
-σός, σή, σόν your, yours.
+<item>Πρίαμος, Πριάμου, ὁ Priam, king of Troy.</item>
+<item>σός, σή, σόν your, yours.</item>
 
 Derivatives: dia-meter; erg, en-ergy; mantic, mantis,
 necromancy; economy, eco-logy.
@@ -2591,8 +2790,8 @@ LESSON X: THE FUTURE AND AORIST OF VERBS IN -ω
 
 47.		VOCABULARY
 
-ἄγ-ω, ἄξω, ἤγαγον, 863 ; 865, 1, 4, lead, drive, conduct, bring, carry, take.	
-ἀνάσσω (Ϝavaκ-), ἀνάξω, ἤναξα, with gen., 985, rule (over), guard, protect.
+<item>ἄγω, ἄξω, ἤγαγον, 863 ; 865, 1, 4, lead, drive, conduct, bring, carry, take.	</item>
+<item>ἀνάσσω (Ϝavaκ-), ἀνάξω, ἤναξα, with gen., 985, rule (over), guard, protect.</item>
 
 
 
@@ -2601,24 +2800,24 @@ Cover of a vase found at Troy.
 
 <pb n="14"/>
 
-ἄρισ-τos, ἀρίστη, ἄριστον best, noblest, bravest, fairest, superl. of ἀγαθός, ἀγαθή, ἀγαθόν good.
+<item>ἄρισ-τos, ἀρίστη, ἄριστον best, noblest, bravest, fairest, superl. of ἀγαθός, ἀγαθή, ἀγαθόν good.</item>
 
-αὖτις (back) again, anew.
+<item>αὖτις (back) again, anew.</item>
 
-Δαναός, Δαναῦ, ὁ Danaan, Greek.
-ἑκατόμβη, ἑκατόμβη, ἡ, hecatomb, sacrifice, a number of animals (originally one hundred, cattle) offered in sacrifice.
-θάνατος, θανάτου, ὁ death.
+<item>Δαναός, Δαναοῦ, ὁ Danaan, Greek.</item>
+<item>ἑκατόμβη, ἑκατόμβης, ἡ, hecatomb, sacrifice, a number of animals (originally one hundred, cattle) offered in sacrifice.</item>
+<item>θάνατος, θανάτου, ὁ death.</item>
+
+
+
+<item>Ἴλιος, Ἰλίου, ἡ Ilium, Troy; 2) the Troad, i.e. the region around Troy.</item>
+
+<item>μεγάθῡμος, μεγαθύμη, μεγάθῡμον great-souled, brave,</item>
+<item>ὄχα (by) far, much, considerably,</item>
+<item>πείθω (πειθ-, ποιθ-, πιθ-), πείσω, ἔπεισα (πέπιθον) persuade, win over, mislead,</item>
+<item>φιλέω, φιλήσω, ἐφίλησα love, cherish, entertain hospitably.</item>
 
 Derivatives: ped-agogue, dem-agogue, syn-agogue ; aristocracy ; thanat-opsis, eu-thanasia 610, 9.
-
-Ἴλιος, Ἰλίου, ἡ Ilium, Troy; 2) the Troad, i.e. the region around Troy.
-
-μεγάθῡμος, μεγαθύμη, μεγάθῡμον great-souled, brave,
-ὄχα (by) far, much, considerably,
-πείθω (πειθ-, ποιθ-, πιθ-), πείσω, ἔπεισα (πέπιθον) persuade, win over, mislead,
-φιλέ-ω, φιλήσω, ἐφίλησα love, cherish, entertain hospitably.
-
-
 
 Note. — Henceforth the first three forms of all complete verbs, as found in the vocabulary, will be the first person singular of the present, future, and aorist active indicative. These should be mastered absolutely.
 
@@ -2875,7 +3074,7 @@ fair, righteous, beautiful, handsome.
 consume,
 κείνος, η, ο = 4κεΐνος, η, ο.
 
-Κίλλα, ης, ἡ Cilia, a town in the
+Κίλλα, ης, ἡ Cilla, a town in the
 Troad.
 
 κλαγγή, rjs, ἡ clang, noise, shriek,
@@ -4559,7 +4758,7 @@ results with more certainty.
 131.	Translate:
 
 1. All the gods who have Olympian homes protect very
-sacred Chrysa and Cilia. 
+sacred Chrysa and Cilla. 
 
 2. Apollo Smintheus will rule
 Tenedos by his might. 
@@ -23341,7 +23540,7 @@ VOCABULARY
 κήρυξ, ΰκος, ὁ herald.
 kU(v) (κίω).
 
-Κίλλα, ης, ἡ Cilia, a town in the
+Κίλλα, ης, ἡ Cilla, a town in the
 Troad.
 
 Klv^u*, κινήσω*, «κίνησα, κίκίνημαι*,
