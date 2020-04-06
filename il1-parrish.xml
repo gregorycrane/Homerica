@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iliad (English). Machine readable text</title>
+                <author>Homer</author>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Amelia Parrish</principal>
+                <principal>Augustus Taber Murray</principal>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name>Lisa Cerrato</name>
+                    <name>William Merrill</name>
+                    <name>Elli Mylonas</name>
+                    <name>David Smith</name>
+                </respStmt>
+                <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+            </titleStmt>
+            <extent>about 529Kb</extent>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <notesStmt>
+                <note anchored="true">Text scanned at U. Chicago in 1989. Basic SGML tagging by
+                    Lauren Burka and Chiara Thayer.</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Homer</author>
+                        <title>The Iliad with an English Translation by A.T. Murray, Ph.D. in two
+                            volumes.</title>
+                        <imprint>
+                            <publisher>Cambridge, MA., Harvard University Press; London, William
+                                Heinemann, Ltd.</publisher>
+                            <date>1924</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="card" matchPattern="(\w+).(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts book and card</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts book</p>
+                </cRefPattern>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="Book" delim="."/>
+                <refState unit="card"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="20200405" who="Gregory Crane">Started the XML file.</change>
+        </revisionDesc>
+    </teiHeader>
+<text>
+<body>
+<div type="translation" n="urn:cts:greekLit:tlg0012.tlg001.perseus-eng3" xml:lang="eng">
+<div type="textpart" subtype="book" n="1">
+<div type="textpart" subtype="card"
+n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.32">
+    <p>   <s  xml:id="s2274106" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.1-1.7">
+       
+
+<milestone unit="line" n="1"/> Sing, goddess, the immortal wrath of Achilles, son of Peleus,
+<milestone unit="line" n="2"/> that cursed wrath that caused countless pains for the Achaeans
+<milestone unit="line" n="3"/> and hurled to Hades many brave souls 
+<milestone unit="line" n="4"/> of warriors, and made their bodies into scraps for the dogs
+<milestone unit="line" n="5"/> and for all the birds,
+        
+        </s>
+        <s  xml:id="s2274106a" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:1.5">
+            and the plan of Zeus was being performed,
+<milestone unit="line" n="6"/> from the point where first they stood apart, quarreling, 
+<milestone unit="line" n="7"/> the son of Atreus, lord of men, and god-like Achilles.
+   </sentence>
+    <sentence subdoc="1.8" id="2274107" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+<milestone unit="line" n="8"/> Who of the gods brought the two together to fight in strife?
+    </sentence>
+    <sentence subdoc="1.9" id="2274108" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+<milestone unit="line" n="9"/> The son of Leto and Zeus: 
+
+    </sentence>
+    <sentence subdoc="1.9-1.10" id="2274109" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+for he, enraged by the king,
+<milestone unit="line" n="10"/> sent a wicked plague up through the camp,
+    </sentence>
+    <sentence subdoc="1.11-1.12" id="2274109a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+and the army was dying,
+<milestone unit="line" n="11"/> because he dishonored that priest, Chryses,
+<milestone unit="line" n="12"/> he, the son of Atreus:
+
+    </sentence>
+    <sentence subdoc="1.12-1.15" id="2274110" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+for he went towards the swift ships of the Achaeans
+<milestone unit="line" n="13"/> in order to free his daughter, bearing boundless ransom,
+<milestone unit="line" n="14"/> holding the wreaths of the free-shooter Apollo in his hands
+<milestone unit="line" n="15"/> and up along his golden scepter,
+
+   </sentence>
+    <sentence subdoc="1.15-1.16" id="2274110a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+ and he was begging all the Achaeans,
+<milestone unit="line" n="16"/> but especially the two sons of Atreus, the commanders of the host:
+    </sentence>
+    <sentence subdoc="1.17-1.19" id="2274111" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="17"/> “Both the sons of Atreus and all the well-greaved Achaeans,
+<milestone unit="line" n="18"/> while I wish that the gods, holding Olympian homes, grant for you
+<milestone unit="line" n="19"/> to sack utterly the city of Priam, and to return safely home;
+
+    </sentence>
+    <sentence subdoc="1.20-1.21" id="2274112" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="20"/> but free my beloved child to me, and accept this ransom,
+<milestone unit="line" n="21"/> reverencing the son of Zeus, the free-shooter Apollo.”
+    </sentence>
+    <sentence subdoc="1.22-1.23" id="2274113" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="22"/> Then, on one hand, all the Achaeans shouted their assent
+<milestone unit="line" n="23"/> both to praise<note>check transation</note> the priest and to accept the shining ransom;
+
+    </sentence>
+    <sentence subdoc="1.24" id="2274114" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="24"/> but it<note>check usage of handanw to see if it seems more like that Chryses is the subject or if it is impersonal</note> did not please the Agamemnon’s heart,
+
+    </sentence>
+    <sentence subdoc="1.25" id="2274114" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="25"/> But he began to dismiss it cruelly, 
+
+    </sentence>
+    <sentence subdoc="1.25" id="2274114" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+and he began to utter <note>what does tellw really mean in this context?</note> a harsh speech<note>muqos is another very complex and important term</note> upon them: 
+    </sentence>
+    <sentence subdoc="1.26-1.28" id="2274115" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="26"/> “May I not come upon you, old man, near the hollow ships,
+<milestone unit="line" n="27"/> either tarrying now or returning back later,
+<milestone unit="line" n="28"/> lest even now the scepter and wreaths of the god may not protect you:
+
+    </sentence>
+    <sentence subdoc="1.29-1.31" id="2274116" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="29"/> and I will not free her<note>Note the emphatic position of thn: "HER I will not free" or the like</note>: until old age comes upon her 
+<milestone unit="line" n="30"/> in our house of the fatherland in far-away Argos
+<milestone unit="line" n="31"/> working the loom and sharing my bed.
+    </sentence>
+    <sentence subdoc="1.32" id="2274118" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="32"/> But go, do not anger me thus so you may return safe.”
+
+    </sentence>
+    <sentence subdoc="1.33" id="2274119" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+<milestone unit="line" n="33"/> Thus he spoke,
+
+    </sentence>
+    <sentence subdoc="1.33" id="2274119a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+and the old man was fearful
+    </sentence>
+    <sentence subdoc="1.33" id="2274119b" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+and was persuaded by his word<note>muqos again</note>:
+   </sentence>
+    <sentence subdoc="1.34" id="2274120" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="34"/> and he went in silence to the shore of the resounding sea: 
+
+
+  </sentence>
+    <sentence subdoc="1.35-1.36" id="2274121" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="35"/> and after, going far away, that old man prayed 
+<milestone unit="line" n="36"/> to the lord Apollo, he whom fair-haired Leto bore:
+    </sentence>
+    <sentence subdoc="1.37-1.38" id="2274122" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="37"/> “Hear me, silver-bowed one, you who encircled Chryses
+<milestone unit="line" n="38"/> and you who rules sacred Cilla of Tenedos by force,
+
+    </sentence>
+    <sentence subdoc="1.39-1.41" id="2274122a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="39"/> Smintheus, if at some time I ever made a roof upon a pleasing temple to you,
+<milestone unit="line" n="40"/> or either if at some time I burned down fat thigh-bones for you,
+<milestone unit="line" n="41"/> of bulls and of goats, fulfill this desire for me:
+
+    </sentence>
+    <sentence subdoc="1.42" id="2274123" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="42"/> May the Danaans pay the price<note>tiw is linked in meaning to timh and we need to capture that somehow</note> of my tears with your arrows.”
+
+<milestone unit="line" n="43"/> So he spoke in his prayer.
+
+    </sentence>
+    <sentence subdoc="1.43" id="2274124a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+Phoebus Apollo heard<note>listened to? do poeple do something when they kluw? not just hear?</note> him,
+
+    </sentence>
+    <sentence subdoc="1.44-1.45" id="2274124b" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="44"/>  Consumed with fury<note>let's think about different words for anger</note> within his heart, he went down from the top of Olympus,
+<milestone unit="line" n="45"/> having bows and a covered quiver on his shoulders.
+
+    </sentence>
+    <sentence subdoc="1.46-1.47" id="2274125" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="46"/> The arrows on the shoulders of him in his fury rattled noisily<note>what things "klazw"?</note>,
+<milestone unit="line" n="47"/> once he had been set in motion:
+
+    </sentence>
+    <sentence subdoc="1.47" id="2274126" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+and he went like the night.
+
+<milestone unit="line" n="48"/> Then he was seating himself far away from the ships,
+
+and he sent an arrow among them:
+<milestone unit="line" n="49"/> and terrible was the noise<note>κλαγγὴ here is related to klazw above -- we need to capture that</note> from the silver bow,
+
+    </sentence>
+    <sentence subdoc="1.50" id="2274129" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="50"/> first he began going after the mules and the swift dogs,
+
+    </sentence>
+    <sentence subdoc="1.51-1.52" id="2274129" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="51"/> but then he began to send<note>how do we include the sense of both efieis and balle -- note that we have afiei (Agam rejects Chryses) and so now we get efieis:af-ihmi --> ef-ihmi</note> the sharp arrows into the bodies themselves,
+<milestone unit="line" n="52"/> he was throwing:
+
+   </sentence>
+    <sentence subdoc="1.52" id="2274130" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+and the crowded pyres of the corpses were burning continuously.
+    </sentence>
+    <sentence subdoc="1.53" id="2274131" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="53"/> For nine days the arroww of the god kept moving up through the camp,
+
+    </sentence>
+    <sentence subdoc="1.54" id="2274131a" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="54"/> On the tenth day Achilles  summoned<note>kalew:middle -- look at voice with kalew</note> the host to  an assembly:
+
+    </sentence>
+    <sentence subdoc="1.55" id="2274132" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="55"/> for the white-armed goddess Hera placed this within his mind:
+
+    </sentence>
+    <sentence subdoc="1.56" id="2274133" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="56"/> for she was worried for the Danaans, because she kept seeing them die.
+
+    </sentence>
+    <sentence subdoc="1.57-1.58" id="2274134" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="57"/> When they had been assembled and were they gathered together,
+<milestone unit="line" n="58"/> swift-footed Achilles rose up and spoke among them:
+
+    </sentence>
+    <sentence subdoc="1.59-1.61" id="2274135" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="59"/> “Son of Atreus, now I believe that we, driven back from the city
+<milestone unit="line" n="60"/> will go to back to our homes again, if death, in fact, we may flee,
+<milestone unit="line" n="61"/> if indeed<note>these double "if" clauses do different things -- I don't know how best to capture their force.</note> war and plague together are going to overcome the Achaeans:
+
+    </sentence>
+    <sentence subdoc="1.62-1.67" id="2274136" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="62"/> But come, we will ask either some seer or priest
+<milestone unit="line" n="63"/> or even a dream-interpreter, for even a dream is from Zeus.
+<milestone unit="line" n="64"/> For he may say why Phoebus Apollo was angered so greatly,
+<milestone unit="line" n="65"/> whether the free-shooter reproaches us on account of a vow or an offering,
+<milestone unit="line" n="66"/> or if somehow having encountered the rich aroma from unblemished sheep or goats
+<milestone unit="line" n="67"/> he is willing to avert ruin from us.”
+
+    </sentence>
+    <sentence subdoc="1.68" id="2274137" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="68"/> And, speaking thus, he was seating himself down: 
+
+    </sentence>
+    <sentence subdoc="1.68-1.72" id="2274138" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+Among them rose
+<milestone unit="line" n="69"/> Calchas son of Thestor, best by far of all the prophets,
+<milestone unit="line" n="70"/> who knows what is and what shall be and what was before,
+<milestone unit="line" n="71"/> and who had lead the ships of the Achaeans into Troy
+<milestone unit="line" n="72"/> through his own gift of prophecy, which Phoebus Apollo gave to him:
+
+    </sentence>
+    <sentence subdoc="1.73" id="2274139" document_id="urn:cts:greekLit:tlg0012.tlg001.perseus-grc1">
+
+<milestone unit="line" n="73"/> He, well-disposed, began speaking in the assembly and addressed them:
+<milestone unit="line" n="74"/> “Oh Achilles, beloved of Zeus, you urge me to tell
+<milestone unit="line" n="75"/> the wrath of Apollo, the lord sharp-shooter:
+<milestone unit="line" n="76"/> therefore I will speak: but you put together and swear to me
+<milestone unit="line" n="77"/> that you will gladly assist me with words and with hands.
+<milestone unit="line" n="78"/> For indeed I believe that I will anger a man, he who greatly 
+<milestone unit="line" n="79"/> rules over all the Argives, and the Achaeans are influenced by him:
+<milestone unit="line" n="80"/> for the king is mightier, whenever he is angry at an inferior man.
+<milestone unit="line" n="81"/> For even if he will repress the anger the same day,
+<milestone unit="line" n="82"/> but afterwards he holds the grudge, until he can fulfill it,
+<milestone unit="line" n="83"/> in his breast: but you consider if you will protect me.”
+<milestone unit="line" n="84"/> And swift-footed Achilles, answering him, was speaking:
+<milestone unit="line" n="85"/> “Being of exceedingly good courage, speak the prophecy which you know:
+<milestone unit="line" n="86"/> for I pledge by Apollo, beloved of Zeus, and to whom you, Calchas,
+<milestone unit="line" n="87"/> are praying, you reveal the prophecies to the Danaans,
+<milestone unit="line" n="88"/> no one with me living and beholding on this earth 
+<milestone unit="line" n="89"/> will bear heavy hands against you near the hollow ships
+<milestone unit="line" n="90"/> of the all the Danaans together, not even if you say Agamemnon,
+<milestone unit="line" n="91"/> he who boasts much to be the best of the Achaeans.”
+<milestone unit="line" n="92"/> And then the blameless seer took courage and spoke:
+<milestone unit="line" n="93"/> “Indeed he finds blame neither by vow nor by offering, 
+<milestone unit="line" n="94"/> but on behalf of the priest, whom Agamemnon dishonored
+<milestone unit="line" n="95"/> when he did not free the daughter and he did not receive the ransom,
+<milestone unit="line" n="96"/> indeed on account of this the free-shooter gave sorrows and will continue to give still.
+<milestone unit="line" n="97"/> And not sooner will he drive off shameful destruction for the Danaans, 
+<milestone unit="line" n="98"/> until we give back the bright-eyed maiden to her beloved father
+<milestone unit="line" n="99"/> without a price, un-ransomed, and to lead a holy offering
+<milestone unit="line" n="100"/> into Chrysa: then we, appeasing him, may persuade him.”
+
+</s>
+    </p>
+</div>
+</div>
+</div>
+</body>
+</text>
+</TEI>
