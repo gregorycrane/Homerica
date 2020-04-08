@@ -367,13 +367,16 @@ either in form or in stature, or in mind, or in any handiwork.
 her back, if that is better; </s>
 
 <s xml:id="sent2274163"
-n="1.117">I would rather the people be safe than perish. </s><s
+   n="1.117">I would rather the people be safe than perish. </s>
+
+
+<s
 xml:id="sent2274164" n="1.118-1.119">But provide me with a prize
-of honour forthwith, lest I alone of the Argives be without one,
+of honour immediately, so that I alone of the Argives may not be without a prize,
 since that would not be proper. </s>
 
 <s xml:id="sent2274165"
-n="1.120"><milestone n="120" unit="line"/>For you all see this,
+n="1.120"><milestone n="120" unit="line"/>For you all see this, don't you? --
 that my prize goes elsewhere. </s></q></p>
 <p>
 
@@ -382,23 +385,22 @@ that my prize goes elsewhere. </s></q></p>
 brilliant Achilles: </s><q>
 
 
-<s xml:id="sent2274167" n="1.122-1.123">Most glorious son of Atreus,
-most covetous of all, how shall the great-hearted Achaeans give
+<s xml:id="sent2274167" n="1.122-1.123">Son of Atreus, most glorious,
+most greedy of all, how shall the great-hearted Achaeans give
 you a prize? </s>
 
-<s xml:id="sent2274168" n="1.124">We know
-nothing of a hoard of wealth in common store, </s><s
+<s xml:id="sent2274168" n="1.124">We know of no substantial common goods that are available. </s><s
 xml:id="sent2274169" n="1.125-1.126"><milestone n="125"
-unit="line"/>but whatever we took by pillage from the cities
-has been apportioned, and it is not seemly to gather these
-things back from the army. </s>
+unit="line"/>Far from it! Whatever we seized as booty from the cities
+has been been divided up. It is certainly not proper to gather these
+things, snatched back from the army. </s>
 
 <s xml:id="sent2274170" n="1.127"
->But give back the girl to the god, </s>
+>Instead, you now give back this girl to the go. </s>
 
 <s xml:id="sent2274171"
-n="1.127-1.129">and we Achaeans will recompense you three and
-fourfold, if ever Zeus grants us to sack the well-walled city of
+n="1.127-1.129">Then, we Achaeans will pay you back three and
+four times over, if ever Zeus grants us to sack the well-walled city of
 <placeName key="perseus,Troy">Troy</placeName>. </s></q>
 <note resp="Loeb" anchored="true">1</note>
 </p>
@@ -414,37 +416,62 @@ answer to him spoke lord Agamemnon: </s></p>
 
 
 <s xml:id="sent2274173" n="1.131-1.132">Do not thus, mighty though
-you are, godlike Achilles, seek to deceive me with your wit;
+you are, godlike Achilles, try to deceive me with your wit;
+for you will not get
+by me nor will you change my mind.
+
 </s>
 
-<s xml:id="sent2274174" n="1.133-1.134">for you will not get
-by me nor persuade me. Are you willing, so that your yourself
-may keep your prize, for me to sit here idly in want, while you
-order me to give her back? </s>
+<s xml:id="sent2274174" n="1.133-1.134">Are you willing, so that your yourself
+may keep your prize, that I should sit here idly with nothing?
+
+</s>
+
+<s xml:id="sent2274174a" n="1.134">
+
+Are you telling me to give this woman back? </s>
 
 <s xml:id="sent2274175"
-n="1.135-1.136"><milestone n="135" unit="line"/>No, if the
+n="1.135-1.136"><milestone n="135" unit="line"/>Now, if the
 great-hearted Achaeans give me a prize, suiting it to my mind,
-so that it will be worth just as much— </s><s
-xml:id="sent2274176" n="1.137-1.139">but if they do not, I
-myself will come and take your prize, or that of Aias, or that
-of Odysseus I will seize and bear away. </s><s
-xml:id="sent2274177" n="1.139">Angry will he be, to whomever I
-come. </s>
+so that it will be worth just as much— </s>
 
-<s xml:id="sent2274178" n="1.140-1.144"><milestone
-n="140" unit="line"/>But these things we will consider
-hereafter. Let us now drag a black ship to the shining sea, and
-quickly gather suitable rowers into it, and place on board a
-hecatomb, and embark on it the fair-cheeked daughter of Chryses
+
+<s
+xml:id="sent2274176" n="1.137-1.139">But if they do not, I
+myself will go and seize for myself perhaps your prize, or that of Aias, or that
+of Odysseus I will seize and bear away. </s>
+
+<s
+xml:id="sent2274177" n="1.139">That man will be beside himself<note>(1) cholos; (2) this form, which seems to be a future perfect!. I would expect "sad" rather than "angry." What is really going on here?</note>, to whom I may go. </s>
+
+<s xml:id="sent2274178" n="1.140"><milestone
+n="140" unit="line"/>But these things we will consider again
+later.
+
+</s>
+
+<s xml:id="sent2274178a" n="1.141">Let us now drag a black ship to the shining sea.
+
+
+</s>
+
+<s xml:id="sent2274178b" n="1.142">Let us quickly gather enough oarsmen into it.
+
+</s>
+
+<s xml:id="sent2274178c" n="1.142-1.143">Let u place on board a
+hecatomb.</s>
+
+<s xml:id="sent2274178d" n="1.144">And let us embark on it the fair-cheeked daughter of Chryses
 herself. </s>
 
 <s xml:id="sent2274179" n="1.144-1.147">Let one
-prudent man be its commander, <milestone n="145" unit="line"
+man who is used to command be its leader, <milestone n="145" unit="line"
 />either Aias, or Idomeneus, or brilliant Odysseus, or you, son
 of Peleus, of all men most extreme, so that on our behalf you
-may propitiate the god who strikes from afar by offering
-sacrifice. </s></q></p>
+may by offering
+sacrifice propitiate the god who strikes from afar. </s></q></p>
 <p>
 
 
@@ -460,7 +487,7 @@ against men with force? </s>
 
 <s xml:id="sent2274182"
 n="1.152-1.153">It was not on account of the Trojan spearmen
-that I came here to fight, since they have done no wrong to me.
+that I came here to fight, since they are not liable to me.
 </s>
 
 <s xml:id="sent2274183" n="1.154-1.157">Never have they
@@ -468,33 +495,60 @@ driven off my cattle or my horses, <milestone n="155"
 unit="line"/>nor ever in deep-soiled <placeName
 key="perseus,Phthia">Phthia</placeName>, nurse of men, did
 they lay waste the harvest, for many things lie between
-us—shadowy mountains and sounding sea. </s><s
+us—shadowy mountains and sounding sea. </s>
+
+
+<s
 xml:id="sent2274184" n="1.158-1.160">But you, shameless one, we
-followed, so that you might rejoice, seeking to win recompense
+followed, so that you might rejoice, with us seeking to win honor
 for Menelaus and for yourself, dog-face, <milestone n="160"
 unit="line"/>from the Trojans. </s>
 
 <s xml:id="sent2274185"
-n="1.160">This you disregard, and take no heed of. </s><s
+   n="1.160">To this you pay no attention.
+
+</s>
+
+<s xml:id="sent2274185b"
+   n="1.160">You just don't care. </s>
+
+
+<s
 xml:id="sent2274186" n="1.161-1.162">And now you threaten that
-you will yourself take my prize away from me, for which I toiled
-so much, which the sons of the Achaeans gave to me. </s><s
-xml:id="sent2274187" n="1.163-1.164">Never have I prize like
+you yourself will take away from me the prize for which I toiled
+so much and which the sons of the Achaeans gave to me. </s>
+
+
+<s
+xml:id="sent2274187" n="1.163-1.164">I never have a prize like
 yours, whenever the Achaeans sack a well-inhabited citadel of
 the Trojans. </s>
 
 <s xml:id="sent2274188" n="1.165-1.166"
-><milestone n="165" unit="line"/>The brunt of furious battle
-do my hands undertake, </s>
+><milestone n="165" unit="line"/>Of course, the brunt of furious battle
+my hands perform.</s>
 
 <s xml:id="sent2274189"
-n="1.166-1.168">but if ever an apportionment comes, your prize
-is far greater, while small but dear is the reward I take to my
-ships, when I have worn myself out in the fighting. </s><s
-xml:id="sent2274190" n="1.169-1.171">Now I will go back to
+n="1.166-1.167">But if ever an apportionment comes, your prize
+is far greater.
+
+</s>
+
+<s xml:id="sent2274189a"
+   n="1.167-1.168">But I go to my ships having one that small but dear, when I have worn myself out in the fighting. </s>
+
+
+<s
+xml:id="sent2274190" n="1.169-1.170">Now will go back to
 <placeName key="perseus,Phthia">Phthia</placeName>, since it
 is far better <milestone n="170" unit="line"/>to return home
-with my beaked ships, nor do I intend while I am here
+with my beaked ships.
+
+</s>
+
+
+<s
+xml:id="sent2274190a" n="1.170-1.171">Nor do I intend while I am here
 dishonoured to pile up riches and wealth for you. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
@@ -503,66 +557,99 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.172-1.205">
 
 
 <s xml:id="sent2274191" n="1.172">Then the king of men, Agamemnon,
-answered him: </s><q>
+answered him: </s>
+    
+    <q>
 
 
-<s xml:id="sent2274192" n="1.173-1.174">Flee then, if your heart
-urges you; I do not beg you to remain for my sake. </s><s
+<s xml:id="sent2274192" n="1.173">Run away then, if your heart
+is determined.</s>
+
+<s xml:id="sent2274192a" n="1.173-1.174">I certainly do not beg you to remain for my sake. </s>
+        
+        <s
 xml:id="sent2274193" n="1.174-1.175">With me are others
-<milestone n="175" unit="line"/> who will honour me, and
+<milestone n="175" unit="line"/> who will give me honour, and
 above all Zeus, the lord of counsel. </s>
 
 <s xml:id="sent2274194"
 n="1.176">Most hateful to me are you of all the kings that Zeus
-nurtures, </s>
+nurtures. </s>
 
-<s xml:id="sent2274195" n="1.177">for always
-strife is dear to you, and wars and battles. </s><s
-xml:id="sent2274196" n="1.178">If you are very strong, it was a
-god, I think, who gave you this gift. </s><s
-xml:id="sent2274197" n="1.179-1.181">Go home with your ships and
-your companions <milestone n="180" unit="line"/>and lord it over
-the Myrmidons; for you I care not, nor take heed of your wrath.
+<s xml:id="sent2274195" n="1.177">For always
+strife is dear to you, and wars and battles. </s>
+
+<s
+xml:id="sent2274196" n="1.178">If you are very strong, a
+god, I think, who gave this to you. </s>
+
+<s
+xml:id="sent2274197" n="1.179-1.180">Go home with your own ships and
+your own companions <milestone n="180" unit="line"/>and lord it over
+the Myrmidons;</s>
+
+<s
+    xml:id="sent2274197a" n="1.180">I don't care about you.</s>
+<s
+    xml:id="sent2274197b" n="1.181">
+And I don't worry that you are furious.
 </s>
 
 <s xml:id="sent2274198" n="1.181">But I will threaten you
 thus: </s>
 
-<s xml:id="sent2274199" n="1.182-1.187">as Phoebus
-Apollo takes from me the daughter of Chryses, her with my ship
-and my companions I will send back, <milestone n="185"
-unit="line"/>but I will myself come to your tent and take
-the fair-cheeked Briseis, your prize, so that you will
+<s xml:id="sent2274199" n="1.182-1.184">Since Phoebus
+Apollo takes from me the daughter of Chryses, that woman with my ship
+and my companions I will send back,</s>
+
+<s
+    xml:id="sent2274199a" n="1.184-1.187">But I will lead away <milestone n="185"
+unit="line"/>fair-cheeked Briseis, coming myself to your tent -- that prize of yours, so that you will
 understand how much mightier I am than you, and another may
 shrink from declaring himself my equal and likening himself to
-me to my face. </s></q></p>
+me to my face. </s>
+    
+    </q></p>
 <p>
 
 
 <s xml:id="sent2274200" n="1.188">So he spoke. </s><s
-xml:id="sent2274201" n="1.188-1.192">Grief came upon the son of
-Peleus, and within his shaggy breast his heart was divided,
-<milestone n="190" unit="line"/>whether he should draw his sharp
-sword from beside his thigh, and break up the assembly, and slay the
-son of Atreus, or stay his anger and curb his spirit. </s><s
+xml:id="sent2274201" n="1.188-1.192">Pain came upon the son of
+Peleus.</s>
+<s
+xml:id="sent2274201a" n="1.188-1.192">Within his shaggy breast his heart pondered two options,
+<milestone n="190" unit="line"/>whether he for his part<note>ge</note> should draw the sharp
+sword from beside his thigh, break up the assembly, and slay the
+son of Atreus, or whether he should stay his anger and curb his spirit. </s><s
 xml:id="sent2274202" n="1.193-1.195">While he pondered this in mind
-and heart, and was drawing from its sheath his great sword, Athene
-came <milestone n="195" unit="line"/> from heaven. </s><s
+and heart, and had begun to draw from its sheath his great sword, Athene
+came <milestone n="195" unit="line"/> from the heavens. </s>
+
+
+<s
 xml:id="sent2274203" n="1.195-1.196">The white-armed goddess Hera
 had sent her forth, for in her heart she loved and cared for both
 men alike.</s></p>
 <p>
 
 
-<s xml:id="sent2274204" n="1.197-1.198">She stood behind him, and seized
-the son of Peleus by his fair hair, appearing to him alone. </s><s
+  <s xml:id="sent2274204" n="1.197">She stood behind him.</s>
+  <s xml:id="sent2274204a" n="1.197-1.198">Then she seized
+  the son of Peleus by his fair hair, appearing to him alone. </s>
+
+
+  <s
 xml:id="sent2274205" n="1.198">No one of the others saw her. </s><s
-xml:id="sent2274206" n="1.199-1.200">Achilles was seized with
-wonder, and turned around, and immediately recognized <milestone
+xml:id="sent2274206" n="1.199">Achilles was seized with
+wonder.</s>
+
+    <s xml:id="sent2274206a" n="1.199">He turned around.</s>
+
+        <s xml:id="sent2274206b" n="1.199-1.200">Immediately he recognized <milestone
 n="200" unit="line"/>Pallas Athene. </s>
 
 <s xml:id="sent2274207"
-n="1.200">Terribly her eyes shone. </s>
+n="1.200">Terribly her two eyes shone<note>We just had fainomenh: φάανθεν -- where else do eyes shine like this?</note>. </s>
 
 <s xml:id="sent2274208"
 n="1.201">Then he addressed her with winged words, and said: </s><q>
@@ -572,13 +659,19 @@ n="1.201">Then he addressed her with winged words, and said: </s><q>
 Zeus, have you come? </s>
 
 <s xml:id="sent2274210" n="1.203">Is it
-so that you might see the arrogance of Agamemnon, son of Atreus?
+so that you might see for yourself<note>does the middle justify this?</note> the outrageous behavior<note>emphasize that this is hybris</note> of Agamemnon, son of Atreus?
 </s>
 
-<s xml:id="sent2274211" n="1.204">One thing I will tell you,
-and I think this will be brought to pass: </s><s
+<s xml:id="sent2274211" n="1.204">But I will tell you.
+
+
+</s>
+
+<s xml:id="sent2274211a" n="1.204">And I believe that this will be indeed brought to pass: </s>
+
+<s
 xml:id="sent2274212" n="1.205"><milestone n="205" unit="line"
-/>through his own excessive pride shall he presently lose his
+/>through his own arrogance shall he presently lose his
 life. </s></q>
 </p>
 </div>
@@ -591,14 +684,19 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.206-1.244">
 Athene, answered: </s><q>
 
 
-<s xml:id="sent2274214" n="1.207-1.208">I have come from heaven to
-stay your anger, if you will obey. </s>
+<s xml:id="sent2274214" n="1.207-1.208">I have come from the heavens to
+stay your passion, if you will obey. </s>
 
 <s xml:id="sent2274215"
 n="1.208-1.209">The goddess white-armed Hera sent me forth, for
-in her heart she loves and cares for both of you. </s><s
+in her heart she loves and cares for both of you. </s>
+
+<s
 xml:id="sent2274216" n="1.210"><milestone n="210" unit="line"
-/>But come, cease from strife, and do not grasp the sword with
+/>But come, cease from strife.</s>
+
+<s
+xml:id="sent2274216a" n="1.210">do not draw the sword with
 your hand. </s>
 
 <s xml:id="sent2274217" n="1.211">With words
@@ -606,13 +704,17 @@ indeed taunt him, telling him how it shall be.<note resp="Loeb"
 anchored="true">1</note>
 </s>
 
-<s xml:id="sent2274218" n="1.212">For thus will I speak, and
-this thing shall truly be brought to pass. </s><s
+<s xml:id="sent2274218" n="1.212">For thus will I speak.</s>
+
+<s xml:id="sent2274218a" n="1.212">and
+this will truly be brought fully to pass. </s><s
 xml:id="sent2274219" n="1.213-1.214">Hereafter three times as
-many glorious gifts shall be yours on account of this arrogance.
+many glorious gifts shall be yours on account of this arrogance<note>hybris</note>.
 </s>
 
-<s xml:id="sent2274220" n="1.214">But refrain, and obey us.
+<s xml:id="sent2274220" n="1.214">But you -- take hold of yourself.</s>
+
+<s xml:id="sent2274220a" n="1.214">Obey us.
 </s></q></p>
 <p>
 
@@ -624,18 +726,30 @@ answer to her spoke swift-footed Achilles: </s></p>
 
 <s xml:id="sent2274222" n="1.216-1.217">It is necessary, goddess, to
 observe the words of you two, however angered a man be in his
-heart,</s>
+heart.</s>
 
 
 <s xml:id="sent2274223" n="1.217">for is it better so. </s><s
 xml:id="sent2274224" n="1.218">Whoever obeys the gods, to him do
-they gladly give ear. </s></q></p>
+they particularly listen. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274225" n="1.219-1.221">He spoke, and stayed his heavy
-hand on the silver hilt, <milestone n="220" unit="line"/>and back
-into its sheath thrust the great sword, and did not disobey the word
+  <s xml:id="sent2274225" n="1.219">He spoke.</s>
+
+  
+
+  <s xml:id="sent2274225a" n="1.219">And he held his heavy
+hand on the silver hilt.</s>
+
+  
+
+  <s xml:id="sent2274225b" n="1.220"><milestone n="220" unit="line"/>And back
+into its sheath he thrust the great sword.</s>
+
+  
+
+  <s xml:id="sent2274225c" n="1.220-1.221">He did not disobey the word
 of Athene. </s>
 
 <s xml:id="sent2274226" n="1.221-1.222">She returned
@@ -652,7 +766,7 @@ from his wrath: </s><q>
 <s xml:id="sent2274228" n="1.225-1.228"><milestone n="225"
 unit="line"/>Heavy with wine, with the face of a dog but the
 heart of a deer, never have you had courage to arm for battle
-along with your people, or go forth to an ambush with the chiefs
+along with your people, or to go forth to an ambush with the chiefs
 of the Achaeans. </s>
 
 <s xml:id="sent2274229" n="1.228">That
@@ -660,46 +774,53 @@ seems to you even as death. </s>
 
 <s xml:id="sent2274230"
 n="1.229-1.230">Indeed it is far better throughout the wide camp
-of the Achaeans to deprive <milestone n="230" unit="line"/> of
-his prize whoever speaks contrary to you. </s><s
+of the Achaeans to take away the gifts  <milestone n="230" unit="line"/> of
+from whoever speaks contrary to you. </s>
+
+
+<s
 xml:id="sent2274231" n="1.231">People-devouring king, since you
 rule over nobodies; </s>
 
-<s xml:id="sent2274232" n="1.232">else,
-son of Atreus, this would be your last piece of insolence.
+<s xml:id="sent2274232" n="1.232">Otherwise,
+son of Atreus, now you would be abusive for the last time!
 </s>
 
-<s xml:id="sent2274233" n="1.233">But I will speak out to
-you, and will swear thereto a mighty oath: </s><s
-xml:id="sent2274234" n="1.234-1.236">by this staff, that shall
+<s xml:id="sent2274233" n="1.233">Rather, I will speak to you.
+
+
+</s>
+
+<s xml:id="sent2274233a" n="1.233">And I will swear thereto a mighty oath. </s>
+
+<s
+xml:id="sent2274234" n="1.234-1.236">By this staff, that shall
 never more put forth leaves or shoots since first it left its
 stump among the mountains, <milestone n="235" unit="line"/>nor
-shall it again grow green, </s>
+shall it again grow green. </s>
 
 <s xml:id="sent2274235"
-n="1.236-1.237">for the bronze has stripped it on all sides of
+n="1.236-1.237">For the bronze has stripped it on all sides of
 leaves and bark, </s>
 
-<s xml:id="sent2274236" n="1.237-1.239">and
-now the sons of the Achaeans carry it in their hands when they
+<s xml:id="sent2274236" n="1.237-1.239">But now the sons of the Achaeans carry it in their hands when they
 act as judges, those who guard the ordinances that come from
 Zeus; </s>
 
-<s xml:id="sent2274237" n="1.239">and this shall be
+<s xml:id="sent2274237" n="1.239">This shall be
 for you a mighty oath. </s>
 
 <s xml:id="sent2274238"
 n="1.240-1.241"><milestone n="240" unit="line"/>Surely some day
-a longing for Achilles will come upon the sons of the Achaeans
-one and all, </s>
+a longing<note>see poqew at Od. 13.219 -- it is a lack: you look for it and it is not there. Worth thinking about this word.</note> for Achilles will come upon each and every one of the sons of the Achaeans.</s>
 
-<s xml:id="sent2274239" n="1.241-1.243">and on
+<s xml:id="sent2274239" n="1.241-1.243">And on
 that day you will not be able to help them at all, for all your
 grief, when many shall fall dying before man-slaying Hector.
 </s>
 
 <s xml:id="sent2274240" n="1.243-1.244">But you will gnaw
-the heart within you, in anger that you did no honour to the
+the heart within you, furious<note>another instance of this word that seems to imply powerless regretful anguish rather than powerful anger...</note> that you did no honour to the
 best of the Achaeans. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
