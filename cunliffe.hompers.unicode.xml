@@ -412,7 +412,7 @@
                         6.80</bibl>, <bibl n="Hom. Od. 11.323">Od. 11.323</bibl>. </p>
             </div>
 
-            <div xml:id="athenaie-2-cunliffe-name" type="textpart" n="Ἀθηναίη">
+            <div xml:id="athenaie-2-cunliffe-name" type="textpart" n="Ἀθήνη">
                 <head><foreign xml:lang="greek">Ἀθηναίη</foreign>-2</head>
                 <p>, <foreign xml:lang="greek">Ἀθήνη</foreign>, also <foreign xml:lang="greek"
                         >Παλλὰς Ἀθηναίη</foreign>
@@ -500,17 +500,6 @@
                         >Il. 15.337</bibl>. </p>
             </div>
 
-            <div xml:id="athene-1-cunliffe-name" type="textpart" n="Ἀθήνη">
-                <head><foreign xml:lang="greek">Ἀθήνη</foreign>-1</head>
-                <p>See <foreign xml:lang="greek">Ἀθῆναι.</foreign>
-                </p>
-            </div>
-
-            <div xml:id="athene-2-cunliffe-name" type="textpart" n="Ἀθήνη">
-                <head><foreign xml:lang="greek">Ἀθήνη</foreign>-2</head>
-                <p>See <foreign xml:lang="greek">Ἀθηναίη.</foreign>
-                </p>
-            </div>
 
             <div xml:id="athus-cunliffe-name" type="textpart" n="Ἄθως">
                 <head><foreign xml:lang="greek">Ἄθως</foreign></head>
@@ -631,7 +620,7 @@
                         1.403</bibl>, <bibl n="Il. 1.404">404</bibl>. </p>
             </div>
 
-            <div xml:id="aigeides-cunliffe-name" type="textpart" n="Αἰγείδης">
+            <div xml:id="aigeides-cunliffe-name" type="textpart" n="Αἰγείδης">
                 <head><foreign xml:lang="greek">Αἰγεί͂δης</foreign></head>
                 <p>Patr. fr. <foreign xml:lang="greek">Αἰγεύς,</foreign> king of Athens. Of Theseus
                         <bibl n="Hom. Il. 1.265">Il. 1.265</bibl>. </p>
@@ -10438,8 +10427,8 @@
                 </p>
             </div>
 
-            <div xml:id="peleides-cunliffe-name" type="textpart" n="Πηληιάδης">
-                <head><foreign xml:lang="greek">Πηλεΐδης</foreign></head>
+            <div xml:id="peleides-cunliffe-name" type="textpart" n="Πηλείδης">
+                <head><foreign xml:lang="greek">Πηληιάδης</foreign></head>
                 <p>= next. Of Achilles <bibl n="Hom. Il. 1.146">Il. 1.146</bibl>, <bibl
                         n="Hom. Il. 15.64">Il. 15.64</bibl>, <bibl n="Hom. Il. 16.271">Il.
                         16.271</bibl>, <bibl n="Hom. Il. 17.105">Il. 17.105</bibl>, <bibl
