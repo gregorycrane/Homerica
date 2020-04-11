@@ -828,11 +828,18 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.245-1.284">
 <p>
 
 
-<s xml:id="sent2274241" n="1.245-1.246"><milestone n="245" unit="line"
-/>So spoke the son of Peleus, and down to the earth he dashed the
-staff studded with golden nails, and himself sat down, </s><s
-xml:id="sent2274242" n="1.247">while over against him the son of
-Atreus continued to vent his wrath. </s>
+<s xml:id="sent2274241" n="1.245"><milestone n="245" unit="line"
+/>So spoke the son of Peleus.</s>
+
+<s xml:id="sent2274241a" n="1.245-1.246">Down to the earth he dashed the
+staff studded with golden nails.</s>
+
+<s xml:id="sent2274241" n="1.246">
+Then he himself sat down, </s>
+
+<s
+xml:id="sent2274242" n="1.247">From the other side, the son of
+Atreus continued in his own fury<note>ἐμήνιε</note>. </s>
 
 <s xml:id="sent2274243"
 n="1.247-1.249">Then among them arose Nestor, sweet of speech, the
@@ -843,7 +850,10 @@ sweeter than honey. </s>
 ><milestone n="250" unit="line"/>Two generations of mortal men
 had passed away in his lifetime, who had been born and reared with
 him before in sacred <placeName key="perseus,Pylos"
->Pylos</placeName>, and he was king among the third. </s><s
+>Pylos</placeName>, and he was king among the third. </s>
+
+
+<s
 xml:id="sent2274245" n="1.253">He with good intent addressed the
 gathering and spoke among them: </s><q>
 
@@ -854,20 +864,22 @@ upon the land of <placeName key="tgn,7002733"
 
 <s xml:id="sent2274247" n="1.255-1.258"
 ><milestone n="255" unit="line"/>Truly would Priam and the
-sons of Priam rejoice, and the rest of the Trojans would be most
-glad at heart, were they to hear all this of you two
-quarrelling, you who are chief among the Danaans in counsel and
-chief in war. </s>
+sons of Priam rejoice, and the rest of the Trojans would be completely delighted<note>κεχαροίατο -- perfect? that is what I want to capture with "completey"</note> at heart, if they were to hear you two
+quarrelling on all these things, you who excel among the Danaans in counsel and
+excel in fighting. </s>
 
 <s xml:id="sent2274248" n="1.259">Listen to
-me, </s>
+me!</s>
 
-<s xml:id="sent2274249" n="1.259">for you are both
+<s xml:id="sent2274249" n="1.259">You are both
 younger than I. </s>
 
 <s xml:id="sent2274250" n="1.260-1.261"
 ><milestone n="260" unit="line"/>In earlier times I moved
-among men more warlike than you, and never did they despise me.
+among men more warlike than you.</s>
+
+<s xml:id="sent2274250" n="1.261"
+>And never did they treat me lightly.
 </s>
 
 <s xml:id="sent2274251" n="1.262-1.265">Such warriors have I
@@ -877,53 +889,70 @@ Polyphemus, <milestone n="265" unit="line"/>and Theseus, son of
 Aegeus, a man like the immortals. </s>
 
 <s xml:id="sent2274252"
-n="1.266">Mightiest were these of men reared upon the earth;
+n="1.266">Mightiest were these of men reared upon the earth.
 </s>
 
-<s xml:id="sent2274253" n="1.267-1.268">mightiest were they,
-and with the mightiest they fought, the mountain-dwelling
-centaurs, and they destroyed them terribly. </s><s
-xml:id="sent2274254" n="1.269-1.270">With these men I had
-fellowship, when I came from <placeName key="perseus,Pylos"
->Pylos</placeName>, <milestone n="270" unit="line"/>from a
-distant land far away; </s>
+<s xml:id="sent2274253" n="1.267-1.268">And with the mightiest they fought, the mountain-dwelling
+centaurs.
+
+</s>
+
+<s xml:id="sent2274253a" n="1.268">They destroyed them completely. </s>
+
+<s
+xml:id="sent2274254" n="1.269-1.270">With these men I was associated, when I came from <placeName key="perseus,Pylos"
+>Pylos</placeName>,<milestone n="270" unit="line"/>from a
+distant land far away. </s>
 
 <s xml:id="sent2274255" n="1.270">for
-they themselves called me. </s>
+For they themselves called me. </s>
 
 <s xml:id="sent2274256" n="1.271"
->And I fought on my own;<note resp="Loeb" anchored="true"
+>And I fought on my own -- I did that.<note></note>ἐγώ -- check the force of that late ἐγώ<note resp="Loeb" anchored="true"
 >1</note>
 </s>
 
-<s xml:id="sent2274257" n="1.271-1.272">with those men could no
-one fight of the mortals now upon the earth. </s><s
-xml:id="sent2274258" n="1.273">Yes, and they listened to my
-counsel, and obeyed my words. </s>
+<s xml:id="sent2274257" n="1.271-1.272">with those men no
+one  of the mortals who are now upon the earth could fight. </s>
 
-<s xml:id="sent2274259"
-n="1.274">So also should you obey, since to obey is better.
+<s
+xml:id="sent2274258" n="1.273">Yes, and they listened to my
+counsel.
+
 </s>
 
-<s xml:id="sent2274260" n="1.275-1.276"><milestone n="275"
-unit="line"/>Neither do you, mighty though you are, take
-away the girl, but let her be, as the sons of the Achaeans first
+<s
+xml:id="sent2274258" n="1.273">They obeyed my recommendation. </s>
+
+<s xml:id="sent2274259"
+n="1.274">So should you also obey, since to obey is better.
+</s>
+
+<s xml:id="sent2274260" n="1.275"><milestone n="275"
+unit="line"/>Neither you, mighty though you are, take
+the girl away from this man.
+
+</s>
+
+<s xml:id="sent2274260a" n="1.276">Let her be, as the sons of the Achaeans first
 gave her to him as a prize; </s>
 
 <s xml:id="sent2274261"
-n="1.277-1.279">nor do you, son of Peleus, be minded to strive
-with a king, might against might, for it is no common honour
-that is the portion of a sceptre-holding king, to whom Zeus
-gives glory. </s>
+n="1.277-1.279">And as for you, son of Peleus, don't with to compete
+with a king, might against might, for never a comparable honour
+has  a sceptre-holding king, to whom Zeus
+has given glory<note>κῦδος -- recall kudistos, sarcastically applied.</note>, received as his share. </s>
 
 <s xml:id="sent2274262" n="1.280-1.281"
 ><milestone n="280" unit="line"/>If you are a stronger
 fighter, and a goddess mother bore you, yet he is the mightier,
-since he is king over more. </s>
+since he holds mastery over over more. </s>
 
 <s xml:id="sent2274263"
-n="1.282">Son of Atreus, check your rage. </s><s
-xml:id="sent2274264" n="1.282-1.284">Indeed, I beg you to let go
+   n="1.282">And as for you, son of Atreus, check your rage. </s>
+
+<s
+xml:id="sent2274264" n="1.282-1.284">Indeed, I myself beg you to let go
 your anger against Achilles, who is for all the Achaeans a
 mighty bulwark in evil war. </s></q></p>
 </div>
@@ -941,15 +970,16 @@ answer to him spoke lord Agamemnon: </s></p>
 sure, you have spoken as is right. </s>
 
 <s xml:id="sent2274267"
-n="1.287-1.289">But this man wishes to be above all others; over
-all he wishes to rule and over all to be king, and to all to
-give orders; in this, I think, there is someone who will not
-obey. </s>
+n="1.287">But this man wishes to be above all others.</s>
+
+<s xml:id="sent2274267a"
+n="1.288-1.289">over
+he wishes to dominate all, to exercise mastery over all, and to command all<note>three forms of pas and what are the shades of kratew, anassw, and shmanew.</note>; this I don't think anyone will accept. </s>
 
 <s xml:id="sent2274268" n="1.290-1.291"><milestone
 n="290" unit="line"/>If the gods who exist for ever made him
 a spearman, do they therefore license him<note resp="Loeb"
-anchored="true">1</note> to keep uttering insults?
+anchored="true">1</note> to speak slander in public?
 </s></q></p>
 <p>
 
@@ -958,50 +988,76 @@ anchored="true">1</note> to keep uttering insults?
 and replied: </s><q>
 
 
-<s xml:id="sent2274270" n="1.293-1.294">Surely I would be called
-cowardly and of no account, if I am to yield to you in every
+<s xml:id="sent2274270" n="1.293-1.294">Surely I would be called a
+coward and a nobody, if I am to yield<note>is that ὑπείξομαι necessarily subjunctive?</note> to you in every
 matter that you say. </s>
 
-<s xml:id="sent2274271" n="1.295-1.296"
+<s xml:id="sent2274271" n="1.295"
 ><milestone n="295" unit="line"/>On others lay these
-commands, but do not give orders to me, </s><s
-xml:id="sent2274272" n="1.296">for I do not think I shall obey
+commands.
+
+</s>
+
+<s xml:id="sent2274271a" n="1.296"
+>Do not give orders to me at least<note>how do I capture the ge? "at least" is not strong enough.</note>. </s>
+
+<s
+xml:id="sent2274272" n="1.296">for I certainly do not think I shall obey
 you any longer. </s>
 
 <s xml:id="sent2274273" n="1.297">And
-another thing I will tell you, and take it to heart: </s><s
+another thing I will tell you. </s>
+
+<s xml:id="sent2274273a" n="1.297">And take it into your thick head: </s><s
 xml:id="sent2274274" n="1.298-1.299">with my hands I will not
-fight for the girl's sake either with you nor with any other,
-since you are taking away what you have given. </s><s
+fight for the girl's sake either with you nor with anyone else,
+since you are taking away<note>ge</note> what you have given. </s>
+
+<s
 xml:id="sent2274275" n="1.300-1.301"><milestone n="300"
-unit="line"/>But of all else that is mine by my swift black
-ship, nothing will you take or carry away against my will.
+unit="line"/>But of all the other things that are mine by my swift black
+ship, nothing would you take or carry away against my will.
 </s>
 
 <s xml:id="sent2274276" n="1.302">Come, just try, so that
-these too may know: </s>
+these too may take it in. </s>
 
 <s xml:id="sent2274277" n="1.303"
->forthwith will your dark blood flow forth about my spear.
+>Right away your dark blood will gush out around my spear.
 </s></q></p>
 <p>
 
 
-<s xml:id="sent2274278" n="1.304-1.305">So when the two had made an end
-of contending with violent words, <milestone n="305" unit="line"
-/>they rose, and broke up the gathering beside the ships of the
+<s xml:id="sent2274278" n="1.304-1.305">So when the two had battled with violent words, <milestone n="305" unit="line"
+/>they rose.</s>
+
+
+<s xml:id="sent2274278" n="1.305">Then they broke up the gathering beside the ships of the
 Achaeans. </s>
 
 <s xml:id="sent2274279" n="1.306-1.307">The son of
-Peleus went his way to his huts and his balanced ships together with
-the son of Menoetius, and with his men; </s>
+Peleus, for his part, went to his huts and his balanced ships together with
+the son of Menoetius and with his men. </s>
 
 <s xml:id="sent2274280"
-n="1.308-1.311">but the son of Atreus launched a swift ship on the
-sea, and chose for it twenty rowers, <milestone n="310" unit="line"
-/>and drove on board a hecatomb for the god, and brought the
-fair-cheeked daughter of Chryses and set her in the ship; </s><s
-xml:id="sent2274281" n="1.311">and Odysseus of many wiles went on
+n="1.308">The son of Atreus, however, had a swift ship dragged onto the
+sea.
+
+</s>
+
+<s xml:id="sent2274280a"
+n="1.309">He chose for it twenty rowers. </s>
+
+<s xml:id="sent2274280b"
+n="1.309-1.310"><milestone n="310" unit="line"
+/>Then he brought on board a hecatomb for the god.
+
+ </s>
+
+<s xml:id="sent2274280c"
+n="1.310-1.311">And he brought the
+fair-cheeked daughter of Chryses and seated her in the ship; </s><s
+xml:id="sent2274281" n="1.311">Odysseus of many wiles went on
 board to take command. </s></p>
 </div>
 <div type="textpart" subtype="card"
@@ -1009,79 +1065,119 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.312-1.344">
 <p>
 
 
-<s xml:id="sent2274282" n="1.312-1.313">So these embarked and sailed
-over the watery ways; but the son of Atreus bade the people purify
+<s xml:id="sent2274282" n="1.312">So these embarked and sailed
+over the watery ways.</s>
+<s xml:id="sent2274282a" n="1.313">The son of Atreus ordered the people to purify
 themselves. </s>
 
-<s xml:id="sent2274283" n="1.314-1.316">And they
-purified themselves, and cast the defilement into the sea,
-<milestone n="315" unit="line"/>and offered to Apollo perfect
+<s xml:id="sent2274283" n="1.314">And they
+purified themselves.</s>
+
+<s xml:id="sent2274283a" n="1.314">They cast the filth into the sea,
+</s>
+
+<s xml:id="sent2274283b" n="1.315-1.316"><milestone n="315" unit="line"/>Then they offered to Apollo perfect
 hecatombs of bulls and goats by the shore of the barren<note
-resp="Loeb" anchored="true">1</note> sea; </s><s
-xml:id="sent2274284" n="1.317">and the savour thereof went up to
-heaven, eddying amid the smoke.</s></p>
+resp="Loeb" anchored="true">1</note> sea; </s>
+
+<s
+xml:id="sent2274284" n="1.317">and the savour<note>κνίση</note> went up to the
+heavens, eddying amid the smoke.</s></p>
 <p>
 
 
-<s xml:id="sent2274285" n="1.318">Thus were they busied throughout the
-camp; </s>
+<s xml:id="sent2274285" n="1.318">Thus were they attended to these things throughout the
+camp. </s>
 
-<s xml:id="sent2274286" n="1.318-1.321">but Agamemnon did
-not cease from the strife with which he had first threatened
-Achilles, <milestone n="320" unit="line"/> but called to Talthybius
-and Eurybates, who were his heralds and ready squires: </s><q>
+<s xml:id="sent2274286" n="1.318-1.319">Agamemnon, however, did
+not stop from the quarrel with which he had first threatened
+Achilles.
+
+ </s>
+
+<s xml:id="sent2274286a" n="1.319-1.321">A<milestone n="320" unit="line"/> Rather, he spoke to Talthybius
+and Eurybates, who were his heralds and ready attendants. </s><q>
 
 
 <s xml:id="sent2274287" n="1.322">Go to the hut of Achilles, Peleus'
-son, </s>
+son. </s>
 
-<s xml:id="sent2274288" n="1.323">and take by the hand
-the fair-cheeked Briseis, and lead her hither; </s><s
+<s xml:id="sent2274288" n="1.323">Take by the hand
+the fair-cheeked Briseis, and lead her here. </s><s
 xml:id="sent2274289" n="1.324-1.325">and if he give her not, I
 will myself go <milestone n="325" unit="line"/> with a larger
-company and take her; </s>
+company and take her. </s>
 
-<s xml:id="sent2274290" n="1.325">that
+<s xml:id="sent2274290" n="1.325">That
 will be even the worse for him. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274291" n="1.326">So saying he sent them forth, and laid
-upon them a stern command. </s>
+<s xml:id="sent2274291" n="1.326">So saying he sent them forth, and gave them a harsh command. </s>
 
 <s xml:id="sent2274292"
-n="1.327-1.330">Unwilling went the two along the shore of the barren
-sea, and came to the tents and the ships of the Myrmidons. Him they
-found <milestone n="330" unit="line"/> sitting beside his tent and
-his black ship; </s>
+n="1.327">Those two went unwillingly along the shore of the barren
+sea.</s>
 
-<s xml:id="sent2274293" n="1.330">and Achilles
-was not glad at sight of them. </s>
+<s xml:id="sent2274292a"
+n="1.328-1.328">They came to the tents and the ships of the Myrmidons. </s>
+
+<s xml:id="sent2274292a"
+n="1.329-1.330">Him they
+found <milestone n="330" unit="line"/> sitting beside his tent and
+his black ship. </s>
+
+<s xml:id="sent2274293" n="1.330">Achilles
+was not glad to see them. </s>
 
 <s xml:id="sent2274294"
-n="1.331-1.332">The two, seized with dread and in awe of the king,
-stood, and spoke no word to him, nor made question; </s><s
+n="1.331-1.332">The two, scared and embarrassed before the king,
+stood.
+
+</s>
+
+<s xml:id="sent2274294a"
+   n="1.332">They did not speak to him.
+
+</s>
+
+<s xml:id="sent2274294b"
+   n="1.332">Nor did they ask any questions. </s><s
 xml:id="sent2274295" n="1.333">but he knew in his heart, and spoke: </s><q>
 
 
-<s xml:id="sent2274296" n="1.334-1.335">Hail, heralds, messengers of
-Zeus and men, <milestone n="335" unit="line"/> draw near. </s><s
+<s xml:id="sent2274296" n="1.334">Welcome, heralds, messengers of
+Zeus and men, </s>
+<s xml:id="sent2274296a" n="1.335"><milestone n="335" unit="line"/>Come closer. </s><s
 xml:id="sent2274297" n="1.335-1.336">It is not you who are
 guilty in my sight, but Agamemnon, who sent you forth for the
 sake of the girl, Briseis. </s>
 
 <s xml:id="sent2274298"
-n="1.337-1.338">But come, Patroclus, sprung from Zeus, bring
-forth the girl, and give her to them to lead away. </s><s
+n="1.337">But come, Patroclus, sprung from Zeus, bring
+forth the girl.
+
+</s>
+
+<s xml:id="sent2274298a"
+n="1.338">Give her to them to lead away. </s>
+
+
+<s
 xml:id="sent2274299" n="1.338-1.342">However, let these two
 themselves be witnesses before the blessed gods and mortal men,
-and before him, that ruthless king, if hereafter <milestone
+and before him, that ruthless king, if ever <milestone
 n="340" unit="line"/>there shall be need of me to ward off
-shameful ruin from the host. </s>
+shameful ruin from the others. </s>
 
 <s xml:id="sent2274300"
-n="1.342-1.344">Truly he rages with baneful mind, and knows not
-at all to look both before and after, that his Achaeans might
+   n="1.342">For he rages with destructive mind.
+
+ </s>
+
+<s xml:id="sent2274300a"
+   n="1.343-1.344">Nor does he understand
+at all how to look both before and after, so that his Achaeans might
 wage war in safety beside their ships. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
@@ -1089,16 +1185,24 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.345-1.385">
 <p>
 
 
-<s xml:id="sent2274301" n="1.345-1.347"><milestone n="345" unit="line"
-/>So he spoke, and Patroclus obeyed his dear comrade, and led forth
-from the hut the fair-cheeked Briseis, and gave her to them to lead
+<s xml:id="sent2274301" n="1.345"><milestone n="345" unit="line"
+/>So he spoke.</s>
+
+<s xml:id="sent2274301a" n="1.345">Patroclus obeyed his dear comrade.</s>
+
+<s xml:id="sent2274301b" n="1.346">He led forth
+from the hut the fair-cheeked Briseis.</s>
+
+<s xml:id="sent2274301" n="1.347">He gave her to them to lead
 away. </s>
 
 <s xml:id="sent2274302" n="1.347">So the two went back
 beside the ships of the Achaeans, </s>
 
 <s xml:id="sent2274303"
-n="1.348">and with them, all unwilling, went the woman. </s><s
+   n="1.348">And with them, all unwilling, went the woman. </s>
+
+<s
 xml:id="sent2274304" n="1.348-1.350">But Achilles burst into tears,
 and withdrew apart from his comrades, and sat down <milestone
 n="350" unit="line"/> on the shore of the grey sea, looking
@@ -1110,27 +1214,34 @@ forth over the wine-dark deep. </s>
 
 <s xml:id="sent2274306" n="1.352-1.354">Mother, since you bore me,
 though to so brief a span of life, honour surely ought the
-Olympian to have given into my hands, Zeus who thunders on high;
+Olympian, Zeus, who thunders on high, have given me at the very least honour.
 </s>
 
-<s xml:id="sent2274307" n="1.354">but now he has honoured me
+<s xml:id="sent2274307" n="1.354">But now he has honoured me
 not a bit. </s>
 
 <s xml:id="sent2274308" n="1.355-1.356"
 ><milestone n="355" unit="line"/>Truly the son of Atreus,
-wide-ruling Agamemnon has dishonoured me: </s><s
+wide-ruling Agamemnon has dishonoured me.</s>
+
+<s
 xml:id="sent2274309" n="1.356">for he has taken and keeps my
-prize through his own arrogant act. </s></q></p>
+prize -- he himself made away with her.  </s></q></p>
 <p>
 
 
-<s xml:id="sent2274310" n="1.357-1.358">So he spoke, weeping, and his
+  <s xml:id="sent2274310" n="1.357-1.358">So he spoke, weeping.</s>
+
+  <s xml:id="sent2274310a" n="1.357-1.358">His
 lady mother heard him, as she sat in the depths of the sea beside
 the old man, her father. </s>
 
 <s xml:id="sent2274311" n="1.359-1.361"
 >And speedily she came forth from the grey sea like a mist,
-<milestone n="360" unit="line"/>and sat down before him, as he
+</s>
+
+<s xml:id="sent2274311a" n="1.360-1.361"
+><milestone n="360" unit="line"/>She sat down before him, as he
 wept, and she stroked him with her hand, and spoke to him, and
 called him by name: </s><q>
 
@@ -1153,41 +1264,50 @@ swift-footed Achilles to her: </s><q>
 
 <s xml:id="sent2274317" n="1.365">Why then
 should I tell the tale to you who knows all? </s><s
-xml:id="sent2274318" n="1.366-1.367">We went forth to Thebe, the
-sacred city of Eetion, and laid it waste, and brought here all
+xml:id="sent2274318" n="1.366">We went forth to Thebe, the
+sacred city of Eetion.
+
+<s
+xml:id="sent2274318a" n="1.367">We laid it waste, and brought here all
 the spoil. </s>
 
 <s xml:id="sent2274319" n="1.368-1.369">This the
 sons of the Achaeans divided properly among themselves, but for
-the son of Atreus they chose out the fair-cheeked daughter of
+the son of Atreus they took out the fair-cheeked daughter of
 Chryses. </s>
 
-<s xml:id="sent2274320" n="1.370-1.375"><milestone
+<s xml:id="sent2274320" n="1.370-1.374"><milestone
 n="370" unit="line"/>However, Chryses, priest of Apollo, who
 strikes from afar, came to the swift ships of the bronze-clad
 Achaeans, to free his daughter, bearing ransom past counting,
 and in his hands he held the wreaths of Apollo who strikes from
-afar, on a staff of gold, and he implored all the Achaeans,
+afar, on a staff of gold. </s>
+
+<s xml:id="sent2274320a" n="1.374-1.375">He began to beg all the Achaeans,
 <milestone n="375" unit="line"/> but most of all the two
 sons of Atreus, marshallers of the people. </s><s
 xml:id="sent2274321" n="1.376-1.377">Then all the rest of the
-Achaeans shouted assent, to reverence the priest and accept the
-glorious ransom; </s>
+Achaeans, on the one hand, shouted assent, to reverence the priest and accept the
+glorious ransom.</s>
 
-<s xml:id="sent2274322" n="1.378-1.379">yet
-the thing did not please the heart of Agamemnon, son of Atreus,
+<s xml:id="sent2274322" n="1.378-1.379">But this did not please the heart of Agamemnon, son of Atreus,
 but he sent him away harshly, and laid upon him a stern command.
 </s>
 
 <s xml:id="sent2274323" n="1.380"><milestone n="380"
-unit="line"/>So the old man went back again in anger; </s><s
-xml:id="sent2274324" n="1.380-1.382">and Apollo heard his
-prayer, for he was very dear to him, and sent against the
-Argives an evil shaft. </s>
+unit="line"/>So the old man went back again in anger.<note>χώομαι again.</note></s><s
+xml:id="sent2274324" n="1.380-1.381">Apollo heard him
+praying, for he was very dear to him.</s>
+
+<s
+xml:id="sent2274324a" n="1.380-1.382">He launched against the
+Argives an evil shot. </s>
 
 <s xml:id="sent2274325"
-n="1.382-1.384">Then the people began to die thick and fast, and
-the shafts of the god ranged everywhere throughout the wide camp
+n="1.382-1.383">Then the people began to die thick and fast. </s>
+
+<s xml:id="sent2274325a"
+n="1.383-1.384">The shafts of the god kept ranging everywhere throughout the wide camp
 of the Achaeans. </s>
 
 <s xml:id="sent2274326" n="1.384-1.385">But
@@ -1200,19 +1320,25 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.386-1.427">
 <p><q>
 
 
-<s xml:id="sent2274327" n="1.386">Forthwith, then, I first bade
-propitiate the god, </s>
+<s xml:id="sent2274327" n="1.386">Immediately, then, I was the first who demanded
+propitiating the god, </s>
 
-<s xml:id="sent2274328" n="1.387-1.388"
->but thereafter anger seized the son of Atreus, and straightway
-he arose and spoke a threatening word, which now has come to
-pass. </s>
+<s xml:id="sent2274328" n="1.387"
+   >Then anger seized the son of Atreus.
+
+</s>
+
+<s xml:id="sent2274328a" n="1.387-1.388"
+   >At once,
+he arose and made a formal threat, which now has been brought to completion. </s>
 
 <s xml:id="sent2274329" n="1.389-1.390">For the
 quick-glancing Achaeans are taking the maiden in a swift ship
 <milestone n="390" unit="line"/>to <placeName
-key="perseus,Chryse">Chryse</placeName>, and are bearing
-gifts to the god; </s>
+key="perseus,Chryse">Chryse</placeName>. </s>
+
+<s xml:id="sent2274329" n="1.389-1.390">They are bringing
+gifts to the god. </s>
 
 <s xml:id="sent2274330" n="1.391-1.392"
 >while the other woman the heralds have just now taken from my
@@ -1220,24 +1346,26 @@ tent and led away, the daughter of Briseus, whom the sons of the
 Achaeans gave me. </s>
 
 <s xml:id="sent2274331" n="1.393">But,
-you, if you are able, guard your own son; </s><s
+you, for your part, if you are able, protect your own child. </s>
+
+<s
 xml:id="sent2274332" n="1.394-1.395">go to <placeName
-key="tgn,7011019">Olympus</placeName> and make prayer to
+key="tgn,7011019">Olympus</placeName> and entreat
 Zeus, if ever <milestone n="395" unit="line"/> you have
-gladdened his heart by word or deed. </s>
+gladdened his heart whether by word or even by action. </s>
 
 <s xml:id="sent2274333"
-n="1.396-1.400">For often I have heard you glorying in the halls
+n="1.396-1.400">For often I have heard you boasting in the halls
 of my father, and declaring that you alone among the immortals
-warded off shameful ruin from the son of Cronos, lord of the
-dark clouds, on the day when the other Olympians wished to put
-him in bonds, <milestone n="400" unit="line"/>even Hera and
+warded off shameful destruction from the son of Cronos, lord of the
+dark clouds, when they  wished to put
+him in bonds, <milestone n="400" unit="line"/> -- the rest of the Olympians, including Hera and
 Poseidon and Pallas Athene. </s>
 
 <s xml:id="sent2274334"
 n="1.401-1.404">But you came, goddess, and freed him from his
 bonds, when you had quickly called to high <placeName
-key="tgn,7011019">Olympus</placeName> him of the hundred
+key="tgn,7011019">Olympus</placeName> the one with a hundred
 hands, whom the gods call Briareus, but all men Aegaeon; for he
 is mightier than his father.<note resp="Loeb" anchored="true"
 >1</note>
@@ -1245,18 +1373,22 @@ is mightier than his father.<note resp="Loeb" anchored="true"
 
 <s xml:id="sent2274335" n="1.405"><milestone n="405" unit="line"
 /> He sat down by the side of the son of Cronos, exulting in his
-glory, </s>
+glory<note>κῦδος</note>. </s>
 
 <s xml:id="sent2274336" n="1.406">and the blessed
-gods were seized with fear of him, and did not bind Zeus. </s><s
-xml:id="sent2274337" n="1.407-1.412">Bring this now to his
-remembrance, and sit by his side, and clasp his knees, in hope
-that he might perhaps wish to succour the Trojans, and for those
-others, the Achaeans, to pen them in among the sterns of their
+gods were seized with fear of him.
+
+ </s>
+
+ <s xml:id="sent2274336a" n="1.406">They did not bind Zeus. </s>
+
+ <s
+xml:id="sent2274337" n="1.407-1.412">Reminding him now of these things, sit<note>παρέζεο as "crouch"?</note> by his side and clasp his knees, if perhaps he might come to the aid of the Trojans, and to pen those
+others, the Achaeans, them in among the sterns of their
 ships and around the sea <milestone n="410" unit="line"/>as they
-are slain, so that they may all have profit of their king, and
-that the son of Atreus, wide-ruling Agamemnon may know his
-blindness in that he did no honour to the best of the Achaeans.
+are killed, so that they may all profit from their king, and
+so that the son of Atreus, wide-ruling Agamemnon may know his
+blindness<note>ἄτη</note> because he did no honour the best of the Achaeans.
 </s></q></p>
 <p>
 
@@ -1268,20 +1400,19 @@ blindness in that he did no honour to the best of the Achaeans.
 you, cursed in my child-bearing? </s>
 
 <s xml:id="sent2274340"
-n="1.415-1.416"><milestone n="415" unit="line"/>Would that it
-had been your lot to remain by your ships without tears and
+n="1.415-1.416"><milestone n="415" unit="line"/>If only you could have remained by your ships without tears and
 without grief, since your span of life is brief and endures no
-long time; </s>
+long time. </s>
 
-<s xml:id="sent2274341" n="1.417-1.418">but now
-you are doomed to a speedy death and are laden with sorrow above
-all men; </s>
+<s xml:id="sent2274341" n="1.417-1.418">But now
+you are doomed to a speedy death and are miserable above
+all men. </s>
 
-<s xml:id="sent2274342" n="1.418">therefore to an
+<s xml:id="sent2274342" n="1.418">Therefore to an
 evil fate I bore you in our halls. </s>
 
 <s xml:id="sent2274343"
-n="1.419-1.420">Yet in order to tell this your word to Zeus who
+n="1.419-1.420">Yet in order to tell this your word<note>ἔπος</note> to Zeus who
 delights in the thunderbolt <milestone n="420" unit="line"/> I
 will myself go to snowy <placeName key="tgn,7011019"
 >Olympus</placeName>, in hope that he may be persuaded.
@@ -1289,67 +1420,125 @@ will myself go to snowy <placeName key="tgn,7011019"
 
 <s xml:id="sent2274344" n="1.421-1.422">But remain by your
 swift, sea-faring ships, and continue your wrath against the
-Achaeans, and refrain utterly from battle; </s><s
-xml:id="sent2274345" n="1.423-1.424">for Zeus went yesterday to
-Oceanus, to the blameless Ethiopians for a feast, and all the
-gods followed with him; </s>
+Achaeans.
+
+</s>
+
+<s xml:id="sent2274344" n="1.422">Refrain completely from battle. </s>
+
+<s
+xml:id="sent2274345" n="1.423-1.424">For Zeus went yesterday to
+Oceanus, to the blameless Ethiopians for a feast.
+
+</s>
+
+<s xml:id="sent2274344a" n="1.421-1.422">All the
+gods followed as well. </s>
 
 <s xml:id="sent2274346"
-n="1.425-1.427"><milestone n="425" unit="line"/>but on the
+n="1.425"><milestone n="425" unit="line"/>But on the
 twelfth day he will come back again to <placeName
-key="tgn,7011019">Olympus</placeName>, and then will I go to
-the house of Zeus with threshold of bronze, and will clasp his
-knees in prayer, and I think I shall win him. </s></q></p>
+key="tgn,7011019">Olympus</placeName>.
+
+</s>
+
+<s xml:id="sent2274346a"
+n="1.426-1.427">Then I will go to
+the house of Zeus with threshold of bronze.
+
+</s>
+
+<s xml:id="sent2274346b"
+n="1.425-1.427">I will clasp his
+knees.
+
+</s>
+
+<s xml:id="sent2274346c"
+n="1.425-1.427">And I believe that I shall persuade him. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.428-1.457">
 <p>
 
 
-<s xml:id="sent2274347" n="1.428-1.430">So saying, she went her way and
+  <s xml:id="sent2274347" n="1.428">So saying, she went her way.</s>
+
+ <s xml:id="sent2274347a" n="1.428-1.430">She
 left him where he was, angry at heart for the fair-girdled woman's
 sake, <milestone n="430" unit="line"/> whom they had taken from him
 by force though he was unwilling; </s>
 
 <s xml:id="sent2274348"
-n="1.430-1.431">and meanwhile Odysseus came to <placeName
-key="perseus,Chryse">Chryse</placeName> bringing the holy
+n="1.430-1.431">Meanwhile Odysseus came to <placeName
+key="perseus,Chryse">Chryse</placeName> bringing the sacred
 hecatomb. </s>
 
-<s xml:id="sent2274349" n="1.432-1.435">When they had
+<s xml:id="sent2274349" n="1.432-1.433">When they had
 arrived within the deep harbour, they furled the sail, and stowed it
-in the black ship, and the mast they lowered by the forestays and
-brought it to the crutch <milestone n="435" unit="line"/> with
-speed, and rowed her with oars to the place of anchorage. </s><s
-xml:id="sent2274350" n="1.436">Then they cast out the mooring-stones
-and made fast the stern cables, </s>
+in the black ship.
 
-<s xml:id="sent2274351"
-n="1.437-1.438">and themselves went forth upon the shore of the sea.
-They brought forth the hecatomb for Apollo, who strikes from afar,
 </s>
 
-<s xml:id="sent2274352" n="1.439">and forth stepped also the
-daughter of Chryses from the sea-faring ship. </s><s
+<s xml:id="sent2274349a" n="1.434-1.435">They lowered the mast by the forestays and
+brought it to the crutch <milestone n="435" unit="line"/> with
+speed.
+
+</s>
+
+<s xml:id="sent2274349b" n="1.435">They rowed her with oars to the place of anchorage. </s>
+
+<s
+    xml:id="sent2274350" n="1.436">They cast out the mooring-stones.
+
+</s>
+
+<s
+xml:id="sent2274350a" n="1.436">They made fast the stern cables. </s>
+
+<s xml:id="sent2274351"
+n="1.437">Then they themselves went out onto the shore of the sea.
+
+</s>
+
+<s xml:id="sent2274351a"
+n="1.438">They brought forth the hecatomb for Apollo, who strikes from afar,
+</s>
+
+<s xml:id="sent2274352" n="1.439">Out stepped also the
+daughter of Chryses from the sea-faring ship. </s>
+
+
+<s
 xml:id="sent2274353" n="1.440-1.441"><milestone n="440" unit="line"
-/>Her then did Odysseus of many wiles lead to the altar, and place
-in the arms of her dear father, saying to him: </s><q>
+/>Odysseus of many wiles led her to the altar and placed
+in the arms of her dear father.</s>
+
+
+<s
+xml:id="sent2274353a" n="1.441">He said to him: </s><q>
 
 
 <s xml:id="sent2274354" n="1.442-1.445">Chryses, Agamemnon, king of
 men, sent me forth to bring to you your daughter, and to offer
-to Phoebus a holy hecatomb on the Danaans' behalf, that
-therewith we may propitiate the lord, <milestone n="445"
+to Phoebus a holy hecatomb on the Danaans' behalf, so that we may propitiate the lord, <milestone n="445"
 unit="line"/> who has now brought upon the Argives woeful
-lamentation. </s></q></p>
+sufferings. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274355" n="1.446-1.447">So saying he placed her in his
-arms, and he joyfully took his dear child; </s><s
-xml:id="sent2274356" n="1.447-1.449">but they made haste to set in
-array for the god the holy hecatomb around the well-built altar, and
-then they washed their hands and took up the barley grains. </s><s
+<s xml:id="sent2274355" n="1.446">So saying he placed her in his
+arms.</s>
+
+<s xml:id="sent2274355a" n="1.446-1.447">He joyfully took his dear child; </s>
+
+<s
+xml:id="sent2274356" n="1.447-1.448">They made haste to set in
+array for the god the holy hecatomb around the well-built altar.</s>
+
+<s
+xml:id="sent2274356a" n="1.449">
+Then they washed their hands and took up the barley grains. </s><s
 xml:id="sent2274357" n="1.450"><milestone n="450" unit="line"/>Then
 Chryses lifted up his hands, and prayed aloud for them: </s></p>
 <p><q>
@@ -1357,40 +1546,61 @@ Chryses lifted up his hands, and prayed aloud for them: </s></p>
 
 <s xml:id="sent2274358" n="1.451-1.452">Hear me, god of the silver
 bow, who stands over <placeName key="perseus,Chryse"
->Chryse</placeName> and holy Cilla, and rules mightily over
-<placeName key="perseus,Tenedos">Tenedos</placeName>. </s><s
-xml:id="sent2274359" n="1.453-1.454">As before you heard me when
-I prayed—to me you did honour, and mightily smote the host of
-the Achaeans—even </s>
+>Chryse</placeName> and holy Cilla, and rules with force over
+<placeName key="perseus,Tenedos">Tenedos</placeName>. </s>
+
+
+<s
+xml:id="sent2274359" n="1.453">You heard me when
+I prayed before.
+
+
+ </s>
+
+
+<s
+xml:id="sent2274359a" n="1.454">Honouring me you mightily struck the host of
+the Achaeans. </s>
 
 <s xml:id="sent2274360" n="1.455"
-><milestone n="455" unit="line"/> so now fulfill me this my
-desire: </s>
+><milestone n="455" unit="line"/>Even so now fulfill me this
+wish of mine: </s>
 
 <s xml:id="sent2274361" n="1.456">ward off now from
-the Danaans the loathly pestilence. </s></q></p>
+the Danaans the loathesome pestilence. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.457-1.492">
 <p>
 
 
-<s xml:id="sent2274362" n="1.457">So he spoke in prayer, and Phoebus
-Apollo heard him. </s>
+  <s xml:id="sent2274362" n="1.457">So he spoke in prayer.</s>
+
+  <s xml:id="sent2274362a" n="1.457">Phoebus
+Apollo listened to him. </s>
 
 <s xml:id="sent2274363" n="1.458-1.461">Then,
 when they had prayed, and had sprinkled the barley grains, they
 first drew back the victims' heads, and cut their throats, and
 flayed them, <milestone n="460" unit="line"/>and cut out the thighs
-and covered them with a double layer of fat, and laid raw flesh
-thereon. </s>
+and covered them with a double layer of fat.
 
-<s xml:id="sent2274364" n="1.462-1.463">And the old man
-burned them on stakes of wood, and made libation over them of
+</s>
+
+<s xml:id="sent2274363a" n="1.461">Then they laid raw pieces on them. </s>
+
+<s xml:id="sent2274364" n="1.462">And the old man
+burned them on stakes of wood.
+
+</s>
+
+<s xml:id="sent2274364a" n="1.462-1.463">He made libation over them of
 gleaming wine; </s>
 
 <s xml:id="sent2274365" n="1.463">and beside him
-the young men held in their hands the five-pronged forks. </s><s
+the young men held in their hands five-pronged forks. </s>
+
+<s
 xml:id="sent2274366" n="1.464-1.466">But when the thigh-pieces were
 wholly burned, and they had tasted the entrails, <milestone n="465"
 unit="line"/>they cut up the rest and spitted it, and roasted it
@@ -1399,48 +1609,56 @@ carefully, and drew all off the spits. </s>
 <s xml:id="sent2274367"
 n="1.467-1.468">Then, when they had ceased from their labour and had
 made ready the meal, they feasted, nor did their hearts lack
-anything of the equal feast. </s>
+anything from the equal feast. </s>
 
 <s xml:id="sent2274368"
 n="1.469-1.471">But when they had put from them the desire for food
 and drink, <milestone n="470" unit="line"/>the youths filled the
 bowls brim full of drink and served out to all, first pouring drops
-for libation into the cups. </s>
+for libation into the cups.<note>Treebank takes all with cups.</note> </s>
 
 <s xml:id="sent2274369"
 n="1.472-1.474">So the whole day long they sought to appease the god
 with song, singing the beautiful paean, the sons of the Achaeans,
-hymning the god who works from afar; </s>
+hymning the god who works from afar. </s>
 
 <s xml:id="sent2274370"
-n="1.474">and his heart was glad, as he heard.</s></p>
+n="1.474">And he was pleased in his heart as he listened.</s></p>
 <p>
 
 
 <s xml:id="sent2274371" n="1.475-1.476"><milestone n="475" unit="line"
 />But when the sun set and darkness came on, they lay down to rest
-by the stern cables of the ship, </s>
+by the stern cables of the ship. </s>
 
 <s xml:id="sent2274372"
-n="1.477-1.478">and as soon as early rosy-fingered Dawn appeared,
+n="1.477-1.478">As soon as early rosy-fingered Dawn appeared,
 then they set sail for the wide camp of the Achaeans. </s><s
 xml:id="sent2274373" n="1.479">And Apollo, who works from afar, sent
-them a favouring wind, </s>
+them a favouring wind. </s>
 
-<s xml:id="sent2274374" n="1.480-1.482"
-><milestone n="480" unit="line"/> and they set up the mast and
-spread the white sail. So the wind filled the belly of the sail, and
-the dark wave sang loudly about the stem of the ship, as she went,
+<s xml:id="sent2274374" n="1.480"
+><milestone n="480" unit="line"/>They set up the mast and
+spread the white sail.  </s>
+
+<s xml:id="sent2274374a" n="1.481"
+>So the wind filled the belly of the sail. </s>
+
+<s xml:id="sent2274374b" n="1.481-1.482"
+>The dark wave sang loudly about the stem of the ship, as she went,
 </s>
 
-<s xml:id="sent2274375" n="1.483">and she sped over the wave,
+<s xml:id="sent2274375" n="1.483">And she sped over the wave,
 accomplishing her way. </s>
 
 <s xml:id="sent2274376" n="1.484-1.486"
 >But when they came to the wide camp of the Achaeans, <milestone
 n="485" unit="line"/> they drew the black ship up on the shore,
-high upon the sands, and set in line the long props beneath, </s><s
-xml:id="sent2274377" n="1.487">and themselves scattered among the
+high upon the sands, and set in line the long props beneath. </s>
+
+
+<s
+xml:id="sent2274377" n="1.487">They themselves scattered among the
 tents and ships.</s></p>
 <p>
 
@@ -1449,10 +1667,18 @@ tents and ships.</s></p>
 his swift-faring ships, the Zeus-sprung son of Peleus, swift-footed
 Achilles. </s>
 
-<s xml:id="sent2274379" n="1.490-1.492"><milestone
-n="490" unit="line"/>Never did he go forth to the place of
-gathering, where men win glory, nor ever to war, but wasted away his
-own heart, as he tarried where he was; and he longed for the war-cry
+<s xml:id="sent2274379" n="1.490-1.491"><milestone
+n="490" unit="line"/>Never did he visit either the place of
+assembly, where men win glory, or war.
+
+</s>
+
+<s xml:id="sent2274379a" n="1.491-1.492">Rather he wasted away his
+own heart, as he tarried where he was.
+
+</s>
+
+<s xml:id="sent2274379b" n="1.492">He longed for the war-cry
 and the battle. </s></p>
 </div>
 <div type="textpart" subtype="card"
@@ -1460,17 +1686,24 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.493-1.530">
 <p>
 
 
-<s xml:id="sent2274380" n="1.493-1.495">Now when the twelfth morning
-thereafter had come, then into <placeName key="tgn,7011019"
+<s xml:id="sent2274380" n="1.493-1.495">Now when it was the twelfth morning
+from that point, then into <placeName key="tgn,7011019"
 >Olympus</placeName> came the gods who are for ever, <milestone
-n="495" unit="line"/>all in one company, and Zeus led the way.
+n="495" unit="line"/>all in one company.</s>
+
+<s xml:id="sent2274380" n="1.495">Zeus led the way.
 </s>
 
 <s xml:id="sent2274381" n="1.495-1.496">And Thetis did not
-forget the behest of her son, but rose up from the wave of the sea,
+forget the instructions of her son.
+
+
 </s>
 
-<s xml:id="sent2274382" n="1.497">and at early morning went up
+<s xml:id="sent2274381a" n="1.496">She rose up from the wave of the sea,
+</s>
+
+<s xml:id="sent2274382" n="1.497">In early morning she went up
 to great heaven and <placeName key="tgn,7011019"
 >Olympus</placeName>. </s>
 
@@ -1478,9 +1711,15 @@ to great heaven and <placeName key="tgn,7011019"
 >There she found the far-seeing son of Cronos sitting apart from the
 rest upon the topmost peak of many-ridged <placeName
 key="tgn,7011019">Olympus</placeName>. </s><s
-xml:id="sent2274384" n="1.500-1.502"><milestone n="500" unit="line"
-/>So she sat down before him, and clasped his knees with her left
-hand, while with her right she touched him beneath the chin, and she
+xml:id="sent2274384" n="1.500"><milestone n="500" unit="line"
+/>So she sat down before him.
+
+<s
+xml:id="sent2274384a" n="1.500-1.501">She clasped his knees with her left
+hand.
+
+<s
+xml:id="sent2274384b" n="1.501-1.502">With her right hand touching him beneath the chin,  she
 spoke in prayer to king Zeus, son of Cronos: </s><q>
 
 
