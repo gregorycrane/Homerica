@@ -84,12 +84,28 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.1-1.32">
 <p>
 
 
-<s xml:id="sent2274106" n="1.1-1.7"><milestone n="1" unit="line"/>The
-wrath sing, goddess, of Peleus' son, Achilles, that destructive
-wrath which brought countless woes upon the Achaeans, and sent forth
-to Hades many valiant souls of heroes, and made them themselves
-spoil for dogs and every bird; thus the plan of Zeus came to
-fulfillment, <milestone n="5" unit="line"/>from the time when<note
+<s xml:id="sent2274106" n="1.1-1.2"><milestone n="1" unit="line"/>Sing, goddess, about the wrath of Peleus' son, Achilles, a killing wrath.
+
+</s>
+
+<s xml:id="sent2274106a" n="1.2">It imposed countless suffering upon the Achaeans.
+
+</s>
+
+<s xml:id="sent2274106b" n="1.3">It dispatched to Hades many valiant souls of heroes.
+
+</s>
+
+<s xml:id="sent2274106c" n="1.4-1.5">It made them themselves
+spoil for dogs <milestone n="5" unit="line"/> and every bird.
+
+</s>
+
+<s xml:id="sent2274106d" n="1.5">The plan of Zeus came to be fulfilled.
+
+</s>
+
+<s xml:id="sent2274106e" n="1.6-1.7">From the time when<note
 resp="Loeb" anchored="true">1</note> first they parted in strife
 Atreus' son, king of men, and brilliant Achilles.</s></p>
 <p>
@@ -101,17 +117,26 @@ these two together to contend? </s>
 <s xml:id="sent2274108" n="1.9"
 >The son of Leto and Zeus. </s>
 
-<s xml:id="sent2274109" n="1.9-1.12"
->for he in anger against the king roused throughout the host an evil
-pestilence, and the people began to perish, <milestone n="10"
+<s xml:id="sent2274109" n="1.9-1.10"
+>For he in anger against the king roused throughout the host an evil
+disease.
+
+</s>
+
+<s xml:id="sent2274109a" n="1.11-1.12"
+>The people began to perish, <milestone n="10"
 unit="line"/>because upon the priest Chryses the son of Atreus
 had wrought dishonour. </s>
 
-<s xml:id="sent2274110" n="1.12-1.16">For
+<s xml:id="sent2274110" n="1.12-1.15">For
 he had come to the swift ships of the Achaeans to free his daughter,
 bearing ransom past counting; and in his hands he held the wreaths
 of Apollo who strikes from afar,<note resp="Loeb" anchored="true"
->2</note> on a staff of gold; and he implored all the Achaeans,
+>2</note> on a staff of gold.
+
+</s>
+
+<s xml:id="sent2274110" n="1.15-1.16">He began to plead with all the Achaeans,
 <milestone n="15" unit="line"/>but most of all the two sons of
 Atreus, the marshallers of the people: </s><q>
 
@@ -123,8 +148,8 @@ you sack the city of Priam, and return safe to your homes;
 </s>
 
 <s xml:id="sent2274112" n="1.20-1.21"><milestone n="20"
-unit="line"/>but my dear child release to me, and accept the
-ransom out of reverence for the son of Zeus, Apollo who strikes
+unit="line"/>Release my dear child to me, and accept the
+ransom, reverencing the son of Zeus, Apollo who strikes
 from afar. </s></q></p>
 <p>
 
@@ -133,40 +158,54 @@ from afar. </s></q></p>
 shouted assent, to reverence the priest and accept the glorious
 ransom, </s>
 
-<s xml:id="sent2274114" n="1.24-1.25">yet the thing did
-not please the heart of Agamemnon, son of Atreus,<milestone n="25"
-unit="line"/> but he sent him away harshly, and laid upon him a
-stern command: </s></p>
+<s xml:id="sent2274114" n="1.24">But this did
+not please the heart of Agamemnon, son of Atreus.
+
+</s>
+
+<s xml:id="sent2274114a" n="1.25"><milestone n="25"
+unit="line"/>Instead, he sent him away harshly.
+
+
+</s>
+
+<s xml:id="sent2274114b" n="1.25">An in addition<note>this is my attempt to capture the force of epi</note> he laid upon him a
+harsh command: </s></p>
 <p><q>
 
 
 <s xml:id="sent2274115" n="1.26-1.28">Let me not find you, old man,
-by the hollow ships, either tarrying now or coming back later,
-lest your staff and the wreath of the god not protect you.
+by the hollow ships, either hanging around now or coming back later,
+so that the staff and the wreath of the god do you now good
 </s>
 
 <s xml:id="sent2274116" n="1.29">Her I will not set free.
 </s>
 
-<s xml:id="sent2274117" n="1.29-1.31">Sooner shall old age
+<s xml:id="sent2274117" n="1.29-1.31">Sooner will old age
 come upon her <milestone n="30" unit="line"/> in our house, in
 <placeName key="perseus,Argos">Argos</placeName>, far from
-her native land, as she walks to and fro before the loom and
-serves my bed. </s>
+her native land, spending her time at the loom and my bed. </s>
 
-<s xml:id="sent2274118" n="1.32">But go, do
-not anger me, that you may return the safer. </s></q></p>
+<s xml:id="sent2274118" n="1.32">Go!  </s>
+
+<s xml:id="sent2274118a" n="1.32">Do
+not anger me, so that you may return the safer<note>I really need to understand the force of the comparative here.</note>. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.33-1.67">
 <p>
 
 
-<s xml:id="sent2274119" n="1.33">So he spoke, and the old man was seized
-with fear and obeyed his word. </s>
+  <s xml:id="sent2274119" n="1.33">So he spoke.</s>
+
+  <s xml:id="sent2274119a" n="1.33">The old man was seized
+with fear.</s>
+
+  <s xml:id="sent2274119b" n="1.33">He obeyed his word. </s>
 
 <s xml:id="sent2274120" n="1.34"
->He went forth in silence along the shore of the loud-resounding
+>He went in silence to the shore of the loud-resounding
 sea, </s>
 
 <s xml:id="sent2274121" n="1.35-1.36"><milestone n="35"
@@ -174,21 +213,32 @@ unit="line"/>and earnestly then, when he had gone apart, the old
 man prayed to the lord Apollo, whom fair-haired Leto bore: </s><q>
 
 
-<s xml:id="sent2274122" n="1.37-1.41">Hear me, god of the silver
+<s xml:id="sent2274122" n="1.37-1.38">Hear me, god of the silver
 bow, who stand over <placeName key="perseus,Chryse"
 >Chryse</placeName> and holy Cilla, and rule mightily over
-<placeName key="perseus,Tenedos">Tenedos</placeName>,
-Sminthian god,<note resp="Loeb" anchored="true">1</note> if ever
+<placeName key="perseus,Tenedos">Tenedos</placeName>.</s>
+
+
+<s xml:id="sent2274122a" n="1.39-1.41">Sminthian god,<note resp="Loeb" anchored="true">1</note> if ever
 I roofed over a temple to your pleasing, or if ever I burned to
 you fat thigh-pieces of bulls and goats, <milestone n="40"
-unit="line"/>fulfill this prayer for me: </s><s
-xml:id="sent2274123" n="1.42">let the Danaans pay for my tears
-by your arrows </s></q></p>
+unit="line"/>fulfill this prayer for me: </s>
+
+<s
+xml:id="sent2274123" n="1.42">Let the Danaans pay for my tears
+with your arrows </s></q></p>
 <p>
 
 
-<s xml:id="sent2274124" n="1.43-1.45">So he spoke in prayer, and Phoebus
-Apollo heard him. Down from the peaks of <placeName
+  <s xml:id="sent2274124" n="1.43">So he spoke in prayer.
+
+
+  </s>
+
+   <s xml:id="sent2274124a" n="1.43">Phoebus
+   Apollo heard him.</s>
+
+    <s xml:id="sent2274124b" n="1.44-1.45">Down from the peaks of <placeName
 key="tgn,7011019">Olympus</placeName> he strode, angered at
 heart, <milestone n="45" unit="line"/>bearing on his shoulders his
 bow and covered quiver. </s>
@@ -197,58 +247,67 @@ bow and covered quiver. </s>
 >The arrows rattled on the shoulders of the angry god as he moved,
 </s>
 
-<s xml:id="sent2274126" n="1.47">and his coming was like the
+<s xml:id="sent2274126" n="1.47">He for his part approached like the
 night. </s>
 
-<s xml:id="sent2274127" n="1.48">Then he sat down apart
-from the ships and let fly an arrow: </s>
+<s xml:id="sent2274127" n="1.48">Then he took his position apart
+from the ships.
+
+</s>
+
+<s xml:id="sent2274127a" n="1.48">And he let fly an arrow: </s>
 
 <s xml:id="sent2274128"
 n="1.49">terrible was the twang of the silver bow. </s><s
-xml:id="sent2274129" n="1.50-1.52"><milestone n="50" unit="line"
-/>The mules he assailed first and the swift dogs, but then on the
-men themselves he let fly his stinging shafts, and struck; </s><s
-xml:id="sent2274130" n="1.52">and constantly the pyres of the dead
-burned thick.</s></p>
+xml:id="sent2274129" n="1.50"><milestone n="50" unit="line"
+/>He went after<note>another instance of epoixomai</note> the mules first and the swift dogs.
+
+<s
+xml:id="sent2274129" n="1.51-1.52">Then letting his stinging arrow against the
+men themselves he began to strike. </s><s
+xml:id="sent2274130" n="1.52">Without stop the pyres of the dead
+burned, one after another<note>or many at the same time?</note>.</s></p>
 <p>
 
 
-<s xml:id="sent2274131" n="1.53-1.54">For nine days the missiles of the
-god ranged among the host, but on the tenth Achilles called the
-people to assembly, </s>
+<s xml:id="sent2274131" n="1.53">For nine days the arrows of the
+god ranged among the host.</s>
+
+<s xml:id="sent2274131a" n="1.54">On the tenth day Achilles called the
+people to assembly.</s>
 
 <s xml:id="sent2274132" n="1.55"><milestone
-n="55" unit="line"/>for the goddess, white-armed Hera, had put
+n="55" unit="line"/>The goddess, white-armed Hera, as it happened, had put
 it in his heart, </s>
 
-<s xml:id="sent2274133" n="1.56">since she
-pitied the Danaans, when she saw them dying. </s><s
-xml:id="sent2274134" n="1.57-1.58">When they were assembled and
+<s xml:id="sent2274133" n="1.56">For she
+cared about the Danaans, when she saw them dying. </s><s
+xml:id="sent2274134" n="1.57-1.58">After they were assembled and
 gathered together, among them arose and spoke swift-footed Achilles: </s><q>
 
 
 <s xml:id="sent2274135" n="1.59-1.61">Son of Atreus, now I think we
 shall return home, beaten back again, should we even escape
-death, <milestone n="60" unit="line"/>if war and pestilence
+death, <milestone n="60" unit="line"/>if indeed both war and plague
 alike are to ravage the Achaeans. </s>
 
 <s xml:id="sent2274136"
 n="1.62-1.67">But come, let us ask some seer or priest, or some
 reader of dreams—for a dream too is from Zeus—who might say why
 Phoebus Apollo is so angry, whether he finds fault with a vow or
-a hecatomb; <milestone n="65" unit="line"/>in hope that he may
-accept the savour of lambs and unblemished goats, and be willing
-to ward off the pestilence from us. </s></q></p>
+a hecatomb; <milestone n="65" unit="line"/>if he may, having
+accepted the savour of lambs and unblemished goats, be willing
+to ward off the plague from us. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.68-1.91">
 <p>
 
 
-<s xml:id="sent2274137" n="1.68">When he had thus spoken he sat down,
+<s xml:id="sent2274137" n="1.68">Having thus spoken he sat down,
 </s>
 
-<s xml:id="sent2274138" n="1.68-1.72">and among them arose
+<s xml:id="sent2274138" n="1.68-1.72">Among them arose
 Calchas son of Thestor, far the best of bird-diviners, who knew the
 things that were, and that were to be, and that had been before,
 <milestone n="70" unit="line"/>and who had guided the ships of
@@ -261,12 +320,14 @@ the gathering, and spoke among them: </s><q>
 
 
 <s xml:id="sent2274140" n="1.74-1.75">Achilles, dear to Zeus, you
-bid me declare <milestone n="75" unit="line"/> the wrath of
+order me to declare <milestone n="75" unit="line"/> the wrath of
 Apollo, the lord who strikes from afar. </s><s
-xml:id="sent2274141" n="1.76">Therefore I will speak; </s><s
-xml:id="sent2274142" n="1.76-1.77">but take thought and swear
-that you will readily defend me with word and with might of
-hand; </s>
+xml:id="sent2274141" n="1.76">Therefore I will speak. </s><s
+xml:id="sent2274142" n="1.76-1.77">But you, for your part, take this in.
+
+<s
+xml:id="sent2274142a" n="1.76-1.77">Swear
+that you will readily defend me with your words and hands. </s>
 
 <s xml:id="sent2274143" n="1.78-1.79">for I think I
 shall anger a man who rules mightily over all the Argives, and
@@ -290,8 +351,7 @@ brings it to fulfillment. </s>
 Achilles: </s><q>
 
 
-<s xml:id="sent2274148" n="1.85"><milestone n="85" unit="line"/>Take
-heart, and speak out whatever oracle you know; </s><s
+<s xml:id="sent2274148" n="1.85"><milestone n="85" unit="line"/>After having taken courage, pronounce whatever oracle you know. </s><s
 xml:id="sent2274149" n="1.86-1.91">for by Apollo, dear to Zeus,
 to whom you, Calchas, pray when you reveal oracles to the
 Danaans, no one, while I live and have sight on the earth, shall
@@ -1226,7 +1286,7 @@ wide-ruling Agamemnon has dishonoured me.</s>
 
 <s
 xml:id="sent2274309" n="1.356">for he has taken and keeps my
-prize -- he himself made away with her.  </s></q></p>
+prize -- he himself has stolen her.  </s></q></p>
 <p>
 
 
@@ -1723,43 +1783,46 @@ xml:id="sent2274384b" n="1.501-1.502">With her right hand touching him beneath t
 spoke in prayer to king Zeus, son of Cronos: </s><q>
 
 
-<s xml:id="sent2274385" n="1.503-1.504">Father Zeus, if ever amid
+<s xml:id="sent2274385" n="1.503-1.504">Father Zeus, if ever among
 the immortals I gave you aid by word or deed, grant me this
-prayer: </s>
+wish. </s>
 
 <s xml:id="sent2274386" n="1.505-1.506"><milestone
-n="505" unit="line"/>do honour to my son, who is doomed to a
-speedy death beyond all other men; </s>
+n="505" unit="line"/>Honour my son, who is doomed to a
+speedy death beyond all other men. </s>
 
 <s xml:id="sent2274387"
-n="1.506-1.507">yet now Agamemnon, king of men, has dishonoured
-him, </s>
+n="1.506-1.507">Now, however, Agamemnon, king of men, has dishonoured
+him. </s>
 
-<s xml:id="sent2274388" n="1.507">for he has taken and
-keeps his prize by his own arrogant act. </s><s
-xml:id="sent2274389" n="1.508">But honour him, Olympian Zeus,
+<s xml:id="sent2274388" n="1.507">for he has taken and keeps the
+prize -- he himself has stolen her. </s><s
+xml:id="sent2274389" n="1.508">Honour him, Olympian Zeus,
 lord of counsel; </s>
 
-<s xml:id="sent2274390" n="1.509-1.510">and
-give might to the Trojans, until the Achaeans <milestone n="510"
-unit="line"/> do honour to my son, and magnify him with
-recompense. </s></q></p>
+<s xml:id="sent2274390" n="1.509-1.510">Meanwhile give strength to the Trojans, until the Achaeans <milestone n="510"
+unit="line"/> honour my son, and pay recompense to him and make him even greater. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274391" n="1.511">So she spoke; </s><s
-xml:id="sent2274392" n="1.511-1.512">but Zeus, the cloud-gatherer,
-spoke no word to her, but sat a long time in silence. </s><s
-xml:id="sent2274393" n="1.512-1.513">Yet Thetis, even as she had
-clasped his knees, so held to him, clinging close, and questioned
+<s xml:id="sent2274391" n="1.511">So she spoke. </s><s
+xml:id="sent2274392" n="1.511">But Zeus, the cloud-gatherer,
+did not speak to her.
+
+<s
+xml:id="sent2274392a" n="1.512">Rather he sat a long time in silence. </s><s
+xml:id="sent2274393" n="1.512-1.513">But Thetis, just as she had
+clasped his knees, so she held onto him, clinging firmly.
+
+<s
+xml:id="sent2274393a" n="1.513">She asked
 him again a second time: </s><q>
 
 
 <s xml:id="sent2274394" n="1.514-1.516">Give me your infallible
 promise, and bow your head to it, <milestone n="515" unit="line"
 />or else deny me, for there is nothing to make you afraid; so
-that I may know well how far I among all the gods am honoured
-the least. </s></q></p>
+that I may know well how far I among all the gods am the most dishonoured. </s></q></p>
 <p>
 
 
@@ -1767,43 +1830,45 @@ the least. </s></q></p>
 cloud-gatherer spoke to her: </s><q>
 
 
-<s xml:id="sent2274396" n="1.518-1.519">Surely this will be sorry
-work, since you will set me on to engage in strife with Hera,
-when she shall anger me with taunting words. </s><s
+<s xml:id="sent2274396" n="1.518-1.519">Surely this will be miserable
+work, since you will push me on to stir up a fight with Hera,
+when she provokes me with taunting words. </s><s
 xml:id="sent2274397" n="1.520-1.521"><milestone n="520"
-unit="line"/>Even now she always upbraids me among the
-immortal gods, and declares that I give aid to the Trojans in
+unit="line"/>Even now she always complains against me among the
+immortal gods.
+
+<s
+xml:id="sent2274397a" n="1.521">She says that I help the Trojans in
 battle. </s>
 
-<s xml:id="sent2274398" n="1.522-1.523">But for the
-present, depart again, lest Hera note something; </s><s
-xml:id="sent2274399" n="1.523">and I will take thought for these
-things to bring all to pass. </s>
+<s xml:id="sent2274398" n="1.522-1.523">But for now, go back again, so that Hera may not get wind of anything; </s><s
+xml:id="sent2274399" n="1.523">These things will be my concern to make them come true. </s>
 
 <s xml:id="sent2274400"
-n="1.524">Come, I will bow my head to you, that thou may be
-certain, </s>
+n="1.524">Look, I will bow my head to you, so that you may be
+certain. </s>
 
 <s xml:id="sent2274401" n="1.525-1.526"><milestone
-n="525" unit="line"/>for this from me is the surest token
-among the immortals; </s>
+n="525" unit="line"/>For this from me is the surest token
+among the immortals. </s>
 
 <s xml:id="sent2274402" n="1.526-1.527"
->no word of mine may be recalled, nor is false, nor unfulfilled,
+>Nothing that is mine may be called back, or deceitful, or unfulfilled,
 to which I bow my head. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274403" n="1.528">The son of Cronos spoke, and bowed his
+  <s xml:id="sent2274403" n="1.528">The son of Cronos spoke.</s>
+
+  <s xml:id="sent2274403a" n="1.528">He bowed his
 dark brow in assent, </s>
 
-<s xml:id="sent2274404" n="1.529-1.530">and
-the ambrosial locks waved from the king's <milestone n="530"
+<s xml:id="sent2274404" n="1.529-1.530">The ambrosial locks waved from the king's <milestone n="530"
 unit="line"/> immortal head; </s>
 
 <s xml:id="sent2274405"
-n="1.530">and he made great <placeName key="tgn,7011019"
->Olympus</placeName> quake. </s></p>
+n="1.530">And he made great <placeName key="tgn,7011019"
+>Olympus</placeName> shake. </s></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.531-1.567">
@@ -1811,39 +1876,41 @@ n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.531-1.567">
 
 
 <s xml:id="sent2274406" n="1.531">When the two had taken counsel
-together in this way, they parted; </s>
+together in this way, they parted. </s>
 
 <s xml:id="sent2274407"
-n="1.531-1.533">she leapt straightway into the deep sea from
-gleaming <placeName key="tgn,7011019">Olympus</placeName>, and Zeus
-went to his own palace. </s>
+n="1.531-1.533">She then leapt into the deep sea from
+gleaming <placeName key="tgn,7011019">Olympus</placeName>, and Zeus to his own palace. </s>
 
 <s xml:id="sent2274408" n="1.533-1.534"
->All the gods together rose from their seats before the face of
+>All the gods together rose from their seats before
 their father; </s>
 
 <s xml:id="sent2274409" n="1.534-1.535">no one
-dared <milestone n="535" unit="line"/> to await his coming, but they
+dared <milestone n="535" unit="line"/> to wait for him as he arrived.
+
+ </s>
+
+<s xml:id="sent2274409a" n="1.535">Instead, they
 all rose up before him. </s>
 
-<s xml:id="sent2274410" n="1.536">So he
+<s xml:id="sent2274410" n="1.536">So he, for his part,
 sat down there upon his throne; </s>
 
 <s xml:id="sent2274411"
-n="1.536-1.538">but Hera saw, and failed not to note how
-silver-footed Thetis, daughter of the old man of the sea, had taken
-counsel with him. </s>
+n="1.536-1.538">but Hera, having caught a glimpse, did not failed to note how
+silver-footed Thetis, daughter of the old man of the sea, had crafted together plans with him. </s>
 
-<s xml:id="sent2274412" n="1.539">Forthwith
-then she spoke to Zeus, son of Cronos, with mocking words: </s><q>
+<s xml:id="sent2274412" n="1.539">
+Immediately, she spoke to Zeus, son of Cronos, with mocking words: </s><q>
 
 
 <s xml:id="sent2274413" n="1.540"><milestone n="540" unit="line"
-/>Who of the gods, crafty one, has now again taken counsel with
+/>Who of the gods, crafty one, has now again crafted together plans with
 you? </s>
 
 <s xml:id="sent2274414" n="1.541-1.542">Always is it
-your pleasure to hold aloof from me, and to give judgments which
+your pleasure to hold aloof from me, and to make judgments which
 you have pondered in secret, </s>
 
 <s xml:id="sent2274415"
@@ -1857,16 +1924,18 @@ men and gods: </s><q>
 
 
 <s xml:id="sent2274417" n="1.545-1.546"><milestone n="545"
-unit="line"/>Hera, do not hope to know all my words: </s>
+unit="line"/>Hera, do not expect to know all the positions that I take<note>my stab at rendering μύθους</note>. </s>
 
 
-<s xml:id="sent2274418" n="1.546">hard will they prove for you,
+<s xml:id="sent2274418" n="1.546">They will prove difficult for you,
 though you are my wife. </s>
 
 <s xml:id="sent2274419"
 n="1.547-1.548">Whatever it is fitting for you to hear, this
-none other shall know before you, whether of gods or men; </s><s
-xml:id="sent2274420" n="1.549-1.550">but what I wish to devise
+none other shall know before you, whether of gods or men. </s>
+
+<s
+xml:id="sent2274420" n="1.549-1.550">But what I wish to devise
 apart from the gods, of all this <milestone n="550" unit="line"
 />do not in any way inquire nor ask. </s></q></p>
 <p>
@@ -1876,21 +1945,31 @@ apart from the gods, of all this <milestone n="550" unit="line"
 lady Hera: </s><q>
 
 
-<s xml:id="sent2274422" n="1.552">Most dread son of Cronos, what a
-word you have said! </s>
+<s xml:id="sent2274422" n="1.552">Most terrible son of Cronos, what a position you have taken<note>μῦθος</note>! </s>
 
 <s xml:id="sent2274423" n="1.553-1.554"
->Truly, in the past I have not been accustomed to inquire nor
-ask you, but at your ease you devise all things whatever you
+>Truly, certainly in the past I have not been accustomed to inquire nor
+ask you.
+
+</s>
+
+<s xml:id="sent2274423" n="1.553-1.554"
+>At your convenience you devise all things whatever you
 wish. </s>
 
 <s xml:id="sent2274424" n="1.555-1.556"><milestone
-n="555" unit="line"/>But now I have wondrous dread at heart,
-lest silver-footed Thetis, daughter of the old man of the sea,
-have beguiled you; </s>
+n="555" unit="line"/>But now I have terrible<note>αἰνῶς here picks up αἰνότατε in 1.552</note> fear in my heart,
+that silver-footed Thetis, daughter of the old man of the sea,
+has whispered in your ear. </s>
 
-<s xml:id="sent2274425" n="1.557">for at
-early dawn she sat by you and clasped your knees. </s><s
+<s xml:id="sent2274425" n="1.557">For at
+early dawn she sat by you.
+
+ </s>
+
+<s xml:id="sent2274425a" n="1.557">And she clasped your knees. </s>
+
+<s
 xml:id="sent2274426" n="1.558-1.559">To her, I think, you bowed
 your head in sure token that you will honour Achilles, and bring
 many to death beside the ships of the Achaeans. </s></q></p>
@@ -1902,34 +1981,50 @@ in answer to her spoke Zeus, the cloud-gatherer: </s></p>
 <p><q>
 
 
-<s xml:id="sent2274428" n="1.561">Strange one,<note resp="Loeb"
-anchored="true">1</note> you are always suspecting, and I do
-not escape you; </s>
+<s xml:id="sent2274428" n="1.561">What has gotten into you?<note resp="Loeb"
+anchored="true">1</note> You are always drawing conclusions.
 
-<s xml:id="sent2274429" n="1.562-1.563">yet
-you shall be able to accomplish nothing, but shall be even
-further from my heart; </s>
+</s>
 
-<s xml:id="sent2274430" n="1.563">and
-that shall be the worse for you. </s>
+<s xml:id="sent2274428a" n="1.561">I do
+not escape you your notice. </s>
+
+<s xml:id="sent2274429" n="1.562">Yet
+you not be able to accomplish anything.
+
+ </s>
+
+<s xml:id="sent2274429a" n="1.562-1.563">Rather you shall be even
+further from my heart.</s>
+
+<s xml:id="sent2274430" n="1.563">And
+that shall be something that you should fear more. </s>
 
 <s xml:id="sent2274431"
 n="1.564">If this thing is as you say, then it must be pleasing
 to me. </s>
 
 <s xml:id="sent2274432" n="1.565-1.567"><milestone
-n="565" unit="line"/>Sit down in silence, and obey my word,
-lest all the gods that are in <placeName key="tgn,7011019"
->Olympus</placeName> avail you not against my drawing near,
-when I put forth upon you my irresistible hands. </s></q></p>
+n="565" unit="line"/>Sit down in silence. </s>
+
+<s xml:id="sent2274432" n="1.565-1.567">Obey my plan.
+Otherwise all the gods that are in <placeName key="tgn,7011019"
+>Olympus</placeName> will be no help to you against my drawing near,
+when I thrust my irresistible hands upon you. </s></q></p>
 </div>
 <div type="textpart" subtype="card"
 n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.568-1.611">
 <p>
 
 
-<s xml:id="sent2274433" n="1.568-1.569">He spoke, and ox-eyed lady Hera
-was seized with fear, and sat down in silence, curbing her heart.
+  <s xml:id="sent2274433" n="1.568">He spoke.</s>
+
+  <s xml:id="sent2274433a" n="1.568">The ox-eyed lady Hera
+  was seized with fear.
+
+  </s>
+
+  <s xml:id="sent2274433b" n="1.569">She sat down in silence, curbing her heart.
 </s>
 
 <s xml:id="sent2274434" n="1.570"><milestone n="570" unit="line"
@@ -1943,58 +2038,83 @@ to his dear mother, white-armed Hera: </s><q>
 
 <s xml:id="sent2274436" n="1.573-1.575">Surely this will be sorry
 work, that is no longer bearable, if you two are to wrangle thus
-for mortals' sakes, <milestone n="575" unit="line"/>and set the
-gods in tumult; </s>
+for mortals' sakes, <milestone n="575" unit="line"/>and to provoke this disturbance among the
+gods. </s>
 
 <s xml:id="sent2274437" n="1.575-1.576"
->neither will there be any joy in the excellent feast, since
+>There won't be any pleasure from be the excellent feast, since
 worse things prevail. </s>
 
 <s xml:id="sent2274438"
-n="1.577-1.579">And I give counsel to my mother, wise though she
-be herself, to do pleasure to our dear father Zeus, that the
-father upbraid her not again, and bring confusion upon our
-feast. </s>
+n="1.577-1.579">I advise my mother, wise though she
+is herself, to please our dear father Zeus, so that the
+father not rebuke her again, and throw our feast into confusion. </s>
 
 <s xml:id="sent2274439" n="1.580-1.581"><milestone
 n="580" unit="line"/>What if the Olympian, the lord of the
-lightning, were minded to dash us from our seats! </s><s
-xml:id="sent2274440" n="1.581">for he is mightiest far. </s><s
+lightning, were to dash us from our seats! </s><s
+xml:id="sent2274440" n="1.581">For he is mightiest far. </s><s
 xml:id="sent2274441" n="1.582">But address him with gentle
 words; </s>
 
-<s xml:id="sent2274442" n="1.583">so shall the
-Olympian forthwith be gracious to us. </s></q></p>
+<s xml:id="sent2274442" n="1.583">Then the Olympian will quickly be gracious<note>ἵλαος -- connect with the verbal forms used with Apollo</note> to us. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274443" n="1.584-1.585">So saying, he sprang up and
+  <s xml:id="sent2274443" n="1.584">So he spoke.</s>
+
+   <s xml:id="sent2274443a" n="1.584-1.585"> He lept up and
 placed <milestone n="585" unit="line"/>in his dear mother's hand the
-double cup, and spoke to her: </s></p>
+   double cup.</s>
+
+   
+
+   <s xml:id="sent2274443a" n="1.584-1.585">Then he addressed her: </s></p>
 <p><q>
 
 
-<s xml:id="sent2274444" n="1.586-1.589">Be patient, my mother, and
-endure for all your grief, lest, dear as you are to me, my eyes
-see you stricken, and then I shall in no way be able to succour
-you for all my sorrow; </s>
+  <s xml:id="sent2274444" n="1.586">Be strong, my mother.</s>
+
+  <s xml:id="sent2274444a" n="1.586-1.589">Restrain yourself, pained as you are, so that I may not with my own eyes see you, dear as you are, being beaten.
+  
+  </s>
+
+  <s xml:id="sent2274444b" n="1.588">then I shall in no way be able to help
+you, however pained I am. </s>
 
 <s xml:id="sent2274445" n="1.589">for
-a hard foe is the Olympian to meet in strife. </s><s
-xml:id="sent2274446" n="1.590-1.593"><milestone n="590"
-unit="line"/>On a time before this, when I was striving to
+the Olympian is very tough to push back against. </s><s
+xml:id="sent2274446" n="1.590-1.591"><milestone n="590"
+unit="line"/>Already before this, when I was struggling to
 save you, he caught me by the foot and hurled me from the
-heavenly threshold; the whole day long I was carried headlong,
-and at sunset I fell in <placeName key="tgn,7011173"
->Lemnos</placeName>, and but little life was in me. </s><s
+heavenly threshold.</s>
+
+<s
+    xml:id="sent2274446a" n="1.592">The whole day long I was carried headlong.
+
+
+</s>
+
+<s
+    xml:id="sent2274446b" n="1.592-1.593">At sunset I fell in <placeName key="tgn,7011173"
+>Lemnos</placeName>.</s>
+
+<s
+    xml:id="sent2274446c" n="1.593"> little life was in me. </s><s
 xml:id="sent2274447" n="1.594">There the Sintian folk quickly
 tended me for my fall. </s></q></p>
 <p>
 
 
-<s xml:id="sent2274448" n="1.595-1.596"><milestone n="595" unit="line"
-/>So he spoke, and the goddess, white-armed Hera, smiled, and
-smiling took in her hand the cup from her son. </s><s
+<s xml:id="sent2274448" n="1.595"><milestone n="595" unit="line"
+/>So he spoke.</s>
+
+<s xml:id="sent2274448a" n="1.595">The goddess, white-armed Hera, smiled.
+
+
+</s>
+
+<s xml:id="sent2274448b" n=".596">Smiling took in her hand the cup from her son. </s><s
 xml:id="sent2274449" n="1.597-1.598">Then he poured wine for all the
 other gods from left to right, drawing forth sweet nectar from the
 bowl. </s>
@@ -2004,9 +2124,11 @@ laughter arose among the blessed gods, <milestone n="600"
 unit="line"/>as they saw Hephaestus puffing through the palace.
 </s>
 
-<s xml:id="sent2274451" n="1.601-1.604">Thus the whole day long
-till the setting of the sun they feasted, nor did their heart lack
-anything of the equal feast, nor of the beauteous lyre, that Apollo
+<s xml:id="sent2274451" n="1.601-1.602">Thus the whole day long
+till the setting of the sun they feasted.</s>
+
+<s xml:id="sent2274451a" n="1.602-1.604">Nor did their heart lack
+anything from the equal feast, nor of the beautiful lyre, that Apollo
 held, nor yet of the Muses, who sang, replying one to the other with
 sweet voices.</s></p>
 <p>
@@ -2019,12 +2141,18 @@ been built with cunning skill by the famed Hephaestus, the limping
 god; </s>
 
 <s xml:id="sent2274453" n="1.609-1.610">and Zeus, the
-Olympian, lord of the lightning, went to his couch, <milestone
-n="610" unit="line"/>where of old he took his rest, whenever
+Olympian, lord of the lightning, went to his bed.</s>
+
+<s xml:id="sent2274453" n="1.610"><milestone
+n="610" unit="line"/>There as before he used to take his rest, whenever
 sweet sleep came upon him. </s>
 
 <s xml:id="sent2274454" n="1.611"
->There went he up and slept, and beside him lay Hera of the golden
+   >There went he up and began to sleep.
+</s>
+
+<s xml:id="sent2274454" n="1.611"
+   >Beside him was Hera of the golden
 throne.</s></p>
 </div>
 </div>
