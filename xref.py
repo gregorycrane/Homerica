@@ -40,6 +40,7 @@ with open(lexfile) as f:
     line = re.sub('†','',line)
     line = re.sub('\*','',line)
     m = re.search(r'(?<=xml:id=")[^"]+[lf][ei][x]"',line)
+    curnumber = ''
     if(m):
       curid = m.group(0)
       curid = re.sub('"','', curid)
@@ -47,12 +48,12 @@ with open(lexfile) as f:
       nextid[lastid] = curid
       sys.stderr.write('setprecid\t'+"prec:"+curid+'\t'+"cur:"+lastid+'\n')
       curlemma = ''
-      curnumber = ''
      # print("newid",curid)
-    m = re.search(r'(?<=xml:id=")[^"]+lex',line)
+    m = re.search(r'(?<=xml:id=")[^"]+[lf][ei][x][^"]+',line)
     if(m):
       tmpid = m.group(0)
       allids[tmpid] = 1
+      sys.stderr.write('setallids\t' + 'curid' + '\t' + tmpid + '\n')
     m = re.search(r'(?<=<head><foreign xml:lang="greek">)[^<]+',line)
     if(m and curid):
       tl = curlemma
@@ -161,14 +162,14 @@ with open(lexfile) as f:
     if( re.search(r'\bprec[\.]+',line)):
        if( curid in precid):
         sys.stderr.write('precid\t'+curid+"\t"+precid[curid]+"\t"+id2lemma[precid[curid]]+"\n")
-        subs = '<ref target="' + precid[curid] + '" n="prec"><foreign xml:lang="greek">' + id2lemma[precid[curid]] + '</foreign></ref>.'
+        subs = '<ref target="' + precid[curid] + '" n="prec">' + id2lemma[precid[curid]] + '</ref>.'
         line = re.sub(r'\bprec[\.]+',subs,line)
        else:
         sys.stderr.write('precid\t'+curid+"\tnocurid\n")
         
     if( re.search(r'\bnext[\.]+',line)):
        if( curid in nextid):
-        subs = '<ref target="' + nextid[curid] + '" n="next"><foreign xml:lang="greek">' + id2lemma[nextid[curid]] + '</foreign></ref>.'
+        subs = '<ref target="' + nextid[curid] + '" n="next">' + id2lemma[nextid[curid]] + '</ref>.'
         line = re.sub(r'\bnext[\.]+',subs,line)
         sys.stderr.write('nextid\t'+curid+"\t"+nextid[curid]+"\t"+id2lemma[nextid[curid]]+"\n")
        else:
@@ -183,10 +184,37 @@ with open(lexfile) as f:
     if( curnumber and re.search('<p>[123]\s+<',line)):
       line = re.sub(r'<p>([123])\s+<','<p>\g<1> '+curnumber + ' <',line)
 
-    subpat = '<p>([123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.)([^<]*)[ ]+'
+    subpat1 = '(<p>|<p>\s*Also\s+|<p>\s*Elsewhere\s+)'
+    subpat2 = '([Ii]nstrument|[Nn]on.thematic|[123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
+
+    subpat = '(</foreign>,|</cit>[\)\.]|</bibl>[\)\.]|etc\.|\)\.|\.\)|\.\–)[ ]+' + subpat2
+    line = re.sub(subpat,"\g<1>hitz</p>\n<p>\g<2>\g<3> ",line)
+
+    subpat = '(<p>|<p>\s*Also\s+|)([123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
+    subpat = subpat1 + subpat2
     if( re.search(subpat,line)):
-     line = re.sub(subpat,'<p><term>\g<1>\g<2></term> ',line)
+     line = re.sub(subpat,'\g<1><term>\g<2>\g<3></term> ',line)
      terms = terms + 1
+    line = re.sub(r'\s+See</term>','</term> See',line)
+
+
+#  <p>[<ref xml:lang="greek" target="amphi-cunliffe-prefix">ἀμφι-</ref> <ref>1</ref> <ref>3</ref>.]</p>
+    if( re.search('(<ref xml:lang=[^>]+>[^<]+<\/ref>)[ ]*(<ref>[0-9]+<\/ref>)[ ]+(<ref>[0-9]+<\/ref>)',line)):
+     sys.stderr.write('befores\t'+line)
+     line = re.sub('(<ref xml:lang=[^>]+>[^<]+<\/ref>)[ ]*(<ref>[0-9]+<\/ref>)[ ]+(<ref>[0-9]+<\/ref>)','\g<1> \g<2>, \g<1> \g<3>',line)
+     sys.stderr.write('afters\t'+line)
+    while( re.search(r'<ref xml:lang="greek" target="([^"]+)">[^<]+</ref>[ ]+<ref>([^<]+)',line)):
+      m= re.search(r'<ref xml:lang="greek" target="([^"]+)">[^<]+</ref>[ ]+<ref>([^<]+)',line)
+      sys.stderr.write("complexref\t"+m.group(1)+"\t"+m.group(2)+'\t')
+      fullkey = m.group(1) + '-' + m.group(2)
+      if( fullkey in allids):
+        line = re.sub(r'<ref xml:lang="greek" target="([^"]+)">([^<]+)</ref>[ ]+<ref>([^<]+)','<ref xml:lang="greek" target="'+fullkey+'"><foreign xml:lang="greek">\g<2></foreign> \g<3>',line,1)
+        sys.stderr.write('refhit\n')
+      else:
+        line = re.sub(r'<ref xml:lang="greek" target="([^"]+)">([^<]+)</ref>[ ]+<ref>([^<]+)','<ref xml:lang="greek" target="'+fullkey+'"><foreign xml:lang="greek">\g<2></foreign> \g<3>',line)
+        sys.stderr.write('reffail\t' + line)
+ 
+     
     print(line,end='')
 f.close()
 
