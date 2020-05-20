@@ -1,4 +1,4 @@
-#!/usr/bin/env python3)\s+<','<p>\g[1] '+curnumber + ' <',line)
+#!/usr/bin/env python3
   
 import sys
 import re
@@ -96,6 +96,7 @@ lemmaids['ἐνέπω'] = "ennepo-cunliffe-lex"
 lemmaids['δίημι'] = "diemai-cunliffe-lex"
 lemmaids['σκοπιάομαι'] = "scopiazo-cunliffe-lex"
 lemmaids['πλώω'] = "pleo-cunliffe-lex"
+lemmaids['οὖς'] = "ouas-cunliffe-lex"
 lemmaids['ὄνυμα'] = "onoma-cunliffe-lex"
 lemmaids['πτόλις'] = "polis-cunliffe-lex"
 
@@ -116,20 +117,48 @@ with open(lexfile) as f:
 
     if ( re.search('\[',line)):
      #sys.stderr.write("deriv" + "\t" + line)
-     m = re.search(r'(?<=<foreign xml:lang="greek">)[^\-][^ϝ <]+[^\-]<',line)
+     m = re.search(r'(?<=<foreign xml:lang="greek">)[^\-][^ϝ <]+<',line)
      if(m):
-#      sys.stderr.write("testing\t" + m.group(0) + "\n")
+      line = procxref(m.group(0),'',line,"badxref50")
+
+     m = re.search(r'(?<=<foreign xml:lang="greek">)[^\-][^ϝ <]+<',line)
+     if(m):
+      line = procxref(m.group(0),'',line,"badxref50")
+
+     m = re.search(r'(?<=<foreign xml:lang="greek">)[^\-][^ϝ <]+<',line)
+     if(m):
       line = procxref(m.group(0),'',line,"badxref50")
       
+
+     m = re.search(r'(?<=<foreign xml:lang="greek">)[^\-][^ϝ <]+<',line)
+     if(m):
+      line = procxref(m.group(0),'',line,"badxref50")
+      
+      
+    m = re.search(r'(?<=<foreign xml:lang="greek">)[^ <]+<\/foreign><\/ref>',line)
+    if(m):
+      works = m.group(0)
+      works = re.sub('</foreign></ref>','',works)
+      line = re.sub(r'<ref>(<foreign[^>]+>[^<]+<\/foreign>)<\/ref>','\g<1>',line)
+      line = procxref(works,'',line,"badxref62")
+
     m = re.search(r'(?<=\[<foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref10")
       
+    m = re.search(r'(?<=[Ff]or <foreign xml:lang="greek">)[^ <]+<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref1")
+
     m = re.search(r'(?<=[Ss]ee <foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
-    m = re.search(r'(?<=\form of <foreign xml:lang="greek">)[^ <]+<',line)
+    m = re.search(r'(?<=[Ww]ith <foreign xml:lang="greek">)[^ <]+<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref2")
+
+    m = re.search(r'(?<=form of <foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref2")
 
@@ -145,11 +174,21 @@ with open(lexfile) as f:
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
+    line = re.sub(r'=<foreign','= <foreign',line)
+
     m = re.search(r'(?<=[=,] <foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
+    m = re.search(r'(?<=-</foreign>, <foreign xml:lang="greek">)[^ <]+[^\-]<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref1")
+
     m = re.search(r'(?<=[CcFf][rf]\. <foreign xml:lang="greek">)[^ <]+<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref1")
+
+    m = re.search(r'(?<=[Tt]he <foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
@@ -185,7 +224,7 @@ with open(lexfile) as f:
       line = re.sub(r'<p>([123])\s+<','<p>\g<1> '+curnumber + ' <',line)
 
     subpat1 = '(<p>|<p>\s*Also\s+|<p>\s*Elsewhere\s+)'
-    subpat2 = '([Ii]nstrument|[Nn]on.thematic|[123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
+    subpat2 = '([Ii]mpf\.|[Ii]nstrument|[Nn]on.thematic|[123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
 
     subpat = '(</foreign>,|</cit>[\)\.]|</bibl>[\)\.]|etc\.|\)\.|\.\)|\.\–)[ ]+' + subpat2
     line = re.sub(subpat,"\g<1>hitz</p>\n<p>\g<2>\g<3> ",line)
@@ -197,6 +236,10 @@ with open(lexfile) as f:
      terms = terms + 1
     line = re.sub(r'\s+See</term>','</term> See',line)
 
+    m = re.search(r'(?<=<\/term> <foreign xml:lang="greek">)[^\-][^ϝ <]+[^\-]<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref55")
+      
 
 #  <p>[<ref xml:lang="greek" target="amphi-cunliffe-prefix">ἀμφι-</ref> <ref>1</ref> <ref>3</ref>.]</p>
     if( re.search('(<ref xml:lang=[^>]+>[^<]+<\/ref>)[ ]*(<ref>[0-9]+<\/ref>)[ ]+(<ref>[0-9]+<\/ref>)',line)):
@@ -211,10 +254,11 @@ with open(lexfile) as f:
         line = re.sub(r'<ref xml:lang="greek" target="([^"]+)">([^<]+)</ref>[ ]+<ref>([^<]+)','<ref xml:lang="greek" target="'+fullkey+'"><foreign xml:lang="greek">\g<2></foreign> \g<3>',line,1)
         sys.stderr.write('refhit\n')
       else:
-        line = re.sub(r'<ref xml:lang="greek" target="([^"]+)">([^<]+)</ref>[ ]+<ref>([^<]+)','<ref xml:lang="greek" target="'+fullkey+'"><foreign xml:lang="greek">\g<2></foreign> \g<3>',line)
+        line = re.sub(r'<ref xml:lang="greek" target="([^"]+)">([^<]+)</ref>[ ]+<ref>([^<]+)','<ref xml:lang="greek" target="'+fullkey+'"><foreign xml:lang="greek">\g<2></foreign> \g<3>',line,1)
         sys.stderr.write('reffail\t' + line)
  
      
+    line = re.sub(r'(<ref [^>]+>)<ref xml:lang="greek"[^>]+>([^<]+)<\/ref>[ ]+','\g<1><foreign xml:lang="greek">\g<2></foreign> ',line)
     print(line,end='')
 f.close()
 
