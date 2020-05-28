@@ -26,6 +26,21 @@ def procxref(greektag,secref,curl,errmess):
       greektag = re.sub('(.)\-([^0-9])','\g<1>\g<2>',greektag)
       if( greektag == "ἡ" or greektag == "τό" or greektag == "ὁ"):
        return(curl)
+
+      if( greektag not in lemmaids and re.search(r'[0-9]$',greektag)):
+       newtag = re.sub(r'[0-9]+$','',greektag)
+       newnum = re.sub(r'.+[^0-9]([0-9]+)$','\g<1>',greektag)
+       newfulltag = newtag + '-' + newnum
+       if( newtag in lemmaids):
+         sys.stderr.write("nonumhit1\t"+newtag+"\t"+newnum+"\t"+curl)
+         newfulltag = lemmaids[newtag] + '-' + newnum
+         if( newfulltag in allids):
+           sys.stderr.write("nonumhit2\t"+newtag+"\t"+newnum+"\t"+curl)
+           curl = re.sub('<foreign xml:lang="greek">'+greektag1+'</foreign>','<ref xml:lang="greek" target="' + newfulltag + '"><foreign xml:lang="greek">' + newtag + "</foreign> " + str(newnum) + '</ref>',curl)
+           return(curl)
+         else:
+           sys.stderr.write("nonumhit-fail\t"+greektag+"\t"+newtag+"\t"+newnum+"\t"+curl)
+       
       if( greektag not in lemmaids):
         if( not re.search(r'-$',greektag) and not re.search(r'^-',greektag) and not re.search('ϝ',greektag)):
          sys.stderr.write(errmess+"\t"+greektag+"\t"+curl)
@@ -99,6 +114,7 @@ lemmaids['πλώω'] = "pleo-cunliffe-lex"
 lemmaids['οὖς'] = "ouas-cunliffe-lex"
 lemmaids['ὄνυμα'] = "onoma-cunliffe-lex"
 lemmaids['πτόλις'] = "polis-cunliffe-lex"
+lemmaids['τάμνω'] = "tamno-cunliffe-lex"
 
 lexfile = "cunliffe.lexentries.unicode.xml"
 with open(lexfile) as f:
@@ -108,6 +124,10 @@ with open(lexfile) as f:
     line = re.sub('ς-<', 'σ-<',line)
     line = re.sub('ς-"', 'σ-"',line)
     line = re.sub('>\+<', '> + <',line)
+    line = re.sub('<p>[ ]+','<p>',line)
+    line = re.sub(r'–[ ]*(<\/p>)','\g<1>',line)
+
+    line = re.sub(r'\=[ ]*<cit><quote xml:lang="greek">([^<]+)<\/quote>[ ]*(<bibl[^>]+>[^<]+<\/bibl>)<\/cit>','= <foreign xml:lang="greek">\g<1></foreign> \g<2>',line)
 
     
 
@@ -154,6 +174,10 @@ with open(lexfile) as f:
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
+    m = re.search(r'(?<=[Ll]ike <foreign xml:lang="greek">)[^ <]+<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref13")
+
     m = re.search(r'(?<=[Ww]ith <foreign xml:lang="greek">)[^ <]+<',line)
     if(m):
       line = procxref(m.group(0),'',line,"badxref2")
@@ -192,6 +216,10 @@ with open(lexfile) as f:
     if(m):
       line = procxref(m.group(0),'',line,"badxref1")
 
+    m = re.search(r'(?<=<\/ref>, <foreign xml:lang="greek">)[^ <]+<',line)
+    if(m):
+      line = procxref(m.group(0),'',line,"badxref1")
+
     line = re.sub(r'<ref>(<ref xml:lang=[^>]+>[^<]+</ref>)</ref>','\g<1>',line)
 
     if( re.search('xml:id="[^"]+cunliffe-lex"',line)):
@@ -223,17 +251,24 @@ with open(lexfile) as f:
     if( curnumber and re.search('<p>[123]\s+<',line)):
       line = re.sub(r'<p>([123])\s+<','<p>\g<1> '+curnumber + ' <',line)
 
-    subpat1 = '(<p>|<p>\s*Also\s+|<p>\s*Elsewhere\s+)'
-    subpat2 = '([Ii]mpf\.|[Ii]nstrument|[Nn]on.thematic|[123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
+    subpat1 = '(<p>|<p>\s*Also\s+|<p>\s*Elsewhere\s+|<p>\s*In\s+|<p>So in\s+|<p>\s*With\s+|<p>As\s+|<p>\[|\s+as\s+|\s+in\s+|\s+with\s+)'
+    subpat2 = '([Pp]ron\.|[Tt]rans\.|[Ii]ntrans\.|[Aa]dvbs\.|[Ii]nt\.|[Aa]dverb|[Ss]b\.|[Nn]eg\.|sigmatic|[Pp]rep\.|[Aa]djectivally|[Dd]esiderative|[Aa]dv\.|[Cc]omplementary|cognate\s+acc\.|double\s+acc\.|[Aa]ugment|[Ii]mpers\.|[Ss]ing|[Ss]b\.|[Nn]eut\.|[Ss]uperl\.|[Cc]omp\.|[Aa]ct\.|[Pp]ass\.|[Aa]bsol\.|[Ii]mpf\.|[Ii]nstrument|[Nn]on.thematic|[123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|[Ss]ubj\.|[Oo]pt\.|[Cc]ontr\.|[Pp]ass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)'
 
-    subpat = '(</foreign>,|</cit>[\)\.]|</bibl>[\)\.]|etc\.|\)\.|\.\)|\.\–)[ ]+' + subpat2
-    line = re.sub(subpat,"\g<1>hitz</p>\n<p>\g<2>\g<3> ",line)
+    subpat = '(</foreign>,|</ref>[,]*|</cit>[\)\.]|</bibl>[\)\.]|etc\.|\)\.|\.\)|\.\–)[ ]+' + subpat2 + '([^<]*)([ ]*)'
+    line = re.sub(subpat,"\g<1></p>\n<p>\g<2>\g<3>\g<4>",line)
 
-    subpat = '(<p>|<p>\s*Also\s+|)([123]\s+sing|[Aa]or\.|[Mm]id\.|[Pp]ple|[123]\s+pl\.|[123]\s+dual|[Nn]om\.|[Gg]en\.|[Gg]enit\.|[Dd]at\.|[Aa]cc\.|[Ff]em\.|[Ii]nfin|[Ff]ut.|[Pp]l\.|[Ii]terat\.|[Pp]a\.|Subj\.|Opt\.|[Cc]ontr\.|Pass\.|[Pp]f\.|[rR]edup\.|[123]\s+and\s+|[Pp]res\.|[Pp]lupf\.|[Vv]oc\.|[Ii]mp\.|Locative)([^<]*)[ ]+'
-    subpat = subpat1 + subpat2
+    subpat = subpat1 + subpat2  + '([^<]*)[ ]+'
     if( re.search(subpat,line)):
      line = re.sub(subpat,'\g<1><term>\g<2>\g<3></term> ',line)
      terms = terms + 1
+
+    subpat = subpat1 + subpat2  + '([<]*)'
+    if( re.search(subpat,line)):
+     line = re.sub(subpat,'\g<1><term>\g<2></term>\g<3>',line)
+     terms = terms + 1
+
+    line = re.sub(r'</term>[ ]+'+subpat2,' \g<1></term>',line)
+
     line = re.sub(r'\s+See</term>','</term> See',line)
 
     m = re.search(r'(?<=<\/term> <foreign xml:lang="greek">)[^\-][^ϝ <]+[^\-]<',line)
@@ -259,6 +294,38 @@ with open(lexfile) as f:
  
      
     line = re.sub(r'(<ref [^>]+>)<ref xml:lang="greek"[^>]+>([^<]+)<\/ref>[ ]+','\g<1><foreign xml:lang="greek">\g<2></foreign> ',line)
+
+    line = re.sub(r':<\/p>',',</p>',line)
+    line = re.sub(r'<gloss>(In)<\/gloss>','\g<1>',line)
+
+    
+    line = re.sub(r'(<p>Hence,[ ]+)([A-Za-z][^\=<]+)([ ]+<bib|[ ]+<cit|<\/p>)','\g<1><gloss>\g<2></gloss>\g<3>',line)
+    line = re.sub(r'(<p>)([A-Z][^\=<]+)[ ]+(<bib|<cit|\()','\g<1><gloss>\g<2></gloss> \g<3>',line)
+    line = re.sub(r'(<p>)([A-Z][^\=<]+<pb[^>]+>[^\=<]+)[ ]+(<bib|<cit|\()','\g<1><gloss>\g<2></gloss> \g<3>',line)
+
+    line = re.sub(r':<\/hi>','</hi>:',line)
+    line = re.sub(r'(<p>)([A-Z][^<=:]+:)[ ]+','\g<1><gloss>\g<2></gloss> ',line)
+    line = re.sub(r'(,[ ]+etc\.|:)(<\/gloss>|<\/term>)','\g<2>\g<1>',line)
+    line = re.sub(r'(<gloss>)(Absol\.|Hence),[ ]+','<term>\g<2></term>, \g<1>',line)
+    line = re.sub(r'<term>(adv\.|gen\.|genit\.),\s+([^<]+)<\/term>([: ]+)(<cit|<bib)','<term>\g<1></term>, <gloss>\g<2></gloss>\g<3>\g<4>',line)
+
+
+    line = re.sub(r'(<\/foreign>,[ ]+|</ref>,[ ]+)([A-Za-z ,\.]+)[ ]+(<bib|<cit|\()','\g<1><gloss>\g<2></gloss>\g<3>',line)
+    line = re.sub(r'(<\/foreign>,[ ]+)([A-Za-z ,\.]+<pb[^>]+>[A-Za-z ,\.]+)[ ]+(<bib|<cit)','\g<1><gloss>\g<2></gloss>\g<3>',line)
+    line = re.sub(r'<p>([A-Z][a-zA-Z ,\.]+)</p>','<p><gloss>\g<1></gloss></p>',line)
+    line = re.sub(r'<p>([A-Z][a-zA-Z ,\.]+<pb[^>]+>[a-zA-Z ,\.]+)</p>','<p><gloss>\g<1></gloss></p>',line)
+    line = re.sub(r'<p>([A-Z][a-zA-Z ,\.\'()]+<hi[^>]+>[^<]+<\/hi>[a-zA-Z ,\.]*)(:|\(|</p>|<bibl|:<\/p>)','<p><gloss>\g<1></gloss>\g<2>',line)
+    line = re.sub(r'<p>([A-Z][a-zA-Z ,\.\'()]+<hi[^>]+>[^<]+<\/hi>[^>]+<hi[^>]+>[^<]+</hi>[^<:]*)(:|\(|</p>|<bibl::<\/p>)','<p><gloss>\g<1></gloss>\g<2>',line)
+
+    line = re.sub(r'<gloss>Hence</gloss>','Hence',line)
+    line = re.sub(r'<term>([^<]+)<term>([^>]+)</term>([^<]+)</term>','\g<1>\g<2>\g<3>',line)
+    line = re.sub(r'\((twice)','(<term>\g<1></term>',line)
+    line = re.sub(r'(<\/bibl>[ ]+\()([a-zA-Z, ]+)\)','\g<1><gloss>\g<2></gloss>)',line)
+    line = re.sub(r'(<\/bibl>[ ]+\()(here[ ,]app\.[, ]+|app\.[ ,]+)([a-zA-Z, ]+)\)','\g<1>\g<2><gloss>\g<3></gloss>)',line)
+    line = re.sub(r'(With <term>[a-z]+|<term>Absol\.),[ ]+([a-z][a-zA-Z ,]+)(<\/term>)','\g<1>\g<3>, <gloss>\g<2></gloss>',line)
+    line = re.sub(r'<gloss>Also</gloss>','Also',line)
+    
+  
     print(line,end='')
 f.close()
 
