@@ -1857,7 +1857,7 @@ xlii
 
 INTRODUCTORY
 
-1.	Learn the alphabet and sounds of the letters, breathings, and quantity, 501-508, 519-520, 521-533.<note>The figures refer to sections of the book.</note>
+1.	Learn the alphabet and sounds of the letters, breathings, and quantity, <ref>501-508</ref>, <ref>519-520</ref>, <ref>521-533</ref><note>The figures refer to sections of the book.</note>
 
 2.	Optional:<note>Sections to be assigned at the discretion of the instructor.</note>
 
@@ -1868,7 +1868,7 @@ practice,3 covering with a card the English transliteration
 
 4. WORD LIST FOR PRACTICE IN PRONUNCIATION
 
-Spell and pronounce: <note>In spelling these words it is not necessary to have memorized the namesof the Greek letters, but the sounds should be familiar. Thus, for the present, α may be called a, β may be called 6, γ may be called g, etc.</note>
+Spell and pronounce: <note>In spelling these words it is not necessary to have memorized the namesof the Greek letters, but the sounds should be familiar. Thus, for the present, α may be called a, β may be called b, γ may be called g, etc.</note>
 
 <list>
 <item><foreign xml:lang="greek" n="menis-cunliffe-lex">μῆνις</foreign> wrath, fury, madness, rage,</item>
@@ -1939,8 +1939,8 @@ a youth in a bath.
 
 LESSON II: SYLLABLES, ACCENTS, ELISION, PUNCTUATION, AND TRANSLITERATION
 
-5.	Learn the principles of accentuation, the formation of syllables, elision, punctuation, etc.: 534-551, 553, 560, 575,
-622-625.
+5.	Learn the principles of accentuation, the formation of syllables, elision, punctuation, etc.: <ref>534-551</ref>, 553, 560, 575,
+622-<ref>625</ref>
 
 6.	Review the previous lesson.
 
@@ -1965,7 +1965,7 @@ LESSON III: NOUNS OF THE FIRST DECLENSION
 
 <item><foreign xml:lang="greek" n="en-cunliffe-lex">ἐν,</foreign> ἐνί, εἰν, adv., and prep, with dat., in, among, there (in, -on),</item>
 <item><foreign xml:lang="greek" n="exo-cunliffe-lex">ἔχει</foreign> (he, she, it) has, holds.</item>
-<item><foreign xml:lang="greek" n="exo-cunliffe-lex">ἔχουσι,</foreign> ἔχουσιν<note>nu-movable, 661.</note> (they) have, hold,</item>
+<item><foreign xml:lang="greek" n="exo-cunliffe-lex">ἔχουσι,</foreign> ἔχουσιν<note>nu-movable, <ref>661</ref></note> (they) have, hold,</item>
 <item><foreign xml:lang="greek" n="eimi-cunliffe">ἦν</foreign> (he, she, it) was, there was.</item>
 <item><foreign xml:lang="greek" n="eimi-cunliffe-lex">ἦσαν</foreign> (they) were, there were.</item>
 <item><foreign xml:lang="greek" n="cai-cunliffe-lex">καί</foreign> and, also, even.</item>
@@ -2056,7 +2056,7 @@ and θάλασσα, <gloss>sea</gloss> (<ref>663</ref>), and review the paradigm
 <item><foreign xml:lang="greek" n="">εἰσί/εἰσίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> (they) are, there are.</item>
 
 <item><foreign xml:lang="greek" n="γάρ">δέ,</foreign> post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj. but, and, so, for.	</item>
-<item><foreign xml:lang="greek" n="">ἐστί/ἐστίν</foreign> <note>These words are enclitics, 553-554.</note> (he, she, it) is, there is.</item>
+<item><foreign xml:lang="greek" n="">ἐστί/ἐστίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> (he, she, it) is, there is.</item>
 
 
 <pb n="4"/>
@@ -2070,7 +2070,7 @@ and θάλασσα, <gloss>sea</gloss> (<ref>663</ref>), and review the paradigm
 <item><foreign xml:lang="greek" n="θεά">θεά,</foreign> θεᾶς, ὴ goddess.</item>
 
 <item><foreign xml:lang="greek" n="Κίλλα">Κίλλα,</foreign> Κίλλης, ἡ Cilla, a town in the Troad.</item>
-<item><foreign xml:lang="greek" n="οὐ">οὐ,</foreign> οὐκ, οὐχ not, no: 	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, 527-53</item>
+<item><foreign xml:lang="greek" n="οὐ">οὐ,</foreign> οὐκ, οὐχ not, no: 	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, <ref>527-53</ref></item>
 <item><foreign xml:lang="greek" n="πάτρη">πάτρη,</foreign> πάτρης, ἡ fatherland, native land,</item>
 <item><foreign xml:lang="greek" n="">πολλή</foreign> much, many, numerous,</item>
 <item><foreign xml:lang="greek" n="πυρή">πυρή,</foreign> πυρῆς, ἡ (funeral) pyre.</item>
@@ -2168,7 +2168,7 @@ Note. — Do not translate words in parentheses.
 
 1	ἐκ before consonants, ἐξ before vowels.
 
-2	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, 527-530.	
+2	οὐ before consonants, οὐκ before the smooth breathing, οὐχ before the rough breathing, <ref>527-530</ref>.	
 
 3	553-554.	
 4	555.
@@ -2177,7 +2177,7 @@ Note. — Do not translate words in parentheses.
 
 LESSON V: THE PRESENT ACTIVE INDICATIVE OF VERBS IN -ω
 
-18.	1) Read carefully the sections regarding the verb : 789-806.
+18.	1) Read carefully the sections regarding the verb : <ref>789-806</ref>.
 
 2)	Learn the present active indicative of λύω, 904.
 
@@ -2334,12 +2334,12 @@ LESSON VI: THE SECOND DECLENSION
 
 23. 1) Learn the declension of 
 θῡμός heart, spirit, 
-ἔργον deed, work, 678-679,
+ἔργον deed, work, <ref>678-679</ref>,
 
 
 and the adjectives 
 κᾱλός, κᾱλή, κᾱλόν, good,
-and φίλος, φίλη, φίλον dear, darling, lovely, beloved, 717-721.
+and φίλος, φίλη, φίλον dear, darling, lovely, beloved, <ref>717-721</ref>.
 
 2)	Learn 1025.
 
@@ -2466,7 +2466,7 @@ We do not sing the fair plans of the gods for the army because it does not pleas
 8. The god does not destroy the host of the Achaeans, for they do not dishonor
 the gods of (their) fatherland. 
 
-θεὸς οὐκ ὀλέκει λαὸν Άχαιῶν, οὐ γὰρ άτιμάζουσι θεοὺς πάτρης.\
+θεὸς οὐκ ὀλέκει λαὸν Άχαιῶν, οὐ γὰρ άτιμάζουσι θεοὺς πάτρης.
 
 4. The evil plague makes countless Achaeans a booty (use plural) for many birds. 
 νοῦσος κακὴ τεύχει ἀπειρεσίους ἑλώρια οἰωνοῖς πολλοῖς.
@@ -2497,7 +2497,7 @@ VOCABULARY
 
 30.
 
-αγλαός, rj, 6v bright, shining, splendid,
+αγλαός, αγλαή, αγλαόν bright, shining, splendid,
 glorious,
 άίίδω sing (of), hymn, chant,
 άν- (ά- before consonants'), an inseparable
@@ -2815,7 +2815,7 @@ LESSON IX: THE IMPERFECT OF VERBS IN -ω
 
 40.	Learn : 
 
-1) the principles of the formation of the imperfect, 830-840.
+1) the principles of the formation of the imperfect, <ref>830-840</ref>.
 
 [[AUGMENT: https://chs.harvard.edu/CHS/article/display/5159.chapter-7-similes-augment-and-the-language-of-immediacy]]
 
@@ -2891,7 +2891,7 @@ LESSON X: THE FUTURE AND AORIST OF VERBS IN -ω
 
 45.	Learn: 
 
-1) the principles of the formation of the future and the aorist of verbs, 841-857.
+1) the principles of the formation of the future and the aorist of verbs, <ref>841-857</ref>.
 
 2)	The future and aorist active indicative of λύω, 904.
 
@@ -2966,11 +2966,11 @@ The great northeast tower of the sixth city. The stairs to the right date from t
 
 LESSON XI: MASCULINE NOUNS OF THE FIRST DECLENSION. COMPOUND VERBS
 
-60. Learn: 1) the declension of Ἀτρεΐδης and αἰχμητή 664-675.
+60. Learn: 1) the declension of Ἀτρεΐδης and αἰχμητή <ref>664-675</ref>.
 
 <pb n="16"/>
 
-2) The principles of the formation of compound verbs, 838-839.
+2) The principles of the formation of compound verbs, <ref>838-839</ref>.
 
 61. Optional:
 
@@ -3293,17 +3293,17 @@ those followed by a hyphen (-) are stems (<ref>628-630</ref>).
 
 LESSON XIII: NOUNS OF THE THIRD DECLENSION
 
-Iliad, 1-5
+Iliad, <ref>1-5</ref>
 
 58.	1) Learn the principles of formation of nouns of the
-third declension, 680-692.
+third declension, <ref>680-692</ref>.
 
 2)	Learn the declension of 
 βασιλεύς king, 
 ἥρως hero, 
 πόλις city, 
 and 
-ἔπος word, 701-709.
+ἔπος word, <ref>701-709</ref>.
 
 3)	Read the introduction.
 
@@ -3389,7 +3389,7 @@ amplified by the following clause. —
 
 3.	Merely a picturesque way of saying “killed.” — 
 
-προΐαψεν: 830-831, 837.—
+προΐαψεν: <ref>830-831</ref>, 837.—
 
 Ἄιδι, = ἌϜιδι. To the ancient Greeks the realm of Hades
 was not primarily a place of punishment, of tortures, and of horrors, as
@@ -3400,7 +3400,7 @@ one, no matter how good and pious, was anxious to die.
 4.	ἡρώων is emphatic, as coming at the beginning of the verse, and
 out of its natural order. — 
 
-δὲ ἑλώρια = δε Ϝελώρια (580). — 
+δὲ ἑλώρια = δε Ϝελώρια (<ref>580</ref>). — 
 
 αὐτούς : themselves, i.e. their bodies, as contrasted with their shadows, or souls.
 
@@ -3442,7 +3442,7 @@ LESSON XIV: PROSODY. THE GREEK HEXAMETER
 
 Iliad, 1-5
 
-65.	1) Read carefully the sections on quantity and prosody, 519-526 and 1159-1192.
+65.	1) Read carefully the sections on quantity and prosody, <ref>519-526</ref> and <ref>1159-1192</ref>.
 
 2)	Copy and mark the scansion of the first five verses of the Iliad.
 
@@ -3479,7 +3479,7 @@ the next syllable (ἄ-) must be short, as when there is one
 long followed by a short, there must be another short to
 complete the foot, 1169.
 
-The next syllable (-ει-) is long, being a diphthong, 521-522.
+The next syllable (-ει-) is long, being a diphthong, <ref>521-522</ref>.
 
 <pb n="24"/>
 
@@ -3564,7 +3564,7 @@ Therefore this verse should be scanned as follows:
 
 ˉ ˘ ˘ | ˉ ˉ | ˉ ˘ ˘ |ˉ ˉ | ˉ ˘ ˘ |ˉ ˉ |
 
-71.	Using these principles, and the rules given, 1159-1192,
+71.	Using these principles, and the rules given, <ref>1159-1192</ref>,
 mark the scansion of the first five verses, and do not attempt
 any further work in Homer till these have been thoroughly
 memorized and can be repeated rhythmically with ease.
@@ -3622,7 +3622,7 @@ Iliad, 1-10
 78.	1) Learn the declension of 
 ἄναξ king, 
 παῖς child, and
-ἀνήρ man, 693-694, 697-700.
+ἀνήρ man, <ref>693-694</ref>, <ref>697-700</ref>.
 
 2)	Memorize the first seven verses of the Iliad, 82.
 
@@ -3648,12 +3648,12 @@ you know, as you might expect, that is, in effect. It is not always translatable
 
 ἔρις, ἔριδος, ἡ strife, quarrel.
 
-Λητώ, Λητὀος ἡ  (Λητούς 584-585) Leto, mother of Apollo,
+Λητώ, Λητὀος ἡ  (Λητούς <ref>584-585</ref>) Leto, mother of Apollo,
 μάχ-ομαι, <note>87, Note.</note> fight, battle. 
-ξuv-ί-ημι (=σι-σημι 603-604; ἡ-, ἑ-), ξυνήσω, ξύνηκα <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> bring together, throw together, hearken, heed.
+ξuv-ί-ημι (=σι-σημι <ref>603-604</ref>; ἡ-, ἑ-), ξυνήσω, ξύνηκα <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> bring together, throw together, hearken, heed.
 ὄρνῡμι, ὄρσω, ὤρσα (ὤρορον) stir up, kindle, incite, excite, arouse,
 πρῶτος, πρώτη, πρῶτον first, foremost, chief;
-τὸ πρῶτον, τὰ πρῶτα, as adverb, 781-782, at first, firstly, first,
+τὸ πρῶτον, τὰ πρῶτα, as adverb, <ref>781-782</ref>, at first, firstly, first,
 υἱός, υἱοῦ (υἱέος, ος), ὁ son.
 
 
@@ -3671,7 +3671,7 @@ theo-machy; proto-plasm, proto-zoon, proto-type.
 
 1.	θεὰ ἀείσει μῆνιν Ἀχιλῆος, ἐξ οὗ  (from the time when, i.e. beginning at the point in the story) δὴ τὰ πρῶτα δῖος Ἀχιλλεὺς καὶ Ἀτρεΐδης ἄναξ ἀνδρῶν ἠρισάτην [ἐρίζω] καὶ διεστήτην [διίστημι]. 
 
-2. τίς θεῶν ξυνέηκε [ξυνίημι] δῖον Ἀχιλλῆά τε καὶ Ἀτρεΐδην ἔριδι (1009) μάχεσθαι (to fight); 
+2. τίς θεῶν ξυνέηκε [ξυνίημι] δῖον Ἀχιλλῆά τε καὶ Ἀτρεΐδην ἔριδι (<ref>1009</ref>) μάχεσθαι (to fight); 
 
 3. υἱὸς Λητοῦς καὶ Διός, ἑκηβόλος, ξυνέηκέ σφωε (these two) ἔριδι  μάχεσθαι, τὸν γὰρ βασιλεὺς Ἀτρεΐδης ἐχόλωσεν, ὃ δ’ ὤρσε κακὴν νοῦσον ἀνὰ στρατὰν Ἀχαιῶν, ὤλεκε δὲ λᾱούς.
 
@@ -3704,7 +3704,7 @@ J \
 
 83.	6. οὗ [ὅs, ἥ, ὅ, 773], ἐξ οὗ, referring back to ἄειδε from the time when,
 
-literally, from what [time]. — το πρώτα : 781-782. — διαστήτην = διεστήτην, 837 [διίστημι]. — ἐρίσαντε [ἐρίζω] : aor. active participle, nom., dual,
+literally, from what [time]. — το πρώτα : <ref>781-782</ref>. — διαστήτην = διεστήτην, 837 [διίστημι]. — ἐρίσαντε [ἐρίζω] : aor. active participle, nom., dual,
 masc., (they two) having quarreled.
 
 7 is in apposition with the subject of διαστήτην. The son of Atreus is
@@ -3725,7 +3725,7 @@ pron., acc. dual, these two. ·— ἔριδι: 1009. — μάχεσθαι [μά
 infinitive, deponent, to fight.
 
 9.	βασιλῆι: 996. — χολωθείς [χολόω] : aor. pass, particip., nom. sing,
-masc. (modifies ὀ), having been enraged,. — Λητοῦς = Λητόος, 584-585. —
+masc. (modifies ὀ), having been enraged,. — Λητοῦς = Λητόος, <ref>584-585</ref>. —
 βασιλῆι = Ἀγαμέμνονι. — Λητοῦs καὶ Διὸς υἱός  = Ἀπόλλων, who was mediately
 the cause of the quarrel, since he brought a plague upon the
 Greeks, which gave occasion for the strife between Achilles and Agar
@@ -3774,11 +3774,11 @@ and makes anything possible.
 LESSON XVI: PRESENT AND FUTURE, MIDDLE AND PASSIVE OF VERBS. DEPONENT VERBS.
 
 Iliad, 11-16
-85. 1) Learn the principles of the formation of the middle and passive verbs, and of deponent verbs : 887-897.
+85. 1) Learn the principles of the formation of the middle and passive verbs, and of deponent verbs : <ref>887-897</ref>.
 
 2) Learn the present and future, middle and passive, of λύω, 910.
 
-3) Read 1065-1068.
+3) Read <ref>1065-1068</ref>.
 
 4) Memorize the first eight verses of the Iliad.
 
@@ -3843,7 +3843,7 @@ chir-o-graphy, chir-urgeon = surgeon.
 
 88. Translate:
 
-1. Ἀπόλλων ἑκηβόλος χολοῦται (584-585, 943) βασιλῆι Ἀτρεΐδῃ καὶ πέμπει νοῦσον κακὴν ἀνὰ στρατὸν Ἀχαιῶν, ὀλέκονται δε λᾱοί, οὕνεκα δῖος Ἀτρεΐδης ἠτίμασε Χρύσην ἀρητῆρα. 
+1. Ἀπόλλων ἑκηβόλος χολοῦται (<ref>584-585</ref>, 943) βασιλῆι Ἀτρεΐδῃ καὶ πέμπει νοῦσον κακὴν ἀνὰ στρατὸν Ἀχαιῶν, ὀλέκονται δε λᾱοί, οὕνεκα δῖος Ἀτρεΐδης ἠτίμασε Χρύσην ἀρητῆρα. 
 
 2. Χρύσης γὰρ άρητηρ ἑκηβόλου ἔρχεται ἐπὶ θοὰς νῆας Ἀχαιῶν, φέρει δ’ ἀπερείσι ἄποινα θυγατρός, ἥν [ὅs, ἥ, ὅ, 773] Ἀτρεΐδης ἔχει ἐν στρατῷ. 
 
@@ -3972,7 +3972,7 @@ Iliad, 17-21
 92.	1) Learn the imperfect middle and passive, and the
 aorist middle of λύω, 910.
 
-2)	Learn the table of endings of the three declensions, 648-658.
+2)	Learn the table of endings of the three declensions, <ref>648-658</ref>.
 
 93.	Optional:
 
@@ -3989,7 +3989,7 @@ VOCABULARY
 
 δί-δωμι (δω-, δο-), (δι)δώσω, ἔδωκα give, grant,
 δῶμα, δώματος, τό house, home,
-ἐγώ ἐγών, μέο (μεῦ 584-585), 760, I.
+ἐγώ ἐγών, μέο (μεῦ <ref>584-585</ref>), 760, I.
 
 ἐκ-πέρθω (περθ-, πραθ-), ἐκπέρσω, ἐξέπερσα (ἐξέπραθον) sack (utterly), plunder, pillage.
 ἐυ-κνήμῑς, ἐυκνήμῑδος well-greaved.
@@ -3999,7 +3999,7 @@ VOCABULARY
 οἴκα-δε 788, 4 home(ward), to home, home,
 παῖς, παιδός, ὁ, ἡ child, son, daughter.
 π(τ)όλις, π(τ)όλιος, π(τ)όληος, ἡ city, state,
-σύ, σέο (σεῦ 584-585), 760, you.
+σύ, σέο (σεῦ <ref>584-585</ref>), 760, you.
 
 Derivatives: dose, anti-dote; dome; ego-(t)istic(al);
 eu-phony, eu-logy, eu-phemism; ped-agogue, ped-o-baptism ; acro-polis,
@@ -4123,7 +4123,7 @@ of λύω 904, and of βαίνω 922.
 
 αἴξ goat, and
 
-παῖς child, 693-695.
+παῖς child, <ref>693-695</ref>.
 
 100.	Optional:
 
@@ -4156,7 +4156,7 @@ of λύω 904, and of βαίνω 922.
 
 
 
-Derivatives: gray 597-598, gero-comy,gero-cracy; deca-logue,
+Derivatives: gray <ref>597-598</ref>, gero-comy,gero-cracy; deca-logue,
 deca-gon; hier-archy, hier-o-glyphic(al); anti-podes, tri-pod, polyp(ous);
 phreno-logy, frenzy.
 
@@ -4262,7 +4262,7 @@ Iliad 22-27
 109.	22. μέν: corrrelative with ἀλλ’, vs. 24, whereby ἄλλοι πάντες
 Ἀχαιοί is contrasted with Ἀτρεΐδης.
 
-23. αἰδεῖσθαι = αἰδέεσθαι, 584-585. — θ’ = τε, 57 5, 582. — καὶ ἀγλαὰ
+23. αἰδεῖσθαι = αἰδέεσθαι, <ref>584-585</ref>. — θ’ = τε, 57 5, 582. — καὶ ἀγλαὰ
 δέχθαι ἄποινα: 1173. αἰδεῖσθαι is an affirmative response to ἁζόμενοι of
 the old priest’s prayer in vs. 21. ἀγλαὰ gives a reason why they were so
 willing to accept the ransom.
@@ -4353,26 +4353,26 @@ Iliad, 28-32
 
 113.	VOCABULARY
 
-ἀντίά-ω, ἀντι-άσω (ἀντιόω — ἀντιάω 945-948,603), ἠντίασα approach, prepare, partake, share, go (come) to meet.
+ἀντίά-ω, ἀντι-άσω (ἀντιόω — ἀντιάω <ref>945-948</ref>,603), ἠντίασα approach, prepare, partake, share, go (come) to meet.
 
 ἔπ-ειμι (εἰ-, ἰ-), ἐπείσομαι, come upon, come on, approach,
 ἐπ-οίχομαι (οἰχ-, οἰχε-, οἰχο-), ἐποιχήσομαι*, ἐπῴχωκα go to, go against, attack, ply.
 
 ἐρεθίζω (ἐρεθιδ-) (def.) vex, anger,
 ἱστός, ἱστοῦ, ὁ loom, mast.
-κέ(ν), ἄν (1085-1091) haply, perchance, perhaps.
+κέ(ν), ἄν (<ref>1085-1091</ref>) haply, perchance, perhaps.
 
 λέχος, λέχεος, τό bed, couch.
 
 μίν acc. only, enclitic, him, her, it.
 
-Derivatives: soterio-logy, 584-585; tele-graph, tele-phone,
+Derivatives: soterio-logy, <ref>584-585</ref>; tele-graph, tele-phone,
 tele-pathy, tel-scope.
 
 νέομαι (vεσ-) usually in fut. sense, come, go, return,
 νύ encl. now, indeed, surely, then,
 πρίν sooner, until, before, formerly,
-σαώτερος, σαωτέρη, σαώτερον, comparative of σαός, σαή, σαόν 747-748, safer,
+σαώτερος, σαωτέρη, σαώτερον, comparative of σαός, σαή, σαόν <ref>747-748</ref>, safer,
 τηλόθι far (from, away), at a distance.
 
 *χραισμέω (χραισμε-, χραισ-), χραισμήσω, ἐχραίσμησα (ἔχραισμον) with dat., 996, 1, help, assist, benefit, avail.
@@ -4453,7 +4453,7 @@ to you and yours.
 
 31.	ἐποιχομένην [ἐποίχομαι]: pres. act. (deponent) part., acc. sing, fem, (modifies μιν, her), plying. — 
 
-ἀντιόωσαν : an “assimilated” form, 945-948.
+ἀντιόωσαν : an “assimilated” form, <ref>945-948</ref>.
 
 32.	ἴθι [εἶμι]: pres, act. imperat., 2d sing., go, βegone. — 
 
@@ -4523,7 +4523,7 @@ LESSON XXI: MIDDLE AND PASSIVE PARTICIPLES
 Iliad, 33-37
 
 118.	1) Learn all the forms of the middle and passive
-participles of λύω, 735-746, 915, 921.
+participles of λύω, <ref>735-746</ref>, 915, 921.
 
 2)	Review the active participles, 909, and memorize all
 eleven forms of the participles, so as to be able to give the
@@ -4565,7 +4565,7 @@ VOCABULARY
 ὣς ... ὥς as ... so.
 
 Derivatives: tox-ic(ology), tox-ine, anti-tox-ine, in-tox-icate;
-gray (597-598); comet; poly-gamy, poly-gyny, poly-andry, poly-theism,
+gray (<ref>597-598</ref>); comet; poly-gamy, poly-gyny, poly-andry, poly-theism,
 poly-technic; pro-phet, pro-phecy.
 
 
@@ -4573,14 +4573,14 @@ poly-technic; pro-phet, pro-phecy.
 121. Translate :
 
 1. Ἀγαμέμνων ὣς ἔφατο, ὁ δε γέρων δείσᾱς ἐπείθετο μύθῳ
-κρατέρῳ (996), ἀκέων δ’ ἔβη παρὰ θῖνα πολυφλοίσβοιο θαλάσσης, ἔπειτα δὲ κιὼν ἀπάνευθεν ὁ γεραιὸς ἠράετο πολλὰ (780—781) ἀνακτι Ἀπόλλωνι, τὸν ἠύκομος Λητὼ ἔτεκεν. 
+κρατέρῳ (<ref>996</ref>), ἀκέων δ’ ἔβη παρὰ θῖνα πολυφλοίσβοιο θαλάσσης, ἔπειτα δὲ κιὼν ἀπάνευθεν ὁ γεραιὸς ἠράετο πολλὰ (<ref>780-781</ref>) ἀνακτι Ἀπόλλωνι, τὸν ἠύκομος Λητὼ ἔτεκεν. 
 
-2. Ἀπόλλων ἄναξ ἔκλυε ἱερῆος ἀραομένου (984), τὸν γὰρ ἐφίλησε.
+2. Ἀπόλλων ἄναξ ἔκλυε ἱερῆος ἀραομένου (<ref>984</ref>), τὸν γὰρ ἐφίλησε.
 
 
 3. ἑκηβόλος θεὸς ἀμφιβαίνει Χρύσην φίλην. 
 
-4. μήνιος (1111) Ἀχιλῆος προϊαψάσης πολλὰς ψϋχάς ἡρώων Ἄιδι τευξάσης δ'
+4. μήνιος (<ref>1111</ref>) Ἀχιλῆος προϊαψάσης πολλὰς ψϋχάς ἡρώων Ἄιδι τευξάσης δ'
 αὐτούς ἑλώρια κύνεσσιν οἰωνοῖσὶ τε δαῖτα βουλὴ Διὸς ἐτελείετο.
 
 5.	τευχόμενος, τευξόμενος, τευξάμενοι, μαχομένης. 
@@ -4627,7 +4627,7 @@ That perfect imperfects begin with an e.
 But the Poet replied with a dignified air,
 “ What the Digamma does any one care ? ”
 
-35. πολλὰ : 780-781.—
+35. πολλὰ : <ref>780-781</ref>.—
 
 ἠρᾶθ’ = ἠρᾶτο = ἠράετο [ἀράομαί], 575, 582,
 584-585.—
@@ -4680,7 +4680,7 @@ LESSON XXII: THE PERFECT, PLUPERFECT, AND FUTURE PERFECT OF VERBS
 
 Iliad, 38-42
 
-125.	1) Read the sections dealing,with the formation of these tenses, 867-888. 
+125.	1) Read the sections dealing,with the formation of these tenses, <ref>867-888</ref>. 
 
 2)	Learn the perfect, pluperfect, and future perfect indicative, active, middle and passive of λύω, 904, 910.
 
@@ -4884,25 +4884,25 @@ Iliad, 43-47
 
 132.	The subjunctive has only the present, aorist, and
 perfect tenses. The perfect is seldom found. In all tenses
-the subjunctive has the primary (816) endings.
+the subjunctive has the primary (<ref>816</ref>) endings.
 
 <pb n="50"/>
 
 133.	Learn the conjugation of the active, middle and
 passive, subjunctive of λύω, 905, 911, observing that the
-thematic vowel (796) sometimes called the mode vowel, which
+thematic vowel (<ref>796</ref>) sometimes called the mode vowel, which
 is short in the indicative, regularly becomes long in the subjunctive.
 That is, ε and ο in the indicative regularly become
 η and ω in the subjunctive. Thus λύομεν, λύετε, λύομαι,
 λύεαι, λύεται, λυόμεθα, etc., of the indicative regularly become
 λύωμεν, λύητε, λύωμαι, λύηαι, λύηται, λυώμεθα, etc., in
-the subjunctive, 799-800.
+the subjunctive, <ref>799-800</ref>.
 
 134.	Optional:
 
 135.	VOCABULARY
 
-ἀμφ-ηρεφής, ἀμφ-ηρεφές (731) covered at both ends.
+ἀμφ-ηρεφής, ἀμφ-ηρεφές (<ref>731</ref>) covered at both ends.
 
 *εἴκω (Ϝεικ-, Ϝοικ-, Ϝικ-), εἴξω*, ἔοικα be like, resemble, be fitting, seem (likely), appear (suitable),
 
@@ -4923,7 +4923,7 @@ the subjunctive, 799-800.
 χώ-ομαι, χώσομαι. ἐχωσάμην be angry, be enraged, be irritated,
 ὦμος, ὤμου, ὁ shoulder.
 
-Derivatives: cranium (597-598); kinetic(al), cinema
+Derivatives: cranium (<ref>597-598</ref>); kinetic(al), cinema
 (tograph).
 
 136. Translate:
@@ -4932,7 +4932,7 @@ Derivatives: cranium (597-598); kinetic(al), cinema
 
 2.	θεοὶ κλύονται Ἀχαιῶν εὐχόμενων. 
 
-3. βαίνουσι θεοὶ πάντες κατὰ καρήνων Ὀλύμπου χωόμενοι κῆρ (1014).	
+3. βαίνουσι θεοὶ πάντες κατὰ καρήνων Ὀλύμπου χωόμενοι κῆρ (<ref>1014</ref>).	
 
 4.	ἔχουσι τόξα καὶ φαρέτρας ἀμφηρεφέας ὤμοισιν. 
 
@@ -5083,7 +5083,7 @@ form, and more particularly the imperatives.
 νέκῡς, νέκυος, ὁ dead body, corpse,
 οὐρεύς, οὐρῆος, ὁ mule.
 
-Derivatives: hyper-bole, hyper-bolic(al), para-bola, para-ble, 593-597; gen-esis, hydro-gen, oxy-gen, theo-gony, cosmo-gony; sedentary; nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
+Derivatives: hyper-bole, hyper-bolic(al), para-bola, para-ble, <ref>593-597</ref>; gen-esis, hydro-gen, oxy-gen, theo-gony, cosmo-gony; sedentary; nec(ro)-polis, necro-logy, necro-mancy, necro-sis.
 
 143. Translate:
 
@@ -5171,7 +5171,7 @@ and 2) the actual description of the usual course of a plague.
 51.	αὐτοῖσι: 1004, the men (their masters), as contrasted with the
 animals, 1041, 6. — 
 
-βέλος σεχεπευκές  originally, 1167, 2 (1168) ; 603-604;
+βέλος σεχεπευκές  originally, 1167, 2 (<ref>1168</ref>) ; <ref>603-604</ref>;
 619. — 
 
 αὐτοῖσι refers of course to the Greeks, and brings them into sharp
@@ -5276,16 +5276,16 @@ Derivatives : pan-orama, optic(al), syn-opsis, aut-opsy.
 
 3.	κήλα θεοῦ Ἀπόλλωνος οἴχονται ἀνὰ στρατὸν Ἀχαιῶν.
 
-4.	πόδας ὠκὺς (1014) Ἀχιλλεύς ἐκαλέσατο λᾱὸν Ἀχαιῶν ἀγορήνδε. 
+4.	πόδας ὠκὺς (<ref>1014</ref>) Ἀχιλλεύς ἐκαλέσατο λᾱὸν Ἀχαιῶν ἀγορήνδε. 
 
 5. θεὰ λευκώλενος Ἥρη ἐπὶ φρεσὶν ἔθηκε τὴν βουλὴν Ἀχιλῆι. 
 
-6. Ἥρη ἐκήδετο Δαναῶν (984) ὅτι τοὺς θνήσκοντας ὡράετο. 
+6. Ἥρη ἐκήδετο Δαναῶν (<ref>984</ref>) ὅτι τοὺς θνήσκοντας ὡράετο. 
 
 7. ἠγέροντο οἱ Ἀχαιοί, ἐγένοντο δ’
 ὁμηγερέες. 
 
-8. ἀνέστη [ἀνίστημι] πόδας ὠκὺς (1014) Ἀχιλλεὺς τοῖσιν Ἀχαιοῖσιν, μετέφη τε.
+8. ἀνέστη [ἀνίστημι] πόδας ὠκὺς (<ref>1014</ref>) Ἀχιλλεὺς τοῖσιν Ἀχαιοῖσιν, μετέφη τε.
 
 <pb n="57"/>
 
@@ -5364,7 +5364,7 @@ arrows biting (vs. 51), and the dog's are swift as a silvery flash, (vs. 50).
 
 56.	Δαναῶν : 984. — 
 
-ὁράτο = ὡράετο, 584-585; 837 ; middle of interest, 1067, 2-3. Hera has a special affection for the Greeks: “ She kept seeing her own Danaans dying.” Observe the force of the imperfects: she had no opportunity to assuage her grief, because she had to keep watching her beloved Danaans perishing.
+ὁράτο = ὡράετο, <ref>584-585</ref>; 837 ; middle of interest, 1067, 2-3. Hera has a special affection for the Greeks: “ She kept seeing her own Danaans dying.” Observe the force of the imperfects: she had no opportunity to assuage her grief, because she had to keep watching her beloved Danaans perishing.
 
 57.	ἤγερθεν = ἠγέρθησαν [ἀγείρω] : aor. passive ind., 3d plur., <gloss>they were
 assembled</gloss>. This with the following phrase are good examples of epic
@@ -5415,7 +5415,7 @@ VOCABULARY
 ἀπο-νοστέ-ω*, ἀ-πονοστήσω, ἀπονόστησα return (home), go home, come, go.
 ἄψ back (again), backward(s).
 γέ postpos. encl., emphasizing the preceding word or clause, at least, indeed, at any rate,
-δαμάζω (δαμαδ-), δαμά(σ)ω (603—604) ἐδάμασ(σ)α, subdue, overcome, crush, DOMINATE,
+δαμάζω (δαμαδ-), δαμά(σ)ω (<ref>603</ref>—604) ἐδάμασ(σ)α, subdue, overcome, crush, DOMINATE,
 ἐρέω (ἑρεϜ-) (def.) ask, inquire, seek,
 λοιμός, λοιμοῦ, ὁ plague, pest(ilence).
 μάντις, μάντιος, ὁ seer, prophet, soothsayer.
@@ -5429,7 +5429,7 @@ VOCABULARY
 πλάζω (πλαγγ-), πλάγξομαι, ἔπλαγξα, beat (back), baffle, (cause to) wander.
 
 π(τ)όλεμος, π(τ)oλέμου, ὁ war, battle, fray.
-τὶς, τὶ (encl.) some (one), something, any (one), any(thing) ; τὶ as adv. (780-781) at all.
+τὶς, τὶ (encl.) some (one), something, any (one), any(thing) ; τὶ as adv. (<ref>780-781</ref>) at all.
 
 Derivatives: nost-algia; dame; oneiro-mancy, oneiro-scopy,
 oneiro-critic ; palin-genesis, palin-ode, palin-drome; Planctae ; polem-ic(al).
@@ -5475,7 +5475,7 @@ Iliad, 59-63
 πάλιν παγχθέντας: i.e. without having captured
 Troy, the object of the expedition.
 
-60-61. φύγοιμεν . . . δαμᾷ = δαμάει = δαμάσει [δαμάζω], 603-604 ; 584-585, 973, 2: by the use of the optative in the first clause and the future
+60-61. φύγοιμεν . . . δαμᾷ = δαμάει = δαμάσει [δαμάζω], <ref>603-604</ref> ; <ref>584-585</ref>, 973, 2: by the use of the optative in the first clause and the future
 indicative in the second, Achilles would imply that he felt it more probable
 that they would all die there rather than escape.
 
@@ -5534,8 +5534,8 @@ LESSON XXVII: THE PASSIVE VOICE
 Iliad, 64-69
 
 162.	Learn the principles of formation and the conjugation
-of the passive of λύω and of τρέφω, all modes, 888-896,
-916-921, 935, read 810-812, and review the preceding lesson
+of the passive of λύω and of τρέφω, all modes, <ref>888-896</ref>,
+916-921, 935, read <ref>810-812</ref>, and review the preceding lesson
 in Homer for the connection of thought.
 
 163.	Optional:
@@ -5569,7 +5569,7 @@ augur, soothsayer, seer.
 
 <pb n="62"/>
 
-ὅ(σ)-τις, ἥ-τις, ὅ(τ)-τι who(so)ever, whichever, what(so)ever; who, which, what; ο(τ)τι as adv., 780-781, why.
+ὅ(σ)-τις, ἥ-τις, ὅ(τ)-τι who(so)ever, whichever, what(so)ever; who, which, what; ο(τ)τι as adv., <ref>780-781</ref>, why.
 πώς encl., (in) some way, somehow, (in) any way, perhaps.
 
 τέλειος, τελείη, τέλειον complete, finished, full-grown, unblemished, perfect.
@@ -5593,7 +5593,7 @@ augur, soothsayer, seer.
 
 8. θεοὶ ἐπιμέμψονται Ἀχαιούς, οὕνεκα τὰς εὐχωλὰς οὐκ ἐτέλεσαν καὶ τὰς ἑκατόμβας ἀρνῶν αἰγῶν τε τελείων οὐκ ἔκηαν.
 
-9.	Άπόλλων βούλεται ἀντιάειν κνίσης (982) ἀρνῶν αἰγῶν τε τελείων καὶ λοιγὸν ἀμῦναι ἡμῖν. 
+9.	Άπόλλων βούλεται ἀντιάειν κνίσης (<ref>982</ref>) ἀρνῶν αἰγῶν τε τελείων καὶ λοιγὸν ἀμῦναι ἡμῖν. 
 
 10. Κάλχᾱς Θεστορίδης οἰωνοπόλων ὄχ’ ἄριστος εἴποι μῆνιν Ἀπόλλωνος.
 
@@ -5769,10 +5769,10 @@ differs from the masculine, it is of the first declension.
 171.	
 
 1) Learn the declension of all the regular adjectives
-of the third declension (725-732). The feminine of these
+of the third declension (<ref>725-732</ref>). The feminine of these
 adjectives ending in -ᾰ is declined like θάλασσα sea, 663.
 
-2)	Review the paradigms of all the third declension nouns, 680-710.
+2)	Review the paradigms of all the third declension nouns, <ref>680-710</ref>.
 
 172.	Optional:
 
@@ -5909,7 +5909,7 @@ LESSON XXIX: DEMONSTRATIVE PRONOUNS
 Iliad, 76-80
 
 178.	Learn the declension of all the demonstrative pronouns,
-and of αὐτός, 765-766, 771-772, 774-775, together
+and of αὐτός, <ref>765-766</ref>, <ref>771-772</ref>, <ref>774-775</ref>, together
 with their uses, 1041.
 
 179.	Optional:
@@ -5951,7 +5951,7 @@ Derivatives : epic, ortho-epy; demo-cracy, aristo-cracy, auto-cracy, pluto-cracy
 
 6. οὗτοι Ἀχαιοὶ πείθονται Ἀγαμέμνονι.
 
-7. βασιλεὺς κρείσσων ἐστὶν ἀνδρὸς ἄλλου (993), ὅτε δὲ χώσηται ἀνδρὶ χέρηι, τὸν ὀλέκει κακῶς. 
+7. βασιλεὺς κρείσσων ἐστὶν ἀνδρὸς ἄλλου (<ref>993</ref>), ὅτε δὲ χώσηται ἀνδρὶ χέρηι, τὸν ὀλέκει κακῶς. 
 
 8. Ἀγαμέμνων βασιλεὺς ἐχώσατο Κάλχαντι χέρηι ἀνδρί, οὕνεκα ἐμῡθήσατο μῆνιν Ἀπόλλωνος.
 
@@ -6003,7 +6003,7 @@ willing to perform my duty, if you will see to <emph>yours</emph>.” —
 
 ὀΐω Κάλχαντα χολώσειν ἄνδρα, ὃς μέγα κρατέει πάντων Ἀργείων. 
 
-μέγα : 780-781.
+μέγα : <ref>780-781</ref>.
 Some see in the wavering meter of this verse an indication of an attempt
 to portray the wavering of the mind of the soothsayer in his fear of
 Agamemnon.
@@ -6043,7 +6043,7 @@ LESSON XXX: PERSONAL AND POSSESSIVE PRONOUNS
 Iliad, 81-85
 
 185.	Learn the declension of the personal and possessive
-pronouns, 760-764.
+pronouns, <ref>760-764</ref>.
 
 186.	Optional:
 
@@ -6070,7 +6070,7 @@ pronouns, 760-764.
 
 χόλος, χόλου, ὁ hot, furious wrath, blind anger, choler.
 
-Derivatives: amoeba, amoebean (593-595); pep-sin, pep-tic, eu-pepsia, dys-pep-sia ; opistho-dome, opistho-graphy; stetho-scope; phrase-o-logy, peri-phrasis, para-phrase.
+Derivatives: amoeba, amoebean (<ref>593-595</ref>); pep-sin, pep-tic, eu-pepsia, dys-pep-sia ; opistho-dome, opistho-graphy; stetho-scope; phrase-o-logy, peri-phrasis, para-phrase.
 
 188. Translate:
 
@@ -6179,7 +6179,7 @@ LESSON XXXI: RELATIVE, INTERROGATIVE, AND INDEFINITE PRONOUNS
 Iliad, 86-92
 
 192.	Learn the declension of the relative, interrogative,
-and indefinite pronouns, 767-713, 776-777.
+and indefinite pronouns, <ref>767-713</ref>, <ref>776-777</ref>.
 
 193.	Optional:
 
@@ -6220,7 +6220,7 @@ Derivatives : phenomenon, dia-phanous, phan-tasm, phan-tom, fan-tasy, fan-cy ; b
 
 2. Κάλχας μάντις ἀμύμων εὐχόμενος Ἀπόλλωνι ἀναφαίνει θεοπροπίᾱς Δαναοῖσιν. 
 
-3. Ἀχιλῆος ζῶντος καῖ δερκόμενοιο (1111) ἐπὶ χθονί, οὔ τις συμπάντων Δαναῶν ἐποίσει βαρείας χεῖρας Κάλχαντι μάντει. 
+3. Ἀχιλῆος ζῶντος καῖ δερκόμενοιο (<ref>1111</ref>) ἐπὶ χθονί, οὔ τις συμπάντων Δαναῶν ἐποίσει βαρείας χεῖρας Κάλχαντι μάντει. 
 
 4. δῖος Ἀχιλλεὺς σαώσει Κάλχαντα μάντιν, ἢν εἴπῃ Ἀγαμέμνονα, ὅς εὔχεται εἶναι πολλὸν ἄριστος Ἀχαιῶν.
 
@@ -6320,7 +6320,7 @@ in a fair fight.
 
 92. θάρσησε: took courage: inceptive aorist, 1081. — 
 
-ηὖδα = ηὔδαε [αὐδάω], 584-585. The seer, realizing that Achilles is the type of man
+ηὖδα = ηὔδαε [αὐδάω], <ref>584-585</ref>. The seer, realizing that Achilles is the type of man
 “ that sweareth to his own hurt, and changeth not,” is emboldened to
 speak out unambiguously.
 
@@ -6340,7 +6340,7 @@ LESSON XXXII: REGULAR VERBS IN -μι
 Iliad, 98-100
 
 199.	Learn the conjugation of the present, and the first and
-second aorist, active of ἵστημι, τίθημι, ἵημι, and δίδωμι, 949-951.
+second aorist, active of ἵστημι, τίθημι, ἵημι, and δίδωμι, <ref>949-951</ref>.
 
 200.	Optional:
 
@@ -6375,7 +6375,7 @@ Derivatives : pan-dect; helix, op-tic(al), syn-opsis, autopsy; hiero-glyphics, h
 
 202. Translate :
 
-1. Ἀπόλλων ἐπιμέμφεται ἡμᾶς εὐχωλῆς καὶ ἑκατόμβης (979, 6).	
+1. Ἀπόλλων ἐπιμέμφεται ἡμᾶς εὐχωλῆς καὶ ἑκατόμβης (<ref>979, 6</ref>).	
 
 2. θεοὶ ἐπιμέμφονται Ἀχαιοὺς ἕνεκ’ ἀρητῆρος φίλου Ἀπόλλωνι, τὸν γὰρ ἠτίμησαν. 
 
@@ -6484,7 +6484,7 @@ Iliad, 101-108
 
 206.	Learn the conjugation of the present, and the first
 and second aorist, middle and passive of ἴστημι, τίθημι, ἵημι,
-and δίδωμι, 957-962.
+and δίδωμι, <ref>957-962</ref>.
 
 207.	Optional:
 
@@ -6508,8 +6508,8 @@ and δίδωμι, 957-962.
 
 μαντεύ-ομαι, μαντεύσομαι, ἐμαντευσάμην  predict, prophesy, act as seer, divine.
 
-Derivatives: melan-choly; lamp-a-drome ; mant-ic, -is (42)<note n="grc">revised edition leaves this out -- I don't know what the derivative is myself</note> ; oc-u-lar, ocu-list; ple-thora, ple-onasm; proto- (80) <note>this remains in Debnar but I don't see what section 80 does to explain this. I presume the derivative is protoplasm.</note> ;
-pyr(e)- (15).
+Derivatives: melan-choly; lamp-a-drome ; mant-ic, -is (<ref>42</ref>)<note n="grc">revised edition leaves this out -- I don't know what the derivative is myself</note> ; oc-u-lar, ocu-list; ple-thora, ple-onasm; proto- (<ref>80</ref>) <note>this remains in Debnar but I don't see what section 80 does to explain this. I presume the derivative is protoplasm.</note> ;
+pyr(e)- (<ref>15</ref>).
 
 209.	Translate:
 
@@ -6535,13 +6535,13 @@ Iliad, 101-108
 
 
 
-211. 102. εὐρύ: adverbial, 780-781. — 
+211. 102. εὐρύ: adverbial, <ref>780-781</ref>. — 
 
 εὐρὺ κρείων : widely ruling.
 
 103. μένεος : 986. — 
 
-μέγα : adverbial, 780-781.
+μέγα : adverbial, <ref>780-781</ref>.
 
 104.	
 
@@ -6552,7 +6552,7 @@ Iliad, 101-108
 
 ἐίκτην [εἴκω]. — 
 
-λαμπετόωντι (945-948): to contrast
+λαμπετόωντι (<ref>945-948</ref>): to contrast
 with ἀμφιμέλαιναι, verse 108.
 
 103 f. The diaphragm was thought of as the seat of the emotions and
@@ -6565,7 +6565,7 @@ making his accusation of the king.
 
 105.	πρώτιστα : 780—781. — 
 
-κάκ’: 780-781, 1012. — 
+κάκ’: <ref>780-781</ref>, 1012. — 
 
 κάκ’ ὀσσόμενος :
 “with evil look” (literally “looking evil things”), i.e. a look that
@@ -6629,7 +6629,7 @@ LESSON XXXIV: REVIEW OF REGULAR -μι VERBS
 Iliad, 109-117
 
 213.	Learn all the forms, active, middle, and passive of
-ἵστημι, τίθημι, δίδωμι, and ἵημι 949-963, 924.
+ἵστημι, τίθημι, δίδωμι, and ἵημι <ref>949-963</ref>, 924.
 
 214.	Optional:
 
@@ -6673,11 +6673,11 @@ sound, unhurt, unharmed, well,
 2. Ἀγαμέμvωv ούκ ἤθελε δέξασθαι ἄποινα, ἐπεὶ πολὺ βούλεται ἔχειν τὴν κούρην
 αὐτὴν οἴκοι. 
 
-3. προβουλήσεται Ἀγαμέμνων  Χρῡσηίδα Κλυταιμ(ν)ήστρης κουριδίης ἀλόχου; (988).	
+3. προβουλήσεται Ἀγαμέμνων  Χρῡσηίδα Κλυταιμ(ν)ήστρης κουριδίης ἀλόχου; (<ref>988</ref>).	
 
 
-4. Χρῡσηίς οὔκ ἐστι χερείων Κλυταιμ(ν)ήστρης (988), οὐ δέμας οὐδὲ φυὴν οὔτ’
-ἄρ φρένας οὔτε τι ἔργα (1014).	
+4. Χρῡσηίς οὔκ ἐστι χερείων Κλυταιμ(ν)ήστρης (<ref>988</ref>), οὐ δέμας οὐδὲ φυὴν οὔτ’
+ἄρ φρένας οὔτε τι ἔργα (<ref>1014</ref>).	
 
 5. ἔθελουσιν Ἀχαιοὶ δόμεναι πάλιν ἑλικώπιδα κούρην, εἰ τό γ’ ἐστιν ἄμεινον, ἐπεὶ βούλονται λάον εἶναι σόον ἢ (rather than) ἀπολέσθαι. 
 
@@ -6740,7 +6740,7 @@ to the god. —
 112.	αὐτήν: the girl’s own self, as contrasted with the ransom. —
 βούλομαι: prefer. — 
 
-πολύ : 780-781.
+πολύ : <ref>780-781</ref>.
 
 113.	ῥα Κλυταιμ(v)ήστρης: 524, 988. The correct spelling of this
 name is Κλυταιμήστρη, although practically all modern texts have Κλυταιμνήστρη, and we ordinarily have “ Clytaemnestra ” in English.
@@ -6751,7 +6751,7 @@ preferable.
 
 115.	δέμας, φυήν, φρένας, ἔργα (Ϝέργα) : 1014. — 
 
-τι: 780-781.
+τι: <ref>780-781</ref>.
 
 After sneering at Calchas, Agamemnon hastens to add his own defense
 for not accepting the ransoms and releasing the girl. He is careful
@@ -6830,7 +6830,7 @@ the accusation there made.
 LESSON XXXV: IRREGULAR VERBS IN -μι, εἰμί, AND ENCLITICS
 
 Iliad, 118-125
-220. Learn the conjugation of εἰμί complete, 964, and read 553-559.
+220. Learn the conjugation of εἰμί complete, 964, and read <ref>553-559</ref>.
 
 
 
@@ -6869,7 +6869,7 @@ Iliad, 118-125
 
 πού (end.), any way, anywhere,  some way, somewhere, somehow, perhaps.
 
-Derivatives : amoeba, amoebean (593-595), pod- (101).
+Derivatives : amoeba, amoebean (593-595), pod- (<ref>101</ref>).
 
 223.	Translate :
 
@@ -6882,7 +6882,7 @@ Derivatives : amoeba, amoebean (593-595), pod- (101).
 4. ποδάρκης διος Ἀχιλλεύς εἶπε μῦθον κρατερὸν Ἀγαμέμνονι κύδίστῳ, φίλοκτεανωτάτῳ δὲ πάντων ἀνδρῶν. 
 
 5. Ἀχαιοὶ ἐκπέρσουσι πολλὰ ἐκ λᾱῶν πολίων καὶ δάσονται πάντα λᾱῷ. 
-6. οὐ δώσομεν γέρας Ἀγαμέμνονι, οὐ γὰρ ἔχομέν που ξῡνήια κείμενα (1027).
+6. οὐ δώσομεν γέρας Ἀγαμέμνονι, οὐ γὰρ ἔχομέν που ξῡνήια κείμενα (<ref>1027</ref>).
 
 224.	Read and translate :
 
@@ -6917,7 +6917,7 @@ avarice beyond all other men.
 
 120.	ὅ = ὅτι: that.—
 
-μοι: dat. of interest, or possibly of disadvantage, 997-998.
+μοι: dat. of interest, or possibly of disadvantage, <ref>997-998</ref>.
 
 121.	Achilles, who has summoned the assembly and who has promised
 protection to Calchas, is the logical candidate to answer Agamemnon,
@@ -6939,7 +6939,7 @@ absurd.
 
 124	: litotes, with a touch of the sarcastic in πολλά. — 
 
-τί: 780-781. —
+τί: <ref>780-781</ref>. —
 ξῡνήια : used substantively, 1027, common stores.
 
 125. τά, τά: the first of these should be translated as a relative, the
@@ -7029,7 +7029,7 @@ knew.
 231.	Learn the conjugation of εἶμι come, go, φημί say,
 speak, ἧμαι sit, be seated, κεῖμαι lie, recline, the perfect
 οἶδα know, and the second perfect (without tense suffix)
-of ἵστημι set, stand, 924, 964-969.
+of ἵστημι set, stand, 924, <ref>964-969</ref>.
 
 232.	Optional:
 
@@ -7206,7 +7206,7 @@ Iliad, 133-141
 240.	VOCABULARY
 
 Αἴᾱς, Αἴαντος, ὁ Ajax,
-αἱρέω (αἱρ- ,	ἑλ-),	αἱρήσω, ἕελον (εἷλον, 584-585), ᾕρηκα*, ἥρημαι*,
+αἱρέω (αἱρ- ,	ἑλ-),	αἱρήσω, ἕελον (εἷλον, <ref>584-585</ref>), ᾕρηκα*, ἥρημαι*,
 ήρέθην* take, seize, deprive, (mid.) choose,
 ἅλς, ἁλος, ὁ, ἡ sea, brine,
 ἀντ-άξιος, ἀντ-αξίη, ἀντ-άξιον equivalent, of equal value.
@@ -7229,7 +7229,7 @@ Iliad, 133-141
 
 τεός, τεή, τεόν thy, thine, your(s).
 
-Derivatives :	sal-t, sal-ine (603-604), hali-eutic(s), -odose, hali-o-graphy, halite ; axiom(atic) ; dose, dowry; mela(n)- (208).
+Derivatives :	sal-t, sal-ine (603-604), hali-eutic(s), -odose, hali-o-graphy, halite ; axiom(atic) ; dose, dowry; mela(n)- (<ref>208</ref>).
 
 <pb n="95"/>
 
@@ -7349,7 +7349,7 @@ VOCABULARY
 ἀρχός, ἀρχοῦ, ὁ leader, commander, ruler, pilot, guide, chief,
 βουλη-φόρος, βουληφόρον counsel-bearing, full of counsel, discreet.
 
-εἷς, μία, ἕν (758) one, only, sole.
+εἷς, μία, ἕν (<ref>758</ref>) one, only, sole.
 ἑκά-εργος, ἑκα-έργου, ὁ free-worker, working his will, Apollo.
 
 ἔκ-παγλος, ἔκ-παγλον terrible, awful, dread(ful), frightful, fearful.
@@ -7387,7 +7387,7 @@ drag(o)on.
 
 2. εἰς νῆας Ἀγαμέμνων ἔθηκεν ἑκατόμβην ἱερὴν θεῷ.
 
-3. ἀνὰ τὴν θοὴν νῆα μέλαιναν Ἀγαμέμνων ἔβησεν (1069) αὐτήν Χρῡσηίδα καλλιπάρηον. 
+3. ἀνὰ τὴν θοὴν νῆα μέλαιναν Ἀγαμέμνων ἔβησεν (<ref>1069</ref>) αὐτήν Χρῡσηίδα καλλιπάρηον. 
 
 4. εἷς τις ἀνὴρ βουληφόφος ἔσται ἀρχὸς τῶν νηῶν Ἀχαιῶν.	
 
@@ -7477,7 +7477,7 @@ LESSON XXXIX: FORMATION AND COMPARISON OF ADVERBS
 
 Iliad, 152-157
 
-252.	Read carefully 780-788.
+252.	Read carefully <ref>780-788</ref>.
 
 253.	Optional:
 
@@ -7527,13 +7527,13 @@ squi-rrel, scio-graph(y), scio-machy, scio-mancy, sci-optic(al).
 
 Iliad, 152-157
 
-257.	152. ἐγώ: emphatic (1039), as contrasted with Agamemnon
+257.	152. ἐγώ: emphatic (<ref>1039</ref>), as contrasted with Agamemnon
 and his brother Menelaus, who had a strong personal interest in the
 success of the expedition.
 
 153.	μαχησόμενος : 1109, 5.—
 
-τι: 780-781.
+τι: <ref>780-781</ref>.
 
 154.	βοῦς = βόας : throughout all history cattle have been an important
 economic factor. Thus the English words “ fee, chattel, pecuniary,”
@@ -7642,7 +7642,7 @@ Iliad, 158-164
 259.	Study the table of cardinals, ordinals, and numeral
 adverbs, 757. Commit the first twelve of each to memory,
 and learn the declension of εἷς, μία, ἕν one; δύο (δύω) two;
-τρεῖς, τρία three ; and τέσσαρες, τέσσαρα four, 758-759.
+τρεῖς, τρία three ; and τέσσαρες, τέσσαρα four, <ref>758-759</ref>.
 
 260.	Optional:
 
@@ -7681,7 +7681,7 @@ and learn the declension of εἷς, μία, ἕν one; δύο (δύω) two;
 
 1. Ἀχιλλεὺς ἕσπετο ἄνακτι ἀνδρῶν Ἀγαμέμνονι μέγ’ ἀναιδέι, ὄφρα χαίρῃ. 
 
-2. Ἀχαιοὶ ἕσποντ Ἀγαμέμνονι ἅμα, τιμήν ἀρνύμενοι (1070) τῷ καὶ Μενελάῳ. 
+2. Ἀχαιοὶ ἕσποντ Ἀγαμέμνονι ἅμα, τιμήν ἀρνύμενοι (<ref>1070</ref>) τῷ καὶ Μενελάῳ. 
 
 3. ἦν Ἀγαμέμνων κυνώπης;	
 
@@ -7718,12 +7718,12 @@ Iliad, 158-164
 264. 158. σοί: 1007, emphatic, as may be seen from the accent, 762.
 — 
 
-μέγ'(α) : 780-781. — 
+μέγ'(α) : <ref>780-781</ref>. — 
 
 χαίρῃξ*: 1115-1116. — 
 
 σὺ : very emphatic, as contrasted
-with Achilles (1039).
+with Achilles (<ref>1039</ref>).
 
 159. ἀρνύμενοι: 1070. — 
 
@@ -7742,10 +7742,10 @@ of which it is merely the more insulting equivalent.
 
 160. τῶν (used substantively): 984.—
 
-τι: 780-781. — 
+τι: <ref>780-781</ref>. — 
 
 μετατρέπῃ =
-μετατρέπηαι, 584-585.
+μετατρέπηαι, <ref>584-585</ref>.
 
 <note>
 Calydonian boar hunt
@@ -7770,7 +7770,7 @@ of the army or the other chieftains.
 
 162.	ἔπι: 1050. — 
 
-πολλά: 780-781.
+πολλά: <ref>780-781</ref>.
 
 163.	σοί: a brachylogical comparison, as in English, “what is good
 for a cold,” i.e. “what is good for a man who has a cold.” This thought
@@ -7808,7 +7808,7 @@ Iliad, 165-172
 
 266.	1) Review carefully all the forms of λήω in the present,
 future, and first aorist, all voices, modes, and tenses,
-904-921, and read 789-809.
+904-921, and read <ref>789-809</ref>.
 
 2)	Learn the conjugation of φαίνω in the first aorist system,
 931-932.
@@ -7902,7 +7902,7 @@ and with gold, and with brass, and with iron, and with very much raiment
 : divide the spoil of your enemies with your brethren.” “ But all
 the cattle, and the spoil of the cities, we took for a prey to ourselves.”
 
-167.	τό: the well-known, usual (gift of honor). — m>Xv: 780-781.—
+167.	τό: the well-known, usual (gift of honor). — m>Xv: <ref>780-781</ref>.—
 μ,ίΐζον: comparat, of ρίγας, 754. — ολίγον: of slight value (not petite).
 
 <pb n="108"/>LESSON XLII	[272-275
@@ -7941,9 +7941,9 @@ PERFECT SYSTEMS OF VERBS
 Iliad, 173-181
 
 273.	1) Learn the conjugation of the perfect system of
-\νω and of βαίνω, 904-915, 922, 930.
+\νω and of βαίνω, <ref>904-915</ref>, 922, 930.
 
-2)	Head carefully 810-818.
+2)	Head carefully <ref>810-818</ref>.
 
 274.	Optional:
 
@@ -8112,10 +8112,10 @@ THE PERFECT MIDDLE SYSTEM OF VERBS
 
 Iliad, 182-192
 
-280.	1) Learn the perfect middle system of Χύω, 910-915,
-τρέφω, τεύχω, and πυνθάνομαι, 925-929.
+280.	1) Learn the perfect middle system of Χύω, <ref>910-915</ref>,
+τρέφω, τεύχω, and πυνθάνομαι, <ref>925-929</ref>.
 
-2)	Study the table of personal endings of verbs, 819-829.
+2)	Study the table of personal endings of verbs, <ref>819-829</ref>.
 
 281.	Optional:
 
@@ -8280,8 +8280,8 @@ FIRST AND SECOND PASSIVE SYSTEM OF VERBS
 
 j/	Iliad,	193-200
 
-287.	Read 830-859, and review the first passive system
-of λύω, 916-921, and of τρέφω, 935.
+287.	Read <ref>830-859</ref>, and review the first passive system
+of λύω, <ref>916-921</ref>, and of τρέφω, 935.
 
 288.	Optional:
 
@@ -8296,7 +8296,7 @@ of war, wisdom, and the arts.
 σθην* know, recognize, learn,
 perceive..
 
-'έλκω (Ιλκ- = σίλκ-, 603-604), draw,
+'έλκω (Ιλκ- = σίλκ-, <ref>603-604</ref>), draw,
 drag, pull, tug.
 ηοϊ while, until.
 
@@ -8354,7 +8354,7 @@ static ; comet; trope, etc., 261; dia-phanous, etc., 194.
 μνονα. 3. ἀθηνη ήΧθεν οὐρανόθεν, την ηάρ εηκεν Ηρτ; Χευ-
 κώΧενος. 4. "Ηρη ΧευκώΧενος φιΧεει ἀχιΧήὰ τε καὶ ἀγαμε-
 μνονα όμως θυμω, κήΒεται Be τοϊιν ἀμφοιιν. 5. ἀθηνη ήΧθεν
-ουρανόθεν, εστη Β’ οπιθεν, εΐΧε Β’ ἀχιΧήα ξανθής κόμης (983).
+ουρανόθεν, εστη Β’ οπιθεν, εΐΧε Β’ ἀχιΧήα ξανθής κόμης (<ref>983</ref>).
 
 6.	Άθηνη εφαίνετ ἀχιΧηι οϊω, οὐ ηάρ τις των ἀλλων Ἀχαιών
 ωράετο την θεάν. 7. επεϊ θεὰ εΐΧεν ἀχιΧήα κόμης, έθάμβησε,
@@ -8434,7 +8434,7 @@ Besides it would have spoiled the plot had Athena been seen or heard
 by the other Greeks, including Agamemnon.
 
 The latter part of this verse repeats in negative form the first two
-words. — όράτο = ώράίτο, 584-585, 837.
+words. — όράτο = ώράίτο, <ref>584-585</ref>, 837.
 
 199.	θάμβησtv: naturally Achilles was astonished at this unusual
 method of restraint. Certainly it would have been death to any of the
@@ -9189,7 +9189,7 @@ Derivatives: dynam-ic, -ite, -o, dynasty; hector; hypotenuse,
 
 325.	Translate:
 
-1. ποθή ἀχιΧλήοὶ (979,3) ϊξεται σνμτravras vias Ἀχαιών,
+1. ποθή ἀχιΧλήοὶ (<ref>979,3</ref>) ϊξεται σνμτravras vias Ἀχαιών,
 τότε S’ Ἀγαμέμνων ἀχννμενόὶ τrep ον δννήσεταὶ χραισμεειν λάώ,
 εντ’ αν 7τολλοι avSpes θνήσκοντεὶ ύπ’ ἀνδροφόνοιο "ΈιΚτορος πί-
 πτωσίν. 2. ἀμύξει δε θύμον ἐνδοθι Ἀγαμέμνων χωόμενος ον-
@@ -13983,7 +13983,7 @@ HOMERIC GREEK
 518.	Double Consonants. — The double consonants are ζ (= id),
 £ (= κσ, γσ, χσ), and ψ (= 7τσ, βσ, φσ).
 
-519.	Quantity. — The vowels -η and ω are always long; c and o
+519.	Quantity. — The vowels -η and ω are always long; ε and ο
 are always short, while α, ι, and υ are sometimes long and sometimes
 short, and hence are called doubtful vowels.
 
@@ -14004,28 +14004,28 @@ by two or more consonants, or by a double consonant (518).
 by position may come in the following word.
 
 524.	If a mute (509), followed by a liquid (516), or by the
-nasals μ or ν, comes after a short vowel, and the mute and liquid
+nasals <foreign xml:lang="greek">μ</foreign> or <foreign xml:lang="greek">ν</foreign>, comes after a short vowel, and the mute and liquid
 (or nasal) come within the same word or the same part of a compound,
 the syllable is common, that is, it may be either long or
 short, according to the requirements of the verse.
 
-525.	Sometimes a short vowel followed by λ, μ, ν or ρ (occasionally
-σ or Ϝ) forms a syllable long by position, in which case
+525.	Sometimes a short vowel followed by <foreign xml:lang="greek">λ</foreign>, <foreign xml:lang="greek">μ</foreign>, <foreign xml:lang="greek">ν</foreign> or <foreign xml:lang="greek">ρ</foreign> (occasionally
+<foreign xml:lang="greek">σ</foreign> or <foreign xml:lang="greek">ϝ</foreign>) forms a syllable long by position, in which case
 these consonants seem to have been doubled in pronunciation,
 and are sometimes so written.
 
 
 
 526.	One of the consonants which make a syllable long by
-position (particularly Ϝ, occasionally σ) is sometimes lost, but in
-many of these cases the Ϝ was probably pronounced in Homeric
+position (particularly <foreign xml:lang="greek">ϝ</foreign>, occasionally <foreign xml:lang="greek">σ</foreign>) is sometimes lost, but in
+many of these cases the <foreign xml:lang="greek">ϝ</foreign> was probably pronounced in Homeric
 times.
 
 527.	Breathings. — Every vowel at the beginning of a word
 must have either the smooth breathing (᾽) or the rough breathing (῾),
 written over it if it is a small letter, and before it if it is an
 
-<pb n="210"/>QUANTITY, BREATHINGS, ACCENTS [528-538
+<pb n="210"/>
 
 initial capital followed by small letters. If the entire word is
 written in capitals, the breathing is omitted.
@@ -14034,25 +14034,25 @@ written in capitals, the breathing is omitted.
 sounded before the vowel, as ἱστός loom, mast (pronounced
 histós).
 
-529.	Initial p always has the rough breathing ; initial v usually
+529.	Initial <foreign xml:lang="greek">ρ</foreign> always has the rough breathing ; initial <foreign xml:lang="greek">υ</foreign> usually
 has it.
 
 530.	The smooth breathing denotes that the vowel was sounded
-without the h, as epos my, mine (pronounced emos).
+without the h, as ἐμός my, mine (pronounced emós).
 
 531.	A diphthong, except an improper one (505) at the beginning
 of a word takes the breathing over its second vowel, as
-Ἀυτός (αυτός) self (pronounced owtos), Υιός (υιός) son (pronounced
+Αὐτός (αὐτός) self (pronounced owtós), Υἱός (υἱός) son (pronounced
 
-Jrneos).
+hwêós).
 
 532.	Improper diphthongs take the breathing over the first
 
 vowel when it is a small letter, and before it when it is an initial
-capital followed by small letters.	*
+capital followed by small letters.
 
 533. In compounds no word is written with a breathing unless
-it be initial, even though it originally had it, as ξννίημχ (βιν + ΐημι)
+it be initial, even though it originally had it, as ξυνίημι (ξύν + ἵημι)
 bring together, hearken to. In such cases the rough breathing
 should be pronounced.
 
@@ -14424,8 +14424,8 @@ but then without the apostrophe to mark it, as ἐπευφήμησαν (ἐπὶ
 εὐφήμησαν they shouted assent.
 
 580.	When the following word begins with a vowel which was
-formerly preceded by a lost consonant, especially ϝ, elision does
-not ordinarily take place, as ἐνὶ οἴκῳ (= ἐνὶ ϝοίκῳ in (our) home.
+formerly preceded by a lost consonant, especially <foreign xml:lang="greek">ϝ</foreign>, elision does
+not ordinarily take place, as <foreign xml:lang="greek">ἐνὶ οἴκῳ</foreign> (= <foreign xml:lang="greek">ἐνὶ ϝοίκῳ</foreign> in (our) home.
 
 581.	ϝ, a semi-vowel corresponding to Eng. w, was pronounced
 at times, and at other times neglected.
@@ -14669,24 +14669,25 @@ taken away (= ἀπορράς), ανερνσαν they drew up (the heads of the 
 
 603.	Loss of Sigma. —The rough breathing (527) in Greek often
 represents a lost sigma. A sigma between two vowels usually
-became the rough breathing (compare the change of intervocalic s
-to r in early Latin) and was then lost.
+became the rough breathing (compare the change of intervocalic <emph>s</emph>
+to <emph>r</emph> in early Latin) and was then lost.
 
 <pb n="222"/>ORTHOGRAPHY, CONSONANT CHANGE [604-610
 
 604.	Compare		
-Greek	νπίρ over	άλϊ the (salt) sea	ΐστ-ημι stand
-Latin	super	sal	sisto
-Greek	ΐημι (ί-ij/u) throw	li six	iirra (Ιπτμ 597,598,3) seven
-Latin	sero (seso)	sex	septem
-Greek	εδοϊ seat	I self	τ)ως (αρ-ως) dawn
-Latin	sedes	se	aurora (ausosa)
-Greek	ομός similar	αΧλομαι (aX.tr) leap	ΰπνοϊ sleep
-Latin	simi-lis	salio	somnus (sopnos, of. sopor)
-Greek	os, ἡ, ον ('fos, 'ρη,	'/τον) one’s own	ytveoi of a race (γενε-os)
-Latin	suus, sua, suum		generis (genesis)
-Greek	genitive plural ending, feminine, 1st deel. ΰων (α-ών)		
-Latin	ii ii	u a a	“ arum (asum)
+Greek	<foreign xml:lang="greek">ὑπέρ</foreign> <gloss>over</gloss>	<foreign xml:lang="greek">άλς</foreign> <gloss>the (salt) sea</gloss>	<foreign xml:lang="greek">ἵστ-ημι</foreign> <gloss>stand</gloss>
+Latin	<foreign xml:lang="latin">super</foreign>	<foreign xml:lang="latin">sal</foreign>	<foreign xml:lang="latin">sisto</foreign>
+Greek	<foreign xml:lang="greek">ἵημι</foreign> (<foreign xml:lang="greek">ἱ-ἡμι</foreign>) <gloss>throw</gloss>	<foreign xml:lang="greek">ἑξ</foreign> <gloss>six</gloss>	<foreign xml:lang="greek">ἑπτά</foreign> (<foreign xml:lang="greek">ἑπτμ</foreign> 597,598,3) <gloss>seven</gloss>
+Latin	<foreign xml:lang="latin">sero</foreign> (<foreign xml:lang="latin">seso</foreign>)	<foreign xml:lang="latin">sex</foreign>	<foreign xml:lang="latin">septem</foreign>
+Greek	<foreign xml:lang="greek">ἕδος</foreign> <gloss>seat</gloss>	<foreign xml:lang="greek">ἕ</foreign> <gloss>self</gloss>	<foreign xml:lang="greek">ἠώς</foreign> (<foreign xml:lang="greek">ἀϝ-ὡς</foreign>) <gloss>dawn</gloss>
+Latin	<foreign xml:lang="latin">sedes</foreign>	<foreign xml:lang="latin">se</foreign>	<foreign xml:lang="latin">aurora</foreign> (<foreign xml:lang="latin">ausosa</foreign>)
+Greek	<foreign xml:lang="greek">ὁμός</foreign> <gloss>similar</gloss>	<foreign xml:lang="greek">ἅλλομαι</foreign> (<foreign xml:lang="greek">ἁλι-</foreign>) <gloss>leap</gloss>	<foreign xml:lang="greek">ὕπνος</foreign> <gloss>sleep</gloss>
+Latin	<foreign xml:lang="latin">simi-lis</foreign>	<foreign xml:lang="latin">salio</foreign>	<foreign xml:lang="latin">somnus</foreign> (<foreign xml:lang="latin">sopnos</foreign>, cf. <foreign xml:lang="latin">sopor</foreign>)
+Greek	<foreign xml:lang="greek">ὅς</foreign>, <foreign xml:lang="greek">ἥ</foreign>, <foreign xml:lang="greek">ὅν</foreign> (<foreign xml:lang="greek">῾ϝos</foreign>, <foreign xml:lang="greek">῾ϝη</foreign>, <foreign xml:lang="greek">῾ϝον</foreign>) <gloss>one’s own</gloss>	<foreign xml:lang="greek">γένεος</foreign> <gloss>of a race</gloss> (<foreign xml:lang="greek">γενε-ὁs</foreign>)
+Latin	<foreign xml:lang="latin">suus</foreign>, <foreign xml:lang="latin">sua</foreign>, <foreign xml:lang="latin">suum</foreign>		<foreign xml:lang="latin">generis</foreign> (<foreign xml:lang="latin">genesis</foreign>)
+Greek	genitive plural ending, feminine, 1st decl. <foreign xml:lang="greek">ᾱων</foreign> (<foreign xml:lang="greek">ᾱ-ὡν</foreign>)		
+Latin	" "  " " <foreign xml:lang="latin">arum</foreign> (<foreign xml:lang="latin">asum</foreign>)
+
 605.	Final Consonants. — The only consonants which can stand		
 
 at the end of a word are v, p, and s (including i and ψ). Other
