@@ -1843,7 +1843,7 @@ Spell and pronounce: <note>In spelling these words it is not necessary to have m
 
 <item xml:id="oionos-cunliffe-lex" lemma="οἰωνός">οἰωνός bird (of prey), vulture, omen.</item>
 <item xml:id="te-cunliffe-lex" lemma="τε">τέ and, also.</item>
-<item ="dais-cunliffe-lex" lemma="δαίς">δαίς portion, feast, banquet.</item>
+<item xml:id="dais-cunliffe-lex" lemma="δαίς">δαίς portion, feast, banquet.</item>
 <item xml:id="" lemma="Ζεύς">Ζεύς Zeus, father and king of gods and men.</item>
 <item xml:id="teleo-cunliffe-lex" lemma="τελέω">τελείω accomplish, fulfill,</item>
 <item xml:id="boule-cunliffe-lex" lemma="βουλή">βουλή will, wish, plan, purpose, counsel, council.</item>
