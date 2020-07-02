@@ -1853,7 +1853,7 @@ xlii
 <pb/>
 <pb/></p>
 
-<div type="textpart" n="lesson1"><head>Lesson I: introductory</head>
+<div type="textpart" n="lesson01"><head>Lesson I: introductory</head>
 
 <p>1. Learn the alphabet and sounds of the letters, breathings, and quantity, <ref>501-508</ref>, <ref>519-520</ref>, <ref>521-533</ref><note>The figures refer to sections of the book.</note>
 
@@ -1869,8 +1869,8 @@ practice,3 covering with a card the English transliteration
 Spell and pronounce: <note>In spelling these words it is not necessary to have memorized the namesof the Greek letters, but the sounds should be familiar. Thus, for the present, α may be called a, β may be called b, γ may be called g, etc.</note>
 
 <list>
-<item><foreign xml:lang="greek" n="menis-cunliffe-lex">μῆνις</foreign> wrath, fury, madness, rage.</item>
-<item><foreign xml:lang="greek" n="aeido-cunliffe-lex">ἀείδω</foreign> <gloss>      sing (of), hymn.</gloss></item>
+<item><foreign xml:lang="greek" n="menis-cunliffe-lex">μῆνις</foreign> <gloss>wrath, fury, madness, rage.</gloss></item>
+<item><foreign xml:lang="greek" n="aeido-cunliffe-lex">ἀείδω</foreign> <gloss>sing (of), hymn.</gloss></item>
 
 <item><foreign xml:lang="greek" n="thea-cunliffe-lex">θεά</foreign> <gloss>goddess.</gloss></item>
 
@@ -1936,7 +1936,7 @@ a youth in a bath.
 </p>
 </div>
 
-<div type="textpart" n="lesson2"><head>Lesson II: syllables, accents, elision, punctuation, and transliteration</head>
+<div type="textpart" n="lesson02"><head>Lesson II: syllables, accents, elision, punctuation, and transliteration</head>
 
 <p>5. Learn the principles of accentuation, the formation of syllables, elision, punctuation, etc.: <ref>534-551</ref>, <ref>553</ref>, <ref>560</ref>, <ref>575</ref>,
 622-<ref>625</ref>
@@ -1947,7 +1947,7 @@ a youth in a bath.
 </p>
 </div>
 
-<div type="textpart" n="lesson3"><head>Lesson III: nouns of the first declension</head>
+<div type="textpart" n="lesson03"><head>Lesson III: nouns of the first declension</head>
 
 <p>8. Learn : </p>
 
@@ -1961,24 +1961,24 @@ a youth in a bath.
 
 10. VOCABULARY
 <list>
-<item><foreign xml:lang="greek" n="boule-cunliffe-lex">βουλή</foreign>, <foreign xml:lang="greek">βουλῆs</foreign>, <foreign xml:lang="greek">ἡ</foreign> <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, ὁ, ἡ, τό, to indicate the gender, <ref>637-638</ref>.</note> plan, will, wish, purpose, counsel, council,</item>
-<item><foreign xml:lang="greek" n="deinos-cunliffe-lex">δεινή</foreign> fearful, terrible, awful, dread(ful).</item>
+<item><foreign xml:lang="greek" n="boule-cunliffe-lex">βουλή</foreign>, <foreign xml:lang="greek">βουλῆs</foreign>, <foreign xml:lang="greek">ἡ</foreign> <note>The form of the noun found in the Vocabulary is regularly the nominative singular, followed by the ending of the genitive singular, to indicate the declension, and by the pronoun, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">τό</foreign>, to indicate the gender, <ref>637-638</ref>.</note> <gloss>plan, will, wish, purpose, counsel, council,</gloss></item>
+<item><foreign xml:lang="greek" n="deinos-cunliffe-lex">δεινή</foreign> <gloss>fearful, terrible, awful, dread(ful).</gloss></item>
 
-<item><foreign xml:lang="greek" n="en-cunliffe-lex">ἐν</foreign>, <foreign xml:lang="greek">ἐνί</foreign>, <foreign xml:lang="greek">εἰν</foreign>, adv., and prep, with dat., in, among, there (in, -on),</item>
-<item><foreign xml:lang="greek" n="exo-cunliffe-lex:ἔχω">ἔχει</foreign> (he, she, it) has, holds.</item>
-<item><foreign xml:lang="greek" n="exo-cunliffe-lex:ἔχω">ἔχουσι</foreign>, <foreign xml:lang="greek">ἔχουσιν</foreign><note>nu-movable, <ref>661</ref></note> (they) have, hold,</item>
-<item><foreign xml:lang="greek" n="eimi-cunliffe-lex:εἰμί">ἦν</foreign> (he, she, it) was, there was.</item>
-<item><foreign xml:lang="greek" n="eimi-cunliffe-lex:εἰμί">ἦσαν</foreign> (they) were, there were.</item>
-<item><foreign xml:lang="greek" n="cai-cunliffe-lex">καί</foreign> and, also, even.</item>
+<item><foreign xml:lang="greek" n="en-cunliffe-lex">ἐν</foreign>, <foreign xml:lang="greek">ἐνί</foreign>, <foreign xml:lang="greek">εἰν</foreign>, <gloss>adv., and prep, with dat., in, among, there (in, -on),</gloss></item>
+<item><foreign xml:lang="greek" n="exo-cunliffe-lex:ἔχω">ἔχει</foreign> <gloss>(he, she, it) has, holds.</gloss></item>
+<item><foreign xml:lang="greek" n="exo-cunliffe-lex:ἔχω">ἔχουσι</foreign>, <foreign xml:lang="greek">ἔχουσιν</foreign><note>nu-movable, <ref>661</ref></note> <gloss>(they) have, hold.</gloss></item>
+<item><foreign xml:lang="greek" n="eimi-cunliffe-lex:εἰμί">ἦν</foreign> <gloss>(he, she, it) was, there was.</gloss></item>
+<item><foreign xml:lang="greek" n="eimi-cunliffe-lex:εἰμί">ἦσαν</foreign> <gloss>(they) were, there were.</gloss></item>
+<item><foreign xml:lang="greek" n="cai-cunliffe-lex">καί</foreign> <gloss>and, also, even.</gloss></item>
 
-<item><foreign xml:lang="greek" n="cacos-cunliffe-lex:κακός">κακή</foreign> bad, poor, ugly, mean, cowardly, evil, wicked,</item>
-<item><foreign xml:lang="greek" n="calos-cunliffe-lex:καλός">κᾱλή</foreign> good(ly), noble, handsome, brave, fair, beautiful,</item>
-<item><foreign xml:lang="greek" n="clagge-cunliffe-lex">κλαγγή</foreign>, <foreign xml:lang="greek">κλαγγῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> CLANG, (up)roar, roar, noise,</item>
-<item><foreign xml:lang="greek" n="tis-cunliffe-lex:τίς">τίς</foreign> (m., f.), who? which? what?</item>
-<item><foreign xml:lang="greek" n="tis-cunliffe-lex:τίς">τί</foreign> (neut.), which? what? why?</item>
-<item><foreign xml:lang="greek" n="philos-cunliffe-lex">Χρύση</foreign>, <foreign xml:lang="greek">Χρύσης</foreign>, <foreign xml:lang="greek">ἡ</foreign> Chrysa, a town in the Troad.</item>
+<item><foreign xml:lang="greek" n="cacos-cunliffe-lex:κακός">κακή</foreign> <gloss>bad, poor, ugly, mean, cowardly, evil, wicked,</gloss></item>
+<item><foreign xml:lang="greek" n="calos-cunliffe-lex:καλός">κᾱλή</foreign> <gloss>good(ly), noble, handsome, brave, fair, beautiful,</gloss></item>
+<item><foreign xml:lang="greek" n="clagge-cunliffe-lex">κλαγγή</foreign>, <foreign xml:lang="greek">κλαγγῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>CLANG, (up)roar, roar, noise,</gloss></item>
+<item><foreign xml:lang="greek" n="tis-cunliffe-lex:τίς">τίς</foreign> <gloss>(m., f.), who? which? what?</gloss></item>
+<item><foreign xml:lang="greek" n="tis-cunliffe-lex:τίς">τί</foreign> <gloss>(neut.), which? what? why?</gloss></item>
+<item><foreign xml:lang="greek" n="chryse-cunliffe-name">Χρύση</foreign>, <foreign xml:lang="greek">Χρύσης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>Chrysa, a town in the Troad.</gloss></item>
 
-<item><foreign xml:lang="greek" n="philos-cunliffe-lex:φίλ">φίλος</foreign> dear, darling, lovely, beloved.</item>
+<item><foreign xml:lang="greek" n="philos-cunliffe-lex:φίλ">φίλος</foreign> <gloss>dear, darling, lovely, beloved.</gloss></item>
 </list>
 
 
@@ -2035,7 +2035,7 @@ a bad plan (nom.), for a bad plan, a bad plan (acc. sg.), bad plans (acc. pl.)
 </foreign></p>
 </div>
 
-<div type="textpart" n="lesson4"><head>Lesson IV: nouns of the first declension (Continued)</head>
+<div type="textpart" n="lesson04"><head>Lesson IV: nouns of the first declension (Continued)</head>
 
 <p>13. Learn the declension of <foreign xml:lang="greek">θεά [θεᾱ]</foreign>, <gloss>goddess</gloss>,
 
@@ -2049,30 +2049,30 @@ and <foreign xml:lang="greek">θάλασσα</foreign>, <gloss>sea</gloss> (<ref
 
 15. VOCABULARY
 <list>
-<item><foreign xml:lang="greek" n="γάρ">γάρ</foreign> post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj., for, in fact. </item>
+<item><foreign xml:lang="greek" n="γάρ">γάρ</foreign> <gloss>post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj., for, in fact. </gloss></item>
 
-<item><foreign xml:lang="greek" n="">εἰσί/εἰσίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> (they) are, there are.</item>
+<item><foreign xml:lang="greek" n="">εἰσί/εἰσίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> <gloss>(they) are, there are.</gloss></item>
 
-<item><foreign xml:lang="greek" n="δέ">δέ</foreign>, post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj. but, and, so, for. </item>
-<item><foreign xml:lang="greek" n="">ἐστί/ἐστίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> (he, she, it) is, there is.</item>
+<item><foreign xml:lang="greek" n="δέ">δέ</foreign>, <gloss>post.<note>A postpositive word never comes first in its sentence, but usually second.</note> conj. but, and, so, for. </gloss></item>
+<item><foreign xml:lang="greek" n="">ἐστί/ἐστίν</foreign> <note>These words are enclitics, <ref>553-554</ref>.</note> <gloss>(he, she, it) is, there is</gloss>.</item>
 
 
 <pb n="4"/>
 
-<item><foreign xml:lang="greek" n="ἐκ">ἐκ</foreign> before consonants, <foreign xml:lang="greek">ἐξ</foreign> before vowels: adv., and prep, with gen. from, out of.</item>
+<item><foreign xml:lang="greek" n="ἐκ">ἐκ</foreign> <gloss>before consonants, <foreign xml:lang="greek">ἐξ</foreign> before vowels: adv., and prep, with gen. from, out of.</gloss></item>
 
-<item><foreign xml:lang="greek" n="ἐπί">ἐπί</foreign> adv., and prep, with gen., dat., and acc. to, at, (up)on, against, over, for; adv., (up)on, thereon; with gen., (up)on, over, during; with dat., (up)on, in, for, about, against, at, beside, by; with acc., to, up to, over, (up) on.</item>
+<item><foreign xml:lang="greek" n="ἐπί">ἐπί</foreign> <gloss>adv., and prep, with gen., dat., and acc. to, at, (up)on, against, over, for; adv., (up)on, thereon; with gen., (up)on, over, during; with dat., (up)on, in, for, about, against, at, beside, by; with acc., to, up to, over, (up) on.</gloss></item>
 
-<item><foreign xml:lang="greek" n="θάλασσα">θάλασσα</foreign>, <foreign xml:lang="greek">θαλάσσης</foreign>, <foreign xml:lang="greek">ἡ</foreign> sea.</item>
+<item><foreign xml:lang="greek" n="θάλασσα">θάλασσα</foreign>, <foreign xml:lang="greek">θαλάσσης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>sea.</gloss></item>
 
-<item><foreign xml:lang="greek" n="θεά">θεά</foreign>, <foreign xml:lang="greek">θεᾶς</foreign>, ὴ goddess.</item>
+<item><foreign xml:lang="greek" n="θεά">θεά</foreign>, <foreign xml:lang="greek">θεᾶς</foreign>,  <foreign xml:lang="greek">ἡ</foreign> <gloss>goddess</gloss>.</item>
 
-<item><foreign xml:lang="greek" n="Κίλλα">Κίλλα</foreign>, <foreign xml:lang="greek">Κίλλης</foreign>, <foreign xml:lang="greek">ἡ</foreign> Cilla, a town in the Troad.</item>
-<item><foreign xml:lang="greek" n="οὐ">οὐ</foreign>, <foreign xml:lang="greek">οὐκ</foreign>, <foreign xml:lang="greek">οὐχ</foreign> not, no: <foreign xml:lang="greek">οὐ</foreign> before consonants, <foreign xml:lang="greek">οὐκ</foreign> before the smooth breathing, <foreign xml:lang="greek">οὐχ</foreign> before the rough breathing, <ref>527-53</ref></item>
-<item><foreign xml:lang="greek" n="πάτρη">πάτρη</foreign>, <foreign xml:lang="greek">πάτρης</foreign>, <foreign xml:lang="greek">ἡ</foreign> fatherland, native land,</item>
-<item><foreign xml:lang="greek" n="πολύς">πολλή</foreign> much, many, numerous,</item>
-<item><foreign xml:lang="greek" n="πυρή">πυρή</foreign>, <foreign xml:lang="greek">πυρῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> (funeral) pyre.</item>
-<item><foreign xml:lang="greek" n="ψυχή">ψῡχή</foreign>, <foreign xml:lang="greek">ψῡχῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> soul, breath, life, spirit.</item>
+<item><foreign xml:lang="greek" n="Κίλλα">Κίλλα</foreign>, <foreign xml:lang="greek">Κίλλης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>Cilla, a town in the Troad.</gloss></item>
+<item><foreign xml:lang="greek" n="οὐ">οὐ</foreign>, <foreign xml:lang="greek">οὐκ</foreign>, <foreign xml:lang="greek">οὐχ</foreign> <gloss>not, no: <foreign xml:lang="greek">οὐ</foreign> before consonants, <foreign xml:lang="greek">οὐκ</foreign> before the smooth breathing, <foreign xml:lang="greek">οὐχ</foreign> before the rough breathing, <ref>527-53</ref></gloss></item>
+<item><foreign xml:lang="greek" n="πάτρη">πάτρη</foreign>, <foreign xml:lang="greek">πάτρης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>fatherland, native land,</gloss></item>
+<item><foreign xml:lang="greek" n="πολύς">πολλή</foreign> <gloss>much, many, numerous,</gloss></item>
+<item><foreign xml:lang="greek" n="πυρή">πυρή</foreign>, <foreign xml:lang="greek">πυρῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>(funeral) pyre.</gloss></item>
+<item><foreign xml:lang="greek" n="ψυχή">ψῡχή</foreign>, <foreign xml:lang="greek">ψῡχῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>soul, breath, life, spirit.</gloss></item>
 </list>
  
 Derivatives: thalasso-cracy; patriotic; pyro-latry, pyro-technical),
@@ -2173,7 +2173,7 @@ Note.</foreign> — Do not translate words in parentheses.
 </p>
 </div>
 
-<div type="textpart" n="lesson5"><head>Lesson V: the present active indicative of verbs in <foreign xml:lang="greek">-ω</foreign></head>
+<div type="textpart" n="lesson05"><head>Lesson V: the present active indicative of verbs in <foreign xml:lang="greek">-ω</foreign></head>
 
 <p>18. 1) Read carefully the sections regarding the verb : <ref>789-806</ref>.</p>
 
@@ -2184,24 +2184,24 @@ Note.</foreign> — Do not translate words in parentheses.
 20. VOCABULARY
 
 <list>
-<item>n<foreign xml:lang="greek">="ἀείδω">ἀείδω</foreign><note>The form of the verb (if not defective) appearing in the vocabulary is the first person singular of the present active indicative.</note> sing (of), hymn, chant.</item>
-<item n="">άν-<note>Sometimes called “ alpha privative.”</note> (ά- before consonants), an inseparable prefix, not, un-, dis-, -less, without,</item>
-<item><foreign xml:lang="greek" n="ἁνδάνω">ἁνδάνω</foreign> please (with dat, <ref>996</ref>).</item>
-<item><foreign xml:lang="greek" n="ἀτιμάζω">ἀ-τιμάζω</foreign> dishonor, slight, insult,</item>
-<item><foreign xml:lang="greek" n="βαίνω">βαίνω</foreign> come, go, walk.</item>
+<item><foreign xml:lang="greek">ἀείδω</foreign><note>The form of the verb (if not defective) appearing in the vocabulary is the first person singular of the present active indicative.</note> <gloss>sing (of), hymn, chant.</gloss></item>
+<item><foreign xml:lang="greek">ἀ-</foreign><note>Sometimes called “ alpha privative.”</note> (ά- before consonants), <gloss>an inseparable prefix, not, un-, dis-, -less, without,</gloss></item>
+<item><foreign xml:lang="greek" n="ἁνδάνω">ἁνδάνω</foreign> <gloss>please (with dat, <ref>996</ref>).</gloss></item>
+<item><foreign xml:lang="greek" n="ἀτιμάζω">ἀ-τιμάζω</foreign> <gloss>dishonor, slight, insult,</gloss></item>
+<item><foreign xml:lang="greek" n="βαίνω">βαίνω</foreign> <gloss>come, go, walk.</gloss></item>
 
-<item><foreign xml:lang="greek" n="εἰς">εἰς</foreign> (ἐς) adv., and prep, with acc., to, into, until, therein.</item>
+<item><foreign xml:lang="greek" n="εἰς">εἰς</foreign> (><foreign xml:lang="greek" n="εἰς">ἐς</foreign>) <gloss> adv., and prep, with acc., to, into, until, therein.</gloss></item>
 
-<item><foreign xml:lang="greek" n="ἔχω">ἔχω</foreign> have, hold, keep,</item>
-<item><foreign xml:lang="greek" n="καίω">καίω</foreign> burn, consume.</item>
+<item><foreign xml:lang="greek" n="ἔχω">ἔχω</foreign> <gloss>have, hold, keep,</gloss></item>
+<item><foreign xml:lang="greek" n="καίω">καίω</foreign> <gloss>burn, consume.</gloss></item>
 
-<item><foreign xml:lang="greek" n="λύω">λύω</foreign> loose, free, break up, destroy,</item>
-<item><foreign xml:lang="greek" n="ὀλέκω">ὀλέκω</foreign> kill, destroy, ruin.</item>
+<item><foreign xml:lang="greek" n="λύω">λύω</foreign> <gloss>loose, free, break up, destroy,</gloss></item>
+<item><foreign xml:lang="greek" n="ὀλέκω">ὀλέκω</foreign> <gloss>kill, destroy, ruin.</gloss></item>
 
-<item><foreign xml:lang="greek" n="πέμπω">πέμπω</foreign> send, escort, conduct,</item>
-<item><foreign xml:lang="greek" n="τελείω">τελείω</foreign> accomplish, fulfill, complete,</item>
-<item><foreign xml:lang="greek" n="τεύχω">τεύχω</foreign> make, do, fashion, perform, cause, prepare,</item>
-<item><foreign xml:lang="greek" n="φέρω">φέρω</foreign> bear, carry, bring.</item>
+<item><foreign xml:lang="greek" n="πέμπω">πέμπω</foreign> <gloss>send, escort, conduct,</gloss></item>
+<item><foreign xml:lang="greek" n="τελείω">τελείω</foreign> <gloss>accomplish, fulfill, complete,</gloss></item>
+<item><foreign xml:lang="greek" n="τεύχω">τεύχω</foreign> <gloss>make, do, fashion, perform, cause, prepare,</gloss></item>
+<item><foreign xml:lang="greek" n="φέρω">φέρω</foreign> <gloss>bear, carry, bring.</gloss></item>
 </list>
  
 Derivatives: ode(-um), mel-ody, palin-ode; a-theist, an-archy; caustic, cauterize, holo-caust; ana-lysis; pomp (<ref>593</ref>) ;
@@ -2312,7 +2312,7 @@ number, that the teacher may have a wider range of choice. Most will find three 
 </foreign></p>
 </div>
 
-<div type="textpart" n="lesson6"><head>Lesson VI: the second declension</head>
+<div type="textpart" n="lesson06"><head>Lesson VI: the second declension</head>
 
 <p>23. 1) Learn the declension of <foreign xml:lang="greek">θῡμός</foreign> <gloss>heart, spirit</gloss>, <foreign xml:lang="greek">ἔργον</foreign> <gloss>deed, work</gloss>, <ref>678-679</ref>,
 
@@ -2332,35 +2332,35 @@ for example).
 
 25. VOCABULARY
 <list>
-<item><foreign xml:lang="greek" n="ἀγλαός">ἀγλαός</foreign>, <foreign xml:lang="greek">ἀγλαή</foreign>, <foreign xml:lang="greek">ἀγλαόν</foreign> bright, shining, splendid, glorious. </item>
+<item><foreign xml:lang="greek" n="ἀγλαός">ἀγλαός</foreign>, <foreign xml:lang="greek">ἀγλαή</foreign>, <foreign xml:lang="greek">ἀγλαόν</foreign> <gloss>bright, shining, splendid, glorious. </gloss></item>
 
 
 
-<item><foreign xml:lang="greek" n="ἀνά">ἀνά</foreign>, <foreign xml:lang="greek">ἄν</foreign> adv., and prep, with gen., dat., and acc., up(on), along, up through; adv., (up)on, thereon; with dat, (up)on, along; with acc., through(out), up through.</item>
-<item><foreign xml:lang="greek" n="ἀπερείσιος">ἀ-περείσιος</foreign>, <foreign xml:lang="greek">ἀ-πειρεσίη</foreign>, <foreign xml:lang="greek">ἀ-πειρείσιον</foreign> boundless, countless, immeasureable.</item>
-<item><foreign xml:lang="greek" n="ἄποινα">ἄποινα</foreign>, <foreign xml:lang="greek">ἀποίνων</foreign>, <foreign xml:lang="greek">τά</foreign> ransom(s).</item>
+<item><foreign xml:lang="greek" n="ἀνά">ἀνά</foreign>, <foreign xml:lang="greek">ἄν</foreign> <gloss>adv., and prep, with gen., dat., and acc., up(on), along, up through; adv., (up)on, thereon; with dat, (up)on, along; with acc., through(out), up through.</gloss></item>
+<item><foreign xml:lang="greek" n="ἀπερείσιος">ἀ-περείσιος</foreign>, <foreign xml:lang="greek">ἀ-πειρεσίη</foreign>, <foreign xml:lang="greek">ἀ-πειρείσιον</foreign> <gloss>boundless, countless, immeasureable.</gloss></item>
+<item><foreign xml:lang="greek" n="ἄποινα">ἄποινα</foreign>, <foreign xml:lang="greek">ἀποίνων</foreign>, <foreign xml:lang="greek">τά</foreign> <gloss>ransom(s).</gloss></item>
 
 
 
 <pb n="7"/>
 
-<item><foreign xml:lang="greek" n="Ἀχαιός">Ἀχαιοί</foreign>, <foreign xml:lang="greek">Ἀχαιοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> Achaean, Greek.</item>
-<item><foreign xml:lang="greek" n="δεινός">δεινός</foreign>, <foreign xml:lang="greek">δεινή</foreign>, <foreign xml:lang="greek">δεινόν</foreign> terrible, awful, dread(ful), fearfuL</item>
-<item><foreign xml:lang="greek" n="ἑλώριον">ἑλώριον</foreign>, <foreign xml:lang="greek">ἑλωρίου</foreign>, <foreign xml:lang="greek">τό</foreign> booty, spoils, prey.</item>
-<item><foreign xml:lang="greek" n="θεός">θεός</foreign>, <foreign xml:lang="greek">θεοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> god, divinity,</item>
-<item><foreign xml:lang="greek" n="θυμός">θῡμός</foreign>, <foreign xml:lang="greek">θῡμοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> heart, soul, spirit, courage, passion.</item>
-<item><foreign xml:lang="greek" n="κακό">κακός</foreign>, <foreign xml:lang="greek">κακή</foreign>, <foreign xml:lang="greek">κακόν</foreign> bad, poor, ugly, mean, cowardly, evil, wicked,</item>
-<item><foreign xml:lang="greek" n="καλός">κᾱλός</foreign>, <foreign xml:lang="greek">κᾱλή</foreign>, <foreign xml:lang="greek">κᾱλόν</foreign> good(ly), noble, handsome, brave, fair, beautiful.</item>
+<item><foreign xml:lang="greek" n="Ἀχαιός">Ἀχαιοί</foreign>, <foreign xml:lang="greek">Ἀχαιοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Achaean, Greek.</gloss></item>
+<item><foreign xml:lang="greek" n="δεινός">δεινός</foreign>, <foreign xml:lang="greek">δεινή</foreign>, <foreign xml:lang="greek">δεινόν</foreign> <gloss>terrible, awful, dread(ful), fearfuL</gloss></item>
+<item><foreign xml:lang="greek" n="ἑλώριον">ἑλώριον</foreign>, <foreign xml:lang="greek">ἑλωρίου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>booty, spoils, prey.</gloss></item>
+<item><foreign xml:lang="greek" n="θεός">θεός</foreign>, <foreign xml:lang="greek">θεοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>god, divinity,</gloss></item>
+<item><foreign xml:lang="greek" n="θυμός">θῡμός</foreign>, <foreign xml:lang="greek">θῡμοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>heart, soul, spirit, courage, passion.</gloss></item>
+<item><foreign xml:lang="greek" n="κακό">κακός</foreign>, <foreign xml:lang="greek">κακή</foreign>, <foreign xml:lang="greek">κακόν</foreign> <gloss>bad, poor, ugly, mean, cowardly, evil, wicked,</gloss></item>
+<item><foreign xml:lang="greek" n="καλός">κᾱλός</foreign>, <foreign xml:lang="greek">κᾱλή</foreign>, <foreign xml:lang="greek">κᾱλόν</foreign> <gloss>good(ly), noble, handsome, brave, fair, beautiful.</gloss></item>
 
-<item><foreign xml:lang="greek" n="λαός">λᾱός</foreign>, <foreign xml:lang="greek">λᾱοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> people, host, soldiery,</item>
-<item><foreign xml:lang="greek" n="μυρίος">μῡρίοι</foreign>, <foreign xml:lang="greek">μῡρίαι</foreign>, <foreign xml:lang="greek">μῡρίa</foreign> countless, innumerable.</item>
-<item><foreign xml:lang="greek" n="νοῦσος">νοῦσος νούσου</foreign>, <foreign xml:lang="greek">ἡ</foreign> plague, disease, pest(ilence).</item>
-<item><foreign xml:lang="greek" n="οἰωνός">οἰωνός</foreign>, <foreign xml:lang="greek">οἰωνοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> bird (of prey), vulture, omen.</item>
+<item><foreign xml:lang="greek" n="λαός">λᾱός</foreign>, <foreign xml:lang="greek">λᾱοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>people, host, soldiery,</gloss></item>
+<item><foreign xml:lang="greek" n="μυρίος">μῡρίοι</foreign>, <foreign xml:lang="greek">μῡρίαι</foreign>, <foreign xml:lang="greek">μῡρίa</foreign> <gloss>countless, innumerable.</gloss></item>
+<item><foreign xml:lang="greek" n="νοῦσος">νοῦσος</foreign> <foreign xml:lang="greek">νούσου</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>plague, disease, pest(ilence).</gloss></item>
+<item><foreign xml:lang="greek" n="οἰωνός">οἰωνός</foreign>, <foreign xml:lang="greek">οἰωνοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>bird (of prey), vulture, omen.</gloss></item>
 
-<item><foreign xml:lang="greek" n="πολύς">πολλός</foreign>, <foreign xml:lang="greek">πολλή</foreign>, <foreign xml:lang="greek">πολλόν</foreign> much, many, numerous,</item>
-<item><foreign xml:lang="greek" n="στρατός">στρατός</foreign>, <foreign xml:lang="greek">στρατοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> army, encampment, host.</item>
+<item><foreign xml:lang="greek" n="πολύς">πολλός</foreign>, <foreign xml:lang="greek">πολλή</foreign>, <foreign xml:lang="greek">πολλόν</foreign> <gloss>much, many, numerous,</gloss></item>
+<item><foreign xml:lang="greek" n="στρατός">στρατός</foreign>, <foreign xml:lang="greek">στρατοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>army, encampment, host.</gloss></item>
 
-<item><foreign xml:lang="greek" n="φίλος">φίλος</foreign>, <foreign xml:lang="greek">φίλη</foreign>, <foreign xml:lang="greek">φίλον</foreign> dear, darling, lovely, beloved.</item>
+<item><foreign xml:lang="greek" n="φίλος">φίλος</foreign>, <foreign xml:lang="greek">φίλη</foreign>, <foreign xml:lang="greek">φίλον</foreign> <gloss>dear, darling, lovely, beloved.</gloss></item>
 </list>
  
 Derivatives: ana-tomy; pena-lty;  theo-logy, theo-cracy,
@@ -2457,7 +2457,7 @@ Chrysa.
 </foreign></p>
 </div>
 
-<div type="textpart" n="lesson7"><head>Lesson VII: review</head>
+<div type="textpart" n="lesson07"><head>Lesson VII: review</head>
 
 <p>28. Review carefully everything studied thus far.
 
@@ -2561,7 +2561,7 @@ oἱ <foreign xml:lang="greek">Ἀχαιοὶ ἀείδουσι θεὰν καλ
 </foreign></p>
 </div>
 
-<div type="textpart" n="lesson8"><head>Lesson VIII: second declension (continued)</head>
+<div type="textpart" n="lesson08"><head>Lesson VIII: second declension (continued)</head>
 
 <p>33. Several words (all of them pronouns except <foreign xml:lang="greek">ἄλλος</foreign>, <foreign xml:lang="greek">ἄλλη,
 
@@ -2573,7 +2573,7 @@ ends in -o instead of in -ov.
 
 ὅς, ἥ, ὅ relative pronoun, <gloss>who, which, what</gloss>.
 
-ὁ, ἡ, <foreign xml:lang="greek">τό</foreign> demonstrative, personal, and relative pronoun, <gloss>this, that</gloss>; <gloss>he, she, it</gloss>; <gloss>who, which, what</gloss>.
+ὁ, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">τό</foreign> demonstrative, personal, and relative pronoun, <gloss>this, that</gloss>; <gloss>he, she, it</gloss>; <gloss>who, which, what</gloss>.
 
 ἐκεῖνος, <foreign xml:lang="greek">ἐκείνη</foreign>, <foreign xml:lang="greek">ἐκεῖνo</foreign> / <foreign xml:lang="greek">κεῖνος</foreign>, <foreign xml:lang="greek">κείνη</foreign>, <foreign xml:lang="greek">κεῖνo</foreign> demonstr. pron., <gloss>that (one), he, she, it</gloss>.
 
@@ -2608,13 +2608,13 @@ ends in -o instead of in -ov.
 <item><foreign xml:lang="greek">κακῶς</foreign> <gloss>evilly, wickedly, harshly, with evil consequences</gloss>.</item>
 
 
-<item>ὁ, ἡ, <foreign xml:lang="greek">τό</foreign> <gloss>this, that; he, she, it</gloss>; <gloss>who, which, what</gloss>.</item>
+<item><foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>this, that; he, she, it</gloss>; <gloss>who, which, what</gloss>.</item>
 
-<item>ὅς, ἥ, ὄ <gloss>who, which, what</gloss>.</item>
-<item>οὕνεκα (οὗ-ἕνεκα) <gloss>because</gloss>.</item>
+<item><foreign xml:lang="greek">ὅς</foreign>, <foreign xml:lang="greek">ἥ</foreign>, <foreign xml:lang="greek">ὄ</foreign> <gloss>who, which, what</gloss>.</item>
+<item><foreign xml:lang="greek">οὕνεκα</foreign> (<foreign xml:lang="greek">οὗ-ἕνεκα</foreign>) <gloss>because</gloss>.</item>
 
 <item><foreign xml:lang="greek">σκῆπτρον</foreign>, <foreign xml:lang="greek">σκήπτρου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>sceptre, staff</gloss>.</item>
-<item>τέ (enclitic, postpositive) <gloss>and, also</gloss>; <foreign xml:lang="greek">τέ</foreign> ... <foreign xml:lang="greek">τέ</foreign> (<gloss>or</gloss> <foreign xml:lang="greek">τέ</foreign> . . . <foreign xml:lang="greek">καί</foreign>, <gloss>or</gloss> <foreign xml:lang="greek">καί</foreign> . . . <foreign xml:lang="greek">τέ</foreign>) <gloss>both . . . and, not only . . . but also</gloss>.</item>
+<item><foreign xml:lang="greek">τέ</foreign> (enclitic, postpositive) <gloss>and, also</gloss>; <foreign xml:lang="greek">τέ</foreign> ... <foreign xml:lang="greek">τέ</foreign> <gloss>(<gloss>or</gloss> <foreign xml:lang="greek">τέ</foreign> . . . <foreign xml:lang="greek">καί</foreign>, <gloss>or</gloss> <foreign xml:lang="greek">καί</foreign> . . . <foreign xml:lang="greek">τέ</foreign>) <gloss>both . . . and, not only . . . but also</gloss>.</gloss></item>
 
 <item><foreign xml:lang="greek">χρύσεος</foreign>, <foreign xml:lang="greek">χρῡσέη</foreign>, <foreign xml:lang="greek">χρύσεov</foreign> <gloss>gold(en), of gold</gloss>.</item>
 </list>
@@ -2682,7 +2682,7 @@ booty for the birds, because they dishonor these beautiful goddesses of the sea.
 </p>
 </div>
 
-<div type="textpart" n="lesson9"><head>Lesson IX: the imperfect of verbs in <foreign xml:lang="greek">-ω</foreign></head>
+<div type="textpart" n="lesson09"><head>Lesson IX: the imperfect of verbs in <foreign xml:lang="greek">-ω</foreign></head>
 
 <p>40. Learn : </p>
 
@@ -2701,17 +2701,17 @@ booty for the birds, because they dishonor these beautiful goddesses of the sea.
 
 <item><foreign xml:lang="greek">Ἀργεῖος</foreign>, <foreign xml:lang="greek">Ἀργείου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Argive, Greek</gloss>.</item>
 
-<item>-δε with acc. <ref>788.4</ref>, <gloss>to</gloss>.</item>
+<item><foreign xml:lang="greek">-δε</foreign> with acc. <ref>788.4</ref>, <gloss>to</gloss>.</item>
 
-<item>διά adv., and prep, with gen. and acc., <gloss>through, on account of, by means of</gloss>; adv., <gloss>between, among</gloss>; with gen., <gloss>through</gloss>; with acc., <gloss>through, by means of, on account of, during</gloss>.</item>
+<item><foreign xml:lang="greek">διά</foreign> <gloss>adv., and prep, with gen. and acc., through, on account of, by means of</gloss>; adv., <gloss>between, among</gloss>; with gen., <gloss>through</gloss>; with acc., <gloss>through, by means of, on account of, during</gloss>.</item>
 
 <item><foreign xml:lang="greek">διΐ-φιλος</foreign>, <foreign xml:lang="greek">διϊ-φίλη</foreign>, <foreign xml:lang="greek">διΐ-φιλον</foreign> <gloss>dear to Zeus</gloss> (<ref>1168</ref>)<note>Thanks to Wright-Debnar</note></item>
 <item><foreign xml:lang="greek">εἴρω</foreign> <gloss>speak, say, tell</gloss>.</item>
 <item><foreign xml:lang="greek">ἐμός</foreign>, <foreign xml:lang="greek">ἐμή</foreign>, <foreign xml:lang="greek">ἐμόν</foreign> <gloss>my, mine</gloss>.</item>
-<item><foreign xml:lang="greek">ἔργον</foreign>, <foreign xml:lang="greek">ἔργου</foreign>, <foreign xml:lang="greek">τό</foreign> (ϝέργον) <gloss>work, deed, accomplishment</gloss>.</item>
+<item><foreign xml:lang="greek">ἔργον</foreign>, <foreign xml:lang="greek">ἔργου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>(ϝέργον) <gloss>work, deed, accomplishment</gloss>.</gloss></item>
 
-<item>-θεν gen. ending <ref>788.3</ref>, <gloss>from</gloss>.</item>
-<item><foreign xml:lang="greek">Κλυταιμ(ν)ήστρη</foreign>, <foreign xml:lang="greek">Κλυταιμ(ν</foreign>)ήστρης,  ἡ, <gloss>Clytaemnestra, wife of Agamemnon, leader of the Greeks before Troy</gloss>. She proved unfaithful to her husband in his absence, and murdered him on his return home.</item>
+<item><foreign xml:lang="greek">-θεν</foreign> gen. ending <ref>788.3</ref>, <gloss>from</gloss>.</item>
+<item><foreign xml:lang="greek">Κλυταιμ(ν)ήστρη</foreign>, <foreign xml:lang="greek">Κλυταιμ(ν</foreign>)ήστρης,  <foreign xml:lang="greek">ἡ</foreign>, <gloss>Clytaemnestra, wife of Agamemnon, leader of the Greeks before Troy</gloss>. She proved unfaithful to her husband in his absence, and murdered him on his return home.</item>
 <item><foreign xml:lang="greek">μαντοσύνη</foreign>, <foreign xml:lang="greek">μαντοσύνης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>gift of prophecy</gloss>.</item>
 <item><foreign xml:lang="greek">οἶκος</foreign>, <foreign xml:lang="greek">οἴκου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>house, home</gloss>.</item>
 
@@ -2773,7 +2773,7 @@ Translate:
 47.  VOCABULARY
 <list>
 <item><foreign xml:lang="greek">ἄγω</foreign>, <foreign xml:lang="greek">ἄξω</foreign>, <foreign xml:lang="greek">ἤγαγον</foreign>, <ref>863</ref> ; <ref>865.1</ref>,  <ref>865.4</ref>, <gloss>lead, drive, conduct, bring, carry, take</gloss>. </item>
-<item>ἀνάσσω (Ϝavaκ-), <foreign xml:lang="greek">ἀνάξω</foreign>, <foreign xml:lang="greek">ἤναξα</foreign>, with gen., <ref>985</ref>, <gloss>rule (over), guard, protect</gloss>.</item>
+<item><foreign xml:lang="greek">ἀνάσσω</foreign> (<foreign xml:lang="greek">Ϝavaκ-</foreign>), <foreign xml:lang="greek">ἀνάξω</foreign>, <foreign xml:lang="greek">ἤναξα</foreign>, <gloss>with gen., <ref>985</ref>, <gloss>rule (over), guard, protect</gloss>.</gloss></item>
 
 
 
@@ -2782,12 +2782,12 @@ Translate:
 
 <pb n="14"/>
 
-<item><foreign xml:lang="greek">ἄρισ-τos</foreign>, <foreign xml:lang="greek">ἀρίστη</foreign>, <foreign xml:lang="greek">ἄριστον</foreign> <gloss>best, noblest, bravest, fairest</gloss>, superl. of <foreign xml:lang="greek">ἀγαθός</foreign>, <foreign xml:lang="greek">ἀγαθή</foreign>, <foreign xml:lang="greek">ἀγαθόν</foreign> good.</item>
+<item><foreign xml:lang="greek">ἄρισ-τος</foreign>, <foreign xml:lang="greek">ἀρίστη</foreign>, <foreign xml:lang="greek">ἄριστον</foreign> <gloss>best, noblest, bravest, fairest</gloss>, superl. of <foreign xml:lang="greek">ἀγαθός</foreign>, <foreign xml:lang="greek">ἀγαθή</foreign>, <foreign xml:lang="greek">ἀγαθόν</foreign> <gloss>good.</gloss></item>
 
 <item><foreign xml:lang="greek">αὖτις</foreign> <gloss>(back) again, anew</gloss>.</item>
 
 <item><foreign xml:lang="greek">Δαναός</foreign>, <foreign xml:lang="greek">Δαναοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Danaan, Greek</gloss>.</item>
-<item><foreign xml:lang="greek">ἑκατόμβη</foreign>, <foreign xml:lang="greek">ἑκατόμβης</foreign>, ἡ, <gloss>hecatomb, sacrifice, a number of animals (originally one hundred, cattle) offered in sacrifice</gloss>.</item>
+<item><foreign xml:lang="greek">ἑκατόμβη</foreign>, <foreign xml:lang="greek">ἑκατόμβης</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <gloss>hecatomb, sacrifice, a number of animals (originally one hundred, cattle) offered in sacrifice</gloss>.</item>
 <item><foreign xml:lang="greek">θάνατος</foreign>, <foreign xml:lang="greek">θανάτου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>death</gloss>.</item>
 
 
@@ -2795,8 +2795,8 @@ Translate:
 <item><foreign xml:lang="greek">Ἴλιος</foreign>, <foreign xml:lang="greek">Ἰλίου</foreign>, <foreign xml:lang="greek">ἡ</foreign> 1) <gloss>Ilium, Troy</gloss>; 2) <gloss>the Troad, i.e. the region around Troy</gloss>.</item>
 
 <item><foreign xml:lang="greek">μεγάθῡμος</foreign>, <foreign xml:lang="greek">μεγαθύμη</foreign>, <foreign xml:lang="greek">μεγάθῡμον</foreign> <gloss>great-souled, brave</gloss>.</item>
-<item>ὄχα (by) far, much, considerably,</item>
-<item>πείθω (πειθ-, <foreign xml:lang="greek">ποιθ-</foreign>, <foreign xml:lang="greek">πιθ-</foreign>), <foreign xml:lang="greek">πείσω</foreign>, <foreign xml:lang="greek">ἔπεισα</foreign> (πέπιθον) <gloss>persuade, win over, mislead</gloss>.</item>
+<item><foreign xml:lang="greek">ὄχα</foreign> <gloss>(by) far, much, considerably.</gloss></item>
+<item><foreign xml:lang="greek">πείθω</foreign> ( <foreign xml:lang="greek">πειθ-</foreign>, <foreign xml:lang="greek">ποιθ-</foreign>, <foreign xml:lang="greek">πιθ-</foreign>), <foreign xml:lang="greek">πείσω</foreign>, <foreign xml:lang="greek">ἔπεισα</foreign> <gloss>(πέπιθον) <gloss>persuade, win over, mislead</gloss>.</gloss></item>
 <item><foreign xml:lang="greek">φιλέω</foreign>, <foreign xml:lang="greek">φιλήσω</foreign>, <foreign xml:lang="greek">ἐφίλησα</foreign> <gloss>love, cherish, entertain hospitably</gloss>.</item>
 </list>
  
@@ -2852,26 +2852,26 @@ The great northeast tower of the sixth city. The stairs to the right date from t
 62. VOCABULARY
 
 <list>
-<item><foreign xml:lang="greek">ἀνα-βαίνω</foreign> (βαν-, <foreign xml:lang="greek">βα-</foreign>), <foreign xml:lang="greek">ἀναβήσω</foreign> (ἀνα-βήσομαι), <foreign xml:lang="greek">ἀνέβησα</foreign> (ἀνέβην) <gloss>go up, ascend, embark</gloss>.</item>
+<item><foreign xml:lang="greek">ἀνα-βαίνω</foreign> <gloss>(βαν-, <foreign xml:lang="greek">βα-</foreign>), <foreign xml:lang="greek">ἀναβήσω</foreign> (ἀνα-βήσομαι), <foreign xml:lang="greek">ἀνέβησα</foreign> (ἀνέβην) <gloss>go up, ascend, embark</gloss>.</gloss></item>
 
 <item><foreign xml:lang="greek">ἀπο-λύω</foreign>, <foreign xml:lang="greek">ἀπολύσω</foreign>, <foreign xml:lang="greek">ἀπέλῡσα</foreign> <gloss>loose, set free, release</gloss>.</item>
 
-<item><foreign xml:lang="greek">Ἀτρεΐδης</foreign>, <foreign xml:lang="greek">Ἀτρεΐδᾱο</foreign> (Ἀτρεΐδεω), <foreign xml:lang="greek">ὁ</foreign> <gloss>son of Atreus, usually refers to Agamemnon</gloss>.</item>
-<item><foreign xml:lang="greek">κατα-καίω</foreign> (καυ-, <foreign xml:lang="greek">καϜ-</foreign>, <foreign xml:lang="greek">και-</foreign>), <foreign xml:lang="greek">κατα-καύσω</foreign>, <foreign xml:lang="greek">κατέκηα</foreign> <gloss>burn, consume</gloss>.</item>
+<item><foreign xml:lang="greek">Ἀτρεΐδης</foreign>, <foreign xml:lang="greek">Ἀτρεΐδᾱο</foreign> <gloss>(Ἀτρεΐδεω), <foreign xml:lang="greek">ὁ</foreign> <gloss>son of Atreus, usually refers to Agamemnon</gloss>.</gloss></item>
+<item><foreign xml:lang="greek">κατα-καίω</foreign> <gloss>(καυ-, <foreign xml:lang="greek">καϜ-</foreign>, <foreign xml:lang="greek">και-</foreign>), <foreign xml:lang="greek">κατα-καύσω</foreign>, <foreign xml:lang="greek">κατέκηα</foreign> <gloss>burn, consume</gloss>.</gloss></item>
 
-<item><foreign xml:lang="greek">*κλεύω</foreign> (κλευ-, <foreign xml:lang="greek">κλεϜ-</foreign>, <foreign xml:lang="greek">κλυ-</foreign>), —, <foreign xml:lang="greek">ἔκλυον</foreign> with gen. <ref>984</ref>, <gloss>hear, hearken to</gloss>.</item>
+<item><foreign xml:lang="greek">*κλεύω</foreign> (<foreign xml:lang="greek">κλευ-</foreign>, <foreign xml:lang="greek">κλεϜ-</foreign>, <foreign xml:lang="greek">κλυ-</foreign>), —, <foreign xml:lang="greek">ἔκλυον</foreign> with gen. <ref>984</ref>, <gloss>hear, hearken to</gloss>.</item>
 
-<item><foreign xml:lang="greek">μετέειπον</foreign> or <foreign xml:lang="greek">μετεῖπον</foreign> = <foreign xml:lang="greek">μετα-εἶπον</foreign> (Ϝεπ-), 2d aor. of <foreign xml:lang="greek">εἴρω</foreign> <gloss>spoke among, addressed, spoke to</gloss>.</item>
+<item><foreign xml:lang="greek">μετέειπον</foreign> <gloss>or <foreign xml:lang="greek">μετεῖπον</foreign> = <foreign xml:lang="greek">μετα-εἶπον</foreign> (Ϝεπ-), 2d aor. of <foreign xml:lang="greek">εἴρω</foreign> <gloss>spoke among, addressed, spoke to</gloss>.</gloss></item>
 
 <item><foreign xml:lang="greek">ὅτε</foreign> <gloss>when(ever)</gloss>.</item>
 
-<item><foreign xml:lang="greek">Πηληιάδης</foreign>, <foreign xml:lang="greek">Πηληιάδᾱο</foreign> (Πηληιάδεω), <foreign xml:lang="greek">ὁ</foreign> <gloss>son of Peleus, Achilles</gloss>.</item>
+<item><foreign xml:lang="greek">Πηληιάδης</foreign>, <foreign xml:lang="greek">Πηληιάδᾱο</foreign> <gloss>(Πηληιάδεω), <foreign xml:lang="greek">ὁ</foreign> <gloss>son of Peleus, Achilles</gloss>.</gloss></item>
 
-<item><foreign xml:lang="greek">προσέειπον</foreign> or <foreign xml:lang="greek">προσεῖπον</foreign> 2d aor. of <foreign xml:lang="greek">εἴρω</foreign> (Ϝεπ-) <gloss>addressed, spoke to</gloss>.</item>
+<item><foreign xml:lang="greek">προσέειπον</foreign> <gloss>or <foreign xml:lang="greek">προσεῖπον</foreign> 2d aor. of <foreign xml:lang="greek">εἴρω</foreign> (Ϝεπ-) <gloss>addressed, spoke to</gloss>.</gloss></item>
 <item><foreign xml:lang="greek">τότε</foreign> <gloss>then, at that time</gloss>.</item>
-<item><foreign xml:lang="greek">χολό-ω. χολώσ-ω</foreign>, <foreign xml:lang="greek">ἐχόλωσα</foreign> <gloss>anger, enrage, vex</gloss>.</item>
+<item><foreign xml:lang="greek">χολό-ω</foreign>. <foreign xml:lang="greek">χολώσ-ω</foreign>, <foreign xml:lang="greek">ἐχόλωσα</foreign> <gloss>anger, enrage, vex</gloss>.</item>
 
-<item>Xp<foreign xml:lang="greek">ύσηs</foreign>, <foreign xml:lang="greek">Χρύσᾱο</foreign> (Χρύσεω), <foreign xml:lang="greek">ὁ</foreign> Chryses, <gloss>a priest of the god, Apollo, from the town Chrysa</gloss>.</item>
+<item><foreign xml:lang="greek">Χρύσης</foreign>, <foreign xml:lang="greek">Χρύσᾱο</foreign> (<foreign xml:lang="greek">Χρύσεω</foreign>), <foreign xml:lang="greek">ὁ</foreign> Chryses, <gloss>a priest of the god, Apollo, from the town Chrysa</gloss>.</item>
 </list>
 
 Translate:
@@ -2956,28 +2956,28 @@ third declension, <ref>680-692</ref>.</p>
 60. VOCABULARY
 
 <list>
-<item><foreign xml:lang="greek">*Ἄις</foreign>, <foreign xml:lang="greek">Ἄιδος</foreign> <foreign xml:lang="greek">ὁ</foreign> (nom. not used) <gloss>Hades, god of the lower world</gloss>.</item>
+<item><foreign xml:lang="greek">*Ἄις</foreign>, <foreign xml:lang="greek">Ἄιδος</foreign> <foreign xml:lang="greek">ὁ</foreign> <gloss>(nom. not used) <gloss>Hades, god of the lower world</gloss>.</gloss></item>
 <item><foreign xml:lang="greek">ἄλγος</foreign>, <foreign xml:lang="greek">ἄλγεος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>grief, pain, woe, trouble</gloss>.</item>
 
-<item><foreign xml:lang="greek">Ἀχιλλεὐς</foreign>, <foreign xml:lang="greek">Ἀχιλλῆος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Achilles</gloss>.</item>
-<item><foreign xml:lang="greek">δαίς</foreign>, <foreign xml:lang="greek">δαιτός</foreign>, ἡ, <gloss>feast, banquet, portion</gloss>.</item>
+<item><foreign xml:lang="greek">Ἀχιλλεύς</foreign>, <foreign xml:lang="greek">Ἀχιλλῆος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Achilles</gloss>.</item>
+<item><foreign xml:lang="greek">δαίς</foreign>, <foreign xml:lang="greek">δαιτός</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <gloss>feast, banquet, portion</gloss>.</item>
 
-<item><foreign xml:lang="greek">Ζεύς</foreign>, <foreign xml:lang="greek">Διός</foreign>, ὁ,  <gloss>Zeus, father and king of gods and men</gloss>.</item>
-<item><foreign xml:lang="greek">ἥρως</foreign>, <foreign xml:lang="greek">ἥρωος</foreign>, ὁ, <gloss>HERO, mighty warrior, protector, savior</gloss>.</item>
+<item><foreign xml:lang="greek">Ζεύς</foreign>, <foreign xml:lang="greek">Διός</foreign>, <foreign xml:lang="greek">ὁ</foreign>,  <gloss>Zeus, father and king of gods and men</gloss>.</item>
+<item><foreign xml:lang="greek">ἥρως</foreign>, <foreign xml:lang="greek">ἥρωος</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <gloss>HERO, mighty warrior, protector, savior</gloss>.</item>
 
 
 
 
 
 <item><foreign xml:lang="greek">ἴφθῑμος</foreign>, <foreign xml:lang="greek">ἰφθίμη</foreign>, <foreign xml:lang="greek">ἴφφῑμον</foreign> <gloss>mighty, valiant, stout-hearted, brave</gloss>.</item>
-<item><foreign xml:lang="greek">κύων</foreign>, <foreign xml:lang="greek">κυνός</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>dog</gloss>.</item>
+<item><foreign xml:lang="greek">κύων</foreign>, <foreign xml:lang="greek">κυνός</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>dog</gloss>.</item>
 <item><foreign xml:lang="greek">μῆνις</foreign>, <foreign xml:lang="greek">μήνιος</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>wrath, fury, madness, rage</gloss>.</item>
 
-<item><foreign xml:lang="greek">οὐλόμεvos</foreign>, <foreign xml:lang="greek">οὐλομένη</foreign>, <foreign xml:lang="greek">οὐλόμενον</foreign> <gloss>accursed, destructive, deadly</gloss>.</item>
+<item><foreign xml:lang="greek">οὐλόμενος</foreign>, <foreign xml:lang="greek">οὐλομένη</foreign>, <foreign xml:lang="greek">οὐλόμενον</foreign> <gloss>accursed, destructive, deadly</gloss>.</item>
 
 <item><foreign xml:lang="greek">προ-ϊάπ-τω</foreign>, <foreign xml:lang="greek">προϊάψω</foreign>, <foreign xml:lang="greek">προΐαψα</foreign> <gloss>hurl forward, send forth</gloss>.</item>
 
-<item><foreign xml:lang="greek">τἰ-θημι</foreign>,<note>Verbs (if not deponent, <ref>897</ref>) as they appear in the vocabulary (in the first person singular, present active indicative) ordinarily end in <foreign xml:lang="greek">-ω</foreign>, but some end in <foreign xml:lang="greek">-μι</foreign>. Several of those ending in <foreign xml:lang="greek">-μι</foreign> reduplicate (<ref>874</ref>, <ref>886</ref>) the present with <foreign xml:lang="greek">ι</foreign>, as <foreign xml:lang="greek">τίθημι</foreign> (<foreign xml:lang="greek">τι-θημι</foreign>) = <foreign xml:lang="greek">ι-θημι</foreign> (<ref>619</ref>) <gloss>put, place, cause</gloss>, <foreign xml:lang="greek">δίδωμι</foreign> (<foreign xml:lang="greek">δι-δωμι</foreign>) <gloss>give, grant</gloss>. Of these verbs <foreign xml:lang="greek">ἵημι</foreign>, <foreign xml:lang="greek">δίδωμι</foreign>, and <foreign xml:lang="greek">τίθημι</foreign> have <foreign xml:lang="greek">-κα</foreign> as the ending of the aorist, instead of <foreign xml:lang="greek">σα</foreign>, <ref>841-843</ref>.</note> (<foreign xml:lang="greek">θη-</foreign>, <foreign xml:lang="greek">θε-</foreign>), <foreign xml:lang="greek">θήσ-ω</foreign>, <foreign xml:lang="greek">ἔθηκα</foreign>  <gloss>put, place, cause</gloss>.</item>
+<item><foreign xml:lang="greek">τί-θημι</foreign>, (<foreign xml:lang="greek">θη-</foreign>, <foreign xml:lang="greek">θε-</foreign>), <foreign xml:lang="greek">θήσ-ω</foreign>, <foreign xml:lang="greek">ἔθηκα</foreign><note>Verbs (if not deponent, <ref>897</ref>) as they appear in the vocabulary (in the first person singular, present active indicative) ordinarily end in <foreign xml:lang="greek">-ω</foreign>, but some end in <foreign xml:lang="greek">-μι</foreign>. Several of those ending in <foreign xml:lang="greek">-μι</foreign> reduplicate (<ref>874</ref>, <ref>886</ref>) the present with <foreign xml:lang="greek">ι</foreign>, as <foreign xml:lang="greek">τίθημι</foreign> (<foreign xml:lang="greek">τι-θημι</foreign>) = <foreign xml:lang="greek">ι-θημι</foreign> (<ref>619</ref>) <gloss>put, place, cause</gloss>, <foreign xml:lang="greek">δίδωμι</foreign> (<foreign xml:lang="greek">δι-δωμι</foreign>) <gloss>give, grant</gloss>. Of these verbs <foreign xml:lang="greek">ἵημι</foreign>, <foreign xml:lang="greek">δίδωμι</foreign>, and <foreign xml:lang="greek">τίθημι</foreign> have <foreign xml:lang="greek">-κα</foreign> as the ending of the aorist, instead of <foreign xml:lang="greek">σα</foreign>, <ref>841-843</ref>.</note>  <gloss>put, place, cause</gloss>.</item>
 
 </list>
 Derivatives: see 4, and find some new ones in the dictionary.
@@ -3264,20 +3264,20 @@ be omitted.
 
 <list>
 <item><foreign xml:lang="greek">ἄναξ</foreign>, <foreign xml:lang="greek">ἄνακτος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>king, lord, protector</gloss>.</item>
-<item><foreign xml:lang="greek">ἀνήρ</foreign>, <foreign xml:lang="greek">ἀνέρος</foreign> (ἀνδρός), <foreign xml:lang="greek">ὁ</foreign> <gloss>(real) man, warrior, hero</gloss>.</item>
+<item><foreign xml:lang="greek">ἀνήρ</foreign>, <foreign xml:lang="greek">ἀνέρος</foreign> <gloss>(ἀνδρός), <foreign xml:lang="greek">ὁ</foreign> <gloss>(real) man, warrior, hero</gloss>.</gloss></item>
 <item><foreign xml:lang="greek">ἄρ(α)</foreign>, (ῥά) <gloss>naturally, of course, as you know, as you might expect, that is, in effect. It is not always translatable into English, which has for it no exact equivalent</gloss>.</item>
 <item><foreign xml:lang="greek">βασιλεύς</foreign>, <foreign xml:lang="greek">βασιλῆος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>king, ruler</gloss>.</item>
 
 <item><foreign xml:lang="greek">δή</foreign> <gloss>indeed, truly, forsooth, now</gloss>.</item>
-<item><foreign xml:lang="greek">δι-ί-στημι</foreign> (στη-, <foreign xml:lang="greek">στα-</foreign>), <foreign xml:lang="greek">διαστήσω</foreign>, <foreign xml:lang="greek">διέστησα</foreign> (διεστην) <gloss>stand apart, separate</gloss>. </item>
+<item><foreign xml:lang="greek">δι-ίστημι</foreign> (<foreign xml:lang="greek">στη-</foreign>, <foreign xml:lang="greek">στα-</foreign>), <foreign xml:lang="greek">διαστήσω</foreign>, <foreign xml:lang="greek">διέστησα</foreign> (<foreign xml:lang="greek">διεστην</foreign>) <gloss>stand apart, separate</gloss>. </item>
 
-<item><foreign xml:lang="greek">ἐρίζω</foreign> (ἐριδ-), —, <foreign xml:lang="greek">ἤρισ(σ</foreign>)α <gloss>quarrel, strive</gloss>.</item>
+<item><foreign xml:lang="greek">ἐρίζω</foreign> (ἐριδ-), —, <foreign xml:lang="greek">ἤρισ(σ</foreign>) <gloss>quarrel, strive</gloss>.</item>
 
 <item><foreign xml:lang="greek">ἔρις</foreign>, <foreign xml:lang="greek">ἔριδος</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>strife, quarrel</gloss>.</item>
 
 <item><foreign xml:lang="greek">Λητώ</foreign>, <foreign xml:lang="greek">Λητὀος</foreign> <foreign xml:lang="greek">ἡ</foreign> (Λητούς <ref>584-585</ref>) <gloss>Leto, mother of Apollo</gloss>.</item>
 <item><foreign xml:lang="greek">μάχ-ομαι</foreign>, <note>87, Note.</note> <gloss>fight, battle</gloss>.<note n="grc">the definition could be for a noun rather than a verb</note> </item>
-<item><foreign xml:lang="greek">ξuv-ί-ημι</foreign> (=σι-σημι <ref>603-604</ref>; ἡ-, ἑ-), <foreign xml:lang="greek">ξυνήσω</foreign>, <foreign xml:lang="greek">ξύνηκα</foreign> <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> <gloss>bring together, throw together, hearken, heed</gloss>.</item>
+<item><foreign xml:lang="greek">ξuv-ίημι</foreign> (=σι-σημι <ref>603-604</ref>; ἡ-, ἑ-), <foreign xml:lang="greek">ξυνήσω</foreign>, <foreign xml:lang="greek">ξύνηκα</foreign> <note>60, Note.</note> (ξυνέηκα),<note>60, Note.</note> <gloss>bring together, throw together, hearken, heed</gloss>.</item>
 <item><foreign xml:lang="greek">ὄρνῡμι</foreign>, <foreign xml:lang="greek">ὄρσω</foreign>, <foreign xml:lang="greek">ὤρσα</foreign> (ὤρορον) <gloss>stir up, kindle, incite, excite, arouse</gloss>.</item>
 <item><foreign xml:lang="greek">πρῶτος</foreign>, <foreign xml:lang="greek">πρώτη</foreign>, <foreign xml:lang="greek">πρῶτον</foreign> <gloss>first, foremost, chief</gloss>; <foreign xml:lang="greek">τὸ πρῶτον</foreign>, <foreign xml:lang="greek">τὰ πρῶτα</foreign>, as adverb, <ref>781-782</ref>, <gloss>at first, firstly, first</gloss>.</item>
 <item><foreign xml:lang="greek">υἱός</foreign>, <foreign xml:lang="greek">υἱοῦ</foreign> (υἱέος, <foreign xml:lang="greek">ος</foreign>), <foreign xml:lang="greek">ὁ</foreign> <gloss>son</gloss>.</item>
@@ -3308,7 +3308,7 @@ Iliad, 1—10
 
 83. 6. <foreign xml:lang="greek">οὗ</foreign> [ὅs, ἥ, ὅ, <ref>773</ref>], <foreign xml:lang="greek">ἐξ οὗ</foreign>, referring back to <foreign xml:lang="greek">ἄειδε</foreign> from the time when,
 
-literally, from what [time]. — <foreign xml:lang="greek">το πρώτα</foreign> : <ref>781-782</ref>. — <foreign xml:lang="greek">διαστήτην</foreign> = <foreign xml:lang="greek">διεστήτην</foreign>, <ref>837</ref> <foreign xml:lang="greek">[διίστημι].</foreign> — <foreign xml:lang="greek">ἐρίσαντε [ἐρίζω]</foreign> : aor. active participle, nom., dual,
+literally, from what [time]. — <foreign xml:lang="greek">το πρώτα</foreign> : <ref>781-782</ref>. — <foreign xml:lang="greek">διαστήτην</foreign> = <foreign xml:lang="greek">διεστήτην</foreign>, <ref>837</ref> <foreign xml:lang="greek">[ίιίστημι].</foreign> — <foreign xml:lang="greek">ἐρίσαντε [ἐρίζω]</foreign> : aor. active participle, nom., dual,
 masc., (they two) having quarreled.
 
 7 is in apposition with the subject of <foreign xml:lang="greek">διαστήτην.</foreign> The son of Atreus is
@@ -3330,7 +3330,7 @@ himself: a common device of public speakers. — <foreign xml:lang="greek">σφ�
 pron., acc. dual, these two. ·— <foreign xml:lang="greek">ἔριδι:</foreign> <ref>1009</ref>. — <foreign xml:lang="greek">μάχεσθαι [μάχομαι]</foreign> : pres. act.
 infinitive, deponent, to fight.
 
-9. <foreign xml:lang="greek">βασιλῆι:</foreign> <ref>996</ref>. — <foreign xml:lang="greek">χολωθείς [χολόω]</foreign> : aor. pass, particip., nom. sing,
+9. <foreign xml:lang="greek">βασιλῆι:</foreign> <ref>996</ref>. — <foreign xml:lang="greek">χολωθείς</foreign> [<foreignb xml:lang="greek">χολόω</foreign>] : aor. pass, particip., nom. sing,
 masc. (modifies ὀ), having been enraged,. — <foreign xml:lang="greek">Λητοῦς</foreign> = <foreign xml:lang="greek">Λητόος</foreign>, <ref>584-585</ref>. <foreign xml:lang="greek">—
 βασιλῆι</foreign> = <foreign xml:lang="greek">Ἀγαμέμνονι.</foreign> — <foreign xml:lang="greek">Λητοῦs καὶ Διὸς υἱός</foreign>  = <foreign xml:lang="greek">Ἀπόλλων</foreign>, who was mediately
 the cause of the quarrel, since he brought a plague upon the
@@ -3428,7 +3428,7 @@ and <foreign xml:lang="greek">πᾶς</foreign>, <foreign xml:lang="greek">πᾶ
 
 <item><foreign xml:lang="greek">κοσμήτωρ</foreign>, <foreign xml:lang="greek">κοσμήτορος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>commander, marshaller</gloss>.</item>
 
-<item><foreign xml:lang="greek">λίσσομαι</foreign> (λιτ-), —, <foreign xml:lang="greek">ἐλ(λ</foreign>)ισάμην (ἐλιτόμην) <gloss>beg, entreat</gloss>.</item>
+<item><foreign xml:lang="greek">λίσσομαι</foreign> (<foreign xml:lang="greek">λιτ-</foreign>), —, <foreign xml:lang="greek">ἐλ(λ</foreign>)ισάμην (ἐλιτόμην) <gloss>beg, entreat</gloss>.</item>
 <item><foreign xml:lang="greek">μάλιστα</foreign> <gloss>most, especially, by all means</gloss>.</item>
 
 
@@ -3578,7 +3578,7 @@ VOCABULARY
 
 <item><foreign xml:lang="greek">δί-δωμι</foreign> (δω-, <foreign xml:lang="greek">δο-</foreign>), (δι)δώσω, <foreign xml:lang="greek">ἔδωκα</foreign> <gloss>give, grant</gloss>.</item>
 <item><foreign xml:lang="greek">δῶμα</foreign>, <foreign xml:lang="greek">δώματος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>house, home</gloss>.</item>
-<item><foreign xml:lang="greek">ἐγώ ἐγών</foreign>, <foreign xml:lang="greek">μέο</foreign> (μεῦ <ref>584-585</ref>), <ref>760</ref> <gloss>I</gloss>.</item>
+<item><foreign xml:lang="greek">ἐγώ</foreign> <foreign xml:lang="greek">ἐγών</foreign>, <foreign xml:lang="greek">μέο</foreign> (μεῦ <ref>584-585</ref>), <ref>760</ref> <gloss>I</gloss>.</item>
 
 <item><foreign xml:lang="greek">ἐκ-πέρθω</foreign> (περθ-, <foreign xml:lang="greek">πραθ-</foreign>), <foreign xml:lang="greek">ἐκπέρσω</foreign>, <foreign xml:lang="greek">ἐξέπερσα</foreign> (ἐξέπραθον) <gloss>sack (utterly), plunder, pillage</gloss>.</item>
 <item><foreign xml:lang="greek">ἐυ-κνήμῑς</foreign>, <foreign xml:lang="greek">ἐυκνήμῑδος</foreign> <gloss>well-greaved</gloss>.</item>
@@ -3586,7 +3586,7 @@ VOCABULARY
 
 <item><foreign xml:lang="greek">μέν</foreign> (correlative with <foreign xml:lang="greek">δέ</foreign>) <gloss>on the one hand, truly</gloss>, <foreign xml:lang="greek">μὲν</foreign> ... <foreign xml:lang="greek">δέ</foreign> <gloss>on the one hand ... on the other, partly . . . partly, the one . . . the other, etc.</gloss></item>
 <item><foreign xml:lang="greek">οἴκα-δε</foreign> <ref>788.4</ref> <gloss>home(ward), to home, home</gloss>.</item>
-<item><foreign xml:lang="greek">παῖς</foreign>, <foreign xml:lang="greek">παιδός</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>child, son, daughter</gloss>.</item>
+<item><foreign xml:lang="greek">παῖς</foreign>, <foreign xml:lang="greek">παιδός</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>child, son, daughter</gloss>.</item>
 <item><foreign xml:lang="greek">π(τ)όλις</foreign>, <foreign xml:lang="greek">π(τ</foreign>)όλιος, <foreign xml:lang="greek">π(τ</foreign>)όληος, <foreign xml:lang="greek">ἡ</foreign> <gloss>city, state</gloss>.</item>
 <item><foreign xml:lang="greek">σύ</foreign>, <foreign xml:lang="greek">σέο</foreign> (σεῦ <ref>584-585</ref>), <ref>760</ref>, <gloss>you</gloss>.</item>
 
@@ -3701,8 +3701,8 @@ escaped death.
 
 <list>
   
-<item><foreign xml:lang="greek">ἀγορή</foreign>, ῆς, ἡ, <gloss>assembly, meeting place, gathering, harangue,</gloss></item>
-<item><foreign xml:lang="greek">αἴξ</foreign>, <foreign xml:lang="greek">αἰγός</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>goat</gloss></item>
+<item><foreign xml:lang="greek">ἀγορή</foreign>, <foreign xml:lang="greek">ῆς</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <gloss>assembly, meeting place, gathering, harangue,</gloss></item>
+<item><foreign xml:lang="greek">αἴξ</foreign>, <foreign xml:lang="greek">αἰγός</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>goat</gloss></item>
 <item><foreign xml:lang="greek">Ἄργος</foreign>, <foreign xml:lang="greek">Ἄργεος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>Argos, a country and city in Greece.</gloss></item>
 <item><foreign xml:lang="greek">γέρων</foreign>, <foreign xml:lang="greek">γέροντος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>old man.</gloss></item>
 <item><foreign xml:lang="greek">γῆρας</foreign>, <foreign xml:lang="greek">γήραος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>old age, eld.</gloss></item>
@@ -3786,27 +3786,27 @@ VOCABULARY
     <list>
 
      <item><foreign xml:lang="greek">Ἀγαμέμνων</foreign>, <foreign xml:lang="greek">Ἀγαμέμνονος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Agamemnon, king of Mycenae, brother of Helen's husband, Menelaus, and commander-in-chief of the allied Greek military expedition against, Troy.</gloss></item>
-<item><foreign xml:lang="greek">αἰδέομαι</foreign> (αἰδεσ-) <foreign xml:lang="greek">αἰδέσ(σ</foreign>)ομαι, <foreign xml:lang="greek">ᾐδεσ(σ</foreign>)άμεν <gloss>reverence</gloss></item>
+<item><foreign xml:lang="greek">αἰδέομαι</foreign> (<foreign xml:lang="greek">αἰδεσ-</foreign>) <foreign xml:lang="greek">αἰδέσ(σ</foreign>)ομαι, <foreign xml:lang="greek">ᾐδεσ(σ</foreign>)άμεν <gloss>reverence</gloss></item>
 
-<item><foreign xml:lang="greek">ἀφ-ί-ημι</foreign> (ἡ-, ἑ-), <foreign xml:lang="greek">ἀφήσω. ἀφῆκα</foreign> (ἀφέηκα) <gloss>send away, dismiss, hurl, drive off.</gloss></item>
+<item><foreign xml:lang="greek">ἀφ-ίημι</foreign> (<foreign xml:lang="greek">ἡ-</foreign>, <foreign xml:lang="greek">ἑ-</foreign>), <foreign xml:lang="greek">ἀφήσω. ἀφῆκα</foreign> (ἀφέηκα) <gloss>send away, dismiss, hurl, drive off.</gloss></item>
 
 <item><foreign xml:lang="greek">δηθύ-νω</foreign> (def.), <gloss>loiter, tarry, delay,</gloss></item>
-<item><foreign xml:lang="greek">εἶμι</foreign> (εί-. ἰ-) <foreign xml:lang="greek">εἴσ-ομαι</foreign> <gloss>come, go; pres, often with fut. meaning, shall come, shall go.</gloss></item>
+<item><foreign xml:lang="greek">εἶμι</foreign> (<foreign xml:lang="greek">εί-. <foreign xml:lang="greek">ἰ-</foreign>) <foreign xml:lang="greek">εἴσ-ομαι</foreign> <gloss>come, go; pres, often with fut. meaning, shall come, shall go.</gloss></item>
 
 <item><foreign xml:lang="greek">ἔνθα</foreign> <gloss>then, there(upon), here,</gloss></item>
 <item><foreign xml:lang="greek">ἐπ-ευ-φημέ-ω</foreign>, <foreign xml:lang="greek">ἐπευφήμησ-a</foreign> <gloss>shout assent, approve,</gloss></item>
-<item><foreign xml:lang="greek">ἤ</foreign>  (ἠέ) <gloss>or, than, whether,</gloss></item>
-<item><foreign xml:lang="greek">ἢ</foreign>  ... ἤ <gloss>either. . . or, whether... or.</gloss></item>
-<item><foreign xml:lang="greek">κιχάνω</foreign> (κιχ-, <foreign xml:lang="greek">κιχε-</foreign>), <foreign xml:lang="greek">κιχήσομαι</foreign>, <foreign xml:lang="greek">ἐκιχησάμην</foreign> (ἔκιχον, <foreign xml:lang="greek">ἐκίχην</foreign>) <gloss>come upon, overtake, arrive (at).</gloss></item>
+<item><foreign xml:lang="greek">ἤ</foreign>  (<foreign xml:lang="greek">ἠέ</foreign>) <gloss>or, than, whether,</gloss></item>
+<item><foreign xml:lang="greek">ἢ</foreign>  ... <foreign xml:lang="greek">ἤ</foreign> <gloss>either. . . or, whether... or.</gloss></item>
+<item><foreign xml:lang="greek">κιχάνω</foreign> (<foreign xml:lang="greek">κιχ-, <foreign xml:lang="greek">κιχε-</foreign>), <foreign xml:lang="greek">κιχήσομαι</foreign>, <foreign xml:lang="greek">ἐκιχησάμην</foreign> (<foreign xml:lang="greek">ἔκιχον</foreign>, <foreign xml:lang="greek">ἐκίχην</foreign>) <gloss>come upon, overtake, arrive (at).</gloss></item>
 
-<item><foreign xml:lang="greek">κρατερός. κρατερή</foreign>, <foreign xml:lang="greek">κρατερόν</foreign> <gloss>strong, harsh, powerful,stern, mighty,</gloss></item>
+<item><foreign xml:lang="greek">κρατερός</foreign>. <foreign xml:lang="greek">κρατερή</foreign>, <foreign xml:lang="greek">κρατερόν</foreign> <gloss>strong, harsh, powerful,stern, mighty,</gloss></item>
 <item><foreign xml:lang="greek">μή</foreign> <gloss>not, lest, that not.</gloss></item>
 <item><foreign xml:lang="greek">μῦθος</foreign>, <foreign xml:lang="greek">μύθου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>word, command, story,</gloss></item>
 <item><foreign xml:lang="greek">νῦν</foreign> <gloss>now, at this time, as matters now are, as it is. Commonly implies a contrast.</gloss></item>
 
 <item><foreign xml:lang="greek">παρά</foreign>, <foreign xml:lang="greek">πάρ</foreign>, <foreign xml:lang="greek">παραί</foreign> adv., and prep, with gen., dat. and acc., <gloss>from the side of, by the side of, to the side of, beside, along</gloss>; adv., <gloss>beside, near by; with gen., from (the side of, beside)</gloss>; with dat., <gloss>by (the side of), near, beside</gloss>; with acc., <gloss>to the side of, along (by), beside, stretched along</gloss>.</item>
 
-<item><foreign xml:lang="greek">τέλλω</foreign> (τελ-, <foreign xml:lang="greek">ταλ-</foreign>), <foreign xml:lang="greek">ἔτειλα</foreign>, <foreign xml:lang="greek">τέταλμαι</foreign> <gloss>command, enjoin (upon), accomplish, rise.</gloss></item>
+<item><foreign xml:lang="greek">τέλλω</foreign> (<foreign xml:lang="greek">τελ-</foreign>, <foreign xml:lang="greek">ταλ-</foreign>), <foreign xml:lang="greek">ἔτειλα</foreign>, <foreign xml:lang="greek">τέταλμαι</foreign> <gloss>command, enjoin (upon), accomplish, rise.</gloss></item>
 <item><foreign xml:lang="greek">ὕστερος</foreign> , <foreign xml:lang="greek">ὐστέρη</foreign>, <foreign xml:lang="greek">ὕστερον</foreign> <gloss>behind, later, at another time, further(more).</gloss></item>
 
 </list>
@@ -3932,7 +3932,7 @@ as <foreign xml:lang="greek">γέρον</foreign>, old man, he disregards his ap
 <p>VOCABULARY
 
 <list>
-<item><foreign xml:lang="greek">ἀντίά-ω</foreign>, <foreign xml:lang="greek">ἀντι-άσω</foreign> (ἀντιόω — <foreign xml:lang="greek">ἀντιάω</foreign> <ref>945-948</ref>,603), <foreign xml:lang="greek">ἠντίασα</foreign> <gloss>approach, prepare, partake, share, go (come) to meet.</gloss></item>
+<item><foreign xml:lang="greek">ἀντιά-ω</foreign>, <foreign xml:lang="greek">ἀντι-άσω</foreign> (ἀντιόω — <foreign xml:lang="greek">ἀντιάω</foreign> <ref>945-948</ref>,603), <foreign xml:lang="greek">ἠντίασα</foreign> <gloss>approach, prepare, partake, share, go (come) to meet.</gloss></item>
 
 <item><foreign xml:lang="greek">ἔπ-ειμι</foreign> (εἰ-, ἰ-), <foreign xml:lang="greek">ἐπείσομαι</foreign>, <gloss>come upon, come on, approach,</gloss></item>
 <item><foreign xml:lang="greek">ἐπ-οίχομαι</foreign> (οἰχ-, <foreign xml:lang="greek">οἰχε-</foreign>, <foreign xml:lang="greek">οἰχο-</foreign>), <foreign xml:lang="greek">ἐποιχήσομαι*</foreign>, <foreign xml:lang="greek">ἐπῴχωκα</foreign> <gloss>go to, go against, attack, ply.</gloss></item>
@@ -4284,7 +4284,7 @@ protection.
 
 <item><foreign xml:lang="greek">ποτέ</foreign> (Encl.) <gloss>ever, at any (some) time, once</gloss>.</item>
 
-<item><foreign xml:lang="greek">Σμινθεύς</foreign>, <foreign xml:lang="greek">Σμινθῆos</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Smintheus, mouse god, an epithet of Apollo</gloss>.</item>
+<item><foreign xml:lang="greek">Σμινθεύς</foreign>, <foreign xml:lang="greek">Σμινθῆος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Smintheus, mouse god, an epithet of Apollo</gloss>.</item>
 
 <item><foreign xml:lang="greek">Τένεδος</foreign>, <foreign xml:lang="greek">Τενέδου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Tenedos, an island near Troy</gloss>.</item>
 <item><foreign xml:lang="greek">τίνω</foreign> (τει-, <foreign xml:lang="greek">τι-</foreign>, <foreign xml:lang="greek">τινϜ-</foreign>), <foreign xml:lang="greek">τίσω</foreign>, <foreign xml:lang="greek">ἔτῑσα</foreign>, <foreign xml:lang="greek">τέτῑκα*</foreign>, <foreign xml:lang="greek">τέτῑσμαι*</foreign> <gloss>requite, atone for, pay the penalty</gloss>.</item>
@@ -4475,14 +4475,14 @@ the subjunctive, <ref>799-800</ref>.
 
 <item><foreign xml:lang="greek">ἀμφ-ηρεφής</foreign>, <foreign xml:lang="greek">ἀμφ-ηρεφές</foreign> (<ref>731</ref>) <gloss>covered at both ends</gloss>.</item>
 
-<item><foreign xml:lang="greek">*εἴκω</foreign> (Ϝεικ-, <foreign xml:lang="greek">Ϝοικ-</foreign>, <foreign xml:lang="greek">Ϝικ-</foreign>), <foreign xml:lang="greek">εἴξω*</foreign>, <foreign xml:lang="greek">ἔοικα</foreign> <gloss>be like, resemble, be fitting, seem (likely), appear (suitable)</gloss>.</item>
+<item><foreign xml:lang="greek">*εἴκω</foreign> (<foreign xml:lang="greek">Ϝεικ-</foreign>, <foreign xml:lang="greek">Ϝοικ-</foreign>, <foreign xml:lang="greek">Ϝικ-</foreign>), <foreign xml:lang="greek">εἴξω*</foreign>, <foreign xml:lang="greek">ἔοικα</foreign> <gloss>be like, resemble, be fitting, seem (likely), appear (suitable)</gloss>.</item>
 
 <item><foreign xml:lang="greek">εὔχ-ομαι</foreign>, <foreign xml:lang="greek">εὔξομαι</foreign>, <foreign xml:lang="greek">εὔξάμην</foreign>, <foreign xml:lang="greek">εὖγμαι*</foreign> <gloss>pray, talk loud, boast, exult.</gloss></item>
 <item><foreign xml:lang="greek">κάρηνον</foreign>, <foreign xml:lang="greek">καρήνου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>peak, summit, headland, citadel</gloss>.</item>
 <item><foreign xml:lang="greek">κατά</foreign> adv., and prep, with gen. and acc., <gloss>down (from), down over, down through</gloss>; adv., <gloss>down, below </gloss>; with gen., <gloss>down (over, from, below)</gloss>; with acc., <gloss>down (along, through), according to, on</gloss>.</item>
 <item><foreign xml:lang="greek">κῆρ</foreign>, <foreign xml:lang="greek">κῆρος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>heart, soul</gloss>.</item>
 
-<item><foreign xml:lang="greek">κῑνέω*. κῑνήσω*</foreign>, <foreign xml:lang="greek">ἐκίνησα</foreign>, <foreign xml:lang="greek">κικίνημαι*</foreign> <gloss>move, stir; middle and pass., move self, bestir, go, come</gloss>.</item>
+<item><foreign xml:lang="greek">κῑνέω*</foreign>. <foreign xml:lang="greek">κῑνήσω*</foreign>, <foreign xml:lang="greek">ἐκίνησα</foreign>, <foreign xml:lang="greek">κικίνημαι*</foreign> <gloss>move, stir; middle and pass., move self, bestir, go, come</gloss>.</item>
 <item><foreign xml:lang="greek">κλάζω</foreign> (κλαγγ-, <foreign xml:lang="greek">κλαγ-</foreign>), <foreign xml:lang="greek">κλάγξω*</foreign>, <foreign xml:lang="greek">ἔκλαγξα</foreign> (ἔκλαγον), <foreign xml:lang="greek">κέκληγα</foreign> <gloss>CLANG, roar, shriek, resound</gloss>.</item>
 <item><foreign xml:lang="greek">νύξ</foreign>, <foreign xml:lang="greek">νυκτὀς</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>night, darkness</gloss>.</item>
 <item><foreign xml:lang="greek">ὀιστός</foreign>, <foreign xml:lang="greek">ὀιστοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>arrow, shaft</gloss>.</item>
@@ -4635,18 +4635,18 @@ form, and more particularly the imperatives.
 
   <list>
 
-<item><foreign xml:lang="greek">αἰεί</foreign>, <foreign xml:lang="greek">αἰέν</foreign> (=αἰϜεί) <gloss>always, EVER, continually, eternally</gloss></item>
+<item><foreign xml:lang="greek">αἰεί</foreign>, <foreign xml:lang="greek">αἰέν</foreign> (=<foreign xml:lang="greek">αἰϜεί</foreign>) <gloss>always, EVER, continually, eternally</gloss></item>
 <item><foreign xml:lang="greek">ἀργός</foreign>, <foreign xml:lang="greek">ἀργή</foreign>, <foreign xml:lang="greek">άργον</foreign> <gloss>bright, swift, flashing</gloss>.</item>
 
-<item><foreign xml:lang="greek">ἀργῡρέος</foreign>, <foreign xml:lang="greek">ἀργῡρέη</foreign>, <foreign xml:lang="greek">ἀργῡρέον</foreign> silver(y), of silver,</item>
+<item><foreign xml:lang="greek">ἀργῡρέος</foreign>, <foreign xml:lang="greek">ἀργῡρέη</foreign>, <foreign xml:lang="greek">ἀργῡρέον</foreign> <gloss>silver(y), of silver</gloss>,</item>
 <item><foreign xml:lang="greek">αὐτάρ</foreign> (ἀτάρ <ref>571</ref>) <gloss>but, moreover, on the other hand</gloss>.</item>
 <item><foreign xml:lang="greek">βάλλω</foreign> (βαλ-, <foreign xml:lang="greek">βλη-</foreign>) <foreign xml:lang="greek">βαλέω</foreign>, <foreign xml:lang="greek">ἔβαλον</foreign>, <foreign xml:lang="greek">βέβληκα</foreign>, <foreign xml:lang="greek">βέβλημαι</foreign> <gloss>throw, hurl, shoot, dash</gloss>.</item>
 <item><foreign xml:lang="greek">βιός</foreign>, <foreign xml:lang="greek">βιοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>bow</gloss>.</item>
 
 <item><foreign xml:lang="greek">γίγνομαι</foreign> (γεν-, <foreign xml:lang="greek">γενε-</foreign>, <foreign xml:lang="greek">γον-</foreign>) <foreign xml:lang="greek">γενήσομαι*</foreign>, <foreign xml:lang="greek">ἐγενόμην</foreign>, <foreign xml:lang="greek">γέγονα</foreign>, <foreign xml:lang="greek">γεγένημαι*</foreign> <gloss>become, be, arise</gloss>.</item>
 
-<item><foreign xml:lang="greek">ἕζομαι</foreign> (σεδ- <ref>603</ref>), <foreign xml:lang="greek">ἕσσομαι</foreign>, <foreign xml:lang="greek">εἷσα</foreign>, ἑ(ε)σσάμην sit down, seat.</item>
-<item><foreign xml:lang="greek">ἐφ-ί-ημι</foreign> (σι-σ-ημι <ref>603</ref>, <foreign xml:lang="greek">ση-</foreign>, <foreign xml:lang="greek">σε-</foreign> = ἡ-, ἑ-), <foreign xml:lang="greek">ἐφήσω</foreign>, <foreign xml:lang="greek">ἐφῆκα</foreign> (ἐφέηκα), <foreign xml:lang="greek">ἐφεῖκα*</foreign>, <foreign xml:lang="greek">ἐφεῖμαι*</foreign>, with dat., <ref>1004</ref>, <gloss>shoot against, hurl upon, send upon</gloss>.</item>
+<item><foreign xml:lang="greek">ἕζομαι</foreign> (σεδ- <ref>603</ref>), <foreign xml:lang="greek">ἕσσομαι</foreign>, <foreign xml:lang="greek">εἷσα</foreign>,  <foreign xml:lang="greek">ἑ(ε)σσάμην</foreign> <gloss>sit down, seat</gloss>.</item>
+<item><foreign xml:lang="greek">ἐφ-ίημι</foreign> (><foreign xml:lang="greek">σι-σ-ημι</foreign> <ref>603</ref>, <foreign xml:lang="greek">ση-</foreign>, <foreign xml:lang="greek">σε-</foreign> = <foreign xml:lang="greek">ἡ-</foreign>, <foreign xml:lang="greek">ἑ-</foreign>), <foreign xml:lang="greek">ἐφήσω</foreign>, <foreign xml:lang="greek">ἐφῆκα</foreign> (<foreign xml:lang="greek">ἐφέηκα</foreign>), <foreign xml:lang="greek">ἐφεῖκα*</foreign>, <foreign xml:lang="greek">ἐφεῖμαι*</foreign>, with dat., <ref>1004</ref>, <gloss>shoot against, hurl upon, send upon</gloss>.</item>
 
 <item><foreign xml:lang="greek">ἐχε-πευκής</foreign>, <foreign xml:lang="greek">ἐχεπευκές</foreign> <gloss>sharp, biting</gloss>.</item>
 
@@ -4656,7 +4656,7 @@ form, and more particularly the imperatives.
 
 <item><foreign xml:lang="greek">μετά</foreign>, adv., and prep, <gloss>with gen., dat., and acc., with, in, among, amid, into the midst of, after, next to; adv., among, after(ward), around, about, in the direction, in pursuit; with gen., with; with dat., among, in the midst of; with acc., among, into the midst of, after, in pursuit of, to</gloss>.</item>
 
-<item><foreign xml:lang="greek">νέκῡς</foreign>, <foreign xml:lang="greek">νέκυος</foreign>, <foreign xml:lang="greek">ὁ</foreign> dead body, corpse,</item>
+<item><foreign xml:lang="greek">νέκῡς</foreign>, <foreign xml:lang="greek">νέκυος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>dead body, corpse</gloss>,</item>
 <item><foreign xml:lang="greek">οὐρεύς</foreign>, <foreign xml:lang="greek">οὐρῆος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>mule</gloss>.</item>
   </list>
   
@@ -4807,24 +4807,24 @@ lost sight of for the rest of the poem.
 <list>
 <item><foreign xml:lang="greek">ἀγείρω</foreign> (άγερ-) <foreign xml:lang="greek">ἤγειρα</foreign>, <foreign xml:lang="greek">ἀγήγερμαι</foreign> <gloss>collect, assemble, gather</gloss>.</item>
 
-<item><foreign xml:lang="greek">ἀν-ί-στημι</foreign> (στη-, <foreign xml:lang="greek">στα-</foreign>), <foreign xml:lang="greek">ἀναστήσω</foreign>, <foreign xml:lang="greek">ἀνέστησα</foreign> (ἀνέστην), <foreign xml:lang="greek">ἀνέστηκα</foreign>, <foreign xml:lang="greek">ἀνέσταμαι*</foreign> <gloss>stand up, set up, raise, (a)rise</gloss>.</item>
+<item><foreign xml:lang="greek">ἀν-ίστημι</foreign> (στη-, <foreign xml:lang="greek">στα-</foreign>), <foreign xml:lang="greek">ἀναστήσω</foreign>, <foreign xml:lang="greek">ἀνέστησα</foreign> (ἀνέστην), <foreign xml:lang="greek">ἀνέστηκα</foreign>, <foreign xml:lang="greek">ἀνέσταμαι*</foreign> <gloss>stand up, set up, raise, (a)rise</gloss>.</item>
 <item><foreign xml:lang="greek">ἐννῆμαρ</foreign> <gloss>nine days</gloss>.</item>
 
 <item><foreign xml:lang="greek">ἐπεί</foreign> <gloss>when, since, for</gloss>.</item>
 
 <item><foreign xml:lang="greek">Ἥρη</foreign>, <foreign xml:lang="greek">Ἥρης</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>Hera, consort of Zeus and queen of the gods</gloss>.</item>
-<item><foreign xml:lang="greek">καλεω</foreign> (καλέ-, <foreign xml:lang="greek">κλη-</foreign>), <foreign xml:lang="greek">καλεω</foreign>, <foreign xml:lang="greek">ἐκάλεσ(σ</foreign>)a, <foreign xml:lang="greek">κέκληκα*</foreign>, <foreign xml:lang="greek">κέκλημαι</foreign> call, summon, convoke,</item>
+<item><foreign xml:lang="greek">καλέω</foreign> (<foreign xml:lang="greek">καλέ-</foreign>, <foreign xml:lang="greek">κλη-</foreign>), <foreign xml:lang="greek">καλεω</foreign>, <foreign xml:lang="greek">ἐκάλεσ(σ)α</foreign>, <foreign xml:lang="greek">κέκληκα*</foreign>, <foreign xml:lang="greek">κέκλημαι</foreign> <gloss>call, summon, convoke.</gloss></item>
 <item><foreign xml:lang="greek">κήδω</foreign> (κηδ-, <foreign xml:lang="greek">κηδε-</foreign>, <foreign xml:lang="greek">καδ-</foreign>), <foreign xml:lang="greek">κηδήσω</foreign>, <foreign xml:lang="greek">ἐκήδησα*</foreign>, <foreign xml:lang="greek">κέκηδα*</foreign> (with gen. <ref>984</ref>), <gloss>grieve, distress, hurt, afflict</gloss>.</item>
 
 <item><foreign xml:lang="greek">κῆλον</foreign>, <foreign xml:lang="greek">κήλου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>arrow, shaft, dart</gloss>.</item>
 <item><foreign xml:lang="greek">λευκ-ώλενος</foreign>, <foreign xml:lang="greek">λευκ-ώλενον</foreign> <gloss>white-armed</gloss>.</item>
-<item><foreign xml:lang="greek">μαετά-φημι</foreign> (φη- <foreign xml:lang="greek">φα-</foreign>), <foreign xml:lang="greek">μεταφήσω</foreign>, <foreign xml:lang="greek">μετέφησα*</foreign> <gloss>speak among, address, converse with</gloss>.</item>
+<item><foreign xml:lang="greek">μετά-φημι</foreign> (φη- <foreign xml:lang="greek">φα-</foreign>), <foreign xml:lang="greek">μεταφήσω</foreign>, <foreign xml:lang="greek">μετέφησα*</foreign> <gloss>speak among, address, converse with</gloss>.</item>
 <item><foreign xml:lang="greek">οἴχομαι</foreign> (οἰχ-, <foreign xml:lang="greek">οἰχε</foreign>, <foreign xml:lang="greek">οἰχο-</foreign>), <foreign xml:lang="greek">οἰχήσομαι*</foreign>, <foreign xml:lang="greek">ᾤχωκα</foreign> <gloss>come, go, depart</gloss>.</item>
 
 <item><foreign xml:lang="greek">ὁμη-γερής</foreign>, <foreign xml:lang="greek">ὁμηγερές</foreign> <gloss>collected, assembled, gathered together</gloss>.</item>
 <item><foreign xml:lang="greek">ὁράω</foreign> (Ϝορ-, <foreign xml:lang="greek">Ϝιδ</foreign>, <foreign xml:lang="greek">Ϝοπ-</foreign>), <foreign xml:lang="greek">ὄψομαι</foreign>, <foreign xml:lang="greek">εἶδον</foreign>, <foreign xml:lang="greek">ὄπωπα</foreign> <gloss>see, behold, look, observe</gloss>.</item>
 
-<item><foreign xml:lang="greek">ὅτ(τ)ι</foreign> that, because.</item>
+<item><foreign xml:lang="greek">ὅτ(τ)ι</foreign> <gloss>that, because</gloss>.</item>
 <item><foreign xml:lang="greek">οὖν</foreign> <gloss>therefore, hence, now, then, in fact</gloss>.</item>
 
 </list>
@@ -4973,19 +4973,19 @@ middle of <foreign xml:lang="greek">λύω</foreign>, <ref>906</ref>, <ref>912</
 
 <item><foreign xml:lang="greek">ἀπο-νοστέ-ω*</foreign>, <foreign xml:lang="greek">ἀ-πονοστήσω</foreign>, <foreign xml:lang="greek">ἀπονόστησα</foreign> <gloss>return (home), go home, come, go</gloss>.</item>
 <item><foreign xml:lang="greek">ἄψ</foreign> <gloss>back (again), backward(s)</gloss>.</item>
-<item><foreign xml:lang="greek">γέ</foreign> postpos. encl., <gloss>emphasizing the preceding word or clause, at least, indeed, at any rate</gloss>.</item>
+<item><foreign xml:lang="greek">γέ</foreign> <gloss>postpos. encl., emphasizing the preceding word or clause, at least, indeed, at any rate</gloss>.</item>
 <item><foreign xml:lang="greek">δαμάζω</foreign> (δαμαδ-), <foreign xml:lang="greek">δαμά(σ</foreign>)ω (<ref>603</ref>—604) <foreign xml:lang="greek">ἐδάμασ(σ</foreign>)α, <gloss>subdue, overcome, crush, DOMINATE</gloss>.</item>
 <item><foreign xml:lang="greek">ἐρέω</foreign> (ἑρεϜ-) (def.) <gloss>ask, inquire, seek</gloss>.</item>
 <item><foreign xml:lang="greek">λοιμός</foreign>, <foreign xml:lang="greek">λοιμοῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>plague, pest(ilence)</gloss>.</item>
 <item><foreign xml:lang="greek">μάντις</foreign>, <foreign xml:lang="greek">μάντιος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>seer, prophet, soothsayer</gloss>.</item>
 
 <item><foreign xml:lang="greek">οἴω</foreign> (ὀΐω) (οἰ-, <foreign xml:lang="greek">οἰε-</foreign>), <foreign xml:lang="greek">οἰήσομαι*</foreign>, <foreign xml:lang="greek">ὠῑσάμην</foreign> <gloss>think, suppose, imagine, expect, believe</gloss>.</item>
-<item><foreign xml:lang="greek">ὁμοῦ</foreign> together, at the same time,</item>
-<item><foreign xml:lang="greek">ὄvap</foreign> (indecl.) <foreign xml:lang="greek">τό</foreign> <gloss>dream</gloss>.</item>
+<item><foreign xml:lang="greek">ὁμοῦ</foreign> <gloss>together, at the same time.</gloss></item>
+<item><foreign xml:lang="greek">ὄναρ</foreign> (indecl.) <foreign xml:lang="greek">τό</foreign> <gloss>dream</gloss>.</item>
 <item><foreign xml:lang="greek">ὀνειροπόλος</foreign>, <foreign xml:lang="greek">ὀνειροπόλου</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>dream interpreter, dreamer of dreams</gloss>. </item>
 <item><foreign xml:lang="greek">πάλιν</foreign> <gloss>back, backward(s), again, anew</gloss>.</item>
 
-<item><foreign xml:lang="greek">πλάζω</foreign> (πλαγγ-), <foreign xml:lang="greek">πλάγξομαι</foreign>, <foreign xml:lang="greek">ἔπλαγξα</foreign>, <gloss>beat (back), baffle, (cause to) wander</gloss>.</item>
+<item><foreign xml:lang="greek">πλάζω</foreign> (<foreign xml:lang="greek">πλαγγ-</foreign>), <foreign xml:lang="greek">πλάγξομαι</foreign>, <foreign xml:lang="greek">ἔπλαγξα</foreign>, <gloss>beat (back), baffle, (cause to) wander</gloss>.</item>
 
 <item><foreign xml:lang="greek">π(τ)όλεμος</foreign>, <foreign xml:lang="greek">π(τ</foreign>)oλέμου, <foreign xml:lang="greek">ὁ</foreign> <gloss>war, battle, fray</gloss>.</item>
 <item><foreign xml:lang="greek">τὶς</foreign>, <foreign xml:lang="greek">τὶ</foreign> (encl.) <gloss>some (one), something, any (one), any(thing)</gloss> ; <foreign xml:lang="greek">τὶ</foreign> as adv. (<ref>780-781</ref>) <gloss>at all</gloss>.</item>
@@ -5111,8 +5111,8 @@ in Homer for the connection of thought.
 
 <item><foreign xml:lang="greek">ἀμύνω</foreign> (άμυν-), <foreign xml:lang="greek">ἀμυνέω*. ἤμῡνα</foreign> <gloss>ward off, defend, protect, avert</gloss>.</item>
 <item><foreign xml:lang="greek">ἀπό</foreign> adv., and prep. with gen., <gloss>off, from, away, hack</gloss>.</item>
-<item><foreign xml:lang="greek">ἀρήν</foreign>, <foreign xml:lang="greek">ἀρνός</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> lamb,</item>
-<item><foreign xml:lang="greek">βούλομαι</foreign> (βουλ-, <foreign xml:lang="greek">βουλε-</foreign>). <foreign xml:lang="greek">βουλήσομαι*</foreign>, <foreign xml:lang="greek">βέβουλα</foreign>, <foreign xml:lang="greek">βεβούλημαι*</foreign>, <foreign xml:lang="greek">ἐβουλήθην*</foreign> <gloss>wish, desire, be willing, prefer</gloss>.</item>
+<item><foreign xml:lang="greek">ἀρήν</foreign>, <foreign xml:lang="greek">ἀρνός</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>lamb.</gloss></item>
+<item><foreign xml:lang="greek">βούλομαι</foreign> (<foreign xml:lang="greek">βουλ-</foreign>, <foreign xml:lang="greek">βουλε-</foreign>). <foreign xml:lang="greek">βουλήσομαι*</foreign>, <foreign xml:lang="greek">βέβουλα</foreign>, <foreign xml:lang="greek">βεβούλημαι*</foreign>, <foreign xml:lang="greek">ἐβουλήθην*</foreign> <gloss>wish, desire, be willing, prefer</gloss>.</item>
 
 <item><foreign xml:lang="greek">εἴ τε</foreign> (εἴτε) ... <foreign xml:lang="greek">εἴ τε</foreign> (εἴτε) <gloss>whether ... or</gloss>.</item>
 
@@ -5135,8 +5135,8 @@ in Homer for the connection of thought.
 <item><foreign xml:lang="greek">ὅ(σ)-τις</foreign>, <foreign xml:lang="greek">ἥ-τις</foreign>, ὅ(τ)-τι <gloss>who(so)ever, whichever, what(so)ever</gloss>; <gloss>who, which, what</gloss>; <foreign xml:lang="greek">ο(τ</foreign>)τι as adv., <ref>780-781</ref>, <gloss>why</gloss>.</item>
 <item><foreign xml:lang="greek">πώς</foreign> encl., <gloss>(in) some way, somehow, (in) any way, perhaps</gloss>.</item>
 
-<item><foreign xml:lang="greek">τέλειος</foreign>, <foreign xml:lang="greek">τελείη</foreign>, <foreign xml:lang="greek">τέλειον</foreign> complete, finished, full-grown, unblemished, perfect.</item>
-<item><foreign xml:lang="greek">τόσ(σ)ος</foreign>, <foreign xml:lang="greek">τόσ(σ</foreign>)η, <foreign xml:lang="greek">τόσ(σ</foreign>)ν so much, so great, so large, so many, so long.</item>
+<item><foreign xml:lang="greek">τέλειος</foreign>, <foreign xml:lang="greek">τελείη</foreign>, <foreign xml:lang="greek">τέλειον</foreign> <gloss>complete, finished, full-grown, unblemished, perfect</gloss>.</item>
+<item><foreign xml:lang="greek">τόσ(σ)ος</foreign>, <foreign xml:lang="greek">τόσ(σ</foreign>)η, <foreign xml:lang="greek">τόσ(σ)ν</foreign> <gloss>so much, so great, so large, so many, so long</gloss>.</item>
 
 </list>
 </p></div>
@@ -5358,7 +5358,7 @@ adjectives ending in -ᾰ is declined like <foreign xml:lang="greek">θάλασ�
 <item><foreign xml:lang="greek">ἡγέ-ομαι</foreign>, <foreign xml:lang="greek">ἡγήσομαι</foreign>, <foreign xml:lang="greek">ἡγησάμην</foreign>, <foreign xml:lang="greek">ἥγημαι*</foreign> with dat., <ref>1001</ref>, <gloss>lead, guide, lead the way; with gen., 9S5, command, rule</gloss>.</item>
 <item><foreign xml:lang="greek">κέλομαι</foreign> (κελ-, <foreign xml:lang="greek">κελε-</foreign>, <foreign xml:lang="greek">κλ</foreign>), <foreign xml:lang="greek">κελήσομαι</foreign>, <foreign xml:lang="greek">ἐκελησάμην*</foreign> (ἐκεκλόμην) <gloss>urge, command, bid, request</gloss>.</item>
 <item><foreign xml:lang="greek">μῡθέ-ομαι</foreign>, <foreign xml:lang="greek">μῡθήσομαι</foreign>, <foreign xml:lang="greek">ἐμῡθησάμην</foreign> <gloss>speak, tell, declare</gloss></item>
-<item><foreign xml:lang="greek">ὅς</foreign>, ἥ, <foreign xml:lang="greek">ὅν</foreign> (ἑός, ἑή, <foreign xml:lang="greek">ἑόν</foreign>) his, her(s), its (own).</item>
+<item><foreign xml:lang="greek">ὅς</foreign>, <foreign xml:lang="greek">ἥ</foreign>, <foreign xml:lang="greek">ὅν</foreign> (<foreign xml:lang="greek">ἑός</foreign>, <foreign xml:lang="greek">ἑή</foreign>, <foreign xml:lang="greek">ἑόν</foreign>) <gloss>his, her(s), its (own)</gloss>.</item>
 
 <item><foreign xml:lang="greek">πόρον</foreign> (πορ-, <foreign xml:lang="greek">πρω-</foreign>) (= <foreign xml:lang="greek">ἔπορον</foreign>, <ref>837</ref>), (2d aor., no pres.) ; <gloss>give, grant, furnish, bestow; perf. <foreign xml:lang="greek">τέτρωται</foreign> it is fated</gloss>.<note n="grc">good case of a word where a particular tense has a distinct meaning.</note></item>
 
@@ -5484,14 +5484,14 @@ with their uses, <ref>1041</ref>.
 <item><foreign xml:lang="greek">ἀρήγ-ω</foreign>, <foreign xml:lang="greek">ἀρήξω</foreign>, <foreign xml:lang="greek">ἤρηξα</foreign> (with dat., <ref>996</ref>), <gloss>help, assist, succor,</gloss></item>
 <item><foreign xml:lang="greek">ἔπος</foreign>, <foreign xml:lang="greek">ἔπεος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>word, saying, command, speech</gloss>.</item>
 <item><foreign xml:lang="greek">ἦ</foreign> <gloss>surely, indeed, truly, for a fact</gloss>.</item>
-<item><foreign xml:lang="greek">κρατέω</foreign> (κρατεσ-), with gen., <ref>985</ref>, rule, bear sway.</item>
+<item><foreign xml:lang="greek">κρατέω</foreign> (<foreign xml:lang="greek">κρατεσ-</foreign>), <gloss>with gen., <ref>985</ref>, rule, bear sway</gloss>.</item>
 
 <item><foreign xml:lang="greek">κρείσσων</foreign>, <foreign xml:lang="greek">κρεῖσσον</foreign>, comparative of <foreign xml:lang="greek">κράτος</foreign>, <gloss>mightier, more powerful, better</gloss>.</item>
 <item><foreign xml:lang="greek">μέγας</foreign>, <foreign xml:lang="greek">μεγάλη</foreign>, <foreign xml:lang="greek">μέγα</foreign> <gloss>great, large, tall, mighty</gloss>.</item>
-<item><foreign xml:lang="greek">ὅδε</foreign>, <foreign xml:lang="greek">ἥδε</foreign>, <foreign xml:lang="greek">τόδε</foreign>  this (here),</item>
-<item><foreign xml:lang="greek">ὄμνῡμι.</foreign> (ὀμ-, <foreign xml:lang="greek">ὀμο-</foreign>, <foreign xml:lang="greek">ἐμε-</foreign>), <foreign xml:lang="greek">ὀμοῦμαι</foreign> (= <foreign xml:lang="greek">ὀμό(σ</foreign>)ομαι = <foreign xml:lang="greek">ὀμόομαι</foreign> <ref>603</ref>, <ref>584</ref>—585), <foreign xml:lang="greek">ὤμοσ(σ</foreign>)α, <foreign xml:lang="greek">ὀμώμοκα*</foreign>, <foreign xml:lang="greek">ὀμώμο(σ</foreign>)μαι*, <foreign xml:lang="greek">ὠμό(σ-</foreign>)θην* swear, pledge with an oath, swear by as witness, swear to.</item>
-<item><foreign xml:lang="greek">οὗτος</foreign>, <foreign xml:lang="greek">αὕτη</foreign>, <foreign xml:lang="greek">τοῦτο</foreign> that.</item>
-<item><foreign xml:lang="greek">πρό-φρων</foreign>, <foreign xml:lang="greek">πρόφρov</foreign> eager, zealous, glad, joyful, kindly.</item>
+<item><foreign xml:lang="greek">ὅδε</foreign>, <foreign xml:lang="greek">ἥδε</foreign>, <foreign xml:lang="greek">τόδε</foreign>  <gloss>this (here)</gloss>,</item>
+<item><foreign xml:lang="greek">ὄμνῡμι</foreign> (ὀμ-, <foreign xml:lang="greek">ὀμο-</foreign>, <foreign xml:lang="greek">ἐμε-</foreign>), <foreign xml:lang="greek">ὀμοῦμαι</foreign> (= <foreign xml:lang="greek">ὀμό(σ)ομαι</foreign> = <foreign xml:lang="greek">ὀμόομαι</foreign> <ref>603</ref>, <ref>584</ref>—585), <foreign xml:lang="greek">ὤμοσ(σ)α</foreign>, <foreign xml:lang="greek">ὀμώμοκα*</foreign>, <foreign xml:lang="greek">ὀμώμο(σ)μαι</foreign>*, <foreign xml:lang="greek">ὠμό(σ-)θην</foreign>* <gloss>swear, pledge with an oath, swear by as witness, swear to</gloss>.</item>
+<item><foreign xml:lang="greek">οὗτος</foreign>, <foreign xml:lang="greek">αὕτη</foreign>, <foreign xml:lang="greek">τοῦτο</foreign> <gloss>that</gloss>.</item>
+<item><foreign xml:lang="greek">πρό-φρων</foreign>, <foreign xml:lang="greek">πρόφρov</foreign> <gloss>eager, zealous, glad, joyful, kindly</gloss>.</item>
 
 <item><foreign xml:lang="greek">συν-τί-θημι</foreign> (θη-, <foreign xml:lang="greek">θε-</foreign>), <foreign xml:lang="greek">συνθήσω. συνέθηκα</foreign>, <foreign xml:lang="greek">συντέθεικα*</foreign>, <foreign xml:lang="greek">συντέθειμαι*</foreign>, <foreign xml:lang="greek">συνετέθην</foreign>  <gloss>put together, unite, perceive, comprehend, heed</gloss>.</item>
 <item><foreign xml:lang="greek">τοι-γάρ</foreign> <gloss>therefore</gloss>.</item>
@@ -6068,13 +6068,13 @@ and δίδωμι</foreign>, <ref>957-962</ref>.
 <item><foreign xml:lang="greek">εὐρύς</foreign>, <foreign xml:lang="greek">εύρεῖα</foreign>, <foreign xml:lang="greek">εὐρύ</foreign> <gloss>broad, wide, large</gloss>. </item>
 <item><foreign xml:lang="greek">κρείων</foreign>, <foreign xml:lang="greek">κρείουσα</foreign>, <foreign xml:lang="greek">κρεῖον</foreign> <gloss>ruling, prince, ruler</gloss>.  </item>
 <item><foreign xml:lang="greek">κρήγυος</foreign>, <foreign xml:lang="greek">κρηγύη</foreign>, <foreign xml:lang="greek">κρήγυον</foreign> <gloss>good, helpful, favorable, honest, true, truthful, useful</gloss>. </item>
-<item><foreign xml:lang="greek">λαμπετά-ω</foreign> shine, gleam, blaze, </item>
+<item><foreign xml:lang="greek">λαμπετά-ω</foreign> <gloss>shine, gleam, blaze.</gloss> </item>
 
 <item><foreign xml:lang="greek">μένος</foreign>, <foreign xml:lang="greek">μένεος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>rage, anger, might, courage, fury, power, spirit.</gloss></item>
 <item><foreign xml:lang="greek">ὄσσε</foreign> (dual only), <gloss>eyes</gloss>.</item>
 <item><foreign xml:lang="greek">ὄσσομαι</foreign> (ὀκ-) <gloss>eye, look upon, look, glare at.</gloss></item>
 <item><foreign xml:lang="greek">πίμ-πλημι</foreign> (πη-, <foreign xml:lang="greek">πλα-</foreign>), <foreign xml:lang="greek">πλήσω</foreign>, <foreign xml:lang="greek">ἔπλησα</foreign> (ἐπλήμην), <foreign xml:lang="greek">πέπληκα*</foreign>, <foreign xml:lang="greek">πέπλησμαι*</foreign>, <foreign xml:lang="greek">ἐπλήσθην</foreign>, with gen. of material, <ref>986</ref>, <gloss>fill, sate, stuff</gloss>.</item>
-<item><foreign xml:lang="greek">πρώτιστos</foreign>, <foreign xml:lang="greek">πρωτίστη</foreign>, <foreign xml:lang="greek">πρώτιστον</foreign> <gloss>a double superlative, first, chiefest, the very first.</gloss></item>
+<item><foreign xml:lang="greek">πρώτιστος</foreign>, <foreign xml:lang="greek">πρωτίστη</foreign>, <foreign xml:lang="greek">πρώτιστον</foreign> <gloss>a double superlative, first, chiefest, the very first.</gloss></item>
 <item><foreign xml:lang="greek">πῦρ</foreign>, <foreign xml:lang="greek">πυρός</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>fire, flame, flame</gloss>.</item>
 <item><foreign xml:lang="greek">πώ</foreign> (enclit.) <gloss>in some way, any way, ever, yet, at some time, at any time.</gloss></item>
 
@@ -6204,7 +6204,7 @@ common to the heat of passion.
 <div type="textpart" n="215">
 <p>VOCABULARY
 <list>
-<item><foreign xml:lang="greek">ἀ-</foreign> (ά-) <gloss>inseparable prefix (“ alpha copulative") denoting likeness, union, association with, intensification.</gloss></item>
+<item><foreign xml:lang="greek">ἀ-</foreign> (<foreign xml:lang="greek">ά</foreign>-) <gloss>inseparable prefix (“ alpha copulative") denoting likeness, union, association with, intensification.</gloss></item>
 
 <item><foreign xml:lang="greek">ἀγορεύω</foreign>, <foreign xml:lang="greek">ἀγορεύσω</foreign>, <foreign xml:lang="greek">ἠγόρευσα</foreign> <gloss>speak, say, tell, harangue, address an assembly.</gloss></item>
 
@@ -6212,7 +6212,7 @@ common to the heat of passion.
 
 <item><foreign xml:lang="greek">ἀμείνων</foreign>, <foreign xml:lang="greek">ἀμεῖνον</foreign> <gloss>better, braver, superior, preferable; compar, of <foreign xml:lang="greek">ἀγαθός</foreign> <ref>754</ref>.</gloss></item>
 
-<item><foreign xml:lang="greek">ἀπόλλῡμι</foreign> (ὀλ-, <foreign xml:lang="greek">ὀλε-</foreign>, <foreign xml:lang="greek">ὀλο-</foreign>) <foreign xml:lang="greek">ἀπολέσ(σ</foreign>)ω, <foreign xml:lang="greek">ἀπώλεσ(σ</foreign>)a, <foreign xml:lang="greek">ἀπόλωλα</foreign> <gloss>destroy, kill, ruin.</gloss></item>
+<item><foreign xml:lang="greek">ἀπόλλῡμι</foreign> (ὀλ-, <foreign xml:lang="greek">ὀλε-</foreign>, <foreign xml:lang="greek">ὀλο-</foreign>) <foreign xml:lang="greek">ἀπολέσ(σ</foreign>)ω, <foreign xml:lang="greek">ἀπώλεσ(σ)α</foreign>, <foreign xml:lang="greek">ἀπόλωλα</foreign> <gloss>destroy, kill, ruin.</gloss></item>
 
 <item><foreign xml:lang="greek">δέμας</foreign>, <foreign xml:lang="greek">δέμαος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>build, stature, size, form, body, structure.</gloss></item>
 
@@ -6418,10 +6418,9 @@ the accusation there made.
 
 <item><foreign xml:lang="greek">αὐτίκα</foreign> <gloss>immediately, forthwith,</gloss></item>
 <item><foreign xml:lang="greek">γέρας</foreign>, <foreign xml:lang="greek">γέραος</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>prize (of honor),</gloss></item>
-<item><foreign xml:lang="greek">δατέομαι</foreign> (δατ-, <foreign xml:lang="greek">δατε-</foreign>), <foreign xml:lang="greek">δάσ(σ</foreign>)ομαι,</item>
-<item><foreign xml:lang="greek">ἐδασ(σ)άμην</foreign>, <foreign xml:lang="greek">δέδaσμαι</foreign> <gloss>divide, distribute, allot.</gloss></item>
+<item><foreign xml:lang="greek">δατέομαι</foreign> (<foreign xml:lang="greek">δατ-</foreign>, <foreign xml:lang="greek">δατε-</foreign>), <foreign xml:lang="greek">δάσ(σ)ομαι</foreign>, <foreign xml:lang="greek">ἐδασ(σ)άμην</foreign>, <foreign xml:lang="greek">δέδaσμαι</foreign> <gloss>divide, distribute, allot.</gloss></item>
 
-<item><foreign xml:lang="greek">ἑτοιμάζω*</foreign> (ἑτοιμαδ-), <foreign xml:lang="greek">ἑτοιμάσω* ἡτοίμασα.</foreign> <gloss>prepare, make ready.</gloss></item>
+<item><foreign xml:lang="greek">ἑτοιμάζω*</foreign> (<foreign xml:lang="greek">ἑτοιμαδ-</foreign>), <foreign xml:lang="greek">ἑτοιμάσω*</foreign> <foreign xml:lang="greek">ἡτοίμασα</foreign>. <gloss>prepare, make ready.</gloss></item>
 <item><foreign xml:lang="greek">κεῖ-μαι</foreign>, <foreign xml:lang="greek">κείσομαι</foreign> <gloss>lie, recline, repose.</gloss></item>
 <item><foreign xml:lang="greek">κύδιστος</foreign>, <foreign xml:lang="greek">κῡδίστη</foreign>, <foreign xml:lang="greek">κύδιστον</foreign> <gloss>most glorious; superl.</gloss></item>
 
@@ -6823,7 +6822,7 @@ for the quarrel to be avoided.
 <list>
 <item><foreign xml:lang="greek">Αἴᾱς</foreign>, <foreign xml:lang="greek">Αἴαντος</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>Ajax,</gloss></item>
 <item><foreign xml:lang="greek">αἱρέω</foreign> (αἱρ- , <foreign xml:lang="greek">ἑλ-</foreign>), <foreign xml:lang="greek">αἱρήσω</foreign>, <foreign xml:lang="greek">ἕελον</foreign> (εἷλον, <ref>584-585</ref>), <foreign xml:lang="greek">ᾕρηκα*</foreign>, <foreign xml:lang="greek">ἥρημαι*</foreign>, <foreign xml:lang="greek">ᾑρέθην*</foreign> <gloss>take, seize, deprive, (mid.) choose,</gloss></item>
-<item><foreign xml:lang="greek">ἅλς</foreign>, <foreign xml:lang="greek">ἁλος</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>sea, brine,</gloss></item>
+<item><foreign xml:lang="greek">ἅλς</foreign>, <foreign xml:lang="greek">ἁλος</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>sea, brine,</gloss></item>
 <item><foreign xml:lang="greek">ἀντ-άξιος</foreign>, <foreign xml:lang="greek">ἀντ-αξίη</foreign>, <foreign xml:lang="greek">ἀντ-άξιον</foreign> <gloss>equivalent, of equal value.</gloss></item>
 
 <item><foreign xml:lang="greek">ἀπο-δί-δωμι</foreign> (δω-, <foreign xml:lang="greek">δο-</foreign>), <foreign xml:lang="greek">ἀποδώσω</foreign>, <foreign xml:lang="greek">ἀπέδωκα</foreign>, <foreign xml:lang="greek">ἀποδέδωκα*</foreign>, <foreign xml:lang="greek">ἀποδίδομαι</foreign>, <foreign xml:lang="greek">ἀπέδόθην</foreign> <gloss>give back, return, give away, pay.</gloss></item>
@@ -6835,7 +6834,7 @@ for the quarrel to be avoided.
 
 
 <item><foreign xml:lang="greek">δεύομαι</foreign> (δευ-, <foreign xml:lang="greek">δευε-</foreign>), <foreign xml:lang="greek">δευήσομαι</foreign>, <foreign xml:lang="greek">ἐδεύησα</foreign> <gloss>lack, need, he in want,</gloss></item>
-<item><foreign xml:lang="greek">ἐρύω</foreign> (Ϝερυ-, <foreign xml:lang="greek">Ϝρυ-</foreign>), <foreign xml:lang="greek">ἐρυ(ύ</foreign>)ω, <foreign xml:lang="greek">εἴρυσ(σ</foreign>)a, <foreign xml:lang="greek">εἴρυσ(σ</foreign>)μαι <gloss>draw, drag, launch,</gloss></item>
+<item><foreign xml:lang="greek">ἐρύω</foreign> (Ϝερυ-, <foreign xml:lang="greek">Ϝρυ-</foreign>), <foreign xml:lang="greek">ἐρυ(ύ</foreign>)ω, <foreign xml:lang="greek">εἴρυσ(σ)α</foreign>, <foreign xml:lang="greek">εἴρυσ(σ</foreign>)μαι <gloss>draw, drag, launch,</gloss></item>
 <item><foreign xml:lang="greek">ἧμαι</foreign> (ἡσ-) (pres. <gloss>only) sit, be seated,</gloss></item>
 <item><foreign xml:lang="greek">μέλᾱς</foreign>, <foreign xml:lang="greek">μέλαινα</foreign>, <foreign xml:lang="greek">μέλav</foreign> <gloss>black, dark, dusky,</gloss></item>
 <item><foreign xml:lang="greek">μετα-φράζω*</foreign> (φραδ), <foreign xml:lang="greek">μεταφράσω*</foreign>, <foreign xml:lang="greek">μετέφρασα</foreign> (μετέφραδον), <foreign xml:lang="greek">μεταπέφρακα**</foreign>, <foreign xml:lang="greek">μεταπέφρασμαι*. μεταφράσθην</foreign> <gloss>tell, point out, declare; mid., consider later, plan hereafter, reflect on later.</gloss></item>
@@ -7121,7 +7120,7 @@ the soldiery against such high-handed injustice.
 <list>
 <item><foreign xml:lang="greek">αἴτιος αἰτίη αἴτιον</foreign> <gloss>blamable, to blame, guilty, accountable, responsible,</gloss></item>
 <item><foreign xml:lang="greek">αἰχμητής</foreign>, <foreign xml:lang="greek">αἰχμητᾶο</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>spearman, warrior.</gloss></item>
-<item><foreign xml:lang="greek">βοῦς</foreign>, <foreign xml:lang="greek">βοός</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>ox, cow.</gloss></item>
+<item><foreign xml:lang="greek">βοῦς</foreign>, <foreign xml:lang="greek">βοός</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>ox, cow.</gloss></item>
 
 <item><foreign xml:lang="greek">βωτι-άνειρα</foreign> fem., <gloss>man-nourishing, nurturing heroes; subst. nurse of heroes.</gloss></item>
 
@@ -7132,7 +7131,7 @@ the soldiery against such high-handed injustice.
 <item><foreign xml:lang="greek">ἐρι-βώλαξ</foreign>, <foreign xml:lang="greek">ἐριβώλακος</foreign> <gloss>rich-clodded, heavy-clodded, fertile.</gloss></item>
 
 <item><foreign xml:lang="greek">ἠχήεις</foreign>, <foreign xml:lang="greek">ἠχήεσσα</foreign>, <foreign xml:lang="greek">ἠχῆεν</foreign> <gloss>onomatopoetic, (re)echoing) roaring, (re)sounding, thundering,</gloss></item>
-<item><foreign xml:lang="greek">ἵππος</foreign>, <foreign xml:lang="greek">ἵππου</foreign>, ὁ, <foreign xml:lang="greek">ἡ</foreign> <gloss>horse, mare.</gloss></item>
+<item><foreign xml:lang="greek">ἵππος</foreign>, <foreign xml:lang="greek">ἵππου</foreign>, <foreign xml:lang="greek">ὁ</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>horse, mare.</gloss></item>
 
 <item><foreign xml:lang="greek">καρπός</foreign>, <foreign xml:lang="greek">κάρποῦ</foreign>, <foreign xml:lang="greek">ὁ</foreign> <gloss>fruit, crop, produce, harvest.</gloss></item>
 
@@ -7335,7 +7334,7 @@ and learn the declension of <foreign xml:lang="greek">εἷς</foreign>, <foreig
 <item><foreign xml:lang="greek">πτολίεθρον</foreign> (= <foreign xml:lang="greek">πόλις</foreign>), <foreign xml:lang="greek">πτολιέθρου</foreign>, <foreign xml:lang="greek">τό</foreign> <gloss>city.</gloss></item>
 
 <item><foreign xml:lang="greek">τιμή</foreign>, <foreign xml:lang="greek">τιμἠς</foreign>, <foreign xml:lang="greek">ἡ</foreign> <gloss>honor, satisfaction, recompense, retribution, value,</gloss></item>
-<item><foreign xml:lang="greek">χαίρω</foreign> (χαρ-, <foreign xml:lang="greek">χαρ«-</foreign>, <foreign xml:lang="greek">χαιρε-</foreign>), <foreign xml:lang="greek">χαιρήσω</foreign>, <foreign xml:lang="greek">κεχάρη(κ</foreign>)α, <foreign xml:lang="greek">κεχάρ(η</foreign>)μαι*, <foreign xml:lang="greek">ἐχάρην</foreign> <gloss>rejoice, be glad, hail ! welcome come!</gloss></item>
+<item><foreign xml:lang="greek">χαίρω</foreign> (χαρ-, <foreign xml:lang="greek">χαρ«-</foreign>, <foreign xml:lang="greek">χαιρε-</foreign>), <foreign xml:lang="greek">χαιρήσω</foreign>, <foreign xml:lang="greek">κεχάρη(κ)α</foreign>, <foreign xml:lang="greek">κεχάρ(η)μαι*</foreign>, <foreign xml:lang="greek">ἐχάρην</foreign> <gloss>rejoice, be glad, hail ! welcome come!</gloss></item>
 
 </list>
 
@@ -7481,7 +7480,7 @@ VOCABULARY
 
 <div type="textpart" n="268">
 <p>ἀτάρ ( = <foreign xml:lang="greek">αύτάρ</foreign> 571) but, moreover.
-il-Tipos, ἡ, <foreign xml:lang="greek">ον</foreign> dishonored, unhonored.
+il-Tipos, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> dishonored, unhonored.
 
 <foreign xml:lang="greek">ἀφενοϊ,
 εος</foreign>, <foreign xml:lang="greek">τό</foreign> wealth, riches,
@@ -7503,7 +7502,7 @@ weary</foreign>, suffer, accomplish with
 pain.
 
 Kopovis, iSos curved, bent.
-<foreign xml:lang="greek">όλί·yos</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign> little, few, small, of
+<foreign xml:lang="greek">όλί·γος</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> little, few, small, of
 slight value, cheap.
 irkovTos, <foreign xml:lang="greek">οὐ</foreign>, <foreign xml:lang="greek">ὁ</foreign> wealth, riches, abundance.
 
@@ -7519,7 +7518,7 @@ o-vv adv., and prep, with dat., with, mightier, better, braver, stronger,
 
 together (with), along with. more powerful, more productive,
 
-<foreign xml:lang="greek">φίρτιροί</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign> (comparat. 754, 2), more profitable.
+<foreign xml:lang="greek">φίρτιροί</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> (comparat. 754, 2), more profitable.
 
 Derivatives: corona-tion, crown; olig-archy; pluto-crat,
 -cracy; polem-ic(al) ; syn-agogue, syn-.
@@ -7638,7 +7637,7 @@ hurry on, urge.
 trapos (eratpos, 571), <foreign xml:lang="greek">ον</foreign>, o companion,
 comrade, follower, friend,
 <foreign xml:lang="greek">ίχθρό?</foreign>, ή, <foreign xml:lang="greek">όν</foreign> (compar, <foreign xml:lang="greek">ΐχθίων</foreign>, <foreign xml:lang="greek">ον;
-superi</foreign>, <foreign xml:lang="greek">ϊχβιστοί</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign>) hateful,
+superi</foreign>, <foreign xml:lang="greek">ϊχβιστοί</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign>) hateful,
 hated, enemy, hostile, odious.
 
 <pb n="109"/>
@@ -7836,7 +7835,7 @@ restrain, control, contain, hold
 back, curb,
 <foreign xml:lang="greek">ήτορ</foreign>, <foreign xml:lang="greek">ορος</foreign>, <foreign xml:lang="greek">τό</foreign> heart, soul, spirit,
 <foreign xml:lang="greek">κλιο-ίη</foreign>, <foreign xml:lang="greek">ης</foreign>, ij hut, barrack, tent.
-<foreign xml:lang="greek">λάσios</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign> hairy, shaggy, rough,
+<foreign xml:lang="greek">λάσios</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> hairy, shaggy, rough,
 bushy.
 
 <pb n="112"/>LESSON XLIII
@@ -8231,7 +8230,7 @@ aorist systems of <foreign xml:lang="greek">ΐστημι</foreign>, <foreign xml
 
 αν = <foreign xml:lang="greek">κί(ν</foreign>) (1085-1091). <foreign xml:lang="greek">γλαυκ-ώιτίϊ</foreign>, iSos gleaming<foreign xml:lang="greek">-eyed,
 
-αίγί-οχοϊ</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign> aegis-holding. flashing-eyed (“ owl-eyed <foreign xml:lang="greek">”).
+αίγί-οχοϊ</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> aegis-holding. flashing-eyed (“ owl-eyed <foreign xml:lang="greek">”).
 
 αυτὶ</foreign> again, in turn, but, however, <foreign xml:lang="greek">ϊνα</foreign> in order that, (so) that,
 further(more), anew. where.
@@ -8352,7 +8351,7 @@ know.” %
 204. to : subject of <foreign xml:lang="greek">τελίεσθαι</foreign>, 971. — <foreign xml:lang="greek">όίω</foreign> : ironical, as usual in Homer.
 
 205. Achilles broadly hints at his intention of killing Agamemnon
-for his arrogance. — rjs (os, ἡ, <foreign xml:lang="greek">ον</foreign>). — <foreign xml:lang="greek">ύΐΓίροπλίησι:</foreign> 1005. — <foreign xml:lang="greek">όλίσση</foreign> : 1101.
+for his arrogance. — rjs (os, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign>). — <foreign xml:lang="greek">ύΐΓίροπλίησι:</foreign> 1005. — <foreign xml:lang="greek">όλίσση</foreign> : 1101.
 
 206. <foreign xml:lang="greek">γλαοκώπνϊ:</foreign> supplements vss. 199-200, and shows why Achilles so
 quickly recognized the goddess. Originally it seems to have meant owleyed.
@@ -8455,7 +8454,7 @@ mxp-iipa, (4τ-), <foreign xml:lang="greek">παρί'σὶ σ )ομαι</foreign
 be at hand, be near, be
 beside.
 
-<foreign xml:lang="greek">τφωίτ€ρο5</foreign>, ἡ, <foreign xml:lang="greek">ον</foreign> of you two, belonging
+<foreign xml:lang="greek">τφωίτ€ρο5</foreign>, <foreign xml:lang="greek">ἡ</foreign>, <foreign xml:lang="greek">ον</foreign> of you two, belonging
 to you two.
 
 TpCs thrice, three times,
@@ -15227,7 +15226,7 @@ to be of common gender.</p>
 
 <div type="textpart" n="637">
 <p>The demonstrative (often relative, or personal) pronoun
-most extensively used in the Homeric poems is ὁ, ἡ, <foreign xml:lang="greek">τό</foreign>, the first
+most extensively used in the Homeric poems is <foreign xml:lang="greek">ὁ</foreign>, ἡ, <foreign xml:lang="greek">τό</foreign>, the first
 form being masculine, the second feminine, and the third neuter.</p>
 </div>
 
@@ -17253,7 +17252,7 @@ Plural. <foreign xml:lang="greek">ἡμέτερος</foreign>, <foreign xml:lang
 </div>
 
 <div type="textpart" n="765">
-<p>The most common pronoun, ὁ, ἡ, <foreign xml:lang="greek">τό</foreign>, used regularly as the
+<p>The most common pronoun, <foreign xml:lang="greek">ὁ</foreign>, ἡ, <foreign xml:lang="greek">τό</foreign>, used regularly as the
 definite article in later Greek, is usually employed as the demon-
 
 <pb n="259"/>
@@ -18239,7 +18238,7 @@ verbs of this kind, as <foreign xml:lang="greek">ὄρνῡμι</foreign>, <fore
 
 <div type="textpart" n="853">
 <p>A few verbs in addition to those with liquid and nasal
-stems have lost <foreign xml:lang="greek">σ</foreign> in the future, as <foreign xml:lang="greek">καλέω</foreign>, <foreign xml:lang="greek">καλέω</foreign> call, summon. In
+stems have lost <foreign xml:lang="greek">σ</foreign> in the future, as <foreign xml:lang="greek">καλέω</foreign>, <foreign xml:lang="greek">καλέω</foreign> <gloss>call, summon</gloss>. In
 general these verbs have a liquid or nasal before the final vowel
 
 <pb n="275"/>
