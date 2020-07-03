@@ -25,6 +25,8 @@ with open(lexfile) as f:
       cunids[curid] = curlemma
       cunlemmas[curlemma] = curid
 
+f.close()
+
 
 lexfile = "cunliffe.hompers.unicode.xml"
 with open(lexfile) as f:
@@ -141,41 +143,42 @@ with open(lexfile) as f:
      lemma = re.sub('ῑ','ι',lemma)
      if(lemma in pharr2stand ):
       lemma = pharr2stand[lemma]
-#     if( not lemma in cunlemmas):
-#      print("failed","pharr" + curlesson,lemma,greek,gloss,sep="\t")
      pharrlemmas[lemma] = line 
      pharrlesson[lemma] = "pharr" + curlesson
      i = 0
-    else:
-      if(re.search('<item',line)):
-       print("badline",line)
 
+f.close()
 
+outf = open('pharrvoc.txt', 'w')
 sawkeys = {}
 lexfile = "tlg0012-tbankplus.txt"
 with open(lexfile) as f:
   for line in f:
-   f = line.split('\t')
-   if( f[1] in sawkeys):
+   fd = line.split('\t')
+   if( fd[1] in sawkeys):
      continue
-   sawkeys[f[1]] = 1
+   sawkeys[fd[1]] = 1
 
-   if( f[3] in allvoc):
-     allvoc[f[3]] = allvoc[f[3]] + 1
+   if( fd[3] in allvoc):
+     allvoc[fd[3]] = allvoc[fd[3]] + 1
    else:
-     allvoc[f[3]] = 1
+     allvoc[fd[3]] = 1
 
-   if( f[3] in pharrlesson):
-     print(pharrlesson[f[3]],line,sep="\t",end='')
-     if( f[3] in pharrvoc):
-      pharrvoc[f[3]] = pharrvoc[f[3]] + 1
+   if( fd[3] in pharrlesson):
+     #print(pharrlesson[fd[3]],line,sep="\t",end='')
+     outf.write(pharrlesson[fd[3]] + "\t" + line )
+     if( fd[3] in pharrvoc):
+      pharrvoc[fd[3]] = pharrvoc[fd[3]] + 1
      else:
-      pharrvoc[f[3]] = 1
+      pharrvoc[fd[3]] = 1
 
 
 for foo in dict(sorted(allvoc.items(), key=operator.itemgetter(1),reverse=True)):
    if( foo in pharrvoc):
-     print(pharrvoc[foo],foo,pharrlesson[foo],"pharrvoc",sep="\t")
+#     print(pharrvoc[foo],foo,pharrlesson[foo],"pharrvoc",sep="\t")
+     outf.write(str(pharrvoc[foo]) + "\t" + foo + "\t" + pharrlesson[foo] + "\t" + "pharrvoc\n")
    else:
-     print(allvoc[foo],foo,"newvoc",sep="\t")
+     #print(allvoc[foo],foo,"newvoc",sep="\t")
+     outf.write(str(allvoc[foo])+"\t"+foo+"\t"+"newvoc\n")
 
+f.close()
