@@ -6,6 +6,10 @@ import operator
 
 cunids = {}
 cunlemmas = {}
+pharrlemmas = {}
+pharrlesson = {}
+pharrvoc = {}
+allvoc = {}
 
 lexfile = "cunliffe.lexentries.unicode.xml"
 with open(lexfile) as f:
@@ -54,12 +58,12 @@ pharr2stand['δαίς'] = 'δαίς1'
 pharr2stand['πολλός'] = 'πολύς'
 pharr2stand['τέ'] = 'τε'
 pharr2stand['προϊάπτω'] = 'προιάπτω'
-pharr2stand['ξuvίημι'] = 'σuvίημι'
+pharr2stand['ξuvίημι'] = 'συνίημι'
 pharr2stand['ἀπάνευθεν'] = 'ἀπάνευθε'
 pharr2stand['ἠύκομος'] = 'εὔκομος'
 pharr2stand['ἐέλδωρ'] = 'ἔλδωρ'
 pharr2stand['νηός'] = 'ναός'
-pharr2stand['νηός'] = 'ναός'
+pharr2stand['νηῦς'] = 'ναῦς'
 pharr2stand['εἴκω'] = 'εἴκω1'
 pharr2stand['φαρέτρη'] = 'φαρέτρα'
 pharr2stand['αἰεί'] = 'ἀεί'
@@ -79,17 +83,47 @@ pharr2stand['τὶς'] = 'τις'
 pharr2stand['αἰ'] = 'εἰ'
 pharr2stand['ἀρήν'] = 'ἀρνός'
 pharr2stand['εἴ τε'] = 'εἴτε'
-pharr2stand['ἧ τοι'] = 'ἧτοι'
+pharr2stand['ἧ τοι'] = 'ἦ'
 pharr2stand['κνίση'] = 'κνῖσα'
 pharr2stand['πώς'] = 'πως'
 pharr2stand['εἴδω'] = 'εἶδον'
-pharr2stand['χέρης'] = 'χερείων'
+pharr2stand['χέρης'] = 'χείρων'
+pharr2stand['χερείων'] = 'χείρων'
 pharr2stand['ἀπαμείβω'] = 'ἀπαμείβομαι'
+pharr2stand['ἤν'] = 'ἐάν'
+pharr2stand['μετόπισθεν'] = 'μετόπισθε'
+pharr2stand['προβούλομαι'] = 'προβέβουλα'
+pharr2stand['σαόω'] = 'σώζω'
+pharr2stand['ζώω'] = 'ζάω'
+pharr2stand['ὅς τε'] = 'ὅστε'
+pharr2stand['θεοπροπίη'] = 'θεοπροπία'
+pharr2stand['κούρη'] = 'κόρη'
+pharr2stand['τούνεκα'] = 'τοὔνεκα'
+pharr2stand['πώ'] = 'πω'
+pharr2stand['φιλοκτεανώτατος'] = 'φιλοκτέανος'
+pharr2stand['ἐπείκω'] = 'ἐπέοικε'
+pharr2stand['ποθί'] = 'ποθι'
+pharr2stand['τετραπλῇ'] = 'τετραπλόος'
+pharr2stand['τριπλῇ'] = 'τριπλόος'
+pharr2stand['ἅλς'] = 'ἅλς2'
+pharr2stand['δεύομαι'] = 'δεύω2'
+pharr2stand['ἐρύω'] = 'ἐρύω1'
+pharr2stand['ἱερόν'] = 'ἱερός'
+pharr2stand['ἐλάω'] = 'ἐλαύνω'
+pharr2stand['μαχέομαι'] = 'μάχομαι'
+pharr2stand['οὖρος'] = 'ὄρος'
+pharr2stand['Tpῶes'] = 'Τρώς'
+pharr2stand['Φθίη'] = 'Φθία'
+pharr2stand['ἶσος'] = 'ἴσος'
+pharr2stand['μετατρέπω'] = 'μετατρέπομαι'
+pharr2stand['Τροίη'] = 'Τροία'
+pharr2stand['ἀναιδείη'] = 'ἀναίδεια'
 
 curlesson = ''
 lexfile = "pharr.homgramm.xml"
 with open(lexfile) as f:
   for line in f:
+    line = re.sub('\t','',line)
     m = re.search(r'"lesson([0-9]+)"',line)
     if(m):
       curlesson = m.group(1)
@@ -107,9 +141,41 @@ with open(lexfile) as f:
      lemma = re.sub('ῑ','ι',lemma)
      if(lemma in pharr2stand ):
       lemma = pharr2stand[lemma]
-     if( not lemma in cunlemmas):
-      print(curlesson,lemma)
+#     if( not lemma in cunlemmas):
+#      print("failed","pharr" + curlesson,lemma,greek,gloss,sep="\t")
+     pharrlemmas[lemma] = line 
+     pharrlesson[lemma] = "pharr" + curlesson
      i = 0
     else:
       if(re.search('<item',line)):
        print("badline",line)
+
+
+sawkeys = {}
+lexfile = "tlg0012-tbankplus.txt"
+with open(lexfile) as f:
+  for line in f:
+   f = line.split('\t')
+   if( f[1] in sawkeys):
+     continue
+   sawkeys[f[1]] = 1
+
+   if( f[3] in allvoc):
+     allvoc[f[3]] = allvoc[f[3]] + 1
+   else:
+     allvoc[f[3]] = 1
+
+   if( f[3] in pharrlesson):
+     print(pharrlesson[f[3]],line,sep="\t",end='')
+     if( f[3] in pharrvoc):
+      pharrvoc[f[3]] = pharrvoc[f[3]] + 1
+     else:
+      pharrvoc[f[3]] = 1
+
+
+for foo in dict(sorted(allvoc.items(), key=operator.itemgetter(1),reverse=True)):
+   if( foo in pharrvoc):
+     print(pharrvoc[foo],foo,pharrlesson[foo],"pharrvoc",sep="\t")
+   else:
+     print(allvoc[foo],foo,"newvoc",sep="\t")
+
