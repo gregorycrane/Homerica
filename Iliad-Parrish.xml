@@ -1,0 +1,576 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/8.19/tei-epidoc.rng"
+  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Iliad (English). Machine readable text</title>
+                <author>Homer</author>
+                <sponsor>Perseus Project, Tufts University</sponsor>
+                <principal>Gregory Crane</principal>
+                <respStmt>
+                    <resp>Prepared under the supervision of</resp>
+                    <name>Lisa Cerrato</name>
+                    <name>William Merrill</name>
+                    <name>Elli Mylonas</name>
+                    <name>David Smith</name>
+                </respStmt>
+                <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+            </titleStmt>
+            <extent>about 529Kb</extent>
+            <publicationStmt>
+                <publisher>Trustees of Tufts University</publisher>
+                <pubPlace>Medford, MA</pubPlace>
+                <authority>Perseus Project</authority>
+            </publicationStmt>
+            <notesStmt>
+                <note anchored="true">Text scanned at U. Chicago in 1989. Basic SGML tagging by
+                    Lauren Burka and Chiara Thayer.</note>
+            </notesStmt>
+            <sourceDesc>
+                <biblStruct>
+                    <monogr>
+                        <author>Homer</author>
+                        <title>The Iliad with an English Translation by A.T. Murray, Ph.D. in two
+                            volumes.</title>
+                        <imprint>
+                            <publisher>Cambridge, MA., Harvard University Press; London, William
+                                Heinemann, Ltd.</publisher>
+                            <date>1924</date>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="card" matchPattern="(\w+).(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+                    <p>This pointer pattern extracts book and card</p>
+                </cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)"
+                    replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+                    <p>This pointer pattern extracts book</p>
+                </cRefPattern>
+            </refsDecl>
+            <refsDecl>
+                <refState unit="Book" delim="."/>
+                <refState unit="card"/>
+            </refsDecl>
+        </encodingDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="eng">English</language>
+                <language ident="grc">Greek</language>
+            </langUsage>
+        </profileDesc>
+        <revisionDesc>
+            <change when="19901001" who="Nancy Sultan">Put in card breaks.</change>
+            <change when="19910301" who="Chiara Thayer">Proofread text</change>
+            <change when="19910801" who="EM">Revise DTDs and recheck texts.</change>
+            <change when="19951001" who="Lisa Cerrato">Fixed typo in 1.150 cam to came.</change>
+            <change when="19990201" who="Lisa Cerrato">Fixed three typos reported to
+                webmaster.</change>
+            <change when="20151216" who="Bridget Almas">Converted to EpiDoc.</change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+        <div type="textpart" subtype="book" n="1">
+        <p>
+            <s xml:id="sent2274106">Sing, goddess, the godlike wrath of Achilles, son of Peleus, that sociopathic wrath </s>
+            <s xml:id="sent2274106a">that caused countless pains for the Achaeans </s>
+            <s xml:id="sent2274106b">and hurled to Hades many precious lives of warriors, </s>
+            <s xml:id="sent2274106c">and began to make their bodies into picked-over scraps for dogs and birds, all of them; </s>
+            <s xml:id="sent2274106d">and the plan of Zeus began to be fulfilled, </s>
+            <s xml:id="sent2274106e">from the point where first they stood apart, quarreling, the son of Atreus, lord of men, and god-like Achilles. </s>
+            <s xml:id="sent2274107">Who of the gods threw the two together to fight in conflict?</s>
+            <s xml:id="sent2274108">The son of Leto and Zeus: </s>
+            <s xml:id="sent2274109">for he, enraged by the king, sent an evil sickness up through the camp, and </s>
+            <s xml:id="sent2274109a">the soldiers began to die, because he did not show the appropriate respect to that man Chryses, who talks with that god, he, the son of Atreus: </s>
+            <s xml:id="sent2274110">for he, Chryses, went towards the swift ships of the Achaeans in order to free his daughter, bearing boundless ransom, holding the wreaths of the far-shooter Apollo in his hands aloft on his golden staff, </s>
+            <s xml:id="sent2274110a">and he began to supplicate all the Achaeans, and especially the two sons of Atreus, the men who direct the soldiers: </s>
+            <s xml:id="sent2274111">“Sons of Atreus and all the well-greaved Achaeans, on the one hand I wish that the gods, having Olympian homes, grant for you to sack utterly the city of Priam, and to return safely home;</s>
+            <s xml:id="sent2274112">but for me free my beloved child, and accept this ransom, showing respect for the son of Zeus, the far-shooter Apollo.” </s>
+            <s xml:id="sent2274113">Then indeed all the Achaeans responded approvingly, both to show respect for the priest and to accept the shining ransom; </s>
+            <s xml:id="sent2274114">but this was not sweet to the son of Atreus, Agamemnon, in his heart, </s>
+            <s xml:id="sent2274114a">and he began to dismiss him cruelly, </s>
+            <s xml:id="sent2274114b">issuing a harsh command against him: </s>
+            <s xml:id="sent2274115">“May I not come upon you, old man, near the hollow ships, either taking too long now or returning back later, lest even now the staff and wreaths of the god may not protect you- </s>
+            <s xml:id="sent2274116">her I will not free, </s>
+            <s xml:id="sent2274117">until old age comes upon her  in my house in Argos, far from her fatherland, working the loom and serving my bed. </s>
+            <s xml:id="sent2274118">But go, </s>
+            <s xml:id="sent2274118a">do not provoke me thus so that you might return more safely.” </s>
+            <s xml:id="sent2274119">So he spoke, </s>
+            <s xml:id="sent2274119a">and the old man became scared, </s>
+            <s xml:id="sent2274119b">and began to obey his command: </s>
+            <s xml:id="sent2274120">he walked in silence to the shore of the loudly-roaring sea, </s>
+            <s xml:id="sent2274121">and after, going far away, that old man began to pray  to the lord Apollo, he whom fair-haired Leto bore: </s>
+            <s xml:id="sent2274122">“Listen to me, silver-bowed one, you who stands guard over Chrysa and sacred Cilla, and you lord over Tenedos by force, </s>
+            <s xml:id="sent2274122a">Smintheus, if at some time I ever roofed over a shrine pleasing to you, or if at some time I completely burned fat thigh-bones for you, of bulls and of goats, fulfill this desire for me: </s>
+            <s xml:id="sent2274123">may the Danaans show respect for my tears to your arrows.” </s>
+            <s xml:id="sent2274124">So he spoke in his prayer. </s>
+            <s xml:id="sent2274124a">Phoebus Apollo began to listen to him: </s>
+            <s xml:id="sent2274124b">consumed with fury within his heart, he went down from the top of Olympus, carrying a bow, arrows, and a covered quiver on his shoulders. </s>
+            <s xml:id="sent2274125">The arrows rattled noisily on the shoulders of the angered god, once he moved: </s>
+            <s xml:id="sent2274126">he went like the night. </s>
+            <s xml:id="sent2274127">Then he began to sit far away from the ships, </s>
+            <s xml:id="sent2274127a">and he fired an arrow among them- </s>
+            <s xml:id="sent2274128">and terrifying was the rattle from the silver bow. </s>
+            <s xml:id="sent2274129">First he began to go after the mules and the swift dogs, </s>
+            <s xml:id="sent2274129a">but then, shooting a sharp arrow against the Greeks themselves, he began striking home- </s>
+            <s xml:id="sent2274130">and the crowded pyres of the corpses began to burn without stopping. </s>
+            <s xml:id="sent2274131">For nine days the arrows of the god kept moving up through the camp, </s>
+            <s xml:id="sent2274131a">but on the tenth day Achilles ordered the soldiers to an assembly, </s>
+            <s xml:id="sent2274132">since the white-armed goddess Hera placed this within his mind: </s>
+            <s xml:id="sent2274133">for she began to feel concerned for the Danaans, because she herself kept seeing them die. </s>
+            <s xml:id="sent2274134">After they had been assembled and were gathered together, swift-footed Achilles rose up and spoke among them: </s>
+            <s xml:id="sent2274135">“Son of Atreus, now I believe that we, driven back from the city, must go back to our homes again- if death, in fact, we may flee- if indeed war and plague together will conquer the Achaeans. </s>
+            <s xml:id="sent2274136">But come, let us ask either some seer or sacrifice-conductor, or even a dream-interpreter, for a dream is also from Zeus. He may say why Phoebus Apollo became so greatly angry; whether he reproaches us on account of a vow or an offering, or, if he were to encounter by any means the rich aroma of fully-grown sheep or goats, he may be willing to avert destruction from us.” </s>
+            <s xml:id="sent2274137">Having spoken thus, he sat down: </s>
+            <s xml:id="sent2274138">among them rose Calchas, son of Thestor, best by far of all the bird-interpreters, who knows what is, and what will be, and what was before, and he who had led the ships of the Achaeans into Troy through his own gift of foresight, which Phoebus Apollo personally handed to him. </s>
+            <s xml:id="sent2274139">He, well-disposed, addressed the assembly, and spoke among them: </s>
+            <s xml:id="sent2274140">“Oh Achilles, beloved of Zeus, you order me to explain the wrath of Apollo, the lord far-shooter: </s>
+            <s xml:id="sent2274141">therefore I will speak: </s>
+            <s xml:id="sent2274142">but you take this in yourself </s>
+            <s xml:id="sent2274142a">and swear to me most decidedly that without hesitation you will help me by word and by hand.</s>
+            <s xml:id="sent2274143">For I very much believe that I will anger a man, he who greatly holds power over all the Argives, and whom the Achaeans obey: </s>
+            <s xml:id="sent2274144">for the king has more power, whenever he is angry at an inferior man.</s>
+            <s xml:id="sent2274145">For even if he will choke down his anger the same day, afterwards still he holds the grudge, until he can fulfill it, in his chest: </s>
+            <s xml:id="sent2274146">but you prove yourself, if you will keep me safe.” </s>
+            <s xml:id="sent2274147">And swift-footed Achilles, answering, addressed him: </s>
+            <s xml:id="sent2274148">“Feel complete confidence, and speak the god’s message, whatever it is you know: </s>
+            <s xml:id="sent2274149">for I pledge by Apollo, beloved of Zeus, and to whom you, Calchas, speaking with authority, reveal the god’s messages for the Danaans- no one, with me living and beholding on this earth, will lay heavy hands against you near the hollow ships- not any of all the Danaans together, not even if you may speak of Agamemnon, he who boasts often to be the best of the Achaeans.” </s>
+            <s xml:id="sent2274150">Then he found confidence </s>
+            <s xml:id="sent2274150a">and he spoke, the blameless prophet: </s>
+            <s xml:id="sent2274151">“Indeed he finds fault neither with a vow nor an offering, but on behalf of the man who talks to the god- to this man Agamemnon showed disrespect: </s>
+            <s xml:id="sent2274151a">he did not free his daughter, nor did he accept the ransom- </s>
+            <s xml:id="sent2274151b">indeed on account of this the far-shooter gave sufferings and will continue to give still. </s>
+            <s xml:id="sent2274152">He certainly will not drive off shameful destruction for the Danaans, until you give back the bright-eyed girl to her beloved father without a price, un-ransomed, and lead a holy offering into Chrysa: </s>
+            <s xml:id="sent2274153">then we, having appeased him, might cause a change of heart.” </s>
+            <s xml:id="sent2274154">And so he, having spoken, sat down: </s>
+            <s xml:id="sent2274155">and from them rose the warrior son of Atreus, wide-ruling Agamemnon, troubled: </s>
+            <s xml:id="sent2274156">and with adrenaline his black guts completely fill, </s>
+            <s xml:id="sent2274156a">and his eyes became like blazing pyres. </s>
+            <s xml:id="sent2274157">Glaring wickedly first at Calchas, he spoke: </s>
+            <s xml:id="sent2274158">“Seer of evil things, you have never, ever, once said a favorable thing to me: </s>
+            <s xml:id="sent2274159">these evil things are always dear to you in your guts to prophesy, </s>
+            <s xml:id="sent2274159a">and you never spoke nor fulfilled any fortunate word. </s>
+            <s xml:id="sent2274160">And now you, prophesying, declare among the Danaans that on account of this the far-shooter causes them sufferings: because I, for my part, the shining ransom of the girl Chryseis was not willing to accept, since I much prefer her herself to hold at home. </s>
+            <s xml:id="sent2274161">And in fact I have come to prefer her over Clytemnestra, my lawful wife, since she is not inferior to her- not in form, nor in stature, nor in mind, nor in any deeds. </s>
+            <s xml:id="sent2274162">And yet I am willing to give her back, if this is really better: </s>
+            <s xml:id="sent2274163">I, for my part, prefer the soldiers to be safe, not to be killed. </s>
+            <s xml:id="sent2274164">As for me, prepare a prize appropriate for my rank immediately, so that I alone of the Argives am not without my prize, as this is also not fitting: </s>
+            <s xml:id="sent2274165">each and every one of you sees this, don’t you- that my prize goes elsewhere.” </s>
+            <s xml:id="sent2274166">And then swift-footed godly Achilles answered him: </s>
+            <s xml:id="sent2274167">“Son of Atreus, most glorious, most greedy of all, how exactly will the Achaeans, great-hearted as they are, give you a prize? </s>
+            <s xml:id="sent2274168">We do not see any great common stores lying around anywhere, </s>
+            <s xml:id="sent2274169">Rather on one hand, whatever we sacked from the city, these things were handed out, </s>
+            <s xml:id="sent2274169a">and on the other hand it would also not be fitting that the army gather together these recollected things. </s>
+            <s xml:id="sent2274170">Instead, you now release this girl to the god- </s>
+            <s xml:id="sent2274171">as for us, we Achaeans will repay you three times, and even four times-over, if Zeus might at some point grant for us to completely sack the well-walled city Troy.” </s>
+            <s xml:id="sent2274172">And answering him, he spoke, the ruler Agamemnon: </s>
+            <s xml:id="sent2274173">“Do not in this way- although you are brave, godlike Achilles- cheat with your mind, since you will not slip past nor persuade me. </s>
+            <s xml:id="sent2274174">Are you really willing, while you would hold your own prize, that I, for my part, in this manner sit, lacking- </s>
+            <s xml:id="sent2274174a">and you command me to give back this girl? </s>
+            <s xml:id="sent2274175">If the great-hearted Achaeans will in fact give me my prize, made exactly according to my heart, so that it will be worth just as much- </s>
+            <s xml:id="sent2274176">but if they should not, I myself would seize for myself either your prize or that of Ajax, going myself, or that of Odysseus- I, taking, will lead it away: </s>
+            <s xml:id="sent2274177">he will be angry for a long time, whomever I would approach. </s>
+            <s xml:id="sent2274178">Yet certainly we will reflect once again on these things, </s>
+            <s xml:id="sent2274178a">and now, come- let us drag a black ship into the divine sea. </s>
+            <s xml:id="sent2274178b">We will gather sufficient rowers, </s>
+            <s xml:id="sent2274178c">and a hecatomb inside we would place, </s>
+            <s xml:id="sent2274178d">and the fair-cheeked Chryseis herself along we will embark. </s>
+            <s xml:id="sent2274179">And let some one counsel-bearing man be the leader, either Ajax or Idomeneus or godly Odysseus, or you, Son of Peleus, most forceful of all men, until he should appease him, the free-worker, by performing sacrifices.” </s>
+            <s xml:id="sent2274180">And swift-footed Achilles addressed him, scowling: </s>
+            <s xml:id="sent2274181">“Alas/oh for me(?), one clothed in shamelessness, driven by profit, how would any of the Achaeans eagerly obey you either to go on a journey or to fight violently with men? </s>
+            <s xml:id="sent2274182">For I did not come on account of Trojan warriors here in order to fight, since they are not at fault to me at all: </s>
+            <s xml:id="sent2274183">for they did not ever drive away my cattle, nor my horses, nor in warrior-nourishing, fertile Phthia did they ever harm the harvest, since there are barriers between: many shady mountains and the roaring sea. </s>
+            <s xml:id="sent2274184">Instead you, oh greatly shameless one, together we followed so that you might rejoice, seeking to gain respect for Menelaus and for you, dog-face, from the Trojans- </s>
+            <s xml:id="sent2274185">and you do not regard any of this </s>
+            <s xml:id="sent2274185a">nor do you care- </s>
+            <s xml:id="sent2274186">and now you boast that you yourself will rob me of my prize for which I struggled greatly, and the sons of the Achaeans gave her to me. </s>
+            <s xml:id="sent2274187">Certainly I never have a prize equal to yours, whenever the Achaeans sacked a well-situated city of the Trojans- </s>
+            <s xml:id="sent2274188">but certainly the greater part of the miserable fighting my hands perform; </s>
+            <s xml:id="sent2274189">nevertheless whenever the division of spoils arrives, for you the prize is much greater, </s>
+            <s xml:id="sent2274189a">while a smaller yet precious prize I go carrying upon the ships, when I am exhausted from waging war. </s>
+            <s xml:id="sent2274190">But now I will go to Phthia, since it is surely much more powerful to return home together with curved ships, </s>
+            <s xml:id="sent2274190a">and I do not think that for your benefit I, without respect here, will collect riches and wealth.” </s>
+            <s xml:id="sent2274191">And then the lord of men, Agamemnon, began to answer him: </s>
+            <s xml:id="sent2274192">“By all means run away, if your heart is so set- </s>
+            <s xml:id="sent2274192a">I, for my part, do not beg you to stay on account of me: </s>
+            <s xml:id="sent2274193">beside me are other men who will respect me, and especially Zeus, the giver of counsel. </s>
+            <s xml:id="sent2274194">You are the most hateful to me of the kings fostered by Zeus: </s>
+            <s xml:id="sent2274195">for quarrelling is always dear to you, as are both wars and battles. </s>
+            <s xml:id="sent2274196">If you are exceedingly powerful, at some point a god granted this to you. </s>
+            <s xml:id="sent2274197">Go home with your ships and your comrades- rule over the Myrmidons- </s>
+            <s xml:id="sent2274197a">I do not care about you, </s>
+            <s xml:id="sent2274197b">nor do I take heed of you bearing a grudge. </s>
+            <s xml:id="sent2274198">But I will make the following threat to you: </s>
+            <s xml:id="sent2274199">as Phoebus Apollo is taking away from me Chryseis for himself, her I will, on the one hand, with both my ship and my comrades send, </s>
+            <s xml:id="sent2274199a">but on the other hand I, for my part, will lead beautiful-cheeked Briseis, going myself to your tent- that prize of yours- so that you may thoroughly understand how greatly I am more powerful than you, and so that another man would fear declaring himself an equal to me, and likening himself to me.” </s>
+            <s xml:id="sent2274200">So he spoke, </s>
+            <s xml:id="sent2274201">and pain arose in the son of Peleus, </s>
+            <s xml:id="sent2274201a">whose heart in his hairy chest was torn between two directions: either he could draw for himself his sharp sword from beside his thigh, and make the men stand while he killed the son of Atreus, or he could stop his fury and restrain his heart. </s>
+            <s xml:id="sent2274202">As he was turning these over through his thoughts and through his heart, he was beginning to pull for himself from his sheath a great sword, but Athena came from heaven, </s>
+            <s xml:id="sent2274203">since the white-armed goddess Hera sent her forth, both caring about and concerned for the two men equally in her heart. </s>
+            <s xml:id="sent2274204">She stood behind him, </s>
+            <s xml:id="sent2274204a">and by his light hair she gripped the son of Peleus, making herself visible to him only; </s>
+            <s xml:id="sent2274205">none of the other men began to see her for themselves. </s>
+            <s xml:id="sent2274206">Achilles was astonished, </s>
+            <s xml:id="sent2274206a">and circled around, </s>
+            <s xml:id="sent2274206b">and at once recognized Pallas Athena- </s>
+            <s xml:id="sent2274207">and her eyes appeared terrifying. </s>
+            <s xml:id="sent2274208">Speaking, he began to address her with winged words: </s>
+            <s xml:id="sent2274209">“There you are- why, child of aegis-holding Zeus, have you come? </s>
+            <s xml:id="sent2274210">Is it so that you might see for yourself the insolence of Agamemnon, son of Atreus? </s>
+            <s xml:id="sent2274211">Yet I will tell to you this, </s>
+            <s xml:id="sent2274211a">which I believe will be fulfilled: </s>
+            <s xml:id="sent2274212">by his outrageous actions soon he shall make an end to his life.” </s>
+            <s xml:id="sent2274213">Then to him the goddess spoke, owl-eyed Athena: </s>
+            <s xml:id="sent2274214">“I came in order to stop this adrenaline rush of yours, if you might obey, down from heaven- </s>
+            <s xml:id="sent2274215">and the white-armed goddess Hera sent me forth, both caring about and concerned for the two men equally in her heart. </s>
+            <s xml:id="sent2274216">Instead, come on- leave off from this quarrel, </s>
+            <s xml:id="sent2274216a">and do not continue to draw the sword in hand- </s>
+            <s xml:id="sent2274217">instead, to be sure, abuse him with words saying how it will be: </s>
+            <s xml:id="sent2274218">for in this way I will speak, </s>
+            <s xml:id="sent2274218a">and indeed this will come to fulfillment. </s>
+            <s xml:id="sent2274219">In the future, shining gifts so great as three-fold will be at hand for you because of this man’s insolence: </s>
+            <s xml:id="sent2274220">but as for you, hold yourself back </s>
+            <s xml:id="sent2274220a">and obey us.” </s>
+            <s xml:id="sent2274221">And to her, replying, swift-footed Achilles said: </s>
+            <s xml:id="sent2274222">“Indeed one must obey, goddess, the words of the two of you, even although exceedingly angered at heart, </s>
+            <s xml:id="sent2274223">for it is better this way:</s>
+            <s xml:id="sent2274224">if any man obeys the gods, they readily listen to him.” </s>
+            <s xml:id="sent2274225">He spoke, </s>
+            <s xml:id="sent2274225a">and on the silver hilt he held his heavy hand, </s>
+            <s xml:id="sent2274225b">and back into the sheath he pushed the great sword, </s>
+            <s xml:id="sent2274225c">and he did not disobey the command of Athena. </s>
+            <s xml:id="sent2274226">She had already departed to Olympus, into the home of aegis-holding Zeus among the other divinities. </s>
+            <s xml:id="sent2274227">The son of Peleus again with harsh words addressed the son of Atreus, </s>
+            <s xml:id="sent2274227a">and he had not begun to leave off from his rage yet; </s>
+            <s xml:id="sent2274228">“Swollen with wine, having the eyes of a dog but the heart of a deer, never to be armed for battle together with the army nor ever to enter an ambush with the most outstanding of the Achaeans have you dared in your heart- </s>
+            <s xml:id="sent2274229">to you that seems to be death. </s>
+            <s xml:id="sent2274230">Surely it is much more preferable along the broad camp of the Achaeans to steal gifts away from any man who may have spoken against you. </s>
+            <s xml:id="sent2274231">King who devours his people, since you rule over worthless men- </s>
+            <s xml:id="sent2274232">for otherwise, son of Atreus, you would now have made for yourself your final abusive acts. </s>
+            <s xml:id="sent2274233">Instead I will explain to you, </s>
+            <s xml:id="sent2274233a">and besides I will swear a great oath, </s>
+            <s xml:id="sent2274234">truly upon this staff; never will this bear leaves and branches, after it first left behind its stump in the mountains, and nor will it sprout again- </s>
+            <s xml:id="sent2274235">for the bronze stripped from it all around both the leaves and the bark- </s>
+            <s xml:id="sent2274236">now, however, the sons of the Achaeans, acting as judges, display it in their palms, they who defend the laws on behalf of Zeus. </s>
+            <s xml:id="sent2274237">This will be a great oath to you: </s>
+            <s xml:id="sent2274238">in the future certainly the desire for Achilles will come upon the sons of the Achaeans all of them- </s>
+            <s xml:id="sent2274239">and then you, though agonizing, will not have any power to do anything about it, whenever many at the hands of Hector the man-slaughterer, being killed, should fall. </s>
+            <s xml:id="sent2274240">You will gouge open your own heart within, consumed with fury because you showed no respect to the best of the Achaeans.” </s>
+            <s xml:id="sent2274241">So spoke the son of Peleus, </s>
+            <s xml:id="sent2274241a">and he flung down the staff to the ground, drilled with golden studs, </s>
+            <s xml:id="sent2274241b">and he himself sat down. </s>
+            <s xml:id="sent2274242">And the son of Atreus began to seethe with godlike wrath against him; </s>
+            <s xml:id="sent2274243">but among them Nestor the sweet-sounding leapt up, the articulate assembly-speaker of the Pylians, and from his tongue speech began to pour, sweeter than honey. </s>
+            <s xml:id="sent2274244">Indeed to him already two generations of mortal men had faded away, the first being those who were nourished at the same time as him, and then those born in divine Pylos, and among the third generation he was ruling. </s>
+            <s xml:id="sent2274245">He, well-disposed, began to address the assembly and spoke among them: </s>
+            <s xml:id="sent2274246">“For shame! Certainly great sorrow comes upon Achaean land; </s>
+            <s xml:id="sent2274247">doubtless they would rejoice, Priam and the children of Priam, and the other Trojans would be very happy at heart, if they should learn all these things, of you two fighting, you who are above all others in respect to the counsel of the Danaans, and above all others in warfare. </s>
+            <s xml:id="sent2274248">But obey- </s>
+            <s xml:id="sent2274249">both of you are younger than I am: </s>
+            <s xml:id="sent2274250">indeed I once, with men even more outstanding than you both, associated- </s>
+            <s xml:id="sent2274250a">and then they did not disregard me. </s>
+            <s xml:id="sent2274251">Since then I have not seen the likes of these men, and nor may I see the likes of both Peirithous and Dryas, shepherds of the soldiers, and Caeneus and Exadius and even Polyphemus, equal to the gods, and Theseus, the son of Aegeus, he who was like the immortals- </s>
+            <s xml:id="sent2274252">those were the mightiest of the men nourished on earth. </s>
+            <s xml:id="sent2274253">They were the mightiest, </s>
+            <s xml:id="sent2274253a">and against the mightiest they were fighting, the centaurs living in the mountains- </s>
+            <s xml:id="sent2274253b">and they demolished them violently. </s>
+            <s xml:id="sent2274254">Indeed with them I was conversing, having left from Pylos, far from the distant land: </s>
+            <s xml:id="sent2274255">in fact they themselves summoned me. </s>
+            <s xml:id="sent2274256">And I began to fight along on my own- </s>
+            <s xml:id="sent2274257">with those men no one who is mortal on this earth even now could fight. </s>
+            <s xml:id="sent2274258">Certainly of my advice they took heed </s>
+            <s xml:id="sent2274258a">and, to their benefit, they obeyed my commands. </s>
+            <s xml:id="sent2274259">So, you obey- since to obey is noble. </s>
+            <s xml:id="sent2274260">And may you not do this, though noble as you are- carry off the girl- </s>
+            <s xml:id="sent2274260a">but leave her thus as first those sons of Achaeans gave the prize; </s>
+            <s xml:id="sent2274261">And may you not, son of Peleus, choose to quarrel with a king, face to face, since a man never shares a common amount of expected respect as the staff-holding king, to whom Zeus gave renown. </s>
+            <s xml:id="sent2274262">If you are strong, a goddess for a mother bore you, but he still is more powerful since he rules over more. </s>
+            <s xml:id="sent2274263">Son of Atreus, you stop your adrenaline-fueled impulses: </s>
+            <s xml:id="sent2274264">doubtless I, for my part, beg that you dismiss your anger towards Achilles, he who to all the Achaeans becomes a great defender in cruel war.” </s>
+            <s xml:id="sent2274265">And, answering him, ruling Agamemnon spoke: </s>
+            “<s xml:id="sent2274266">Verily with respect to all these things you spoke rightly, old man- </s>
+            <s xml:id="sent2274267">but this man wills it that he is above all others: </s>
+            <s xml:id="sent2274267a">on the one hand he desires to have power over all, and on the other to rule over all, and even to command all. I believe these are things which he will not obey. </s>
+            <s xml:id="sent2274268">If the gods, existing always, render him a spearman, do they for that reason permit him to issue censures?” </s>
+            <s xml:id="sent2274269">And then, interrupting him, godlike Achilles began to reply: </s>
+            <s xml:id="sent2274270">“Indeed both cowardly and worthless I may be called, if to you I will yield in all the affairs that you might name- </s>
+            <s xml:id="sent2274271 ">to other men command these things, </s>
+            <s xml:id="sent2274271a">for not to me do you give commands. </s>
+            <s xml:id="sent2274272">In fact I, for my part, do not believe that I will still comply with you. </s>
+            <s xml:id="sent2274273">And I will share with you another thing- </s>
+            <s xml:id="sent2274273a">you cast it into your thoughts: </s>
+            <s xml:id="sent2274274">indeed with my hands I will not fight with you on account of the girl, not with you, nor with any other man, since you all, having given her to me, take her for yourselves. </s>
+            <s xml:id="sent2274275">But of all the rest that is for me, onto the swift black ship may you not carry anything of these taken things from me, unwilling. </s>
+            <s xml:id="sent2274276">But come on- really, try it for yourself, in order that even they may learn- </s>
+            <s xml:id="sent2274277">immediately your black blood will rush forth around the spear.” </s>
+            <s xml:id="sent2274278">Thus then, the two men having fought with such opposing speeches, they rose up, </s>
+            <s xml:id="sent2274278a">and they dismissed the assembly beside the ships of the Achaeans. </s>
+            <s xml:id="sent2274279">The son of Peleus, on the one hand, towards the huts and the well-balanced ships began to go with both the son of Menoetius and his comrades. </s>
+            <s xml:id="sent2274280">The son of Atreus, on the other hand, of course drew forth a swift ship towards the sea, </s>
+            <s xml:id="sent2274280a">and therein he selected twenty rowers, </s>
+            <s xml:id="sent2274280b">and into it an offering for the god he drove, </s>
+            <s xml:id="sent2274280c">and up into the ship the fair-cheeked Chryseis he, leading, set- </s>
+            <s xml:id="sent2274281">and into the ship went the leader, adaptable Odysseus. </s>
+            <s xml:id="sent2274282">Afterwards they, having ascended, began to sail over the watery route, </s>
+            <s xml:id="sent2274282a">while the son of Atreus commanded the soldiers to purify themselves. </s>
+            <s xml:id="sent2274283">They began bathing themselves, </s>
+            <s xml:id="sent2274283a">starting to fling their impurities into the sea, </s>
+            <s xml:id="sent2274283b">and they made fully-grown offerings for Apollo, both of bulls and of goats, along the shore of the barren sea: </s>
+            <s xml:id="sent2274284">and the aroma went into the heavens, swirling about in the smoke. </s>
+            <s xml:id="sent2274285">Thus these things they began working upon down throughout the camp- </s>
+            <s xml:id="sent2274286">while on the other hand, Agamemnon did not begin to put a stop to the quarrel which first he threatened to Achilles, </s>
+            <s xml:id="sent2274286a">but instead he addressed both Talthybius and Eurybates, those who were serving as heralds and as swift attendants: </s>
+            <s xml:id="sent2274287">“Go to the hut of the son of Peleus, Achilles- </s>
+            <s xml:id="sent2274288">seize by the hand, in order to lead away, the fair-cheeked Briseis. </s>
+            <s xml:id="sent2274289">If he should not give her, then I myself would seize her, coming with an overwhelming number of men: </s>
+            <s xml:id="sent2274290">for him this will be more horrible.” </s>
+            <s xml:id="sent2274291">Having spoken thus, he began to send them forth, </s>
+            <s xml:id="sent2274291a">and he was still issuing the cruel command upon them; </s>
+            <s xml:id="sent2274292">the two reluctant men walked along the shore of the barren sea, </s>
+            <s xml:id="sent2274292a">and up to the huts and the ships of the Myrmidons they arrived. </s>
+            <s xml:id="sent2274292b">And him they discovered beside both his hut and his black ship, sitting- </s>
+            <s xml:id="sent2274293">nor did Achilles rejoice at all having caught sight of the two. </s>
+            <s xml:id="sent2274294">Indeed the two men, terrified and ashamed out of respect for the king, stood, </s>
+            <s xml:id="sent2274294a">and they did not begin to address him nor question him. </s>
+            <s xml:id="sent2274295">However, he understood in his guts </s>
+            <s xml:id="sent2274295a">and uttered: </s>
+            <s xml:id="sent2274296">“Welcome heralds, messengers of Zeus and also of men, </s>
+            <s xml:id="sent2274296a">come closer- </s>
+            <s xml:id="sent2274297">you both are not to be blamed for anything, but Agamemnon is, he who is sending you forth on account of the girl Briseis. </s>
+            <s xml:id="sent2274298">But come, Zeus-born Patroclus, bring out the girl </s>
+            <s xml:id="sent2274298a">and give her to them so that they can lead her away: </s>
+            <s xml:id="sent2274299">and these men themselves, be witnesses both before the blessed gods and before mortal men, and also before your unfeeling king, if some day on the other hand a need of me should arise to defend against shameful destruction for the soldiers. </s>
+            <s xml:id="sent2274300">For surely he rushes on with lethal intentions, </s>
+            <s xml:id="sent2274300a">and he understands nothing about considering the future and the past together so that the Achaeans might in the future fight besides the ships, safe, for him.” </s>
+            <s xml:id="sent2274301">Thus he spoke, </s>
+            <s xml:id="sent2274301a">and Patroclus began to obey his beloved companion; </s>
+            <s xml:id="sent2274301b">he lead the fair-cheeked Bryseis out of the hut, </s>
+            <s xml:id="sent2274301c">and he gave her so that she would be carried away. </s>
+            <s xml:id="sent2274302">The men went back along the ships of the Achaeans, </s>
+            <s xml:id="sent2274303">and along with the reluctant men the girl began to go away. </s>
+            <s xml:id="sent2274304">However, Achilles, weeping, at once began to sit far away from his comrades, sinking down upon the shore of the gray salt-waters and looking out upon the boundless sea. </s>
+            <s xml:id="sent2274305">He prayed many times to his beloved mother, reaching out his hands: </s>
+            <s xml:id="sent2274306">“Mother, since you bore me for a very short life, at least the Olympians ought to have kept extending appropriate respect for me, and Zeus thundering on high: </s>
+            <s xml:id="sent2274307">but now not even a little has he rewarded me, </s>
+            <s xml:id="sent2274308">because in truth the son of Atreus, wide-ruling Agamemnon, has not shown me the appropriate respect: </s>
+            <s xml:id="sent2274309">for he himself, snatching and stealing my prize, holds it.” </s>
+            <s xml:id="sent2274310">Thus he spoke, shedding tears, </s>
+            <s xml:id="sent2274310a">and his revered mother listened to him, sitting in the depths of the sea beside her father, an old man. </s>
+            <s xml:id="sent2274311">Swiftly she rose from the gray sea like the mist, </s>
+            <s xml:id="sent2274311a">and before him, still shedding tears, she sat down and with her hand she caressed him, and she began speaking advice and calling to him: </s>
+            <s xml:id="sent2274312">"Child, why are you crying? </s>
+            <s xml:id="sent2274313">What grief has entered your guts? </s>
+            <s xml:id="sent2274314">Speak out, do not conceal it in your mind, so that we both might know.” </s>
+            <s xml:id="sent2274315">Groaning deeply, he answered her, the swift-footed Achilles:  </s>
+            <s xml:id="sent2274316">“You know- </s>
+            <s xml:id="sent2274317">why should I list all these things to you, already aware? </s>
+            <s xml:id="sent2274318">We began to depart into Thebes, the sacred city of Eetion, </s>
+            <s xml:id="sent2274318a">and we utterly sacked that city, and we even began to lead all the things here. </s>
+            <s xml:id="sent2274319">And indeed these things the sons of the Achaeans divided up well among them: </s>
+            <s xml:id="sent2274319a">out of this they seized the fair-cheeked daughter of Chryses for the son of Atreus. </s>
+            <s xml:id="sent2274320">But Chryses, however, the priest of the far-shooter Apollo, came up to the swift ships of the bronze-wearing Achaeans in order to free his daughter, bearing boundless ransom, holding the wreaths of the far-shooter Apollo in his hands aloft on his golden staff, </s>
+            <s xml:id="sent2274320a">and he began to supplicate all the Achaeans, and especially the two sons of Atreus, the men who direct the soldiers. </s>
+            <s xml:id="sent2274321">Then indeed all the Achaeans responded approvingly, both to show respect for the priest and to accept the shining ransom; </s>
+            <s xml:id="sent2274322">but this was not sweet to the son of Atreus, Agamemnon, in his heart, </s>
+            <s xml:id="sent2274322a">and he began to dismiss him cruelly, </s>
+            <s xml:id="sent2274322b">starting to issue a harsh command against him.</s>
+            <s xml:id="sent2274323">This old man, angered, began to go back- </s>
+            <s xml:id="sent2274324">and to him, praying, Apollo listened, since he especially was constantly close to him, </s>
+            <s xml:id="sent2274324a">and he sent an evil arrow against the Argives. </s>
+            <s xml:id="sent2274325">Even now the soldiers, one after another, began to die- </s>
+            <s xml:id="sent2274325a">and these arrows of the god began to attack on every side up along the wide camp of the Achaeans. </s>
+            <s xml:id="sent2274326">To us the prophet, understanding well, began to declare the prophecies of the far-shooter.</s>
+            <s xml:id="sent2274327">Immediately I first began to urge that we should appease the god, </s>
+            <s xml:id="sent2274328">but then anger took hold of the son of Atreus, </s>
+            <s xml:id="sent2274328a">and at once rising up he gave a menacing command, which is being fulfilled: </s>
+            <s xml:id="sent2274329">for her indeed the quick-eyed Achaeans with a swift ship are sending into Chrysa, </s>
+            <s xml:id="sent2274329a">and they carry gifts for the lord. </s>
+            <s xml:id="sent2274330">Now her the heralds marched, leading her from my hut- the daughter of Briseus, whom the sons of the Achaeans gave to me. </s>
+            <s xml:id="sent2274331">But if you really have the power, protect your noble child: </s>
+            <s xml:id="sent2274332">go to Olympus and pray to Zeus, if at any time anything either by word or even by deed you did to cheer his heart. </s>
+            <s xml:id="sent2274333">For often in the great rooms of my father I have heard you boasting, when you began declaring that for the black-clouded son of Cronos you alone among the immortals fought off shameful destruction, when the other Olympians started deciding to tie him up, both Hera and Poseidon and even Pallas Athena. </s>
+            <s xml:id="sent2274334">But you, the goddess coming to his rescue, released him out of his chains, swiftly summoning the hundred-handed man into high-up Olympus, he whom the gods call Briareus, while all the men call him Aegaeon, </s>
+            <s xml:id="sent2274334a">for he nevertheless is better than his father in terms of physical strength. </s>
+            <s xml:id="sent2274335">He began to sit down beside the son of Cronos, rejoicing in his might, </s>
+            <s xml:id="sent2274336">and before him they shrank in fear, the blessed gods, </s>
+            <s xml:id="sent2274336a">and they did not tie him up thereafter. </s>
+            <s xml:id="sent2274337">Now, reminding him of these things, sit beside him and take hold of his knees, so that he may be at all willing to bring aid upon the Trojans, and crowd in the Achaeans down on their ships’ decks, and even on both sides in the sea, as they are killed, so that they all may join in the fate of their king; and so that he may come to know, the son of Atreus, widely-ruling Agamemnon, the destructive consequences of his own blind actions, that he did not appropriately respect the most noble of the Achaeans.” </s>
+            <s xml:id="sent2274338">And Thetis, pouring down tears, then began to answer him: </s>
+            <s xml:id="sent2274339">“Oh my own child, why even now have I always nourished you, having born such dread things? </s>
+            <s xml:id="sent2274340">I wish that you, without tears and unharmed, were obliged to stay near the ships, as the life destined for you is very brief- not some especially long thing. </s>
+            <s xml:id="sent2274341">As it is, he who at the same time both dies early and is most miserable above all you have begun to become: </s>
+            <s xml:id="sent2274342">so it was for an evil destiny that I gave birth to you in the great rooms. </s>
+            <s xml:id="sent2274343">In order to tell this advice for you to Zeus, delighting in thunder, I myself will go before snow-covered Olympus so that he may be persuaded. </s>
+            <s xml:id="sent2274344">But you on the other hand must now stay next to the swift-sailing ships- keep clinging to your wrath against the Achaeans, </s>
+            <s xml:id="sent2274344a">and hold back entirely from battles. </s>
+            <s xml:id="sent2274345">For Zeus yesterday went down into Oceanus among the blameless Ethiopians, on account of a feast, </s>
+            <s xml:id="sent2274345a">and all the gods at the same time began to follow him- </s>
+            <s xml:id="sent2274346">but on your twelfth day he will come back to Olympus, </s>
+            <s xml:id="sent2274346a">and on that day then for you I will go towards the bronze-floored house of Zeus, </s>
+            <s xml:id="sent2274346b">and I will clasp his knees; </s>
+            <s xml:id="sent2274346c">and I believe that will persuade him.” </s>
+            <s xml:id="sent2274347">Having spoken thus she began to step away, </s>
+            <s xml:id="sent2274347a">leaving him then and there, filled with anger down his heart on account of the well-girdled woman, she whom they had begun to steal away from him, unwilling, by force. </s>
+            <s xml:id="sent2274348">Nevertheless, Odysseus began to arrive into Chrysa, leading a sacred sacrifice. </s>
+            <s xml:id="sent2274349">When they entered within the very deep harbor indeed they took in their sails and placed them into the black ship, </s>
+            <s xml:id="sent2274349a">and they approached, lowering the mast into the mast-holder with ropes quickly, </s>
+            <s xml:id="sent2274349b">and with oars they rowed her out into the anchoring-area. </s>
+            <s xml:id="sent2274350">And out they cast the anchors, </s>
+            <s xml:id="sent2274350a">as they tied them down the to the boat’s stern; </s>
+            <s xml:id="sent2274351">and out they themselves began to walk at the edge of the sea; </s>
+            <s xml:id="sent2274351a">and out they drove the sacrifice for the far-shooter Apollo; </s>
+            <s xml:id="sent2274352">and out of the sea-faring ship Chryseis walked. </s>
+            <s xml:id="sent2274353">Then indeed Odysseus, a man of many counsels, leading her up to the altar, began to put her in the beloved father’s arms, </s>
+            <s xml:id="sent2274353a">and he spoke to him: </s>
+            <s xml:id="sent2274354">“Oh Chryses, he sent me forth, the lord of men Agamemnon, both to lead the child to you and a sacred offering for Phoebus to perform for the sake of the Danaans, so that we may appease the lord, He who now brought grievous troubles to the Argives. </s>
+            <s xml:id="sent2274355">Saying thus, he continued to place her in his arms, </s>
+            <s xml:id="sent2274355a">and he, rejoicing, received the beloved child. </s>
+            <s xml:id="sent2274356">Quickly the sacred offering for that god they made stand in a row about the well-built altar; </s>
+            <s xml:id="sent2274356a">then they washed their hands with holy water, and lifted ground barley; </s>
+            <s xml:id="sent2274357">then among them Chryses, raising his hands, began to pray loudly: </s>
+            <s xml:id="sent2274358">“Listen to me, silver-bowed one, you who encircled Chrysa and sacred Cilla, and rules over Tenedos by force- </s>
+            <s xml:id="sent2274359">as surely once before you listened to me praying, </s>
+            <s xml:id="sent2274359a">and indeed you respected me appropriately- you greatly harmed the soldiers of the Achaeans-</s>
+            <s xml:id="sent2274360">also now fulfill this wish for me: </s>
+            <s xml:id="sent2274361">now keep away shameful destruction from the Danaans.” </s>
+            <s xml:id="sent2274362">He began to speak thus, praying, </s>
+            <s xml:id="sent2274362a">and Phoebus Apollo listened to him. </s>
+            <s xml:id="sent2274363">But after they prayed and cast forth the ground barley, they first pulled back the heads of the offerings, and then slaughtered them, and then flayed them. They cut away down the thighs and wrapped them in fat, making it double-folded, </s>
+            <s xml:id="sent2274363a">and they placed raw meat on top of the body itself. </s>
+            <s xml:id="sent2274364">The old man began to set them on fire on skewers, </s>
+            <s xml:id="sent2274364a">and also on them flashing wine he began to pour. </s>
+            <s xml:id="sent2274365">The young men next to him began to hold forks in their hands. </s>
+            <s xml:id="sent2274366">As soon as they burned down the thighs and ate the organs, they began to cut up the rest and pierced them with spits through both sides; they skillfully roasted them, then pulled off every piece from the spits. </s>
+            <s xml:id="sent2274367">Afterwards they left off from work and prepared a feast; they distributed the feast, and nor did any heart begin to want for anything from the equally-divided feast. </s>
+            <s xml:id="sent2274368">But after they dismissed their desire for drink and for food, the elite youths filled the mixing-bowls with wine, and they distributed this to all the men, after beginning with the drinking-cups [for the gods]. </s>
+            <s xml:id="sent2274369">Throughout the entire day the men continued to appease the god through song, the elite youths of the Achaeans singing the noble chants, celebrating with song the far-shooter: </s>
+            <s xml:id="sent2274370">he, listening, was delighted in his gut. </s>
+            <s xml:id="sent2274371">And when the sun sank and dusk came upon, then they lay down to sleep beside the stern-cables of the ship. </s>
+            <s xml:id="sent2274372">And when the early-born, rosy-fingered Eos was visible, then they began to sail forth towards the broad camp of the Achaeans. </s>
+            <s xml:id="sent2274373">For them he began to throw a favorable wind, the far-shooter Apollo: </s>
+            <s xml:id="sent2274374">they lifted up the mast and spread wide the white sails, </s>
+            <s xml:id="sent2274374a">and the center wind swelled the sails, </s>
+            <s xml:id="sent2274374b">and on both sides a wave, surging, began to resound on the front of the ship, going forth; </s>
+            <s xml:id="sent2274375">and that ship, gliding over its path, began to run down along the wave. </s>
+            <s xml:id="sent2274376">When they arrived at the broad camp of the Achaeans first they pulled the black ship onto land, far up upon the sandy shore, and then they laid out the long supports underneath. </s>
+            <s xml:id="sent2274377">The men themselves began to scatter down along the huts and ships. </s>
+            <s xml:id="sent2274378">Yet he continued to cling to his wrath, sitting beside his swift-sailing ships, the Zeus-born son of Peleus, swift-footed Achilles: </s>
+            <s xml:id="sent2274379">At no time did he begin to come and go in the glory-bringing assembly, nor into battles, </s>
+            <s xml:id="sent2274379a">but he began to pine away in his beloved heart, waiting right there- </s>
+            <s xml:id="sent2274379b">and he began to miss both battle-shouts and fighting. </s>
+            <s xml:id="sent2274380">But indeed thereafter when the twelfth dawn arose then surely the gods, existing always, began to come before Olympus all together, </s>
+            <s xml:id="sent2274380a">and Zeus was leading them: </s>
+            <s xml:id="sent2274381">Thetis was not forgetful of the demands of her own child, </s>
+            <s xml:id="sent2274381a">as instead she surfaced a wave of the sea. </s>
+            <s xml:id="sent2274382">With the early dawn she stepped up into the great heaven and Olympus. </s>
+            <s xml:id="sent2274383">She discovered the far-seeing son of Cronos sitting apart from the others, on the highest summit of many-peaked Olympus; </s>
+            <s xml:id="sent2274384">And so then she sat before Zeus himself, </s>
+            <s xml:id="sent2274384a">and she clasped his knees with her left hand, </s>
+            <s xml:id="sent2274384b">and with her right hand she gripped beneath his chin- supplicating, she addressed the lord Zeus, son of Cronos: </s>
+            <s xml:id="sent2274385">“Father Zeus, if at any time I among the immortals helped you, either through a speech or deed, fulfill this desire for me: </s>
+            <s xml:id="sent2274386">treat my son with the proper respect, he who is fated to have the shortest life out of all others- </s>
+            <s xml:id="sent2274387">now indeed to him the lord of men Agamemnon has not shown proper respect: </s>
+            <s xml:id="sent2274388">for he, having snatched and stolen his prize, holds it himself. </s>
+            <s xml:id="sent2274389">But you at any rate, reward him properly, all-wise Olympian Zeus: </s>
+            <s xml:id="sent2274390">for a while grant upon the Trojans superior strength, until the Achaeans appropriately reward my son and show him an increased position of respect.” </s>
+            <s xml:id="sent2274391">Thus she spoke, </s>
+            <s xml:id="sent2274392">and he did not begin to give her any answer, Zeus the cloud-summoner, </s>
+            <s xml:id="sent2274392a">but silently he remained seated for a long time. </s>
+            <s xml:id="sent2274393">But as Thetis retained her hold of his knees, thus she held on, planting herself, </s>
+            <s xml:id="sent2274393a">and she began to again petition him a second time: </s>
+            <s xml:id="sent2274394">“Swear a most faithful decree to me, and nod your head to approve this- or refuse, since fear does not exist within you, so that I may know well how greatly I am the most disrespected god among all.” </s>
+            <s xml:id="sent2274395">And, greatly moved by anger, he answered her, Zeus the cloud-summoner: </s>
+            <s xml:id="sent2274396">“Without a doubt these deeds are destructive, and you will push me towards conflicting with Hera when she torments me with abusive words. </s>
+            <s xml:id="sent2274397">And to be sure in this manner, among the immortal gods, with me always she quarrels, </s>
+            <s xml:id="sent2274397a">and she even claims that I support the Trojans in battle. </s>
+            <s xml:id="sent2274398">But you on one hand- go back now, lest she might become aware of anything, Hera; </s>
+            <s xml:id="sent2274399">and on the other hand this will be an interest for me until I accomplish it. </s>
+            <s xml:id="sent2274400">But come, I will nod my approval to you with my head so that you are persuaded: </s>
+            <s xml:id="sent2274401">for this from me is the greatest among the immortals, this signal- </s>
+            <s xml:id="sent2274402">for mine cannot be taken back, nor can it deceive, nor can it go unfulfilled, anything that I may nod my approval to with my head.” </s>
+            <s xml:id="sent2274403">He spoke, </s>
+            <s xml:id="sent2274403a">and surely, with his dark brows, he nodded, the son of Cronos. </s>
+            <s xml:id="sent2274404">And his divine hair flowed down from his lordly immortal head: </s>
+            <s xml:id="sent2274405">and he made great Olympus shake. </s>
+            <s xml:id="sent2274406">Then, having planned together thus, they separated. </s>
+            <s xml:id="sent2274407">On one hand, she accordingly lept into the deep sea, away from glittering Olympus, while on the other hand Zeus went forth to his own home. </s>
+            <s xml:id="sent2274408">And all the gods rose at once from their seats to meet their father; </s>
+            <s xml:id="sent2274409">not one of them had the courage to wait for his arrival, </s>
+            <s xml:id="sent2274409a">but they, greeting him, rose all together. </s>
+            <s xml:id="sent2274410">So there indeed he began to sit down onto his throne, </s>
+            <s xml:id="sent2274411">but Hera, seeing, was not unaware that she had met with him for the sake of her plans, silver-footed Thetis, the daughter of the old man of the sea. </s>
+            <s xml:id="sent2274412">At once with cutting words she began to address Zeus, the son of Cronos: </s>
+            <s xml:id="sent2274413">“Who of the gods made plans with you, devious one, this time? </s>
+            <s xml:id="sent2274414">Things being held far away from me are always beloved to you, as is judging secret matters- </s>
+            <s xml:id="sent2274415">and not yet to me have you dared to speak earnestly on any counsel that you may have in mind.” </s>
+            <s xml:id="sent2274416">Then he began to answer her, the father of both men and gods: </s>
+            <s xml:id="sent2274417">“Hera, do not hope to know all my commands: </s>
+            <s xml:id="sent2274418">they will be harsh for you, even as my wife. </s>
+            <s xml:id="sent2274419">But indeed whatever is fitting to hear- then not anyone, neither any of the gods will know it before you, nor any of the humans. </s>
+            <s xml:id="sent2274420">As for the counsel I would choose to think out far away from the gods, you do not interrogate me about every one, and do not investigate.” </s>
+            <s xml:id="sent2274421">Then she began to answer him, the ox-eyed revered Hera: </s>
+            <s xml:id="sent2274422">“Horrid son of Cronos, what sort of command was that which you said? </s>
+            <s xml:id="sent2274423">Previously indeed I have not questioned you constantly, nor do I investigate, </s>
+            <s xml:id="sent2274423a">but you, very much at-ease, plan these things however you should choose. </s>
+            <s xml:id="sent2274424">And now I fear horribly down through my gut that she may convince you, silver-footed Thetis, daughter of the old man of the sea: </s>
+            <s xml:id="sent2274425">for at dawn she sat beside you </s>
+            <s xml:id="sent2274425a">and took hold of your knees. </s>
+            <s xml:id="sent2274426">For her I think that you actually nodded your approval- that Achilles you would show respect to, and you would destroy many of the Achaeans by the ships.” </s>
+            <s xml:id="sent2274427">Answering her, cloud-summoner Zeus began to speak: </s>
+            <s xml:id="sent2274428">“Foolish/Possessed one, you always are spying, </s>
+            <s xml:id="sent2274428a">and never do I avoid your scrutiny: </s>
+            <s xml:id="sent2274429">all the same, you will not be able to bring about anything- </s>
+            <s xml:id="sent2274429a">but from my heart you will be much more distant, </s>
+            <s xml:id="sent2274430">and this will be even more horrible for you. </s>
+            <s xml:id="sent2274431">If this matter is in this way, it is destined to be beloved by me. </s>
+            <s xml:id="sent2274432">Sit quietly, </s>
+            <s xml:id="sent2274432a">and obey my command, or else all the many gods that are in Olympus may not now defend you from me, coming nearer, when I would let fly invincible hands against you.” </s>
+            <s xml:id="sent2274433">Thus he spoke, </s>
+            <s xml:id="sent2274433a">and she became afraid, the ox-eyed revered Hera- </s>
+            <s xml:id="sent2274433b">so she, silent, sat down, bending her beloved heart. </s>
+            <s xml:id="sent2274434">Throughout the house of Zeus the heavenly gods were moved with anger: </s>
+            <s xml:id="sent2274435">from them Hephaestus, celebrated for his skill, began to rise first to address the assembly conveying pleasing things for his beloved mother, white-armed Hera: </s>
+            <s xml:id="sent2274436">Without a doubt these deeds will be destructive, and they will not be tolerable if you two indeed quarrel in this way because of mortals and drive conflict among the gods- </s>
+            <s xml:id="sent2274437">nor will there be any enjoyment of this good feast, since worse matters win. </s>
+            <s xml:id="sent2274438">I for my part advise my mother, however sensible herself, to convey pleasing things to my beloved father Zeus, so that my father would not again quarrel and disturb the feast, breaking us up. </s>
+            <s xml:id="sent2274439">For what if the Olympian of lightning should choose to strike us down from our seats- </s>
+            <s xml:id="sent2274440">as he is the best by far. </s>
+            <s xml:id="sent2274441">But when you intend to clothe him with soft words to your benefit (middle infinitive), </s>
+            <s xml:id="sent2274442">immediately afterwards the Olympian will be gracious to us.” </s>
+            <s xml:id="sent2274443">He was speaking thus, </s>
+            <s xml:id="sent2274443a">and, leaping up, he began to place a double-cupped chalice in his beloved mother’s hand, </s>
+            <s xml:id="sent2274443b">and he spoke to her: </s>
+            <s xml:id="sent2274444">“Endure/Take courage, my mother, </s>
+            <s xml:id="sent2274444a">and hold yourself up, however concerned, lest you, however beloved you are in my eyes, I may see being struck down; </s>
+            <s xml:id="sent2274444b">and then I will not be able, though grieving, to defend you against anything- </s>
+            <s xml:id="sent2274445">for the Olympian is painful to fight against. </s>
+            <s xml:id="sent2274446">Already indeed during a different time attempting to defend you, he flung me, having seized my foot, down from the divine threshold: </s>
+            <s xml:id="sent2274446a">and throughout the entire day I was swept onward. </s>
+            <s xml:id="sent2274446b">Along with the setting sun I fell upon Lemnos, </s>
+            <s xml:id="sent2274446c">and yet my feeble spirit continued to hold on. </s>
+            <s xml:id="sent2274447">There the Sintian pirate-men took care of me, fallen, straight away.” </s>
+            <s xml:id="sent2274448">Thus he spoke, </s>
+            <s xml:id="sent2274448a">and the white-armed goddess Hera smiled, </s>
+            <s xml:id="sent2274448b">and, smiling, she accepted from her child the cup in hand. </s>
+            <s xml:id="sent2274449">So then for all the other gods, he, starting with the left and moving to the right, began to pour out wine, drawing sweet nectar out of the mixing-bowl; </s>
+            <s xml:id="sent2274450">Laughter too loud to be drowned out arose among the blessed gods, as they watched Hephaestus bustling about the house. </s>
+            <s xml:id="sent2274451">Then in this manner all day, until the sun set, they were feasting; </s>
+            <s xml:id="sent2274451a">neither did they begin to lack anything of the equally-divided feast, nor indeed the beautiful lyre, which Apollo held throughout, nor the Muses: they sang, answering with a beautiful voice. </s>
+            <s xml:id="sent2274452">However, after the shining light of the sun sank down, they each went to their home in order to lie down, where for each the widely-renowned and crippled in both feet Hephaestus had made a house, with his all-knowing guts. </s>
+            <s xml:id="sent2274453">And Olympian Zeus, god of lightning, began to go towards his bed- </s>
+            <s xml:id="sent2274453a">there formerly he would lie down to sleep, when sweet sleep might come to him- </s>
+            <s xml:id="sent2274454">there he, having ascended, began to lie down to sleep, </s>
+            <s xml:id="sent2274454a">and at his side was golden-throned Hera. </s>
+        </p>
+        </div>
+        </body>
+    </text>
+</TEI>
