@@ -9,35 +9,25 @@
                 <author>Homer</author>
                 <sponsor>Perseus Project, Tufts University</sponsor>
                 <principal>Gregory Crane</principal>
-                <respStmt>
-                    <resp>Prepared under the supervision of</resp>
-                    <name>Lisa Cerrato</name>
-                    <name>William Merrill</name>
-                    <name>Elli Mylonas</name>
-                    <name>David Smith</name>
-                </respStmt>
-                <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
+                 <funder n="org:AnnCPB">The Annenberg CPB/Project</funder>
             </titleStmt>
-            <extent>about 529Kb</extent>
+            <extent></extent>
             <publicationStmt>
                 <publisher>Trustees of Tufts University</publisher>
                 <pubPlace>Medford, MA</pubPlace>
                 <authority>Perseus Project</authority>
             </publicationStmt>
             <notesStmt>
-                <note anchored="true">Text scanned at U. Chicago in 1989. Basic SGML tagging by
-                    Lauren Burka and Chiara Thayer.</note>
+                <note anchored="true">Based on the Allen edition. </note>
             </notesStmt>
             <sourceDesc>
                 <biblStruct>
                     <monogr>
                         <author>Homer</author>
-                        <title>The Iliad with an English Translation by A.T. Murray, Ph.D. in two
-                            volumes.</title>
+                        <title>Towards a grammatically literal translation of the Iliad, starting with Iliad 1.  </title>
                         <imprint>
-                            <publisher>Cambridge, MA., Harvard University Press; London, William
-                                Heinemann, Ltd.</publisher>
-                            <date>1924</date>
+                            <publisher>Perseus Digital Library</publisher>
+                            <date>2020</date>
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -66,13 +56,7 @@
             </langUsage>
         </profileDesc>
         <revisionDesc>
-            <change when="19901001" who="Nancy Sultan">Put in card breaks.</change>
-            <change when="19910301" who="Chiara Thayer">Proofread text</change>
-            <change when="19910801" who="EM">Revise DTDs and recheck texts.</change>
-            <change when="19951001" who="Lisa Cerrato">Fixed typo in 1.150 cam to came.</change>
-            <change when="19990201" who="Lisa Cerrato">Fixed three typos reported to
-                webmaster.</change>
-            <change when="20151216" who="Bridget Almas">Converted to EpiDoc.</change>
+            <change when="20200806" who="Gregory Crane">Bella Hwang wrote the script to convert the plain text version that Amelia Parrish is editing in Google Docs.</change>
         </revisionDesc>
     </teiHeader>
     <text>
