@@ -15,6 +15,7 @@ from greek_accentuation.accentuation import *
 missedstemtypes = {}
 paradlist = {}
 
+sawkeys = {}
 infact = {}
 infmp = {}
 vocsg = {}
@@ -89,6 +90,7 @@ def addunit(s,l):
   else:
    l[s] = 1
 
+lexfile = "../Wolf1807/grcwork/tlg0557-tbankplus.txt"
 lexfile = "tlg0012-tbankplus.txt"
 with open(lexfile) as f:
   for line in f:
@@ -219,28 +221,28 @@ with open(lexfile) as f:
       
 f.close()
   
-def printpnum(stemtype,tensemoodvoice,pnum,label):
+def printpnum(stemtype,tensemoodvoice,pnum,persnum,label):
    sawit = 0
    for foo in dict(sorted(pnum.items(), key=operator.itemgetter(1),reverse=True)):
     p = foo.split('\t')
     if( p[2] == stemtype and re.search(tensemoodvoice,foo)):
-     print(foo,pnum[foo])
+     print(foo,pnum[foo],label)
      sawit = 1
    if( sawit): print()
 
 def printtensemoodvoice(stemtype,tensemoodvoice,label):
   paradlist['v'+'@' + stemtype + '@' + tensemoodvoice + '@' + label] = 1
-  printpnum(stemtype,tensemoodvoice,sg1,"1st sg")
-  printpnum(stemtype,tensemoodvoice,sg2,"2nd sg")
-  printpnum(stemtype,tensemoodvoice,sg3,"3rd sg")
+  printpnum(stemtype,tensemoodvoice,sg1,"1st sg",label)
+  printpnum(stemtype,tensemoodvoice,sg2,"2nd sg",label)
+  printpnum(stemtype,tensemoodvoice,sg3,"3rd sg",label)
 
-  printpnum(stemtype,tensemoodvoice,du1,"1st du")
-  printpnum(stemtype,tensemoodvoice,du2,"2nd du")
-  printpnum(stemtype,tensemoodvoice,du3,"3rd du")
+  printpnum(stemtype,tensemoodvoice,du1,"1st du",label)
+  printpnum(stemtype,tensemoodvoice,du2,"2nd du",label)
+  printpnum(stemtype,tensemoodvoice,du3,"3rd du",label)
     
-  printpnum(stemtype,tensemoodvoice,pl1,"1st pl")
-  printpnum(stemtype,tensemoodvoice,pl2,"2nd pl")
-  printpnum(stemtype,tensemoodvoice,pl3,"3rd pl")
+  printpnum(stemtype,tensemoodvoice,pl1,"1st pl",label)
+  printpnum(stemtype,tensemoodvoice,pl2,"2nd pl",label)
+  printpnum(stemtype,tensemoodvoice,pl3,"3rd pl",label)
 
 
 def showverbs(stemtype,tensemoodvoice,label):
@@ -277,7 +279,7 @@ def showverbs(stemtype,tensemoodvoice,label):
     #print("verbkey",label,cit,sentids[curkey],cit,verbals[curkey],verbalcounts[verbals[curkey]])
     
     
-def printnumcase(stemtype,nparad,ncase,label):
+def printnumcase(stemtype,nparad,ncase,numcase,label):
    sawit = 0
    if( nparad == '' ):
      nparad = '[^cs]$'
@@ -289,30 +291,30 @@ def printnumcase(stemtype,nparad,ncase,label):
     #if( re.search(stemtype,foo)):
     if( stemtype == p[2]):
      p = foo.split('\t')
-     #print(p[4],label,p[3],p[0],ncase[foo])
-     print(foo,ncase[foo])
+     #print(p[4],numcase,p[3],p[0],ncase[foo],label)
+     print(foo,ncase[foo],label)
      sawit = 1
    if( sawit): print()
 
 def nounparad(stemtype,nparad,label):
    paradlist['n'+'@' + stemtype + '@' + nparad + '@' + label] = 1
-   printnumcase(stemtype,nparad,vocsg,"voc sg")
-   printnumcase(stemtype,nparad,nomsg,"nom sg")
-   printnumcase(stemtype,nparad,gensg,"gen sg")
-   printnumcase(stemtype,nparad,datsg,"dat sg")
-   printnumcase(stemtype,nparad,accsg,"acc sg")
+   printnumcase(stemtype,nparad,vocsg,"voc sg",label)
+   printnumcase(stemtype,nparad,nomsg,"nom sg",label)
+   printnumcase(stemtype,nparad,gensg,"gen sg",label)
+   printnumcase(stemtype,nparad,datsg,"dat sg",label)
+   printnumcase(stemtype,nparad,accsg,"acc sg",label)
 
-   printnumcase(stemtype,nparad,vocd,"voc du")
-   printnumcase(stemtype,nparad,nomd,"nom du")
-   printnumcase(stemtype,nparad,gend,"gen du")
-   printnumcase(stemtype,nparad,datd,"dat du")
-   printnumcase(stemtype,nparad,accd,"acc du")
+   printnumcase(stemtype,nparad,vocd,"voc du",label)
+   printnumcase(stemtype,nparad,nomd,"nom du",label)
+   printnumcase(stemtype,nparad,gend,"gen du",label)
+   printnumcase(stemtype,nparad,datd,"dat du",label)
+   printnumcase(stemtype,nparad,accd,"acc du",label)
 
-   printnumcase(stemtype,nparad,vocpl,"voc pl")
-   printnumcase(stemtype,nparad,nompl,"nom pl")
-   printnumcase(stemtype,nparad,genpl,"gen pl")
-   printnumcase(stemtype,nparad,datpl,"dat pl")
-   printnumcase(stemtype,nparad,accpl,"acc pl")
+   printnumcase(stemtype,nparad,vocpl,"voc pl",label)
+   printnumcase(stemtype,nparad,nompl,"nom pl",label)
+   printnumcase(stemtype,nparad,genpl,"gen pl",label)
+   printnumcase(stemtype,nparad,datpl,"dat pl",label)
+   printnumcase(stemtype,nparad,accpl,"acc pl",label)
 
 
 def pickforms():
@@ -348,15 +350,21 @@ def checkform(curkey):
   addunit(stemtype,missedstemtypes)
   print("nomatch",pmatch[0],str(homerlems[lemmas[curkey]]),str(illems[lemmas[curkey]]),str(odlems[lemmas[curkey]]),ilfreq[lemmas[curkey]],odfreq[lemmas[curkey]],savelines[curkey])
 
+
 def filterforms():
    for curkey in tokens:
-     #print("line",savelines[curkey])
+     print("line",savelines[curkey])
+     if( wordids[curkey] in sawkeys):
+       continue
+     else:
+       print("keep going")
+     sawkeys[wordids[curkey]] = 1
      checkform(curkey)
 
 
 
 def pharr03():
-  nounparad("h_hs",'',"pharr04")
+  nounparad("h_hs",'',"pharr03")
 
 def pharr04():
   nounparad("a_hs",'',"pharr04")
