@@ -1,0 +1,800 @@
+﻿[A.T. Murray edit]
+Iliad, Book 1 translation
+ https://raw.githubusercontent.com/gregorycrane/gAGDT/master/data/xml/tlg0012.tlg001.perseus-grc1.tb.xml
+
+
+1.     2274106 Sing[ἄειδε], goddess[θεὰ], the[0] godlike wrath[μῆνιν] of Achilles[Ἀχιλῆος], son of Peleus[Πηληϊάδεω],
+2.     that[0] sociopathic[οὐλομένην] wrath[0] 2274106a that[ἣ] caused[ἔθηκε] countless[μυρί'] pains[ἄλγε'] for the[0] Achaeans[Ἀχαιοῖς]
+3.     2274106b and[δ'] hurled[προΐαψεν] to Hades[Ἄϊδι] many[πολλὰς] precious[ἰφθίμους] lives[ψυχὰς]
+4.     of warriors[ἡρώων], 2274106c and[δὲ] began to make[τεῦχε] their[0] bodies[αὐτοὺς] into picked-over scraps[a][b][ἑλώρια] for dogs[κύνεσσιν]
+5.     and[τε] for birds[οἰωνοῖσί], all of them[πᾶσι]; 2274106d and[δ'] the[0] plan[βουλή] of Zeus[Διὸς] began to be fulfilled[ἐτελείετο],
+6.     2274106e from[ἐξ] the[0] point where[οὗ][δὴ][c] first[τὰ[d] πρῶτα], having both begun a conflict[ἐρίσαντε], the[0] two of them faced off[διαστήτην], 
+7.     the[0] son of Atreus[Ἀτρεΐδης], lord[ἄναξ] of men[ἀνδρῶν], and[καὶ] god-like[δῖος] Achilles[Ἀχιλλεύς].
+8.     2274107 Who[τίς] [τ' ἄρ] of the[0] gods[θεῶν] threw together[ξυνέηκε] the[0] two of them[σφωε] to fight[μάχεσθαι] in conflict[ἔριδι]?
+9.    2274108  The[0] son[υἱός] of Leto[Λητοῦς] and[καὶ] of Zeus[Διὸς]: 2274109 for[γὰρ] he[ὃ], filled with anger[χολωθεὶς] at the[0] king[βασιλῆϊ],
+10.   sent[ὄρσε] an evil[κακήν] sickness[νοῦσον] up through[ἀνὰ] the[0] camp[στρατὸν]. 2274109a[δὲ] The[0] soldiers[λαοί] began to be killed[ὀλέκοντο],
+11.  because[οὕνεκα] he[0] did not show the[0] appropriate respect[ἠτίμασεν] to that man[τὸν] Chryses[Χρύσην], the[0] one who talks with a god[ἀρητῆρα],
+12.  he[0], the[0] son of Atreus[e][Ἀτρεΐδης]: 2274110 for[γὰρ] [f]that man[ὃ], Chryses[0], came[ἦλθε] to[ἐπὶ] the[0] swift[θοὰς] ships[νῆας] of[Ἀχαιῶν] the[0] Achaeans[Ἀχαιῶν]
+13.  in order to free[g][h][i][λυσόμενός] [τε] his[0] daughter[θύγατρα] and  [τ'] bearing[φέρων] boundless[ἀπερείσι] ransom[ἄποινα],
+14.  holding[ἔχων] the[0] wreaths[στέμματ'] of the[0] far-shooter[ἑκηβόλου] Apollo[Ἀπόλλωνος] in[ἐν] his[0] hands[χερσὶν]
+15.  aloft[ἀνὰ] on his[0] golden[χρυσέῳ] staff[σκήπτρῳ], 2274110a and[καὶ] he[0] began to plead with [λίσσετο] all[πάντας] the[0] Achaeans[Ἀχαιούς],
+16.  and[δὲ] especially[μάλιστα] with the[0] two[δύω] sons of Atreus[Ἀτρεΐδα], the organizers[κοσμήτορε] of the[0] soldiers[λαῶν]:
+17.  2274111 “Sons of Atreus[Ἀτρεΐδαι] and[τε] also[καὶ] all[ἄλλοι] the[0] well-greaved[ἐϋκνήμιδες] Achaeans[Ἀχαιοί],
+18.  on the one hand[μὲν] I[0] wish[δοῖεν] that[0] the[0] gods[θεοὶ], having[ἔχοντες] Olympian[Ὀλύμπια] homes[δώματ'], grant[δοῖεν] for you[ὑμῖν]
+19.  to sack[ἐκπέρσαι] utterly[ἐκπέρσαι] the[0] city[πόλιν] of Priam[Πριάμοιο], and[δ'] to return[ἱκέσθαι] home[οἴκαδ'] safely[εὖ];
+20. 2274112  but[δ'] for me[ἐμοὶ] free[λύσαιτε] my[0] beloved[φίλην] child[παῖδα], and[δ'] accept[δέχεσθαι] this[τὰ] ransom[ἄποινα],
+21.  showing respect[ἁζόμενοι] for the[0] son[υἱὸν] of Zeus[Διὸς], the[0] far-shooter[ἑκηβόλον] Apollo[Ἀπόλλωνα].”
+22.  2274113 Then[ἔνθ'] indeed[μὲν] all[πάντες] the[0] Achaeans[Ἀχαιοὶ] responded approvingly[ἐπευφήμησαν],
+23.  both[θ'] to show respect for[αἰδεῖσθαί] the[0] priest[ἱερῆα] and[καὶ] to accept[δέχθαι] the[0] shining[ἀγλαὰ] ransom[ἄποινα];
+24. 2274114 Instead[ἀλλ'], this[0] was not[οὐκ] sweet[ἥνδανε] to the[0] son of Atreus[Ἀτρεΐδῃ], Agamemnon[Ἀγαμέμνονι], in his[0] heart[θυμῷ],
+25.  2274114a In fact,[ἀλλὰ] he[0] dismissed[ἀφίει] him[0] cruelly[κακῶς]. 2274114b [δ'] He began to impose upon[ἔτελλε ἐπὶ] him[0] a[0] harsh[κρατερὸν] command[μῦθον]: 
+26.  2274115 “May I[ἐγὼ] not[μή] come upon[κιχείω] you[σε], old man[γέρον], near[παρὰ] the[0] hollow[κοίλῃσιν] ships[νηυσὶ],
+27.  either[ἢ] taking too long[δηθύνοντ'] now[νῦν] or[ἢ] returning[ἰόντα] back[αὖτις] later[ὕστερον],
+28.  lest[μή] even[0] now[νύ] the[0] staff[σκῆπτρον] and[καὶ] wreaths[στέμμα] of the[0] god[θεοῖο] may not[οὐ] protect[χραίσμῃ] you[τοι]-
+29.  2274116 her[τὴν] [δ'] I[ἐγὼ] will not[οὐ] free[λύσω], 2274117 until[πρίν] old age[γῆρας] comes upon[ἔπεισιν] her[μιν] [καὶ]
+30.  in[ἐνὶ] my[ἡμετέρῳ] house[οἴκῳ] in[ἐν] Argos[Ἄργεϊ], far[τηλόθι] from her[0] fatherland[πάτρης],
+31.  working[ἐποιχομένην] the[0] loom[ἱστὸν] and[καὶ] serving[ἀντιόωσαν] my[ἐμὸν] bed[λέχος].
+32.  2274118 But[ἀλλ'] go[ἴθι], 2274118a do not[μή] provoke[ἐρέθιζε] me[μ'] thus[ὥς] so that[κε] you[0] might return[νέηαι] more safely[σαώτερος].”
+33.  2274119 So[ὣς] he[0] spoke[ἔφατ'], 2274119a and[δ'] the[ὃ] old man[γέρων] became scared[ἔδεισεν], 2274119b and[καὶ] began to obey[ἐπείθετο] his[0] command[μύθῳ]:
+34. 2274120 he[0] walked[βῆ] [δ'] in silence[ἀκέων] to[παρὰ] the[0] shore[θῖνα] of the[0] loudly-roaring[πολυφλοίσβοιο] sea[θαλάσσης], 
+35.  2274121 and[δ'] after[ἔπειτ'], going[κιὼν] far away[ἀπάνευθε], that[ὃ] old man[γεραιὸς] began to pray[ἠρᾶθ'] 
+36.  to the[0] lord[ἄνακτι] Apollo[Ἀπόλλωνι], he[0] whom[τὸν] light-haired[ἠΰκομος] Leto[Λητώ] bore[τέκε]:
+37.  2274122 “Listen[κλῦθί] to me[μευ], silver-bowed[ἀργυρότοξ'] one[0], you[0] who[ὃς] stands guard over[ἀμφιβέβηκας] Chrysa[Χρύσην]
+38.  and[τε] sacred[ζαθέην] Cilla[Κίλλάν], and[τε2] you are lord of[ἀνάσσεις]  Tenedos[Τενέδοιό] by force[ἶφι],
+39. 2274122a Smintheus[j][Σμινθεῦ], if[εἴ] at some time[ποτέ] I[0] ever[0] roofed[ἔρεψα] over[ἐπὶ] a[0] shrine[νηὸν] pleasing[χαρίεντ'] to you[τοι],
+40.  or[ἢ] if[εἰ] [δή] at some time[ποτέ] I[0] completely[κατὰ] burned[ἔκηα] fat[πίονα] thigh-bones[μηρί] for you[τοι],
+41.  of bulls[ταύρων] and[ἠδ'] of goats[αἰγῶν], fulfill[κρήηνον] this[τὸ] [δέ] desire[ἐέλδωρ] for me[μοι]:
+42.  2274123 may[τίσειαν] the[0] Danaans[Δαναοὶ] show respect[τίσειαν] for my[ἐμὰ] tears[δάκρυα] to your[σοῖσι] arrows[βέλεσσιν].”
+43.  2274124 So[ὣς] he[0] spoke[ἔφατ'] in his prayer[εὐχόμενος]. 2274124a Phoebus[Φοῖβος] Apollo[Ἀπόλλων] began to listen[ἔκλυε] to him[τοῦ] [δ']:
+44.  2274124b seething with anger[χωόμενος] within[0] his[0] heart[κῆρ], he[0] went[βῆ] [δὲ] down[κατ'] from the[0] top[καρήνων] of Olympus[Οὐλύμποιο],
+45. carrying[ἔχων] a[0] bow[τόξ'], arrows[τόξ'], and[τε] a[0] covered[ἀμφηρεφέα] quiver[φαρέτρην] on his[0] shoulders[ὤμοισιν].
+46.  2274125 The[0] arrows[ὀϊστοὶ] rattled noisily[ἔκλαγξαν] [δ' ἄρ'] on[ἐπ'] the[0] shoulders[ὤμων] of him[0] in his settled [k]fury[χωομένοιο], 
+47.  once[κινηθέντος] he[0] himself[l][αὐτοῦ] moved[κινηθέντος]: 2274126 he[ὃ] [δ'] went[ἤϊε] like[ἐοικώς] the[0] night[νυκτὶ].
+48.  2274127 Then[ἔπειτ'] he[0] began to sit[ἕζετ'] far away[ἀπάνευθε] from the[0] ships[νεῶν], 2274127a and[δ'] he[0] fired[ἕηκε] an[0] arrow[ἰὸν] in their[0] midst[m][μετὰ]-
+49.  2274128 and[δὲ] terrifying[δεινὴ] was[γένετ'] the[0] rattle[κλαγγὴ] from the[0] silver[ἀργυρέοιο] bow[βιοῖο].
+50.  2274129 First[πρῶτον] he[0] began to go after[ἐπῴχετο] the[0] mules[οὐρῆας] and[καὶ] the[0] swift[ἀργούς] dogs[κύνας],
+51.  2274129a but[αὐτὰρ] then[ἔπειτ'], shooting[ἐφιεὶς] a[0] sharp[ἐχεπευκὲς] arrow[βέλος] against[0] the Greeks[0] themselves[n][αὐτοῖσι] 
+52.  he[0] began to strike[βάλλ']- 2274130 and[δὲ] the[0] crowded[θαμειαί] pyres[πυραὶ] of the[0] corpses[νεκύων] began to burn[καίοντο] without stopping[αἰεὶ].
+53.  2274131 For nine days[ἐννῆμαρ] [μὲν] the[0] arrows[κῆλα] of the[0] god[θεοῖο] kept moving[ᾤχετο] up through[ἀνὰ] the[0] camp[στρατὸν],
+54.  2274131a but[δ'] on the[τῇ] tenth[δεκάτῃ] day[0] Achilles[Ἀχιλλεύς] ordered[o][καλέσσατο] the[0] soldiers[λαὸν] to an[0] assembly[ἀγορὴν] [δὲ],
+55.  2274132 since[γὰρ] for him[τῷ] the[0] white-armed[λευκώλενος] goddess[θεὰ] Hera[Ἥρη] placed[θῆκε] this[0] within[ἐπὶ] his[0] mind[φρεσὶ]:
+56.  2274133 for[γὰρ] she[0] began to feel concerned[p][q][κήδετο] for the[0] Danaans[Δαναῶν], because[ὅτι] [ῥα] she[0] herself kept seeing[ὁρᾶτο] them die[r][θνήσκοντας].
+57. 2274134 After[ἐπεὶ] they[οἳ] [δ'] were[γένοντο] assembled[ὁμηγερέες] and[τε] therefore[οὖν] gathered together[ἤγερθεν], 
+58.  swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς] rose up[ἀνιστάμενος] and[0] spoke among[μετέφη] them[τοῖσι] [δ']:
+59. 2274135 “Son of Atreus[Ἀτρεΐδη], now[νῦν] I[0] believe[ὀΐω] that[0] we[ἄμμε], driven back[παλιμπλαγχθέντας] from the city[0],
+60.   must go back to our homes[ἀπονοστήσειν] again[ἂψ]- if[εἴ] death[θάνατόν], in fact[γε], we[0] may flee[κεν φύγοιμεν]-
+61.  if[εἰ] indeed[δὴ] war[πόλεμός] and[τε] plague[λοιμὸς] together[ὁμοῦ] will conquer[s][δαμᾷ] the[0] Achaeans[Ἀχαιούς].
+62.  2274136 Instead[ἀλλ'], come[ἄγε]- [δή] let us[0] ask[ἐρείομεν] either[ἢ] some[τινα] seer[μάντιν] or[ἢ] s[t]acrifice-conductor[ἱερῆα],
+63.  or even[καὶ] a[0] dream-interpreter[ὀνειροπόλον], for[γάρ] [τ'] a[0] dream[ὄναρ] is[ἐστιν] also[καὶ] from[ἐκ] Zeus[Διός].
+64.  He[ὅς] may say[κ εἴποι] why[ὅ τι] Phoebus[Φοῖβος] Apollo[Ἀπόλλων] became so greatly[τόσσον] angry[ἐχώσατο];
+65.  whether[εἴτ'] [ἄρ'] he[ὅ] reproaches[ἐπιμέμφεται] us[0] on account of a[0] vow[εὐχωλῆς] or[ἠδ'] an[0] offering[ἑκατόμβης],
+66.  or if[αἴ] he[0] were to encounter[u][κέν ἀντιάσας] by any means[πως] the[0] rich aroma[κνίσης] of fully-grown[v][τελείων] sheep[ἀρνῶν] or[τε] goats[αἰγῶν],
+67.  he[0] may be willing[βούλεται] to avert[ἀμῦναι] destruction[λοιγὸν] from[ἀπὸ] us[ἡμῖν].”
+68.  2274137 [ἤτοι] Having spoken[εἰπὼν] thus[ὣς], he[ὅ] sat[ἕζετο] down[κατ']: 2274138 [δ'] among[w] them[τοῖσι] rose[ἀνέστη]
+69.  Calchas[Κάλχας], son of Thestor[Θεστορίδης], best[ἄριστος] by far[ὄχ'] of all[0] the[0] bird-interpreters[οἰωνοπόλων],
+70.  who[ὃς] knows[ᾔδη] what[τά] is[ἐόντα], and[τ'] what[0] will be[ἐσσόμενα], and[τ'] what[0] was[ἐόντα] before[πρό],[x]
+71.  and[καὶ] he[0] who[0] had led[ἡγήσατ'] the[0] ships[νήεσσ'] of the[0] Achaeans[Ἀχαιῶν] into[εἴσω] Troy[Ἴλιον]
+72.  through[διὰ] his own[ἣν] gift of foresight[μαντοσύνην], which[τήν] Phoebus[Φοῖβος] Apollo[Ἀπόλλων] personally handed[y][πόρε] to him[οἱ].
+73.  2274139 He[ὅ], well-disposed[ἐὺ φρονέων], addressed the assembly[ἀγορήσατο], and[καὶ] spoke among[μετέειπεν] them[σφιν]:
+74.[z]  2274140 “Oh[ὦ] Achilles[Ἀχιλεῦ], beloved[φίλε] of Zeus[Διῒ], you[0] order[κέλεαί] me[με] to explain[μυθήσασθαι]
+75.  the[0] wrath[μῆνιν] of Apollo[Ἀπόλλωνος], the[0] lord[ἄνακτος] far-shooter[ἑκατηβελέταο]:
+76.  2274141 therefore[τοὶ γὰρ] I[ἐγὼν] will speak[ἐρέω]: 2274142 but[δὲ] you[σὺ] take this in yourself[aa][σύνθεο] 2274142a and[καί] swear[ὄμοσσον] to me[μοι]
+77.  most decidedly[ἦ μέν] that[0] without hesitation[πρόφρων] you[0] will help[ἀρήξειν] me[μοι] by word[ἔπεσιν] and[καὶ] by hand[χερσὶν].
+78.  2274143 For[γὰρ] I[0] very much[ἦ] believe[ὀΐομαι] that[0] I[0] will anger[χολωσέμεν] a[0] man[ἄνδρα], he[0] who[ὃς] greatly[μέγα] 
+79.  holds power over[κρατέει] all[πάντων] the[0] Argives[Ἀργείων], and[καί] whom[οἱ] the[0] Achaeans[Ἀχαιοί] obey[πείθονται]:
+80. 2274144 for[γὰρ] the[0] king[βασιλεὺς] has more power[κρείσσων], whenever[ὅτε] he[0] is angry[χώσεται] at an[0] inferior[χέρηϊ] man[ἀνδρὶ].
+81.  2274145 For[γάρ] [τε] even[περ] if[εἴ] he[0] will choke down[καταπέψῃ] his[0] anger[χόλον] [γε] [καὶ] the[0] same day[αὐτῆμαρ],
+82.  afterwards[μετόπισθεν] instead[ἀλλά] [τε] [καὶ] he[0] holds[ἔχει] the[0] grudge[κότον], until[ὄφρα] he[0] can fulfill[τελέσσῃ] it[0],
+83.  in[ἐν] his[ἑοῖσι] chest[στήθεσσιν]: 2274146 but[δὲ] you[σὺ] prove yourself[φράσαι], if[εἴ] you[0] will keep me[με] safe[σαώσεις].”
+84.  2274147 And[δ'] swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς], answering[ἀπαμειβόμενος], addressed[προσέφη] him[τὸν]:
+85.  2274148 “Feel complete[μάλα] confidence[θαρσήσας], and[0] speak[εἰπὲ] the[0] god’s message[θεοπρόπιον], whatever[τι] it[ὅ] is[0] you[0] know[οἶσθα]:
+86.  2274149 for[γὰρ] I[0] pledge by[οὐ μὰ] Apollo[Ἀπόλλωνα], beloved[φίλον] of Zeus[Διῒ], and[τε] to whom[ᾧ] you[σὺ], Calchas[Κάλχαν],
+87.  speaking with authority[εὐχόμενος], reveal[ἀναφαίνεις] the[0] god’s messages[θεοπροπίας] for the[0] Danaans[Δαναοῖσι]-
+88.  no[οὔ] one[τις], with[0] me[ἐμεῦ] living[ζῶντος] and[καὶ] beholding[δερκομένοιο] on[ἐπὶ] this[0] earth[χθονὶ], 
+89.  will lay against[ἐποίσει] you[σοὶ] heavy[βαρείας] hands[χεῖρας] near[παρὰ] the[0] hollow[κοίλῃς] ships[νηυσί]-
+90.   not[0] any[0] of all[συμπάντων] the[0] Danaans[Δαναῶν] together[συμπάντων], not even[οὐ
+δ'] if[ἢν] you[0] may speak[εἴπῃς] about Agamemnon[Ἀγαμέμνονα],
+91.  he[0] who[ὃς] boasts[εὔχεται] often[πολλὸν] to be[εἶναι] the[0] best[ἄριστος] of the[0] Achaeans[Ἀχαιῶν].”
+92.  2274150 [καὶ] Then[τότε] [δὴ] he[0] found confidence[θάρσησε] 2274150a and[καὶ] he[0] spoke[ηὔδα], the[0] blameless[ἀμύμων] prophet[μάντις]:
+93.  2274151 “[ἄρ] Indeed[γ'] he[ὅ] finds fault[ἐπιμέμφεται] neither[οὔ τ'] with a[0] vow[εὐχωλῆς] nor[οὐ δ'] an[0] offering[ἑκατόμβης], 
+94.  but[ἀλλ'] on behalf of[ἕνεκ'] the man[0] who talks to the god[ἀρητῆρος]- to him[ὃν] Agamemnon[Ἀγαμέμνων] showed disrespect[ἠτίμησ']:
+95.  2274151a he[0] did not[οὐ] [δ'] free[ἀπέλυσε] his[0] daughter[θύγατρα], nor[καὶ οὐκ] did he[0] accept[ἀπεδέξατ'] the[0] ransom[ἄποινα]-
+96. 2274151b  indeed[ἄρ'] on account of this[τοὔνεκ'] the[0] far-shooter[ἑκηβόλος] gave[ἔδωκεν] sufferings[ἄλγε'] and[ἠδ'] will continue to give[δώσει] still[ἔτι].
+97.  2274152 He[ὅ] certainly[γε] will not[οὐ] [δ'] first[πρὶν] drive off[ἀπώσει] shameful[ἀεικέα] destruction[λοιγὸν] for the[0] Danaans[Δαναοῖσιν], 
+98.  until[πρίν] you[0] give[δόμεναι] back[ἀπὸ] the[0] bright-eyed[ἑλικώπιδα] girl[κούρην] to her[0] beloved[φίλῳ] father[πατρὶ]
+99.  without a price[ἀπριάτην], un-ransomed[ἀνάποινον], and[θ'] lead[ἄγειν] a[0] holy[ἱερὴν] offering[ἑκατόμβην]
+100.     into[ἐς] Chrysa[Χρύσην]: 2274153 then[τότε] we[0], having appeased[ἱλασσάμενοι] him[μιν], might cause a change of heart[πεπίθοιμεν].”
+101. 2274154 Then[ἤτοι] certainly[γ'] he[ὅ], having spoken[εἰπὼν] thus[ὣς], sat[ἕζετο] down[κατ'] [ἄρ']: 2274155 and[δ'] among[0] them[τοῖσι] rose[ἀνέστη]
+102. the[0] warrior[ἥρως] son of Atreus[Ἀτρεΐδης], wide-ruling[εὐρὺ κρείων] Agamemnon[Ἀγαμέμνων],
+103. troubled[ἀχνύμενος]: 2274156 and[δὲ] with rage[μένεος] his[0] black[ἀμφιμέλαιναι] guts[φρένες] completely[μέγα] 
+104. fill[πίμπλαντ'], 2274156a and[δέ] his[οἱ] eyes[ὄσσε] became like[ἐΐκτην] blazing[λαμπετόωντι] pyres[πυρὶ].
+105. 2274157 Glaring[ὀσσόμενος] wickedly[κάκ'] first[πρώτιστα] at[0] Calchas[Κάλχαντα], he[0] spoke[προσέειπε]:
+106. 2274158 “Seer[μάντι] of evil[κακῶν] things[0], you[0] have never[οὐ] yet[πώ] once[ποτέ] said[εἶπας] a[0] favorable[κρήγυον] thing[τὸ] to me[μοι]:
+107. 2274159 these[τὰ] evil[κάκ'] things[0] are[ἐστὶ] always[αἰεί] dear[φίλα] to you[τοι] in[0] your[0] guts[φρεσὶ] to prophesy[μαντεύεσθαι],
+108. 2274159a and[δ'] you[0] never[οὔτέ] once[πω] spoke[εἶπας] nor[οὔ τ'] fulfilled[ἐτέλεσσας] any[τί] fortunate[ἐσθλὸν] word[ἔπος].
+109. 2274160 And[καὶ] now[νῦν] you[0], prophesying[θεοπροπέων], declare[ἀγορεύεις] among[ἐν] the[0] Danaans[Δαναοῖσι]
+110. in this way[ὡς], that[0] on account [ἕνεκά] of this[τοῦδ'] the[0] far-shooter[ἑκηβόλος] causes[τεύχει] sufferings[ἄλγεα] for them[σφιν]:
+111. because[οὕνεκ'] I, for my part[ἐγὼ], the[0] shining[ἀγλά'] ransom[ἄποινα] of the[0] girl[κούρης] Chryseis[Χρυσηΐδος]
+112. was not[οὐκ] willing[ἔθελον] to accept[δέξασθαι], since[ἐπεὶ] I[0] very much[πολὺ] wish[βούλομαι] to hold[ἔχειν] her herself[ab][αὐτὴν]
+113. at home[οἴκοι]. 2274161 And[καὶ] in fact[γάρ] [ῥα] I[0] have come to prefer[προβέβουλα] her[0] over[0] Clytemnestra[Κλυταιμνήστρης],
+114. my[0] lawful[κουριδίης] wife[ἀλόχου], since[ἐπεὶ] she[0] is[ἐστι] not[οὔ] inferior[χερείων] to her[ἑθέν]-
+115. not[οὐ] in[0] form[δέμας], nor[οὐ δὲ] in[0] stature[φυήν], nor[οὔ τ'] [ἂρ] in[0] mind[φρένας], nor[οὔτέ] in[0] any[τι] deeds[ἔργα].
+116. 2274162 And[καὶ] [ὧς] yet[ἀλλὰ] I[0] am willing[ἐθέλω] to give[δόμεναι] her[0] back[πάλιν], if[εἰ] this[τό] is[0] really[γ'] better[ἄμεινον]:
+117. 2274163 I, for my part[ἐγὼ], prefer[βούλομ'] the[0] soldiers[λαὸν] to be[ἔμμεναι] safe[σῶν], not[ἢ] to be wiped out[ἀπολέσθαι].
+118. 2274164 As for[ac][αὐτὰρ] me[ἐμοὶ], prepare[ἑτοιμάσατ'] a[0] prize appropriate for my rank[ad][γέρας] immediately[αὐτίχ'], so that[ὄφρα] I[0] alone[οἶος]
+119. of the[0] Argives[Ἀργείων] am not[μὴ ἔω] without my prize[ἀγέραστος], as[ἐπεὶ] this[0] is also[δὲ] not[οὐ] fitting[ἔοικε]:
+120. 2274165 [γὰρ] each and every one of you[πάντες] sees[λεύσσετε] this[τό], don’t you[γε]- that [ὅ] my[μοι] prize[γέρας] goes[ἔρχεται] elsewhere[ἄλλῃ].”
+121. 2274166 And[δ'] then[ἔπειτα] swift-footed[ποδάρκης] godly[δῖος] Achilles[Ἀχιλλεύς] answered[ἠμείβετ'] him[τὸν]:
+122. 2274167 “Son of Atreus[Ἀτρεΐδη], most glorious[κύδιστε], most greedy[φιλοκτεανώτατε] of all[πάντων],
+123. how[πῶς] exactly[γάρ] will the[0] Achaeans[Ἀχαιοί], great-hearted[μεγάθυμοι] as they are[0], give[δώσουσι] you[τοι] a[0] prize[γέρας]?
+124. 2274168 We do not[οὐ] [δέ] see[ae][ἴδμεν] any[τί] great[πολλά] common stores[ξυνήϊα] lying around[κείμενα] anywhere[που],
+125. 2274169 Rather[af][ἀλλὰ], on one hand[μὲν], whatever[τὰ] we sacked[ἐξεπράθομεν] from the[0] city[πολίων], these[τὰ2] things[0] were handed out[δέδασται],
+126. 2274169a and on the other hand[δ'] it would also[0] not[οὐκ] be fitting[ἐπέοικε] that[0] the[0] army[λαοὺς] gather together[ἐπαγείρειν] these[ταῦτ'] recollected[παλίλλογα] things[0].
+127. 2274170 Instead[ἀλλὰ], you[σὺ] now[νῦν] release[πρόες] this girl[τήνδε] to the[0] god[θεῷ]- 2274171 as for[αὐτὰρ] us[0], we[0] Achaeans[Ἀχαιοὶ]
+128. will repay[ἀποτείσομεν] you[0] three times[τριπλῇ], and[τ'] even[0] four times-over[τετραπλῇ], if[αἴ] Zeus[Ζεὺς] might at some point[ποθι]
+129. grant[κέ δῷσι] for us[0] to completely sack[ἐξαλαπάξαι] the[0] well-walled[εὐτείχεον] city[πόλιν] Troy[Τροίην].”
+130. 2274172 And[δ'] answering[ἀπαμειβόμενος] him[τὸν], he[0] spoke[προσέφη], the[0] ruler[κρείων] Agamemnon[Ἀγαμέμνων]:
+131. 2274173 “Do not[μὴ] [δ'] in this way[οὕτως]- although[περ] you are[ἐὼν] skillful[ἀγαθός], godlike[θεοείκελ'] Achilles[Ἀχιλλεῦ]-
+132. cheat[κλέπτε] with your[0] mind[νόῳ], since[ἐπεὶ] you[0] will not[οὐ] slip past[παρελεύσεαι] nor[οὐ δέ] persuade[πείσεις] me[με].
+133. 2274174 Do you[0] really[ἦ] want[ἐθέλεις]- while[ὄφρ'] you yourself[ag][αὐτὸς] are to[ah] hold onto[ἔχῃς] your own[0] prize[γέρας]- me[ἔμ'], for my part[αὐτὰρ], like this[αὔτως] 
+134. to sit[ἧσθαι] without having[δευόμενον] one[0]? 2274174a Are you[0] telling[κέλεαι] me[με] to give back[ἀποδοῦναι] this[τήνδ'] girl[0]?
+135. 2274175 [ἀλλ'] If[εἰ] the[0] great-hearted[μεγάθυμοι] Achaeans[Ἀχαιοὶ] will in fact[ai][μὲν] give[δώσουσι] me[0] my[0] prize[γέρας],
+136. fashioning[ἄρσαντες] it[0] [aj]exactly according[κατὰ] to my[0] heart[θυμὸν], so that[ὅπως] it[0] will be[ἔσται] worth just as much[ἀντάξιον]- [ak]
+137. 2274176 but[δέ] if[εἰ] they[0] should not[μὴ] provide[κε δώωσιν] a gift[0], I[ἐγὼ] myself[αὐτὸς] would go[ἰὼν] and[al][δέ] seize for myself[ἕλωμαι]
+138. either[ἢ] your[τεὸν] prize[γέρας] or[ἢ2] that[0] of Ajax[Αἴαντος], or[ἢ3] that[0] of Odysseus[Ὀδυσῆος]-
+139. I[0], taking[ἑλών], will lead it[0] away[ἄξω]: 2274177 he[ὃ] [δέ] will be angry for a long time[κεν κεχολώσεται], whomever[ὅν] I[0] would approach[κεν ἵκωμαι].
+140. 2274178 Yet[ἀλλ'] [ἤτοι] certainly[μὲν] we[0] will reflect[μεταφρασόμεσθα] once again[καὶ αὖτις] on these[ταῦτα] things[0],
+141. 2274178a and[δ'] now[νῦν], come[ἄγε]- let us[0] drag[ἐρύσσομεν] a[0] black[μέλαιναν] ship[νῆα] into[εἰς] the[0] divine[δῖαν] sea[ἅλα].
+142. 2274178b We[0] [δ'] will gather[ἀγείρομεν] sufficient[ἐπιτηδὲς] rowers[ἐρέτας] within[ἐν], 2274178c and[δ'] a[0] hecatomb[ἑκατόμβην] inside[ἐς]
+143. let us[0] place[θείομεν], 2274178d and[δ'] the[0] beautiful-cheeked[καλλιπάρῃον] Chryseis[Χρυσηΐδα] herself[am][αὐτὴν]
+144. we[0] will embark[βήσομεν]. 2274179 And[δέ] let some[τις] one[εἷς] counsel-bearing[βουληφόρος] man[ἀνὴρ] be[ἔστω] the[0] leader[ἀρχὸς],
+145. either[ἢ] Ajax[Αἴας] or[ἢ2] Idomeneus[Ἰδομενεὺς] or[ἢ3] godly[δῖος] Odysseus[Ὀδυσσεὺς], 
+146. or[ἠὲ] you[σὺ], Son of Peleus[Πηλεΐδη], most forceful[an][ἐκπαγλότατ'] of all[Πηλεΐδη] men[ἀνδρῶν], 
+147. unti[ὄφρ'] he[0] should appease[ἱλάσσεαι] him[ἥμιν], the[0] free-worker[ἑκάεργον], by performing[ῥέξας] sacrifices[ἱερὰ].”
+148. 2274180 And[δ'] [ἄρ'] swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς] addressed[προσέφη] him[τὸν], scowling[ὑπόδρα ἰδὼν]:
+149. 2274181 “How dare you[ὤ μοι][ao]- you[0], clothed[ἐπιειμένε] in shamelessness[ἀναιδείην], driven by profit[κερδαλεόφρον]-
+150. how[πῶς] would any[τίς] of the[0] Achaeans[Ἀχαιῶν] eagerly[πρόφρων] listen[πείθηται] to your [τοι] words[ἔπεσιν],
+151. either[ἢ] to go[ἐλθέμεναι] on a journey[ὁδὸν] or[ἢ2] to fight[μάχεσθαι] violently[ἶφι] with men[ἀνδράσιν]?
+152. 2274182 For[γὰρ] I[ἐγὼ] did not[οὐ] come[ἤλυθον] on account[ἕνεκ'] of Trojan[Τρώων] warriors[αἰχμητάων]
+153. here[δεῦρο] in order to fight[μαχησόμενος], since[ἐπεὶ] they[0] are[εἰσιν] not[οὔ] at fault[αἴτιοί] to me[μοι] in any way[τί]:
+154. 2274183 for[γὰρ] they[0] did not[οὐ] ever[πώποτ'] drive away[ἤλασαν] my[ἐμὰς] cattle[βοῦς], nor[οὐ δὲ] [μὲν] my[0] horses[ἵππους],
+155. nor[οὐ δέ2] in[ἐν] warrior-nourishing[βωτιανείρῃ], fertile[ἐριβώλακι] Phthia[Φθίῃ] did they[0] ever[ποτ']
+156. harm[ἐδηλήσαντ'] the[0] harvest[καρπὸν], since[ἐπεὶ] there are[0] many[πολλὰ] things[0] between[μεταξὺ]:   
+157. many[μάλα] [τε] shady[σκιόεντα] mountains[οὔρεά] and also [τε2] the[0] roaring[ἠχήεσσα] sea[θάλασσά].
+158. 2274184 Instead[ἀλλὰ] you[σοὶ], oh[ὦ] greatly[μέγ'] shameless[ἀναιδὲς] one[0], together[ἅμ'] we[0] followed[ἑσπόμεθ'] so that[ὄφρα] you[σὺ] might rejoice[χαίρῃς], 
+159. seeking to gain[ἀρνύμενοι] respect[τιμὴν] for Menelaus[Μενελάῳ] and[τε] for you[σοί], dog-face[κυνῶπα],
+160. from[πρὸς] the[0] Trojans[Τρώων]- 2274185 and[0] you[0] do not[οὔ] regard[μετατρέπῃ] any[τι] of this[τῶν] 2274185a nor[οὐ δ'] do you[0] care[ἀλεγίζεις]-
+161. 2274186 and[καὶ] now[δή] you[0] threaten[ἀπειλεῖς] that[0] you yourself[ap][αὐτὸς] will seize[ἀφαιρήσεσθαι] my[μοι] prize[γέρας] for yourself[aq][ἀφαιρήσεσθαι] 
+162. for which[ᾧ ἔπι] I[0] struggled[μόγησα] greatly[πολλὰ], and[δέ] the[0] sons[υἷες] of the[0] Achaeans[Ἀχαιῶν] gave[δόσαν] her[0] to me[μοι]. 
+163. 2274187 Certainly[μὲν] I[0] never[οὐ ποτε] have[ἔχω] a[0] prize[γέρας] equal[ἶσον] to yours[σοί], whenever[ὁππότ'] the[0] Achaeans[Ἀχαιοὶ] 
+164. sacked[ἐκπέρσωσ’] a[0] well-situated[εὖ ναιόμενον] city[ναιόμενον] of the[0] Trojans[Τρώων]-
+165. 2274188 but[ἀλλὰ] certainly[μὲν] the[0] greater part[πλεῖον] of the[0] miserable[πολυάϊκος] fighting[πολέμοιο]  
+166. my[ἐμαὶ] hands[χεῖρες] perform[διέπουσ']; 2274189 nevertheless[ἀτὰρ] whenever[ἤν ποτε] the[0] division of spoils[δασμὸς] arrives[ἵκηται],
+167. for you[σοὶ] the[τὸ] prize[γέρας] is[0] much[πολὺ] greater[μεῖζον], 2274189a while[δ'] a[0] smaller[ὀλίγον] yet[τε] precious[φίλον] [ar]prize[0] I[ἐγὼ]
+168. go[ἔρχομ'] carrying[ἔχων] upon[ἐπὶ] the[0] ships[νῆας], when[ἐπεί] I[0] am exhausted[κε κάμω] from waging war[πολεμίζων].
+169. 2274190 But[δ'] now[νῦν] I[0] will go[εἶμι] to Phthia[Φθίην] [δ'], since[ἐπεὶ] it is[ἐστιν] surely[ἦ] much[πολὺ] more powerful[φέρτερόν] 
+170. to return[ἴμεν] home[οἴκαδ'] with[σὺν] curved[κορωνίσιν] ships[νηυσὶ], 2274190a and[δέ] I[0] do not[οὐ] think[ὀΐω] that[0] 
+171. I[0], being[ἐὼν] without respect[ἄτιμος] here[ἐνθάδ'], will collect[ἀφύξειν] your[σ'] riches[ἄφενος] and[καὶ] wealth[πλοῦτον].” 
+172. 2274191 And[δ'] then[ἔπειτα] the[0] lord[ἄναξ] of men[ἀνδρῶν], Agamemnon[Ἀγαμέμνων], began to answer[ἠμείβετ'] him[τὸν]:
+173. 2274192 “By all means[μάλ'] run away[φεῦγε], if[εἴ] your[τοι] heart[θυμὸς] is so set[ἐπέσσυται]- 2274192a [δέ] I, for my part[ἔγωγε], do not[οὐ] 
+174. plead with[λίσσομαι] you[σ'] to stay[μένειν] on account[εἵνεκ'] of me[ἐμεῖο]: 2274193 beside[πάρ'] me indeed[ἔμοιγε] [καὶ] are[0] other men[ἄλλοι]
+175. who[οἵ] will respect[κέ τιμήσουσι] me[με], and[δὲ] especially[μάλιστα] Zeus[Ζεύς], the[0] giver of counsel[μητίετα].
+176. 2274194 You[0] are[ἐσσι] the[0] most hateful[ἔχθιστος] [δέ] to me[μοί] of the[0] kings[βασιλήων] fostered by Zeus[διοτρεφέων]:
+177.  2274195 for[γάρ] quarrelling[ἔρις] is[0] always[αἰεὶ] dear[φίλη] to you[τοι], as[τε] are[0] both[τε2] wars[πόλεμοί] and[τε3] battles[μάχαι]. 
+178. 2274196 If[εἰ] you[0] are[ἐσσι] exceedingly[μάλα] powerful[καρτερός], certainly[που] a[0] god[θεός] granted[ἔδωκεν] this[τό] [γ'] to you[σοὶ].
+179. 2274197 Go[ἰὼν] home[οἴκαδ'] with[σὺν] your[σῇς] ships[νηυσί] and[τε] also[καὶ] with your[σοῖς] comrades[ἑτάροισι]-
+180. be lord of[ἄνασσε] the[0] Myrmidons[Μυρμιδόνεσσιν]- 2274197a [δ'] I[ἐγὼ] do not[οὐκ] care[ἀλεγίζω] about you[σέθεν],
+181. 2274197b nor[οὐ δ'] do I[0] take heed[ὄθομαι] of you[0] bearing a[0] grudge[κοτέοντος]. 2274198 But[δέ] I[0] will make[ἀπειλήσω] the[0] following[ὧδε] threat[ἀπειλήσω] to you[τοι]:
+182. 2274199 as[ὡς] Phoebus[Φοῖβος] Apollo[Ἀπόλλων] is taking away[ἀφαιρεῖται] from me[ἔμ'] Chryseis[Χρυσηΐδα] for himself[ἀφαιρεῖται],
+183. her[τὴν] I[ἐγὼ] will, on the one hand[μὲν], with[σὺν] both[τ'] my own[ἐμῇ] ship[νηΐ] and[καὶ] my own[ἐμοῖς] comrades[ἑτάροισι] 
+184. send[πέμψω], 2274199a but on the other hand[δέ] I, for my part[ἐγὼ], will lead[κ' ἄγω] beautiful-cheeked[καλλιπάρῃον] Briseis[Βρισηΐδα],
+185. going[ἰὼν] myself[αὐτὸς] [as]to your[0] resting-place[κλισίην]- that[τὸ] [δὲ] prize[γέρας] of yours[σὸν]- so that[ὄφρ'] you[0] may thoroughly[ἐῢ] understand[εἰδῇς]  
+186. how greatly[ὅσσον] I[0] am[εἰμι] more powerful[at][φέρτερός] than you[σέθεν], and even[δὲ καὶ] so that[0] another man[ἄλλος] would fear[στυγέῃ] 
+187. declaring himself[φάσθαι] an[0] equal[ἶσον] to me[ἐμοὶ], and[καὶ] comparing himself[ὁμοιωθήμεναι] against [ἄντην] me[0].”  
+188. 2274200 So[ὣς] he[0] spoke[φάτο], 2274201 and[δ'] pain[ἄχος] arose[γένετ'] in the[0] son of Peleus[Πηλεΐωνι], 2274201a and [δέ] the[0] heart[ἦτορ] 
+189. in[ἐν] his[οἱ] hairy[λασίοισι] chest[στήθεσσιν] was torn between[μερμήριξεν] two directions[διάνδιχα]:
+190. either[ἢ] he[ὅ] could draw for himself[ἐρυσσάμενος] his[0] sharp[ὀξὺ] sword[φάσγανον] from beside[παρὰ] his[0] thigh[μηροῦ],
+191. and[0] [μὲν] make the men[τοὺς] stand[ἀναστήσειεν] while[δ'] he[ὃ] killed[ἐναρίζοι] the[0] son of Atreus[Ἀτρεΐδην],
+192. or[ἦε] he[0] could stop[παύσειεν] his[0] fury[χόλον] and[τε] restrain[ἐρητύσειέ] his[0] heart[θυμόν].
+193. 2274202 As[ἧος] he[ὃ] was turning[ὥρμαινε] these[ταῦθ'] over[ὥρμαινε] through[κατὰ] his[0] thoughts[φρένα] and[καὶ] through[κατὰ2] his[0] heart[θυμόν],
+194. he[0] was beginning to pull for himself[ἕλκετο] [δ'] from[ἐκ] his[0] sheath[κολεοῖο] a[0] great[μέγα] sword[ξίφος], but[δ'] Athena[Ἀθήνη] came[ἦλθε] 
+195. from heaven[οὐρανόθεν], 2274203 since[γὰρ] the[0] white-armed[λευκώλενος] goddess[θεὰ] Hera[Ἥρη] sent[ἧκε] her[0] forth[πρὸ],
+196. both[τε] caring about[φιλέουσά] and[τε2] concerned[κηδομένη] for the[0] two men[ἄμφω] equally[ὁμῶς] in her heart[θυμῷ].
+197. 2274204 She[0] stood[στῆ] [δ'] behind[ὄπιθεν] him[0], 2274204a and[δὲ] by his[0] light[ξανθῆς] hair[κόμης] she[0] gripped[ἕλε] the[0] son of Peleus[Πηλεΐωνα],  
+198. making herself visible[φαινομένη] to him only[οἴῳ]; 2274205 none[οὔ τις] of the other[ἄλλων] men[τῶν] [δ'] began to see[ὁρᾶτο] her[0] for themselves[ὁρᾶτο].
+199. 2274206 Achilles[Ἀχιλεύς] was astonished[θάμβησεν] [δ'], 2274206a and[δ'] circled[ἐτράπετ'] around[μετὰ], 2274206b and[δ'] at once[αὐτίκα] recognized[ἔγνω] 
+200. Pallas[Παλλάδ'] Athena[Ἀθηναίην]- 2274207 and[δέ] to him[οἱ] her[0] eyes[ὄσσε] appeared[φάανθεν] terrifying[δεινὼ].
+201. 2274208 [καί] Having started speaking[φωνήσας], he[0] began to address[προσηύδα] her[μιν] with winged[πτερόεντα] words[ἔπεα]:
+202. 2274209 “There you are[αὖτ']- why[τίπτ'], daughter[τέκος] of aegis-holding[αἰγιόχοιο] Zeus[Διὸς], have you[0] come[εἰλήλουθας]?
+203. 2274210 Is it[0] [ἦ] so that[ἵνα] you[0] might see for yourself[ἴδῃ] the[0] insolence[au][ὕβριν] of Agamemnon[Ἀγαμέμνονος], son of Atreus[Ἀτρεΐδαο]?
+204. 2274211 Yet[ἀλλ'] I[0] will tell[ἔκ ἐρέω] to you[τοι] this[0], 2274211a which[τὸ] [δὲ καὶ] I[0] believe[ὀΐω] will be fulfilled[τελέεσθαι]:
+205. 2274212 by his[ᾗς] outrageous actions[ὑπεροπλίῃσι] soon[τάχ' ποτε] he[0] shall make an end to[ἄν ὀλέσσῃ] his[0] life[θυμὸν].”
+206. 2274213 Then[δ' αὖτε] to him[τὸν] the[0] goddess[θεὰ] spoke[προσέειπε], owl-eyed[γλαυκῶπις] Athena[Ἀθήνη]:
+207. 2274214 “I[ἐγὼ] came[ἦλθον] in order to stop[παύσουσα] this[τὸ] rage[μένος] of yours[σὸν], if[αἴ] you[0] might obey[κε πίθηαι],
+208. down from heaven[οὐρανόθεν]- 2274215 and[δέ] the[0] white-armed[λευκώλενος] goddess[θεὰ] Hera[Ἥρη] sent[ἧκε] me[μ'] forth[πρὸ],
+209. both[τε] caring about[φιλέουσά] and[τε2] concerned[κηδομένη] for the[0] two men[ἄμφω] equally[ὁμῶς] in her[0] heart[θυμῷ].
+210. 2274216 Instead[ἀλλ'], come on[ἄγε]- leave off from[λῆγ'] this[0] quarrel[ἔριδος], 2274216a and[δὲ] do not[μη] continue to draw[ἕλκεο] the[0] sword[ξίφος] in hand[χειρί]-
+211. 2274217 instead, to be sure [ἀλλ' ἤτοι], [μὲν] insult[av][ὀνείδισον] him[0] with words[ἔπεσιν] saying[0] how[ὡς περ] it[0] will be[ἔσεταί]:
+212. 2274218 for[γὰρ] in this way[ὧδε] I[0] will speak[ἐξερέω], 2274218a and[δὲ] indeed[καὶ] this[τὸ] will[ἔσται] come to fulfillment[τετελεσμένον].
+213. 2274219 In the future[ποτέ], shining[ἀγλαὰ] gifts[δῶρα] so great as[τόσσα] three-fold[τρὶς] will be at hand[παρέσσεται] for you[τοι]
+214. because of[εἵνεκα] this man’s[τῆσδε] insolence[ὕβριος]: 2274220 but[δ'] as for[0] you[σὺ], hold yourself back[ἴσχεο] 2274220a and[δ'] listen[πείθεο] to us[ἡμῖν].” 
+215. 2274221 And[δ'] to her[τὴν], replying[ἀπαμειβόμενος], swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς] said[προσέφη]:
+216. 2274222 “Of course[μὲν] one[0] must[χρὴ] heed[εἰρύσσασθαι], goddess[θεὰ], speech[ἔπος] coming from the[0] two of you[σφωΐτερόν],
+217. even[καὶ] although[περ] exceedingly[μάλα] angered[κεχολωμένον] in his[0] heart[θυμῷ], 2274223 for[γὰρ] it[0] is[0] better[ἄμεινον] this way[ὧς]:
+218. 2274224 whoever[ὅς] obeys[κε ἐπιπείθηται] the[0] gods[θεοῖς], that’s the one[aw][0] to whom[αὐτοῦ] they[0] really[μάλα] [τ'] listen[ἔκλυον].”
+219. 2274225 He[0] spoke[ἦ], 2274225a and[καὶ] on[ἐπ'] the[0] silver[ἀργυρέῃ] hilt[κώπῃ] he[0] held[σχέθε] his[0] heavy[βαρεῖαν] hand[χεῖρα],
+220. 2274225b and[δ'] back[ἂψ] into[ἐς] the[0] sheath[κουλεὸν] he[0] pushed[ὦσε] the[0] great[μέγα] sword[ξίφος], 2274225c and[δ'] he[0] did not[οὐ] disobey[ἀπίθησε]
+221. the[0] command[μύθῳ] of Athena[Ἀθηναίης]. 2274226 She[ἣ] [δ'] had already departed[βεβήκει] [δὲ] to Olympus[Οὔλυμπον], 
+222. into[ἐς] the[0] home[δώματ'] of aegis-holding[αἰγιόχοιο] Zeus[Διὸς] among[μετὰ] the[0] other[ἄλλους] divinities[δαίμονας].
+223. 2274227 The[0] son of Peleus[Πηλεΐδης] [δ'] again[ἐξαῦτις] with harsh[ἀταρτηροῖς] words[ἐπέεσσιν] 
+224. addressed[προσέειπε] the[0] son of Atreus[Ἀτρεΐδην], 2274227a and[καὶ] he[0] had not[οὔ] started to leave off from[λῆγε] his[0] rage[χόλοιο] yet[πω];
+225. 2274228 “Swollen with wine[οἰνοβαρές], having[ἔχων] the [0]eyes[ὄμματ'] of a[0] dog[κυνὸς] but[δ'] the[0] heart[κραδίην] of a[0] deer[ἐλάφοιο],
+226. never[οὔτέ ποτ'] to be armed[θωρηχθῆναι] to enter[0] into[ἐς] battle[πόλεμον] together[ἅμα] with the[0] army[λαῷ]
+227. Nor[οὔ τε] ever[0] to enter[ἰέναι] an[0] ambush[λόχον] [δ'] with[σὺν] the[0] most outstanding[ἀριστήεσσιν] of the[0] Achaeans[Ἀχαιῶν]
+228. have you[0] dared[τέτληκας] in your[0] heart[θυμῷ]- 2274229 to you[τοι] that[τὸ] seems[εἴδεται] to be[εἶναι] death[κὴρ].
+229. 2274230 Surely[ἦ] it[0] is[ἐστι] much[πολὺ] more preferable[λώϊόν] along[κατὰ] the[0] broad[εὐρὺν] camp[στρατὸν] of the[0] Achaeans[Ἀχαιῶν]
+230. to steal[ἀποαιρεῖσθαι] gifts[δῶρ'] away[ἀποαιρεῖσθαι] from any[τις] man[0] who[ὅς] may have spoken[εἴπῃ] against[ἀντίον] you[σέθεν].
+231. 2274231 King[βασιλεὺς] who devours his people[δημοβόρος], since[ἐπεὶ] you[0] are lord of[ἀνάσσεις] worthless men[οὐτιδανοῖσιν]-
+232. 2274232 for[γὰρ] otherwise[ἦ], son of Atreus[Ἀτρεΐδη], you[0] would[ἂν] now[νῦν] have made for yourself[0] your[0] final[ὕστατα] abusive acts[λωβήσαιο].
+233. 2274233 Instead[ἀλλ'] I[0] will explain[ἔκ ἐρέω] to you[τοι], 2274233a and[καὶ] besides[ἐπὶ] I[0] will swear[ὀμοῦμαι] a[0] great[μέγαν] oath[ὅρκον], 
+234. 2274234 truly[ναὶ] upon[μὰ] this[τόδε] staff[σκῆπτρον]; never[οὔ ποτε] will this[τὸ] [μὲν] bear[φύσει] leaves[φύλλα] and[καὶ] branches[ὄζους], 
+235. after[ἐπεὶ] [δὴ] it[0] first[πρῶτα] left behind[λέλοιπεν] its[0] stump[τομὴν] in[ἐν] the[0] mountains[ὄρεσσι],
+236. and[δ'] nor[οὐ] will it[0] sprout again[ἀναθηλήσει]- 2274235 for[γάρ ῥά] the[0] bronze[χαλκὸς] stripped[ἔλεψε] it[ἑ] all around[περὶ]
+237. both[τε] the[0] leaves[φύλλά] and[καὶ] the[0] bark[φλοιόν]- 2274236 now[νῦν], however[αὖτέ], the[0] sons[υἷες] of the[0] Achaeans[Ἀχαιῶν], 
+238. acting as judges[δικασπόλοι], display[φορέουσι] it[μιν] in[ἐν] their[0] palms[παλάμῃς], they who[οἵ] 
+239. [τε] defend[εἰρύαται] the[0] laws[θέμιστας] on behalf of[πρὸς] Zeus[Διὸς]. 2274237 It[ὃ] [δέ] will be[ἔσσεται] a great[μέγας] oath[ὅρκος] to you[τοι]:
+240. 2274238 in the future[ποτ'] certainly[ἦ] the[0] desire[ποθὴ] for Achilles[Ἀχιλλῆος] will come upon[ἵξεται] the[0] sons[υἷας] of the[0] Achaeans[Ἀχαιῶν]
+241. all together[σύμπαντας]- 2274239 and[δ'] then[τότε] you[0], though[περ] agonizing[ἀχνύμενός], will not[οὔ] have the power[δυνήσεαι] 
+242. to do anything[τι] about it[χραισμεῖν], whenever[εὖτ'] many[πολλοὶ] below[ὑφ'] Hector[Ἕκτορος] the[0] man-slaughterer[ἀνδροφόνοιο],
+243. being killed[θνήσκοντες], should fall[ἂν πίπτωσι]. 2274240 You[σὺ] [δ'] will gouge open[ἀμύξεις] your own[0] heart[θυμὸν] within[ἔνδοθι],
+244. consumed with fury[χωόμενος] because[ὅ τ'] you[0] showed no[οὐδὲν] respect[ἔτισας] to the[0] best[ἄριστον] of the[0] Achaeans[Ἀχαιῶν].”
+245. 2274241 So[ὣς] spoke[φάτο] the[0] son of Peleus[Πηλεΐδης], 2274241a and[δὲ] he[0] flung[βάλε] down[ποτὶ] the[0] staff[σκῆπτρον] to the[0] ground[γαίῃ],
+246. drilled[πεπαρμένον] with golden[χρυσείοις] studs[ἥλοισι], 2274241b and[δ'] he himself[ax][αὐτός] sat down[ἕζετο].
+247. 2274242 And[δ'] the[0] son of Atreus[Ἀτρεΐδης] began to seethe[ἑτέρωθεν] with godlike wrath[ἐμήνιε] against him[0]; 2274243 but[δὲ] among them[τοῖσι] Nestor[Νέστωρ]
+248. the[0] sweet-sounding[ἡδυεπὴς] leapt up[ἀνόρουσε], the[0] articulate[λιγὺς] assembly-speaker[ἀγορητής] of the[0] Pylians[Πυλίων],
+249. and[καὶ] from[ἀπὸ] his[τοῦ] tongue[γλώσσης] speech[αὐδή] began to flow[ῥέεν], sweeter[γλυκίων] than[0] honey[μέλιτος].
+250. 2274244 On the one hand[μὲν] for him[τῷ] already[ἤδη] two[δύο] generations[γενεαὶ] of mortal[μερόπων] men[ἀνθρώπων] 
+251. had withered away[ἐφθίαθ’], who[οἵ] previously[πρόσθεν] along with[ἅμα] him[οἱ] were raised[τράφεν] and born[ἐγένοντο] 
+252. in[ἐν] most holy[ἠγαθέῃ] Pylos[Πύλῳ]. 2274244a On the other[δὲ], he was lord[ay][ἄνασσεν] among[μετὰ] the[0] third[τριτάτοισιν] generation[0].
+253. 2274245 He[ὅ], well-disposed [ἐὺ φρονέων] to them[az][σφιν], addressed the assembly[ἀγορήσατο] and spoke in their midst[μετέειπεν]:
+254. 2274246 “I can’t believe it[ὦ πόποι]![ba] For sure[ἦ] great[μέγα] sorrow[πένθος] is coming[bb][ἱκάνει] to the[0] Achaean [Ἀχαιΐδα] land[γαῖαν];
+255. 2274247 For sure[ἦ] Priam[Πρίαμος] would rejoice[κεν γηθήσαι] -- and[τε] the[0] children[παῖδες] of Priam[Πριάμοιό], 
+256. and[τε] the[0] other[ἄλλοι] Trojans[Τρῶες] would be filled[bc] with great[μέγα] delight[κεν κεχαροίατο] in their[0] hearts[bd][θυμῷ],
+257. if[εἰ] they[0] should hear about[πυθοίατο] all[πάντα] these[be] things[τάδε], about[0] the[0] two of you[σφῶϊν] fighting[μαρναμένοιϊν], 
+258. you[0] who[οἳ] are[ἐστὲ] above[περὶ] [μὲν] the[0] Danaans[Δαναῶν] in[0] planning[βουλή], and[δ'] above[περὶ] in[0] warfare[μάχεσθαι].
+259. 2274248 Just[bf][ἀλλὰ] listen[πίθεσθ'] to me[0]! - 2274249 the[0] two of you[0] both[ἄμφω] [δὲ] are[ἐστὸν] younger[νεωτέρω] than[0] I[ἐμεῖο] am[0]:
+260. 2274250 For[γάρ] I[ἐγὼ] earlier[ἤδη ποτ'], with men[ἀνδράσιν] even[περ] better[bg][ἀρείοσιν] than[ἠέ] you both[ὑμῖν],
+261. spent my time[ὡμίλησα], 2274250a and[καὶ] not[οὔ] once[ποτέ] did they[οἵ] disregard[ἀθέριζον] me[μ'].
+262. 2274251 [γάρ] Since then[πω] I[0] have not[οὐ] seen["ἴδον], nor[οὐ δὲ] might I[0] ever see[bh][ἴδωμαι], these[τοίους] men[ἀνέρας],
+263. the[0] likes[οἷον] of both[τε] Peirithous[Πειρίθοόν] and[τε2] Dryas[Δρύαντά], the[0] shepherd[ποιμένα] of the[0] soldiers[λαῶν],
+264. and[τ'] Caeneus[Καινέα] and[τε] Exadius[Ἐξάδιόν] and also[καὶ] godlike[ἀντίθεον] Polyphemus[Πολύφημον], 
+265. and[τ'] Theseus[Θησέα], the[0] son of Aegeus[Αἰγεΐδην], he[0] who[0] was[0] like[ἐπιείκελον] the[0] immortals[ἀθανάτοισιν]-
+266. 2274252 those men[κεῖνος] were raised[τράφεν] as[0] the[0] mightiest[κράτιστος] [δὴ] of the[0] men[ἀνδρῶν] on earth[ἐπιχθονίων].
+267. 2274253  Let me make this point clear[μὲν]: they[0] were[ἔσαν] the[0] mightiest[κάρτιστοι], 2274253a and[καὶ] against[0] the[0] mightiest[καρτίστοις] they[0] would fight[ἐμάχοντο]- --
+268. against[0] centaurs[φηρσὶν] living in the[0] mountains[ὀρεσκῴοισι]. 2274253b And[καὶ] utterly[ἐκπάγλως] they[0] wiped them[0] out[ἀπόλεσσαν].
+269. 2274254 Let me say this again[μὲν]: [καὶ] with the[bi]se[τοῖσιν] I[ἐγὼ] spent my time[bj][μεθομιλέω], having come[ἐλθὼν] from[ἐκ] Pylos[Πύλου],
+270. from far away[τηλόθεν], from[ἐξ] a distant[ἀπίης] land[γαίης]: 2274255 they themselves[αὐτοί], in fact[γὰρ], [bk]summoned[bl][καλέσαντο] me[0] to them[0].
+271. 2274256 And[καὶ] I[0] would fight[μαχόμην] on my own[bm][κατ' ἔμ' αὐτὸν]- me[bn][ἐγώ]! 2274257 And let me make this point clear as well[μὲν], with those[bo] men[κείνοισι] [δ'] no one person[οὔ τις] of those[τῶν]  
+272. who[οἳ] are[εἰσιν] now[νῦν] mortals[βροτοί] on this earth[ἐπιχθόνιοι] could put up a fight[ἂν μαχέοιτο].
+273. 2274258 [καὶ] Certainly[μέν] of my[μευ] plans[βουλέων] they[0] took heed[ξύνιεν] 2274258a and[τε] they[0] listened[πείθοντό] when[0] I[0] told[0] them[0] what I thought[μύθῳ].
+274. 2274259 And so now[bp][ἀλλὰ], listen [πίθεσθε]  -- and I mean you[καὶ ὔμμες]! -- because[ἐπεὶ] to listen [πείθεσθαι] is[0] better[ἄμεινον].
+275. 2274260 As for you[bq][σὺ], high-ranking[agathos] though you are[περ ἐὼν]- do not[μήτε] take away for yourself[br][ἀποαίρεο] the[0] girl[κούρην] from this[bs] man[τόνδ']-
+276. 2274260a Instead[ἀλλ'], leave it[ἔα] just as[ὥς] at first[πρῶτα] the[0] sons[υἷες] of Achaeans[Ἀχαιῶν] gave[δόσαν] the[0] prize[γέρας] to him[οἱ];
+277. 2274261 And[0] as for you[bt][σὺ], do not[μήτε], son of Peleus[Πηλείδη], choose[ἔθελ'] to quarrel[ἐριζέμεναι] with a king[βασιλῆϊ], 
+278. pitting your strength against his[ἀντιβίην], since[ἐπεὶ] a man[0] never[οὔ ποθ'] shares[ἔμμορε] a common amount[ὁμοίης] of expected respect[τιμῆς] 
+279. as[0] the[0] staff-holding[σκηπτοῦχος] king[βασιλεύς], to whom[ᾧ] [τε] Zeus[Ζεὺς] gave[ἔδωκεν] renown[κῦδος].
+280. 2274262 If[εἰ] [δὲ] you[σὺ] are[ἐσσι] strong[καρτερός], a goddess[θεὰ] [δέ] for[0] a mother[μήτηρ] bore[γείνατο] you[σε],
+281. but[ἀλλ'] he[ὅ] still[γε] is[ἐστιν] more powerful[φέρτερός] since[ἐπεὶ] he[0] is lord over[ἀνάσσει] more[πλεόνεσσιν].
+282. 2274263 Son of Atreus[Ἀτρεΐδη], you[σὺ] [δὲ] stop[παῦε] your[τεὸν] rage[μένος]: 2274264 look[αὐτὰρ]! I, for my part[ἔγωγε],
+283. I plead that[λίσσομ'] you[0] let go of[μεθέμεν] your[0] anger[χόλον] towards[0] Achilles[Ἀχιλλῆϊ], he[0] who[ὃς] to all[πᾶσιν]
+284. the[0] Achaeans[Ἀχαιοῖσιν] is[πέλεται] a great[μέγα] defense[ἕρκος] in cruel[κακοῖο] war[πολέμοιο].”
+285. 2274265 And[δ'], answering[ἀπαμειβόμενος] him[τὸν], ruling[κρείων] Agamemnon[Ἀγαμέμνων] spoke[προσέφη]: 
+286. “2274266 Sure enough[ναὶ], [δὴ] you[0] said[ἔειπες] all[πάντα] these things[ταῦτά] [γε] rightly[κατὰ μοῖραν], old man[γέρον]- 
+287. 2274267 but[ἀλλ'] this[ὅδ'] man[ἀνὴρ] here[ὅδ'] wishes[ἐθέλει] to be[ἔμμεναι] above[περὶ] all[πάντων] others[ἄλλων]:
+288. 2274267a not only[μὲν] does he[0] desire[ἐθέλει] to have power over[κρατέειν] everyone[πάντων], but also[δ'] to be lord over[ἀνάσσειν] everyone[πάντεσσι],
+289. and even[δὲ] to give commands[σημαίνειν] to everyone[πᾶσι]. As far as these things are concerned[ἅ], I[0] don’t[οὐ] believe[ὀΐω] a certain someone[τιν'] will listen[πείσεσθαι].
+290. 2274268 If[εἰ] [δέ] the[0] gods[θεοὶ], existing[ἐόντες] always[αἰὲν], made[ἔθεσαν] him[μιν] a spearman[αἰχμητὴν],
+291. for that reason[τοὔνεκά] do they[0] allow[προθέουσιν] him[οἱ] to publicly deliver[μυθήσασθαι] insults[ὀνείδεα]?”
+292. 2274269 And[δ'] then[ἄρ'], interrupting[ὑποβλήδην] him[τὸν], godlike[δῖος] Achilles[Ἀχιλλεύς] began to reply[ἠμείβετο]:
+293. 2274270 “Surely[ἦ] [γάρ] I[0] would be called[κεν καλεοίμην] both[τε] cowardly[δειλός] and[καὶ] worthless[οὐτιδανὸς], 
+294. if[εἰ] [δὴ] I[0] will yield[ὑπείξομαι] to you[σοὶ] in each[πᾶν] action[ἔργον], whatever[ὅττί] you[0] might say[κεν εἴπῃς]-
+295. 2274271 to other men[ἄλλοισιν], for all I care[δὴ][bu], make[ἐπιτέλλεο] these[ταῦτ'] commands[ἐπιτέλλεο]- 2274271a but let me tell you[γὰρ], as for me[ἔμοιγε]- don’t[μὴ] 
+296. give any orders[σήμαιν]. 2274272 In fact[γὰρ] I, for my part[ἔγωγ'], do not[οὐ] believe[ὀΐω] that I[0] will still[ἔτι] listen[πείσεσθαι] to you[σοὶ].
+297. 2274273 And[δέ] I[0] will share[ἐρέω] with you[τοι] another thing[ἄλλο]- 2274273a you[σὺ] [δ'] cast[βάλλεο] it[0] into[ἐνὶ] your[σῇσι] thoughts[φρεσὶ]:
+298. 2274274 indeed[μὲν] I[ἔγωγε] will not[οὔ] fight[μαχήσομαι] against[0] you[τοι] with my[0] hands[χερσὶ] on account of[εἵνεκα] the[0] girl[κούρης]-
+299. not[οὔ τε] with you[σοὶ], not[οὔτέ] with any[τῳ] other man [ἄλλῳ]- since[ἐπεί] you all[0], having given[δόντες] her[0], now take[ἀφέλεσθέ] her[0] away for yourselves[ἀφέλεσθέ] from me[μ'] [γε].
+300. 2274275 But[δ'] as for[0] the[τῶν] other things[ἄλλων], which[ἅ] I possess[μοί ἐστι] beside[παρὰ] the[0] swift[θοῇ] black[μελαίνῃ] ship[νηῒ],
+301. of these things[τῶν] you[0] may not[οὐκ] carry away[ἄν φέροις] anything[τι], having picked it up[ἀνελὼν] with me[ἐμεῖο] unwilling[ἀέκοντος].
+302. 2274276 [εἰ] But[δ'] come on[ἄγε]- really[μὴν], try[πείρησαι] it[0] for yourself[πείρησαι], so that[ἵνα] even[καὶ] these men here[οἵδε] may learn[γνώωσι]-
+303. 2274277 your[τοι] dark[κελαινὸν] blood[αἷμα] will pour out[ἐρωήσει] immediately[αἶψά] around[περὶ] my[0] spear[δουρί].”
+304. 2274278 Thus[ὣς] then[τώ] [γ'], the two men[0] having fought[μαχεσσαμένω] with such[0] opposing[ἀντιβίοισι] speeches[ἐπέεσσιν],
+305.  they[0] stood up[ἀνστήτην], 2274278a and[δ'] they[0] dismissed[λῦσαν] the[0] assembly[ἀγορὴν] beside[παρὰ] the[0] ships[νηυσὶν] of the[0] Achaeans[Ἀχαιῶν].
+306. 2274279 The[0] son of Peleus[Πηλεΐδης], on the one hand[μὲν], towards[ἐπὶ] the[0] resting-places[κλισίας] and[καὶ] the[0] well-balanced[ἐΐσας] ships[νῆας]
+307. began to go[ἤϊε] with[σύν] both[τε] the[0] son of Menoetius[bv][Μενοιτιάδῃ] and[καὶ] his[οἷς] comrades[ἑτάροισιν].
+308. 2274280 The[0] son of Atreus[Ἀτρεΐδης], on the other hand[δ'], [ἄρα] pulled forward[προέρυσσεν] a[0] swift[θοὴν] ship[νῆα] towards[δὲ] the[0] sea[ἅλα],
+309. 2274280a and[δ'] therein[ἐν] he[0] selected[ἔκρινεν] twenty[ἐείκοσιν] rowers[ἐρέτας], 2274280b and[δ']  an[0] offering[ἑκατόμβην] 
+310. for the[0] god[θεῷ] he[0] embarked [ἐς βῆσε], 2274280c and[δὲ] up [ἀνὰ] into the ship[0] 
+311. he[0], leading[ἄγων], seated[εἷσεν] the[0] beautiful-cheeked[καλλιπάρῃον] Chryseis[Χρυσηΐδα]. 2274281 And[δ'] in[ἐν] went[ἔβη] as leader[ἀρχὸς] the adaptable[πολύμητις] Odysseus[Ὀδυσσεύς].
+312. 2274282 Afterwards[ἔπειτ'] they[οἳ] [μὲν], having embarked[ἀναβάντες], began to sail[ἐπέπλεον] over[0] the[0] watery[ὑγρὰ] routes[κέλευθα],
+313. 2274282a while[δ'] the[0] son of Atreus[Ἀτρεΐδης] commanded[ἄνωγεν] the[0] soldiers[λαοὺς] to purify themselves[ἀπολυμαίνεσθαι].
+314. 2274283 They[οἳ] [δ'] began bathing themselves[ἀπελυμαίνοντο], 2274283a [καὶ] flinging[βάλλον] their[0] impurities[bw][λύματα] into[εἰς] the[0] sea[ἅλα],
+315. 2274283b and[δ'] they[0] made[ἕρδον] fully-grown[τεληέσσας] offerings[ἑκατόμβας] for Apollo[Ἀπόλλωνι],
+316. of bulls[ταύρων] and[ἠδ'] of goats[αἰγῶν], along[παρὰ] the[0] shore[θῖν'] of the[0] barren[ἀτρυγέτοιο] sea[ἁλὸς]:
+317. 2274284 and[δ'] the[0] aroma[κνίση] went[ἷκεν] into the[0] heavens[οὐρανὸν], swirling[ἑλισσομένη] about in[περὶ] the[0] smoke[καπνῷ].
+318. 2274285 In this way[ὣς] they[οἳ] [μὲν] began working[πένοντο] on[0] these things[τὰ] down throughout[κατὰ] the[0] camp[στρατόν]- 2274286 But for his part[δ'], Agamemnon[Ἀγαμέμνων] did not[οὐ]
+319. abandon[λῆγ'] the[0] quarrel[ἔριδος] which[τὴν] he[0] first[πρῶτον] threatened[ἐπηπείλησ'] against Achilles[Ἀχιλῆϊ], 
+320. 2274286a Instead[ἀλλ'] he[ὅ] [γε] addressed[προσέειπε] both[τε] Talthybius[Ταλθύβιόν] and[καὶ] Eurybates[Εὐρυβάτην],
+321. those two[τώ] who[0] were[ἔσαν] his[οἱ] heralds[κήρυκε] and[καὶ] ready[ὀτρηρὼ] attendants[θεράποντε]:
+322. 2274287 “You two[0] go[ἔρχεσθον] to the[0] resting-place[κλισίην] of the[0] son of Peleus[Πηληϊάδεω], Achilles[Ἀχιλῆος]-
+323.  2274288 after seizing[ἑλόντ'] her[0] by the[0] hand[χειρὸς], lead away[ἀγέμεν] the[0] beautiful-cheeked[καλλιπάρῃον] Briseis[Βρισηΐδα].
+324. 2274289 If[εἰ] [δέ] he[0] should not[μὴ] give[κε δώῃσιν] her[0], then[δέ] I[ἐγὼ] myself[bx][αὐτὸς] would seize[κεν ἕλωμαι] her[0] for myself[κεν ἕλωμαι], 
+325. having come[ἐλθὼν] with[σὺν] an[0] more men[πλεόνεσσι]: 2274290 and[καὶ] for him[οἱ] this[τό] will be[ἔσται] more horrible[ῥίγιον].”
+326. 2274291 Having spoken[εἰπὼν] thus[ὣς], he[0] sent them[0] forth[προΐει], 2274291a and[δ'] he[0] was still issuing[ἔτελλε] the[0] cruel[κρατερὸν] command[μῦθον] upon[ἐπὶ] them[0];
+327. 2274292 the two[τὼ], unwilling[ἀέκοντε], [δ'] walked[βάτην] along[παρὰ] the[0] shore[θῖν'] of the[0] barren[ἀτρυγέτοιο] sea[ἁλὸς],
+328. 2274292a and[δ'] at[ἐπί] both[τε] the[0] resting-places[κλισίας] and[καὶ] the[0] ships[νῆας] of the[0] Myrmidons[Μυρμιδόνων] they[0] arrived[ἱκέσθην].
+329. 2274292b[δ'] Him[τὸν] they[0] discovered[εὗρον] beside[παρά] both[τε] his[0] resting-place[κλισίῃ] and[καὶ] his[0] black[μελαίνῃ] ship[νηῒ], 
+330. sitting[ἥμενον]. 2274293 Nor[οὐ δ'] did Achilles[Ἀχιλλεύς] rejoice[γήθησεν] at all[ἄρα γε] having caught sight of[ἰδὼν] the two[τώ].
+331. 2274294 On the one hand [μὲν], the two men[τὼ], terrified at[ταρβήσαντε], and[καὶ] feeling shame before[αἰδομένω], the[0] king[βασιλῆα],
+332. stood[στήτην], 2274294a but[δέ] they[0] did not[οὐ] begin to address[προσεφώνεον] him[μιν] about anything[τί] nor[οὐ δ'] ask any questions[ἐρέοντο].
+333. 2274295 As for[αὐτὰρ] him[0], he[ὃ] understood[ἔγνω] in his[ᾗσιν] guts[φρεσὶ] 2274295a and[τε] spoke[φώνησέν]:  
+334. 2274296 “Welcome[χαίρετε] heralds[κήρυκες], messengers[ἄγγελοι] of Zeus[Διὸς] and[καὶ] also[ἠδὲ] of men[ἀνδρῶν],
+335. 2274296a come[ἴτ'] closer[ἆσσον]. 2274297 don’t worry[by], you[ὔμμες] are not[οὔ] to be blamed[ἐπαίτιοι] by me[μοι] for anything[τί]: instead[ἀλλ'] Agamemnon[Ἀγαμέμνων] is[0],
+336. he[0] who[ὃ] sent[προΐει] you two[σφῶϊ] forth[προΐει] on account of[εἵνεκα] the[0] girl[κούρης] Briseis[Βρισηΐδος].
+337. 2274298 (Achilles turns to Patroclus.) [ἀλλ'] come[ἄγε], Zeus-born[διογενὲς] Patroclus[Πατρόκλεες], bring out[ἔξαγε] the[0] girl[κούρην] 
+338. 2274298a and[καί] give[δὸς] her[0] to these two[σφωϊν] to lead away[ἄγειν]: 2274299 and[δ'] let these two[bz][τὼ] themselves[ca][αὐτὼ], be[ἔστων] witnesses[μάρτυροι]
+339. both[δ'] before[πρός] the[0] blessed[μακάρων] gods[θεῶν] and[τε] before[πρός] mortal[θνητῶν] people[ἀνθρώπων],
+340. and[καὶ] before[πρὸς] that[τοῦ] unfeeling[ἀπηνέος] king[βασιλῆος]: if[εἴ] some day[ποτε] [δ'] again[αὖτε]  
+341. a need[χρειὼ] of me[ἐμεῖο] should arise[γένηται] to defend against[ἀμῦναι] shameful[ἀεικέα] destruction[λοιγὸν]
+342. for those[τοῖς] others[ἄλλοις]. 2274300 For[γὰρ] surely[ἦ] he[ὅ] is out of control[θύει], with lethal[ὀλοιῇσι] intentions[cb][0] in his heart[φρεσὶ],
+343. 2274300a [δέ] he[0] does not[οὐ] understand how[οἶδε] at all[τι] to plan for[νοῆσαι] the[0] future[πρόσσω] and[καὶ] the[0] past[ὀπίσσω] together[ἅμα]
+344. so that[ὅππως] the[0] Achaeans[Ἀχαιοί] might in the future fight[μαχέοιντο] besides[παρὰ] the[0] ships[νηυσὶ], safe[σόοι] under his watch[cc][οἱ].”
+345. 2274301 So[ὣς] he[0] spoke[φάτο], 2274301a and[δὲ] Patroclus[Πάτροκλος] began to obey[ἐπεπείθεθ'] his[0] beloved[φίλῳ] companion[ἑταίρῳ];
+346. 2274301b [δ'] he[0] led[ἄγαγε] the[0] beautiful-cheeked[καλλιπάρῃον] Bryseis[Βρισηΐδα] out of[ἐκ] the[0] resting-place[κλισίης],
+347. 2274301c and[δ'] he[0] gave[δῶκε] her[0] to lead away[ἄγειν]. 2274302 The two of them[τὼ] [δ'] went[ἴτην] back[αὖτις] along[παρὰ] the[0] ships[νῆας] of the[0] Achaeans[Ἀχαιῶν], 
+348. 2274303 and[δ'] she[ἣ], the[0] woman[γυνὴ], reluctant[ἀέκουσ'], started on her way[κίεν] along with[ἅμα] the men[τοῖσι] . 2274304 As for[αὐτὰρ] Achilles[Ἀχιλλεὺς], he[0],
+349. having started to cry[δακρύσας], sat down[ἕζετο] at once[ἄφαρ] far away from[νόσφι] his[0] companions[ἑτάρων], sinking down[λιασθείς]
+350. upon[ἔφ'] the[0] shore[θῖν'] of the[0] gray[πολιῆς] saltwater[ἁλὸς] and[0] looking out[ὁρόων] upon[ἐπ'] the[0] boundless[ἀπείρονα] sea[πόντον].
+351. 2274305 He[0] [δὲ] prayed[ἠρήσατο] at length[πολλὰ] to his[0] beloved[φίλῃ] mother[μητρὶ], reaching out[ὀρεγνύς] his[0] hands[χεῖρας]: 
+352. 2274306 “Mother[μῆτερ], since[ἐπεί] you[0] did give birth to[ἔτεκές γε] me[μ'], although[περ] being destined[ἐόντα] for a[0] short life[μινυνθάδιόν],
+353. at least[πέρ] the[0] Olympian[Ὀλύμπιος] ought[ὄφελλεν] to extend[ἐγγυαλίξαι] to me[μοι] a position commanding appropriate respect[τιμήν]-
+354. Zeus[Ζεὺς] thundering on high[ὑψιβρεμέτης]: 2274307 but[δ'] now[νῦν] not[οὐ] even[δέ] a little[τυτθὸν] has he[0] respected[ἔτισεν] me[με],
+355. 2274308 because[γάρ] in truth[ἦ] the[0] son of Atreus[Ἀτρεΐδης], wide-ruling[εὐρὺ κρείων] Agamemnon[Ἀγαμέμνων], 
+356. has shown me[μ'] disrespect[ἠτίμησεν]: 2274309 for[γὰρ] he[0], having snatched[ἑλὼν]  my[0] prize[cd][γέρας], holds[ἔχει][ce] it[0]- he himself[αὐτὸς] [cf]having stolen[ἀπούρας] it[0].” 
+357. 2274310 So[ὣς] he[0] spoke[φάτο], shedding[χέων] tears[δάκρυ]. 2274310a Him[cg][τοῦ] his[0] revered[πότνια] mother[μήτηρ] heard[ἔκλυε],
+358. sitting[ἡμένη] in[ἐν] the[0] depths[βένθεσσιν] of the[0] sea[ἁλὸς] beside[παρὰ] her[0] father[πατρὶ], an[0] old man[γέροντι].
+359. 2274311 Swiftly[καρπαλίμως] [δ'] she[0] rose up[ἀνέδυ] from the[0] gray[πολιῆς] sea[ἁλὸς] like[ἠΰτ'] the[0] mist[ὀμίχλη],
+360. 2274311a and[καί] [ῥα] before[πάροιθ'] that m[ch]an[αὐτοῖο], still[0] shedding[χέοντος] tears[δάκρυ], she[0] sat down[καθέζετο]
+361. While[τέ] with her[0] hand[χειρί] she[0] caressed[κατέρεξεν] him[μιν], she[0]  also[τ'] spoke[ἔφατ' ἔπος], and[τ'] called him by name[ἔκ ὀνόμαζε]:
+362. “2274312 Son[τέκνον], why[τί] are you[0] crying[κλαίεις]? 2274313 What[τί] [δέ] sorrow[πένθος] entered[ἵκετο] your[σε] heart[φρένας]?
+363. 2274314 Speak out[ἐξαύδα]- do not[μὴ] conceal[κεῦθε] it[0] in your[0] mind[νόῳ], so that[ἵνα] we[0] both[ἄμφω] might know[εἴδομεν].”
+364. 2274315 Groaning[στενάχων] deeply[βαρὺ], he[0] answered[προσέφη] her[τὴν] [δὲ], the[0] swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς]:  
+365. 2274316 “You[0] know[οἶσθα]- 2274317 why[τί] then[ἤ] should I[0] list[ἀγορεύω] all[πάντ'] these things[ταῦτα] to you[τοι], who know[ἰδυίῃ]?
+366. 2274318 We[0] made our way[ᾠχόμεθ'] into[ἐς] Thebes[Θήβην], the[0] sacred[ἱερὴν] city[πόλιν] of Eetion[Ἠετίωνος],
+367. 2274318a and[δὲ] we[0] sacked[διεπράθομέν] it[τὴν] from one end to the other[διεπράθομέν], and[τε] we[0] even[καὶ] led[ἤγομεν] everything[πάντα] here[ἐνθάδε].
+368. 2274319 And[καὶ] while these things[τὰ μὲν] the[0] sons[υἷες] of[Ἀχαιῶν] the[0] Achaeans[Ἀχαιῶν] divided up[δάσσαντο] well[εὖ] among[μετὰ] themselves[σφίσιν]:
+369. 2274319a out of[ἐκ]these[0], however [δ'], they[0] took[ἕλον] the[0] beautiful-cheeked[καλλιπάρῃον] daughter of Chryses[Χρυσηΐδα] for the[0] son of Atreus[Ἀτρεΐδῃ].
+370. 2274320 On his part[αὖθ'] Chryses[Χρύσης], the[0] priest[ἱερεὺς] of the[0] far-shooter[ἑκατηβόλου] Apollo[Ἀπόλλωνος],
+371. came[ἦλθε] to[ἐπὶ] the[0] swift[θοὰς] ships[νῆας] of[Ἀχαιῶν] the[0] bronze-wearing[χαλκοχιτώνων] Achaeans[Ἀχαιῶν]
+372. in order to free[λυσόμενός] [τε] his daughter[θύγατρα], bearing[φέρων] [τ'] boundless[ἀπερείσι'] ransom[ἄποινα],
+373.  holding[ἔχων] the[0] wreaths[στέμματ'] of the[0] far-shooter[ἑκηβόλου] Apollo[Ἀπόλλωνος] in[ἐν] his[0] hands[χερσὶν]
+374. aloft on[ἀνὰ] his[0] golden[χρυσέῳ] staff[σκήπτρῳ], 2274320a and[καὶ] he[0] began to plead with[λίσσετο] all[πάντας] the[0] Achaeans[Ἀχαιούς],
+375. and[δὲ] especially[μάλιστα] with the[0] two[δύω] sons of Atreus[Ἀτρεΐδα], the men[0] the organizers[κοσμήτορε]of the[0] soldiers[λαῶν].
+376.  2274321 Then[ἔνθ'] indeed[μὲν] all[πάντες] the[0] other[ἄλλοι] Achaeans[Ἀχαιοὶ] responded approvingly[ἐπευφήμησαν],
+377.  both[θ'] to show respect for[αἰδεῖσθαί] the[0] priest[ἱερῆα] and[καὶ] to accept[δέχθαι] the[0] shining[ἀγλαὰ] ransom[ἄποινα].
+378.  2274322 Instead[ἀλλ'] this[0] was not[οὐκ] sweet[ἥνδανε] to the[0] son of Atreus[Ἀτρεΐδῃ], Agamemnon[Ἀγαμέμνονι], in his[0] heart[θυμῷ].
+379. 2274322a  In fact,[ἀλλὰ] he[0] dismissed[ἀφίει] him[0] cruelly[κακῶς], 2274322b [δ'] He began to impose upon[ἔτελλε ἐπὶ] him[0] a harsh[κρατερὸν] command[μῦθον].
+380. 2274323 [δ'] The[ὁ] old man[γέρων], seething with anger[χωόμενος], made his way[ᾤχετο] back[πάλιν]- 2274324 and[δ'] to him[τοῖο], after he had begun his prayer[εὐξαμένου],
+381. Apollo[Ἀπόλλων] listened[ἤκουσεν], because[ἐπεὶ] Chryses[0] was[ἦεν] very[μάλα] dear[φίλος] to him[οἱ],
+382. 2274324a and[δ'] he[0] fired[ἧκε] an[0] evil[κακὸν] arrow[βέλος] against[ἐπ'] the[0] Argives[Ἀργείοισι]. 2274325 Now[νυ] the[οἳ] soldiers[λαοὶ],
+383. one after another[ἐπασσύτεροι], began to die[θνῇσκον]. 2274325a[δ'] those[τὰ] arrows[0] of the[0] god[θεοῖο] came at them[ἐπῴχετο]
+384. on every side[πάντῃ] up along[ἀνὰ] the[0] wide[εὐρὺν] camp[στρατὸν] of the[0] Achaeans[Ἀχαιῶν]. 2274326 To us[ἄμμι] [δὲ] the[0] prophet[μάντις],
+385. intentioned[εἰδὼς] well[εὖ], began to publicly deliver[ἀγόρευε] the[0] prophecies[θεοπροπίας] of the[0] far-shooter[ἑκάτοιο].
+386. 2274327 Immediately[αὐτίκ'] I[ἐγὼ] first[πρῶτος] began to urge[κελόμην] that[0] we[0] should appease[ἱλάσκεσθαι] the[0] god[θεὸν].
+387. 2274328 But[δ'] then[ἔπειτα] anger[χόλος] took hold of[λάβεν] the[0] son of Atreus[Ἀτρεΐωνα], 2274328a Instantly[αἶψα] after standing up[ἀναστὰς] 
+388. he[0] gave a menacing command[ἠπείλησεν μῦθον], which[ὃ] [δὴ] has been brought to completion[τετελεσμένος ἐστί]. 
+389. 2274329 Because[γὰρ] one woman [τὴν μὲν] the[0] quick-eyed[ἑλίκωπες] Achaeans[Ἀχαιοὶ] with[σὺν] a swift[θοῇ] ship[νηῒ]
+390. send[πέμπουσιν] to[ἐς] Chryses[Χρύσην], 2274329a and[δὲ] they[0] carry[ἄγουσι] gifts[δῶρα] for the[0] lord[ἄνακτι].
+391. 2274330 But the other woman[τὴν δὲ] just now[νέον] the[0] heralds[κήρυκες] are on their way[ἔβαν], leading[ἄγοντες] her[0] away from[κλισίηθεν] my[0] resting-place[κλισίηθεν] -- 
+392. the[0] daughter[κούρην] of Briseus[Βρισῆος], the woman whom[τήν] the[0] sons[υἷες] of the[0] Achaeans[Ἀχαιῶν] gave[δόσαν] to me[μοι].
+393. 2274331 But[ἀλλὰ] if[εἰ] you[σὺ] really[γε] have the power[δύνασαί], protect[περίσχεο] your[0] noble[ἑῆος] son[παιδὸς]. 
+394. 2274332 After going[ἐλθοῦσ'] towards[δὲ] Olympus[Οὔλυμπον] plead with[λίσαι] Zeus[Δία], if[εἴ] at any time[ποτε] [δή] in any way[τι]
+395. either[ἢ] by word[ἔπει] or[ἠὲ] even[καὶ] by deed[ἔργῳ] you[0] cheered[ὤνησας] the[0] heart[κραδίην] of Zeus[Διὸς].
+396. 2274333 For[γάρ] often[πολλάκι] in[ἐνὶ] the[0] great rooms[μεγάροισιν] of your[σεο] father[πατρὸς] I[0] have heard[ἄκουσα] you[0]
+397. boasting[εὐχομένης], when[ὅτ'] you[0] stated[ἔφησθα] that[0] for the[0] black-clouded[κελαινεφέϊ] son of Cronos[Κρονίωνι]
+398. you[0] alone[οἴη] among[ἐν] the[0] immortals[ἀθανάτοισιν] fought off[ἀμῦναι] shameful[ἀεικέα] destruction[λοιγὸν],
+399. when[ὁππότε] the[0] other[ἄλλοι] Olympians[Ὀλύμπιοι] wished[ἤθελον] to tie[ξυνδῆσαι] him[μιν] up[ξυνδῆσαι],
+400. both[τ'] Hera[Ἥρη] and[ἠδὲ] Poseidon[Ποσειδάων] and even[καὶ] Pallas[Παλλὰς] Athena[Ἀθήνη].
+401. 2274334 But[ἀλλὰ] you[σὺ], the[0] goddess[θεὰ] who having come[ἐλθοῦσα], released[ὑπελύσαο] him[τόν] out of his[0] chains[δεσμῶν],
+402. After swiftly[ὦχ'] calling[καλέσασ'] the[0] hundred-handed man[ἑκατόγχειρον] into[ἐς] great[μακρὸν] Olympus[Ὄλυμπον],
+403. he[0] whom[ὃν] the[0] gods[θεοί] call[καλέουσι] Briareus[ci][Βριάρεων], while[δέ τε] all[πάντες] men[ἄνδρες] call him[0]
+404. Aegaeon[cj][Αἰγαίων']. 2274334a For[γὰρ] he[ὃ] nevertheless[αὖτε] is[0] better[ἀμείνων] than[0] his[οὗ] father[πατρὸς] in terms of[0] physical strength[βίην].
+405. 2274335 He[ὅς] then[ῥα] sat down[καθέζετο] beside[παρὰ] the[0] son of Cronos[Κρονίωνι], rejoicing[γαίων] in his[0] renown[κύδεϊ].
+406. 2274336 And[καὶ] before[0] him[τὸν] they[0] cowered[ὑπέδεισαν], the[0] blessed[μάκαρες] gods[θεοὶ]. 2274336a So[δ'] they[0] did not[οὐ] still[ἔτ'] tie[ἔδησαν] him[0] up[ἔδησαν].
+407. 2274337 Now[νῦν], reminding[μνήσασα] him[μιν] of these things[τῶν], sit at his side[παρέζεο] and[καὶ] take hold of[λαβὲ] his[0] knees[γούνων],
+408. if[αἴ] somehow[πως] he[0] might be willing[κέν ἐθέλῃσιν] to bring aid[ἀρῆξαι] upon[ἐπὶ] the[0] Trojans[Τρώεσσιν],
+409. and[δὲ] squeeze together[ἔλσαι] the[τοὺς] Achaeans[Ἀχαιοὺς] down among[κατὰ] their[0] ships’ decks[πρύμνας], and[τε καὶ] around[ἀμφ'] the[0] sea[ἅλα] alike[τε καὶ],
+410. as they are killed[κτεινομένους], so that[ἵνα] all[πάντες] may join in[ἐπαύρωνται] the fate[0] of their[0] king[βασιλῆος];
+411. and[δὲ] also[καὶ] so that[0] he[0] may come to know[γνῷ], the[0] son of Atreus[Ἀτρεΐδης], widely-ruling[εὐρὺ κρείων] Agamemnon[Ἀγαμέμνων],
+412. his[ἣν] blind actions[ἄτην], that[ὅ τ'] he[0] showed no respect to[οὐδὲν ἔτισεν] the[0] best[ἄριστον] of the[0] Achaeans[Ἀχαιῶν].”
+413. 2274338 And[δ'] Thetis[Θέτις], pouring[χέουσα] down[κατὰ] tears[δάκρυ], then[ἔπειτα] began to answer[ἠμείβετ'] him[τὸν]:
+414. 2274339 [sighing deeply]“[ὤ μοι] My[ἐμόν] son[τέκνον], why[τί νύ] did I[0] raise[ἔτρεφον] you[σ']- I[0], after bearing[τεκοῦσα] you[0] for dread things[αἰνὰ]?
+415. 2274340 If only[αἴθ'] -- you[0] without tears[ἀδάκρυτος] and[καὶ] without suffering[ἀπήμων], ought[ὄφελες] to be sitting[ἧσθαι] beside[παρὰ] the[0] ships[νηυσὶν],
+416. since[ἐπεί], even now[νύ], the[0] fate assigned[αἶσα] to you[τοι] is[0] brief[μίνυνθά] as it is[περ]- not[οὔ] very[μάλα] long[δήν] at all[τι].
+417. 2274341 But now[νῦν δ'], you[0] at the same time[ἅμα] both[τ'] swift to die[ὠκύμορος] and[καὶ] is[0] miserable[ὀϊζυρὸς] above[περὶ] all[πάντων]
+418. have become[ἔπλεο]. 2274342 So[τώ] it was[0] for an[0] evil[κακῇ] destiny[αἴσῃ] that[0] I[0] gave birth to[τέκον] you[σε] in[ἐν] the[0] great rooms[μεγάροισι]. 
+419. 2274343 To present[ἐρέουσα] this[τοῦτο] [δέ] statement[ἔπος] for you[τοι] to Zeus[Διὶ], who delights in thunderbolt[τερπικεραύνῳ],
+420. I, in person[αὐτὴ], will go[εἶμ'] to[πρὸς] snow-covered[ἀγάννιφον] Olympus[Ὄλυμπον] in the hopes that[αἴ κε πίθηται] he[0] may listen[αἴ κε πίθηται].
+421. 2274344 And as for you[ἀλλὰ], you[σὺ] now[νῦν], sitting beside[παρήμενος] the[0] swift-sailing[ὠκυπόροισι] ships[νηυσὶ]- 
+422. maintain[μήνι'] your[0] wrath[μήνι'] against the[0] Achaeans[Ἀχαιοῖσιν]. 2274344a Hold yourself back[ἀποπαύεο] entirely[πάμπαν] from war[πολέμου].
+423. 2274345 For[γὰρ] Zeus[Ζεὺς] yesterday[χθιζὸς] went[ἔβη] into[ἐς] Oceanus[Ὠκεανὸν] among[μετ'] the[0] blameless[ἀμύμονας] Ethiopians[Αἰθιοπῆας],
+424. on account of[κατὰ] a[0] feast[δαῖτα] 2274345a All[πάντες] the[0] gods[θεοὶ] followed[ἕποντο] along[ἅμα].
+425. 2274346 But[δέ] on the[0] twelfth[δωδεκάτῃ] day[0] he[0] will come[ἐλεύσεται] back[αὖτις] to Olympus[Οὔλυμπον].
+426. 2274346a And[καὶ] at that time[τότ'], then[ἔπειτά] on your behalf[τοι] I[0] will go[εἶμι] to[ποτὶ] the[0] bronze-floored[χαλκοβατὲς] house[δῶ] of Zeus[Διὸς],
+427. 2274346b and[καί] I[0] will clasp[γουνάσομαι] him[μιν] by his knees[γουνάσομαι]; 2274346c and[καί] I[0] believe[ὀΐω] that[0] he will [μιν] agree with what I say[πείσεσθαι].”
+428. 2274347 Having spoken[φωνήσασ'] thus[ὣς] [ἄρα] she[0] went away[ἀπεβήσετο]. 2274347a him[τὸν] [δὲ] she left[λίπ'] then and there[αὐτοῦ], 
+429. filled with anger[χωόμενον] throughout[κατὰ] his[0] heart[θυμὸν] because of[0] the[0] well-girdled[ἐϋζώνοιο] woman[ck][γυναικὸς],
+430. she[0] whom[τήν] [ῥα] they[0] stole[ἀπηύρων] by force[βίῃ] with him[0] unwilling[ἀέκοντος]. 2274348 As for[αὐτὰρ] Odysseus[Ὀδυσσεὺς], 
+431. he[0] was on his way[ἵκανεν] to[ἐς] Chrysa[Χρύσην], leading[ἄγων] a[0] sacred[ἱερὴν] sacrifice[ἑκατόμβην].
+432. 2274349 When[ὅτε] they[οἳ] [δ'] [δὴ] entered[ἵκοντο] within[ἐντὸς] the[0] very deep[πολυβενθέος] harbor[λιμένος]
+433. first[μὲν] they[0] took in[στείλαντο] their[0] sails[ἱστία], then they [δ'] placed[θέσαν] them[0] in[ἐν] the[0] black[μελαίνῃ] ship[νηῒ],
+434. 2274349a then[δ'] they[0] guided[πέλασαν], the[0] mast[ἱστὸν] to[[πέλασαν]] the[0] mast-holder[ἱστοδόκῃ] after lowering[ὑφέντες] it[0[ with ropes[προτόνοισιν]
+435. quickly[καρπαλίμως]. 2274349b[δ'] With oars[ἐρετμοῖς] they[0] rowed [προέρεσσαν] her[τὴν] forward[προέρεσσαν] into[εἰς] the[0] anchoring-area[ὅρμον].
+436. 2274350 And[δ'] out[ἐκ] they[0] cast[ἔβαλον] the[0] anchors[εὐνὰς]. 2274350a They[0] tied[ἔδησαν] them[0] down[κατὰ] to the[0] boat’s stern[πρυμνήσι']; 
+437. 2274351[δὲ] [] As for the men themselves[cl][καὶ αὐτοὶ] they[0] made their way[βαῖνον] out[ἐκ] at[ἐπὶ] the[0] edge[ῥηγμῖνι] of the[0] sea[θαλάσσης];
+438. 2274351a They[0] disembarked[ἐκ βῆσαν] the[0] sacrifice[ἑκατόμβην] for the[0] far-shooter[ἑκηβόλῳ] Apollo[Ἀπόλλωνι];
+439. 2274352 And[δὲ] out[ἐκ] of the[0] sea-faring[ποντοπόροιο] ship[νηὸς] Chryseis[Χρυσηῒς] walked[βῆ].
+440. 2274353 And now at the point[μὲν ἔπειτ'] Odysseus[Ὀδυσσεὺς], a[0] man[0] of many counsels[πολύμητις], leading[ἄγων] her[τὴν] up to[ἐπὶ] the[0] altar[βωμὸν],
+441. put[τίθει] her[0] in[ἐν] her[0] beloved[φίλῳ] father’s[πατρὶ] hands[χερσὶ]. 2274353a And[καί] he[0] spoke[προσέειπεν] to him[μιν]:
+442. 2274354 “Oh[ὦ] Chryses[Χρύση], the[0] lord[ἄναξ] of men[ἀνδρῶν] sent[ἔπεμψεν] me[μ'] forth[πρό], Agamemnon[Ἀγαμέμνων], 
+443. both[τε] to lead[ἀγέμεν] the[0] child[παῖδά] to you[σοὶ] and[θ'] a[0] sacred[ἱερὴν] offering[ἑκατόμβην] for Phoebus[Φοίβῳ] 
+444. to perform[ῥέξαι] for the[0] sake[ὑπὲρ] of the[0] Danaans[Δαναῶν], so that[ὄφρ'] we[0] may appease[ἱλασόμεσθα] the[0] lord[ἄνακτα],
+445. he[0] who[ὃς] now[νῦν] has brought[ἐφῆκεν] grievous[πολύστονα] troubles[κήδε'] to the[0] Argives[Ἀργείοισι].
+446. 2274355 Having spoken[εἰπὼν] in this way[ὣς], he[0] placed[τίθει] her[0] in[ἐν] his[0] hands[χερσὶ].2274355a And[δὲ] that man[ὃ], rejoicing[χαίρων], received[δέξατο] 
+447. his[0] beloved[φίλην] daughter[παῖδα]. 2274356 Quickly[ὦκα] the[0] sacred[ἱερὴν] offering[ἑκατόμβην] for the[τοὶ] [δ'] god[θεῷ]
+448. they[0] made stand[ἔστησαν] in a row[ἑξείης] about[περὶ] the[0] well-built[ἐΰδμητον] altar[βωμόν];
+449. 2274356a and[δ’] then[ἔπειτα] they[0] purified their[0] hands with water[χερνίψαντο], and[καὶ] picked up in their hands[ἀνέλοντο] ground barley[οὐλοχύτας];
+450. 2274357 then[δὲ] among them[τοῖσιν] Chryses[Χρύσης], raising[ἀνασχών] his[0] hands[χεῖρας], began to pray[εὔχετο] loudly[μεγάλ']:
+451. 2274358 “Listen to[κλῦθί] me[μευ], silver-bowed[ἀργυρότοξ'] one[0], you[0] who[ὃς] encircled[ἀμφιβέβηκας] Chrysa[Χρύσην]
+452. and[τε] sacred[ζαθέην] Cilla[Κίλλαν], and[τε2] are lord of[ἀνάσσεις] Tenedos[Τενέδοιό] by force[ἶφι]-
+453. 2274359 as[δή] certainly[ἦ] [μὲν] once[ποτ'] before[πάρος] you[0] listened[ἔκλυες] to me[ἐμεῦ] when I had prayed[εὐξαμένοιο]: 
+454. 2274359a as certainly[μὲν] you[0] conferred respect upon[τίμησας] me[ἐμέ] while[δ'] you[0] greatly[μέγα] harmed[ἴψαο] the[0] soldiers[λαὸν] of the[0] Achaeans[Ἀχαιῶν]-
+455. 2274360 Also[ἠδ'] up to this point[ἔτι], even[καὶ]  now[νῦν]  for me[μοι] fulfill as well[ἐπικρήηνον] this[τόδ'] wish[ἐέλδωρ]:
+456. 2274361 Right now[ἤδη νῦν] keep away[ἄμυνον] shameful[ἀεικέα] destruction[λοιγὸν] from the[0] Danaans[Δαναοῖσιν].”
+457. 2274362 So[ὣς] he spoke[ἔφατ'], praying[εὐχόμενος], 2274362a and[δ'] Phoebus[Φοῖβος] Apollo[Ἀπόλλων] listened to[ἔκλυε] him[τοῦ].
+458. 2274363 But [αὐτὰρ] then[ῥ'] after[ἐπεί] they[0] prayed[εὔξαντο] and[καὶ] cast forth[προβάλοντο] the[0] ground barley[οὐλοχύτας],
+459. they[0] first[πρῶτα] pulled back[αὐέρυσαν] [μὲν] the heads of the offerings[0], and[καὶ] then[0] slaughtered[ἔσφαξαν] them[0], and[καὶ2] then[0] flayed[ἔδειραν] them[0].
+460. They[0] cut away[ἐξέταμον] down[κατά] the[0] thighs[μηρούς] [τ'] and[τε] wrapped[ἐκάλυψαν] them[0] in fat[κνίσῃ],
+461. making[ποιήσαντες] it[0] double-folded[δίπτυχα], 2274363a and[δ'] they[0] placed raw meat[ὠμοθέτησαν] on top of[ἐπ'] the thigh pieces[0] themselves[cm][αὐτῶν].
+462. 2274364 The[ὁ] old man[γέρων] began to burn[καῖε] them[0] on[ἐπὶ] skewers[σχίζῃς], 2274364a and[δ'] he began to pour[λεῖβε] flashing[αἴθοπα] wine[οἶνον] on[ἐπὶ] them[0]. 
+463. 2274365 The[0] young men[cn][νέοι] [δὲ] next to[παρ'] him[αὐτὸν] were holding[ἔχον] five-pronged forks[πεμπώβολα] in their[0] hands[χερσίν].
+464. 2274366 As soon as[αὐτὰρ ἐπεὶ] the[0] thigh pieces[μῆρε] were burned[κάη] thoroughly[κατὰ] and[καὶ] they[0] tasted[πάσαντο] the[0] organs[σπλάγχνα],
+465. they[0] began to cut up[μίστυλλόν] [τ'] [ἄρα] the[0] rest[τἆλλα] and[καὶ] pierced[ἔπειραν] them[0] with spits[ὀβελοῖσιν] through both sides[ἀμφ'];
+466. they[0] skillfully[περιφραδέως] roasted[ὤπτησάν] [τε] them[0], and[τε2] pulled off for themselves[ἐρύσαντό] everything[πάντα].
+467. 2274367 As for[αὐτὰρ] the men[0], after they[0] stopped themselves[παύσαντο] from work[πόνου] and[τε] prepared for themselves[τετύκοντό] the[0] feast[δαῖτα];
+468. they distributed among themselves the feast[δαίνυντ'], nor[οὐ δέ] was[ἐδεύετο] a[0] heart[θυμὸς] wanting[ἐδεύετο] in any way[τι] from[ἐδεύετο] the[0] evenly-divided[ἐΐσης] feast[δαιτὸς].
+469. 2274368 Then[αὐτὰρ] after[ἐπεὶ] they[0] dismissed[ἕντο ἐξ] their[0] desire[ἔρον] for drink[πόσιος] and[καὶ] for food[ἐδητύος],
+470. the[0] young men[κοῦροι] [μὲν] filled[ἐπεστέψαντο] the[0] mixing-bowls[κρητῆρας] with wine[ποτοῖο],
+471. and[δ'] they[0] distributed[co][νώμησαν] [ἄρα] this[0] to all the[0] men[πᾶσιν], after made the initial libations[ἐπαρξάμενοι] with the[0] drinking-cups[δεπάεσσιν].
+472. 2274369 Throughout the entire day[πανημέριοι] the men[οἳ] [δὲ] continued to appease[ἱλάσκοντο] the[0] god[θεὸν] through song and dance[μολπῇ],
+473. the[0] elite young men[κοῦροι] of the[0] Achaeans[Ἀχαιῶν] singing[ἀείδοντες] the[0] beautiful[καλὸν] song to Apollo[παιήονα],
+474. celebrating with song[μέλποντες] the[0] far-shooter[ἑκάεργον]: 22743670 And [δὲ] he[ὃ], listening[ἀκούων], was pleased[τέρπετ'] in his[0] heart[φρένα].
+475. 2274371 And[δ'] when[ἦμος] the[0] sun[ἠέλιος] sank[κατέδυ] and[καὶ] dusk[κνέφας] came[ἦλθε] upon[ἐπὶ],
+476. then[τότε] [δὴ] they[0] lay themselves down to sleep[κοιμήσαντο] beside[παρὰ] the[0] stern-cables[πρυμνήσια] of the[0] ship[νηός].
+477. 2274372 And[δ'] when[ἦμος] early-born[ἠριγένεια], rosy-fingered[ῥοδοδάκτυλος] Dawn[Ἠώς] appeared[φάνη],
+478. Right [καὶ] at that time[τότ'] then[ἔπειτ'] they[0] they began to bring themselves back[ἀνάγοντο] towards[μετὰ] the[0] broad[εὐρὺν] camp[στρατὸν] of the[0] Achaeans[Ἀχαιῶν].
+479. 2274373 For them[τοῖσιν] [δ'] the[0] far-shooter[ἑκάεργος] Apollo[Ἀπόλλων] set in motion[ἵει] a[0] favorable[ἴκμενον] wind[οὖρον], :
+480. 2274374 they[οἳ] [δ'] stood up for themseves[στήσαντ'] up[ἀνά] the[0] mast[ἱστὸν] and[θ'] spread out[πέτασσαν] the[0] white[λευκὰ] sails[ἱστία],
+481. 2274374a and[δ']wind[ἄνεμος] swelled[πρήθω ἐν]  the[0] sail[ἱστίον] in its center[μέσον] , 2274374b and[δὲ] on both sides[ἀμφὶ] a[0] wave[κῦμα],
+482. surging[πορφύρεον], began to splash[ἴαχε] against the[0] front[στείρῃ] of the ship[νηὸς], as it travelled[ἰούσης];
+483. 2274375 and[δ'] that[ἣ] ship[0], gliding over[διαπρήσσουσα] its[0] path[κέλευθον], began to run[ἔθεεν] over[κατὰ] the[0] wave[κῦμα]. 
+484. 2274376 And then[αὐτὰρ], after[ἐπεί] [ῥ'] they[0] arrived at[ἵκοντο κατὰ] the[0] broad[εὐρὺν] camp[στρατὸν] of the[0] Achaeans[Ἀχαιῶν],
+485. first[μὲν γε] they[οἵ] pulled[ἔρυσσαν] the[0] black[μέλαιναν] ship[νῆα] onto[ἐπ'] land[ἠπείροιο],
+486. far up[ὑψοῦ] upon[ἐπὶ] the[0] sandy shore[ψαμάθοις], and then[δ'] they[0] laid out[τάνυσσαν] the[0] long[μακρὰ] supports[ἕρματα] underneath[ὑπὸ].
+487. 2274377 The men themselves[cp][αὐτοὶ] began to scatter[ἐσκίδναντο] throughout[κατὰ] both[τε] the[0] resting-places[κλισίας] and[τε2] ships.
+488. 2274378 Elsewhere in the camp[αὐτὰρ] that man[ὃ] remained filled with wrath[μήνιε], sitting alongside[παρήμενος] his[0] swift-sailing[ὠκυπόροισι] ships[νηυσὶ] -- 
+489. the[0]  descendent of Zeus[διογενὴς], son[υἱὸς] of Peleus[Πηλῆος], swift-footed[πόδας ὠκὺς] Achilles[Ἀχιλλεύς]:
+490. 2274379 Neither[οὔτέ] did he ever[ποτʼ] make his way[ πωλέσκετο] into[εἰς] the[0] assembly[ἀγορὴν] that brings glory to men[κυδιάνειραν],
+491. nor[οὔτέ2] into[ἐς] the[0] war[πόλεμον]. 2274379a Instead[ἀλλὰ] he kept wearing away[φθινύθεσκε] his[0] beloved[φίλον] heart[ κῆρ], 
+492. remaining[μένων] right where he was[αὖθι]. 2274379b Day after day he longed for[ποθέεσκε] both[τε] the[0] battle-shout[ἀϋτήν] and[τε2] war[πτόλεμόν].
+493. 2274380 But[ἀλλ'] surely[δή] [ῥ'] from that point[ἐκ τοῖο], when[ὅτε] the[0] twelfth[δυωδεκάτη] dawn[ἠώς] took place[γένετ']
+494. then[τότε] [καὶ] certainly[δὴ] the[0] gods[θεοὶ], existing[ἐόντες] always[αἰὲν], went[ἴσαν] to[πρὸς] Olympus[Ὄλυμπον]
+495. all of them[πάντες] at the same time[ἅμα]. 2274380a But[δ'] Zeus[Ζεὺς] was leading the way[ἦρχε]. 2274381 Thetis[Θέτις] [δ'] was not[οὐ] forgetful[λήθετ'] of the[0] demands[ἐφετμέων] 
+496. of her own[ἑοῦ] son[παιδὸς]- 2274381a Far from it~[ἀλλ' γ'] That woman[ἥ] rose up over[ἀνεδύσετο] a[0] wave[κῦμα] of the[0] sea[θαλάσσης].
+497. 2274382 In the[0] early morning[ἠερίη] [δ'] she[0] went up to[ἀνέβη] the[0] great[μέγαν] heaven[οὐρανὸν] and[τε] Olympus[Οὔλυμπόν].
+498. 2274383 She[0] found[εὗρεν] [δ'] the[0] far-seeing[εὐρύοπα] son of Cronos[Κρονίδην] sitting[ἥμενον] apart from[ἄτερ] the[0] others[ἄλλων], 
+499. on the highest[ἀκροτάτῃ] summit[κορυφῇ] of many-peaked[πολυδειράδος] Olympus[Οὐλύμποιο];
+500. 2274384 And[καί] so then[ῥα] she[0] sat down[καθέζετο] before[πάροιθ'] Zeus[0] himself[cq][αὐτοῖο], 2274384a and[καὶ] she[0] laid hold of[λάβε] his[0] knees[γούνων] 
+501. with her[0] left[σκαιῇ] hand[0], 2274384b and[δ'] [ἄρ'] with her[0] right[δεξιτερῇ] hand[0] she[0] gripped[ἑλοῦσα] beneath[ὑπ'] his[0] chin[ἀνθερεῶνος]-
+502. pleading with[λισσομένη] him[0], she[0] addressed[προσέειπε] the lord[ἄνακτα] Zeus[Δία], son of Cronos[Κρονίωνα]:
+503. 2274385 “Father[πάτερ] Zeus[Ζεῦ], if[εἴ] at any time[ποτε] [δή] I[0] among[μετ'] the[0] immortals[ἀθανάτοισιν] helped[ὄνησα] you[σε],
+504. either[ἢ] by word[ἔπει] or[ἢ2] by deed[ἔργῳ], fulfill[κρήηνον] this[τόδε] wish[ἐέλδωρ] for me[μοι]: 
+505. 2274386 treat[τίμησόν] my[μοι] son[υἱὸν] with proper respect[τίμησόν], he[0] who[ὃς] was doomed[ἔπλετ'] to dying most swiftly[ὠκυμορώτατος] of others[ἄλλων]-
+506 2274387 as for[ἀτάρ] him[0], indeed[γε] now[νῦν] the lord[ἄναξ] of men[ἀνδρῶν] Agamemnon[Ἀγαμέμνων] 
+507. has shown disrespect to[ἠτίμησεν] him[μιν]: 2274388 for[γὰρ] he[0], having snatched[ἑλὼν] his[0] prize[γέρας], holds[cr][ἔχει] it[0]- he himself[αὐτὸς] having stolen[ἀπούρας] it[0].
+508. 2274389 Instead[ἀλλὰ] you for your part[σύ] at least[πέρ], show proper respect for[τῖσον] him[μιν], all-wise[μητίετα] Olympian[Ὀλύμπιε] Zeus[Ζεῦ]:
+509. 2274390 so long[τόφρα] [δ'] grant[τίθει] in the possession of[ἐπὶ] the[0] Trojans[Τρώεσσι] superior strength[κράτος], until[ὄφρ' ἂν] the[0] Achaeans[Ἀχαιοὶ]
+510.  show proper respect[τίσωσιν] my[ἐμὸν] son[υἱὸν] and[τέ] show[ὀφέλλωσίν] him[ἑ] an increased[ὀφέλλωσίν] position of respect[τιμῇ].”
+511. 2274391 So[ὣς] she[0] spoke[φάτο], 2274392 and[δ'] he[0] did not[οὔ] speak to[προσέφη] her[τὴν] at all[τι], Zeus[Ζεύς] the[0] cloud-summoner[νεφεληγερέτα].
+512. 2274392a Rather[ἀλλ'], in silence[ἀκέων] he[0] remained seated[ἧστο] for a long time[δὴν]. 2274393 And[δ'] as[0] Thetis[Θέτις] took hold for herself[ἥψατο] his[0] knees[γούνων],
+513. in this way[ὡς] she[0] kept holding herself on[ἔχετ'], having attached herself on[ἐμπεφυυῖα] him[0]. 2274393a And[καὶ] again[αὖτις]  a second time[δεύτερον] she[0] began to petition[εἴρετο] him[0]:
+514. 2274394 “Promise[ὑπόσχεο] a[0] most[μὲν δή] faithfully[νημερτὲς] to me[μοι], and[καὶ] nod your[0] head to approve[κατάνευσον] this[0]- 
+515. or[ἢ] refuse[ἀπόειπ'], since[ἐπεὶ] for[ἔπι] you[τοι] fear[δέος] is[0] not[οὔ] exist[0], so that[ὄφρ'] I[0] may know[εἰδέω] well[ἐῢ]
+516. how greatly[ὅσσον] I[ἐγὼ] am[εἰμι] the[0] most disrespected[ἀτιμοτάτη] god[θεός] among[μετὰ] all[πᾶσιν].”
+517. 2274395 That woman[τὴν] [δὲ], greatly[μέγ'] agitated[ὀχθήσας], he[0] answered[προσέφη], Zeus[Ζεύς] the[0] cloud-summoner[νεφεληγερέτα]:
+518. 2274396 “Without a doubt[ἦ] [δὴ] these[0] deeds[ἔργ'] are[0] destructive[λοίγια], when[ὅ τέ] you[0] will push to[ἐφήσεις] me[μ'] stir up a fight[ἐχθοδοπῆσαι] with
+519. Hera[Ἥρῃ], when[ὅτ'] she[0] would torment[ἄν ἐρέθῃσιν] me[μ'] with insulting[ὀνειδείοις] words[ἐπέεσσιν]. 
+520. 2274397 And[δὲ] [καὶ] to be sure[ἣ] in the same manner[αὔτως], among[ἐν] the[0] immortal[ἀθανάτοισι] gods[θεοῖσι], with me[μ'] always[αἰεὶ]
+521. she[0] picks fights[νεικεῖ]. 2274397a And[τέ] she[0] even[καί] claims[φησι] that[0] I[μέ] support[ἀρήγειν] the[0] Trojans[Τρώεσσιν] in battle[μάχῃ].
+522. 2274398 But[ἀλλὰ] you[σὺ] on one hand[μὲν]- go[ἀπόστιχε] back[αὖτις] now[νῦν], lest[μή] she[0] should become aware[νοήσῃ] of anything[τι],
+523. Hera[Ἥρη]. 2274399 And on the other hand[δέ] these things[ταῦτα] will be an an object of concern[μελήσεται] for me[ἐμοὶ] until[ὄφρα] I[0] am completely finished[κε τελέσσω] it[0].
+524. 2274400 But come[εἰ δ' ἄγε]- I[0] will nod my approval[κατανεύσομαι] to you[τοι] with my[0] head[κεφαλῇ] so that[ὄφρα] you[0] may have firm confidence[πεποίθῃς]. 
+525. 2274401 As you know[γὰρ], this[τοῦτο] from[ἐξ] me[ἐμέθεν] is[0] truly[γε] the[0] greatest[μέγιστον] among[μετ'] the[0] immortals[ἀθανάτοισι],
+526. this[0] sign[τέκμωρ]- 2274402 for[γὰρ] mine[ἐμὸν] is [0] not[οὐ] to be taken back[παλινάγρετον], nor[οὐ δ'] something that can deceive[ἀπατηλὸν],
+527. nor[οὐ δ'2] can it[0] go unfulfilled[ἀτελεύτητον] -- whatever[ὅ τί] I[0] may nod my approval to[κεν κατανεύσω] with my[0] head[κεφαλῇ].”
+528. 2274403 He[0] spoke[ἦ], 2274403a And[καὶ] with his[0] dark[κυανέῃσιν] brows[ὀφρύσι], he[0] gave the nod of approval[ἐπ' νεῦσε], the[0] son of Cronos[Κρονίων].
+529. 2274404 And[δ'] [ἄρα] his[0] divine[ἀμβρόσιαι] hair[χαῖται] flowed down[ἐπερρώσαντο] from[ἀπ'] the[0] lord’s[ἄνακτος]
+530. immortal[ἀθανάτοιο] head[κρατὸς]: 2274405 and[δ'] he[0] shook[ἐλέλιξεν] great[μέγαν] Olympus[Ὄλυμπον].
+531. 2274406 Then[0] the two[τώ], having planned together[βουλεύσαντε] in this way[ὣς], they[0] separated[διέτμαγεν]. 2274407 Then[ἔπειτα], she[ἣ], for her part[μὲν], 
+532. lept[ἆλτο] from[ἀπ'] glittering[αἰγλήεντος] Olympus[Ὀλύμπου] into[εἰς] the[0] deep[βαθεῖαν] sea[ἅλα],
+533. while[δὲ] Zeus[Ζεὺς] went[0] to[πρὸς] his own[ἑὸν] home[δῶμα]. 2274408 All[πάντες] the[0] gods[θεοὶ] stood up[ἀνέσταν] at the same time[ἅμα]
+534. from[ἐξ] their[σφοῦ] seats[ἑδέων] in front of[ἐναντίον] their[0] father[πατρὸς]; 2274409 not[οὐ δέ] one[τις] of them[0] had the courage[ἔτλη]
+535. to stay in their place[μεῖναι] as he was approaching[ἐπερχόμενον]. 2274409a Instead[ἀλλ'] they[0], facing him in greeting[ἀντίοι], stood[ἔσταν] -- each and every one of them[ἅπαντες].
+536. 2274410 So[ὣς] there[ἔνθα] indeed[μὲν] he[ὃ] sat down[καθέζετ'] on[ἐπὶ] his[0] throne[θρόνου]. 2274411 But[δέ] Hera[Ἥρη], when she had seen[ἰδοῦσ'] him[μιν], did not[οὐ] 
+537. fail to understand[ἠγνοίησεν] that[ὅτι] she[0] had fashioned [συμφράσσατο] plans[βουλὰς] together with[συμφράσσατο] him[οἱ],
+538. silver-footed[ἀργυρόπεζα] Thetis[Θέτις], the[0] daughter[θυγάτηρ] of the[0] old man[γέροντος] of the[0] sea[ἁλίοιο].
+539. 2274412 Right then and there[αὐτίκα] with cutting words[κερτομίοισι] she[0] began to address[προσηύδα] Zeus[Δία], the[0] son of Cronos[Κρονίωνα]:
+540. 2274413 “Who[τίς] [δ'] of the[0] gods[θεῶν] fashioned[συμφράσσατο]  plans[βουλὰς] together with[συμφράσσατο]  you[τοι], devious one[δολομῆτα], this time[αὖ]?
+541. 2274414 It[0] is[ἐστὶν] always[αἰεί] dear[φίλον] to you[τοι] being[ἐόντα]far away[νόσφιν] from[ἀπὸ] me[ἐμεῦ],
+542. thinking[φρονέοντα] secret things[κρυπτάδια] to pass judgment on[δικαζέμεν]. 2274415] To me[μοι] have you[0] not[οὐ] yet[πώ
+543. with any eagerness[πρόφρων] dared[τέτληκας] to give utterance[εἰπεῖν ἔπος] on whatever[ὅττι] you[0] may have in mind[νοήσῃς].”
+544. 2274416 [δ'] Then[ἔπειτα] he[0] began to answer[ἠμείβετ'] her[τὴν], the[0] father[πατὴρ] of both[τε] men[ἀνδρῶν] and[τε] of gods[θεῶν]:
+545. 2274417 “Hera[Ἥρη], do not[μὴ] [δὴ] expect[ἐπιέλπεο] to know[εἰδήσειν] all[πάντας] my[ἐμοὺς] decisions[μύθους]:
+546. 2274418 they[0] will be[ἔσοντ'] too much[χαλεποί] for you[τοι], despite[περ] being[ἐούσῃ] my[0] wife[ἀλόχῳ].
+547. 2274419 This is how it is.[ἀλλ'] Of course,[μέν] whatever[ὃν] [κ'] is[0] fitting[ἐπιεικὲς] to hear[ἀκουέμεν]- then[ἔπειτα] not[οὔ] anyone[τις], 
+548. neither[οὔ τε] any[0] of the[0] gods[θεῶν] nor[οὔ τ'] of  humans[ἀνθρώπων] will know[εἴσεται] that[τὸν]decision[0] before[πρότερος] you[0].
+549. 2274420 But, that said,[δέ] whatever[ὃν] decision[0] I, for my part[ἐγὼν], might choose[κ' ἐθέλωμι] to think through[νοῆσαι] separately[ἀπάνευθε] from the[0] gods[θεῶν]-
+550. as for each and every one of these things, you, for your part[σὺ]- do not[μή] in any way[τι] pose questions[διείρεο] or inquire after[μετάλλα].”
+551. 2274421 Then[ἔπειτα] [δ'] she[0] began to answer[ἠμείβετ'] him[τὸν], the[0] ox-eyed[βοῶπις], revered[πότνια] Hera[Ἥρη]:
+552. 2274422 “Horrid[αἰνότατε] son of Cronos[Κρονίδη], what sort of[ποῖον] command[μῦθον] was[0] that[0] which[τὸν] you[0] said[ἔειπες]?
+553. 2274423 [καὶ] Up until now[πάρος] indeed[γ'] I[0] neither[οὔ τ'] question[εἴρομαι] you[σε] constantly[λίην], nor[οὔ τε] do I[0] make inquiries[μεταλλῶ],
+554. 2274423a but[ἀλλὰ] you[0], very much[μάλ'] at-ease[εὔκηλος], plan[φράζεαι] these things[τὰ] however[ἅσσ'] you[0] should choose[ἐθέλῃσθα].
+555. 2274424 And[δ'] now[νῦν] I[0] am filled with fear[δείδοικα] horribly[αἰνῶς] down through[κατὰ] my[0] heart[φρένα], that[μή] she[0] may have convinced[παρείπῃ] you[σε],
+556. silver-footed[ἀργυρόπεζα] Thetis[Θέτις], daughter[θυγάτηρ] of the[0] old man[γέροντος] of the[0] sea[ἁλίοιο]:
+557. 2274425 for[γὰρ] in the early morning[ἠερίη] she[0] sat beside[παρέζετο] you[σοί] 2274425a and[καὶ] took hold of[λάβε] your[0] knees[γούνων].
+558. 2274426 To her[τῇ], I[0] think[ὀΐω] that[0] you[σ'] actually[ἐτήτυμον] nodded your approval[κατανεῦσαι]- so that[ὡς] to Achilles[Ἀχιλῆα] 
+559. you[0] would show respect[τιμήσῃς], and[δὲ] you[0] would destroy[ὀλέσῃς] many[πολέας] of the[0] Achaeans[Ἀχαιῶν] by[ἐπὶ] the[0] ships[νηυσὶν].”
+560. 2274427 Answering[ἀπαμειβόμενος] her[τὴν], [δ'] cloud-summoner[νεφεληγερέτα] Zeus[Ζεύς] addressed[προσέφη] her[0]:
+561. 2274428 “Impossible woman[δαιμονίη], you[0] always[αἰεὶ] [μὲν] are calculating[ὀΐεαι], 2274428a and[δέ] never[οὐ] do I[0] slip past[λήθω] you[σε].
+562. 2274429 All the same[ἔμπης], [δ'] you[0] will[δυνήσεαι] not[οὔ] be able[δυνήσεαι] to accomplish[πρῆξαι] anything[τι]. 2274429a Instead[ἀλλ'] from[ἀπὸ] my[ἐμοὶ] heart[θυμοῦ]
+563. you[0] will be[ἔσεαι] much more[μᾶλλον] distant[ἀπὸ], 2274430 and[δέ] this[τὸ] will be[ἔσται] even[καὶ] more horrible[ῥίγιον] for you[τοι].
+564. 2274431 If[εἰ] [δ'] this[τοῦτ'] is[ἐστὶν] way things are[οὕτω], this[0] is going[μέλλει] to be[εἶναι] dear[φίλον] to me[ἐμοὶ].
+565. 2274432 Instead[ἀλλ'], sit[κάθησο] quietly[ἀκέουσα], 2274432a and[δ'] listen to[ἐπιπείθεο] my[ἐμῷ] command[μύθῳ],
+566. or else[μή] however many[ὅσοι] gods[θεοί] that[0] are[εἰσ'] in[ἐν] Olympus[Ὀλύμπῳ] now[νύ] would[χραίσμωσιν] not[οὐ] protect[χραίσμωσιν] you[τοι]
+567. from me[0], coming[ἰόνθ'] close[ἆσσον], when[ὅτε] I[0] would set[κέν ἐφείω] invincible[ἀάπτους] hands[χεῖρας] against[κέν ἐφείω] you[τοι].”
+568. 2274433 So[ὣς] he[0] spoke[ἔφατ'], 2274433a and[δὲ] she[0] became afraid[ἔδεισεν], the[0] ox-eyed[βοῶπις], revered[πότνια] Hera[Ἥρη].
+569. 2274433b So[καί ῥ'] she[0] silently[ἀκέουσα] sat down[καθῆστο], restraining[ἐπιγνάμψασα] her[0] beloved[φίλον] heart[κῆρ].
+570. 2274434 Throughout[ἀνὰ] the[0] house[δῶμα] of Zeus[Διὸς] the[0] heavenly[Οὐρανίωνες] gods[θεοὶ] were moved with anger[ὄχθησαν].
+571. 2274435 Among them[τοῖσιν] [δ'] Hephaestus[Ἥφαιστος], celebrated for his skill[κλυτοτέχνης], began[ἦρχ'] to speak to the group[ἀγορεύειν]
+572. conveying[φέρων] pleasing things[ἐπίηρα] for his[0] beloved[φίλῃ] mother[μητρὶ], white-armed[λευκωλένῳ] Hera[Ἥρῃ]:
+573. 2274436 “Without a doubt[ἦ] [δὴ] these[τάδ'] deeds[ἔργα] will be[ἔσσεται] destructive[λοίγια], and[δ'] they[0] will[ἔσσεται] not[οὐ] be[ἔσσεται] tolerable[ἀνεκτά] much longer[ἔτ']
+574. if[εἰ] [δὴ] you two[σφὼ] quarrel[ἐριδαίνετον] in this way[ὧδε] because of[ἕνεκα] mortals[θνητῶν] 
+575. and[δὲ] stir up[ἐλαύνετον] a brawl[κολῳὸν] among[ἐν] the[0] gods[θεοῖσι]. 2274437 Nor[οὐ δέ] will there be[ἔσσεται] any[τι] 
+576. enjoyment[ἦδος] of this[0] good[ἐσθλῆς] feast[δαιτὸς], since[ἐπεὶ] the[τὰ] worse[χερείονα] win[νικᾷ].
+577. 2274438 To[παράφημι] my[0] mother[μητρὶ] I for my part[ἐγὼ] give this advice[παράφημι] [δ'], even[καὶ] though[περ] she[0] can think[νοεούσῃ] for herself[cs][αὐτῇ], 
+578. to convey[φέρειν] pleasing things[ἐπίηρα] to my[0] beloved[φίλῳ] father[πατρὶ] Zeus[Διί], so that[ὄφρα]
+579. my[0] father[πατήρ] would not[μὴ] fight[νεικείῃσι] again[αὖτε] and[δ'] disturb[ταράξῃ] the[0] feast[δαῖτα], with[σὺν] us[ἡμῖν] caught up in it[0].
+580. 2274439 For[γάρ] there is indeed the possibility that[εἴ περ] the[0] Olympian[Ὀλύμπιος] of lightning[ἀστεροπητὴς] would choose[κ' ἐθέλῃσιν] 
+581. to smash[στυφελίξαι] us[0] out of[ἐξ] our[0] seats[ἑδέων], 2274440 since[γὰρ] he[ὃ] is[ἐστιν] the[0] most powerful[φέρτατός] by far[πολὺ].
+582. 2274441 But[ἀλλὰ] when[0] you[σὺ] intend[0] for your own benefit to lay hold upon[καθάπτεσθαι] that man[τὸν] with soft[μαλακοῖσιν] words[ἐπέεσσι].
+583. 2274442 Immediately[αὐτίκ'] then[ἔπειθ'] the[0] Olympian[Ὀλύμπιος] will be[ἔσσεται] gracious[ἵλαος] to us[ἡμῖν].”
+584. 2274443 He[0] spoke[ἔφη] [ἄρ'] thus[ὣς], 2274443a and[καὶ], having lept up[ἀναΐξας], 
+585. he[0] placed[τίθει] a[0] two-handled[ἀμφικύπελλον] cup[δέπας] in[ἐν] his[0] beloved[φίλῃ] mother’s[μητρὶ] hand[χειρὶ]. 2274443b And[καί] he[0] spoke to[προσέειπε] her[μιν]:
+586. 2274444 “Be strong[τέτλαθι], my[ἐμή] mother[μῆτερ], 2274444a and[καὶ] hold yourself up[ἀνάσχεο], although[περ] being troubled[κηδομένη],
+587. lest[μή] you[σε], however[περ] beloved[φίλην] you[0] are[0] in[ἐν] my[0] eyes[ὀφθαλμοῖσιν], I[0] may see[ἴδωμαι]
+588. being beaten[θεινομένην]; 2274444b and[δ'] then[τότε] I[0] will not[οὔ] be able[δυνήσομαι], though[περ] grieving[ἀχνύμενός],
+589. to offer protection[χραισμεῖν] in any way[τι], 2274445 because[γὰρ] the[0] Olympian[Ὀλύμπιος] is[0] very hard[ἀργαλέος] to set oneself against[ἀντιφέρεσθαι].
+590. 2274446 For[γάρ] before now[ἤδη], also [καὶ] at another time[ἄλλοτ'] as I[0] was attempting[μεμαῶτα] to defend[ἀλεξέμεναι] you[0],
+591. he[0] flung[ῥῖψε] me[με], having seized[τεταγὼν] my[0] foot[ποδὸς], down from[ἀπὸ] the[0] divine[θεσπεσίοιο] threshold[βηλοῦ].
+592. 2274446a Throughout[0] the[0] entire[πᾶν] day[ἦμαρ] I[0] was carried onward[φερόμην]. 2274446b Along with[ἅμα] [δ'] the[0] setting[καταδύντι] sun[ἠελίῳ]
+593. I[0] fell down[κάππεσον] on[ἐν] Lemnos[Λήμνῳ], 2274446c and[δ'] still[ἔτι] a little[ὀλίγος] spirit[θυμὸς] was still present within[ἐνῆεν].
+594. 2274447 There[ἔνθά] the[0] Sintian[Σίντιες] men[ἄνδρες] took care of[κομίσαντο] me[με], after having fallen[πεσόντα], straight away[ἄφαρ].” 
+595. 2274448 So[ὣς] he[0] spoke[φάτο], 2274448a and[δὲ] the[0] white-armed[λευκώλενος] goddess[θεὰ] Hera[Ἥρη] smiled[μείδησεν].
+596. 2274448b And[δὲ], after having smiled[μειδήσασα], she[0] accepted[ἐδέξατο] from her[0] child[παιδὸς] the[0] cup[κύπελλον] in[χειρὶ] her[0] hand[χειρὶ].
+597. 2274449 As for[αὐτὰρ] him[0], he[ὃ], starting with the left and moving to the right[ἐνδέξια], for all[πᾶσιν] the[0] other[ἄλλοισι] gods[θεοῖς]
+598. began to pour out wine[οἰνοχόει], drawing[ἀφύσσων] sweet[γλυκὺ] nectar[νέκταρ] out of[ἀπὸ] the[0] mixing-bowl[κρητῆρος];
+599. 2274450 Laughter[γέλως] too loud to be drowned out[ἄσβεστος] [δ'] then[ἄρ'] arose[ἐνῶρτο] among the[0] blessed[μακάρεσσι] gods[θεοῖσιν], 
+600. as[ὡς] they[0] saw[ἴδον] Hephaestus[Ἥφαιστον] bustling[ποιπνύοντα] through[διὰ] the[0] house[δώματα].
+601. 2274451 Then[τότε] in this manner[ὣς] all[πρόπαν] day[ἦμαρ], until[ἐς] the[0] sun[ἠέλιον] had set[καταδύντα],
+602. they[0] were feasting[δαίνυντ']; 2274451a neither[οὐ δέ] did their[0] heart[θυμὸς] lack[ἐδεύετο] anything[τι] of the equally-divided[ἐΐσης] feast[δαιτὸς],
+603. nor[οὐ] indeed[μὲν] of the[0] outstandingly beautiful[περικαλλέος] lyre[φόρμιγγος], which[ἣν] Apollo[Ἀπόλλων] held[ἔχ'],  
+604. nor[θ'] of the[0] Muses[Μουσάων], who [αἳ] sang[ἄειδον], taking turns[ἀμειβόμεναι], with a[0] beautiful[καλῇ] voice[ὀπὶ].
+605. 2274452 And then[αὐτὰρ], after[ἐπεὶ] the[0] shining[λαμπρὸν] light[φάος] of the[0] sun[ἠελίοιο] sank down[κατέδυ],
+606. they[οἳ] [μὲν] each[ἕκαστος] went[ἔβαν] to[δὲ] their[0] home[οἶκον] in order to lie down[κακκείοντες] ,
+607. where[ἧχι] for each[ἑκάστῳ] the[0] widely-renowned[περικλυτὸς] and[0] crippled in both feet[ἀμφιγυήεις]
+608. Hephaestus[Ἥφαιστος] made[ποίησεν] a[0] house[δῶμα], with his[0] knowing[ἰδυίῃσι] mind[πραπίδεσσι].
+609. 2274453 And[δὲ] Olympian[Ὀλύμπιος] Zeus[Ζεὺς], god[0] of lightning[ἀστεροπητής], made his way[ἤϊ'] to[πρὸς] his[ὃν] bed[λέχος].
+610. 2274453a There[ἔνθα] formerly[πάρος] he[0] would rest himself[κοιμᾶθ'] when[ὅτε] sweet[γλυκὺς] sleep[ὕπνος] might come to[ἱκάνοι] him[μιν].
+611. 2274454 There[ἔνθα] he[0], having ascended[ἀναβάς], lay down to sleep[καθεῦδ'], 2274454a and[δὲ] at[παρὰ] his[0] side[παρὰ] was[0] golden-throned[χρυσόθρονος] Hera[Ἥρη].
+
+
+Vocab/cases exercises: θυμὸς
+[1.24] ἀλλ᾽ οὐκ Ἀτρεΐδῃ Ἀγαμέμνονι ἥνδανε θυμῷ,
+[1. 24]  but this was not sweet to the son of Atreus Agamemnon’s heart,
+
+
+[1.173] φεῦγε μάλ᾽ εἴ τοι θυμὸς ἐπέσσυται,
+[1.173] “By all means run away, if your heart is so set,”
+
+
+[1.193] ἧος ὃ ταῦθ᾽ ὥρμαινε κατὰ φρένα καὶ κατὰ θυμόν, 
+[1.193] As he was turning these over through his thoughts and through his heart,
+
+
+[1.192] ἦε χόλον παύσειεν ἐρητύσειέ τε θυμόν.
+[1.192] or he could stop his fury and restrain his heart.
+
+
+[1.196] ἄμφω ὁμῶς θυμῷ φιλέουσά τε κηδομένη τε:
+[1.196] both caring about and concerned for the two men equally in her heart.
+
+
+[1.562] πρῆξαι δ᾽ ἔμπης οὔ τι δυνήσεαι, ἀλλ᾽ ἀπὸ θυμοῦ
+[1.562] all the same, you will not be able to bring about anything- but from my heart
+
+
+Notes/Commentary:
+Linear B tablets: 
+Chadwick, John, and J. T. Killen. "Linear B Tablets from Knossos." The Annual of the British School at Athens 58 (1963): 89
+  
+
+Notes/Commentary- translation on ‘naos,’ 1.39 
+Life in the Homeric Age, Thomas Day Seymour (1907) 
+-p490: “Temples of the gods were not numerous in the Homeric age. The ‘groves were God’s first temples,’ and a field or grove was set apart for the divinity’s worship before any building was erected for him there. The earliest Greek temples were mere shrines,- sometimes no more than a hollow tree,- for the protection of the god’s image or representative.”; “a mere booth or cabin”
+-p 491: “The temples roofed by the old priest must have been simple shrines,”
+
+
+Brill’s New Pauly: encyclopaedia of the ancient world. Classical Tradition, ed. Landfester
+-p. 908: Development into multi-room in Archaic (7/6th C BC); archaeological evidence of Triopion, temple to Apollo at Emecik w/ “various inner structures”
+
+
+Placing the Gods: sanctuaries and sacred spaces in ancient Greece, Susan E Alcock, Robin Osborne (1994)
+-p. 22: Minoan Palatial; more commonly nature sanctuaries, shrine bounded by natural features (peaks); a few that are more closely linked to ‘palace’ have single or multi-room which are drystone and likely unroofed 
+        p. 37 argument that Minoan-type peak sanctuaries influenced Mycenaeans, seen at Epidauros
+-Mycenaean (James Wright): p. 37: megaron/hearth [possible role of wanax], shrine buildings, and open-air
+-p. 62: Shrine buildings tied to palatial were not very monumental, and established in Late Helladic (roughly aligning w/ Trojan War ~1200 BC); ex. “mudbrick structure”, “Most of the buildings have a simple plan with a small floor area; the plan is often irregular and without a strong orientation. The benches built within the shrines are constructed of rubble and mud and sometimes contain deposits of the debris of worship.” 
+-size of the cult centers correspond to city status: Tiryns has a “small one-room cult building” while one at Mycenae atypically monumental, with a gate/ramp leading to palace
+-p. 69: At the same time, shrines not associated with palace may not have any architecture (Tsoungiza)
+
+
+“Excavation of the Greek Temples at Mycenae by the British School at Athens” The Annual of the British School at Athens, Vol. 92- Nancy Klein (1997)
+Mycenaean Bronze Age shrine building at palace- p. 254: “To the west, Wace excavated a room (no. 16) containing two plaster altars, horns of consecration of stucco on clay, scraps of gold and one flint and two obsidian arrowheads. The altars and horns of consecration suggested to him that this might be the palace shrine.”
+-later temple built on top of it, extra work to preserve North-South alignment 
+
+
+“The Cult Centre at Mycenae and the duality of life and death,” British School at Athens Studies, Vol 3 (2005)
+Lyvia Morgan
+Mycenae shrine building layout; built up early LH IIIB, out of use by mid LH IIIB (~1250 BC)
+  
+                
+
+
+
+
+[a]1) we want to include the idea that these are to be taken or snatched (the hel- root) and (2) let's try to get the diminutive -ion (Helwrion vs helwr). This then plays against iphthimos as precious.
+[b]I think that "pickings" would capture the "hel-" root. With diminutive, "small pickings". ... not sure if that has the right tone or register.
+[c]nothing to the left of this -- we have no English corresponding to δὴ yet
+[d]NB: multiword Greek phrase -- many to many aligned
+[e]here the Greek word order is hard -- but I think this is a good approach.
+[f]another "ho gar" after the one in 9. (1) Apollo gets mad --> go back in time --> (2) why did this happen? because the priest  had gone to the ships ...
+[g]I agree with this translation. However, it goes against what is written in Pharr.
+[h]trying to match the commentary- example of future active participle expressing purpose
+[i]actually, Pharr also cites 1109.5, which DOES mention purpose, even though his paraphrase here does not make that clear.
+[j]origin of name in commentary
+[k]"[1) that avoids adding “god” to the text and (2) it tries to capture the force of the perfect]"
+[l]"[autos]"
+[m]"[among them sounds like there is a pronoun -- as there could be -- and this tries to avoid that]"
+[n]"[autos -- again a return of focus back to the previously mentioned group after briefly focusing on the mules and dogs]"
+[o]'ordered' rather than 'summoned' conveys the force of the middle more
+[p]typically "care" but definitely  "distressed/worried" connotations added in some instances; Iliad 1.586, 5.382, 5.399, 5.403
+[q]from the alignment it looks like active use= "he/she/it troubles/distresses" and mp usage is "to be troubled/care"
+[r]middle implying focus?
+[s]warfare usage: Murray uses "slaying/subjugating/vanquishing/enslaves"
+[t]sacrifice-conductor, Agamemnon
+[u]optative turned into participle
+[v]'fully-grown' from 'telos' origins; where is 'without a spot or blemish' reflected in the greek?
+[w]"among" or dative of interest
+[x]This is not the most literal translation. Pharr does provide this translation though, so I think it is fine.
+[y]contrast to didwmi
+[z]Notes on 1.74-83
+74: “keleai”; 2nd pres ind from “kelomai”- ’s’ of ’sai’ lost. Calchas responding to Achilles’ call for a ‘mantis’
+74: “muqhsasqai” in this context, “explain/interpret”
+76: “toigar egwn”: always given primary placement, which shows the significance of the speech
+76: “sunqeo”; 2nd sg aor imp mid; ’s’ of ‘qeso’ lost; literally “put these things together for yourself”
+76: “omosson”; 2nd sg aor imp
+77: “h men”: double emphatic expressing the sincerity of his promise
+77: “profrwn” as nom masc adj, where English would use adverb
+77: “arhcein” fut infinitive in indirect statement introduced by “omosson”
+78: “xolwsemen” future infinitive in indirect statement introduced by “oiomai”
+80: “ote xwsetai” subjunctive in general temporal, without “an” or “ke”- “whenever he is angered”
+80:“xerhi”, from comparative “xereiwn”
+81: “xolon” vs. “kotos”- xolon as initial anger, while kotos is a deep-set grudge that that prompts revenge
+81: “katapepsh”- “pessw” means to change with time and heat, used for digest; “katapessw” means ‘swallow down’
+82: “alla” taken with previous “ei per”- “for even if… afterwards instead’
+82: “ofra” used temporally as “until”
+82: “telessh” subjv with “ofra”, taken with “koson” as object
+83: “frasai” imp middle- “show yourself/make yourself visible”
+[aa]"observe/take heed"; middle usage of "put together"
+[ab]autos
+[ac]'autar' as focus-shift
+[ad]in discussion of 'geras thanotwn': 
+"The Greek noun γέρας, appearing already in Mycenaean Linear B, [4]  appears related to γῆρας ‘old age’ and γέρων ‘old man’, but achieved independence of its linguistic roots early in its history. [5]  Literally, geras is that which is due to a person in respect to his age, but comes to designate a gift, service, or reward given as an index of one’s social status. Geras is a key term in the social contexts: meat is divided (δαίομαι ‘to divide’) for the feast (δαίς ‘a feast’, a nominal derivative from the verbal root of δαίομαι) and apportioned to each member of the feast as a γέρας—the cut and amount of meat is a manifest token of the feaster’s public value. [6]  As such, one’s γέρας is the physical manifestation of his or her τιμή, the {133|134} term that designates the degree of esteem and value a person has in the eyes of his or her peers, and correspondingly, the self-image one possesses from how he or she is treated by others."
+https://chs.harvard.edu/CHS/article/display/5218.4-memorials-tombs-and-the-%20%20%20%20%20-%20%20%20%20%20%20%20%20-the-im-permanence-of-mortuary-architecture-in-the-iliad
+[ae]'see' vs. 'know of'
+[af]'alla' use
+[ag]autos
+[ah]"[are to: conveys the indefiniteness of the subj -- this is hypothetical, you would never dare…]"
+[ai]"[the “in fact” conveys the force of the future ind]"
+[aj]"[“made” avoids the “it” of “having fashioned it” but arsantes is an active participle and better to keep that]"
+[ak]"[the sentence breaks off-- presumably there is a shrug or other non-verbal gesture]"
+[al]"[conveys the simultaneous action of the present participle]"
+[am]autos
+[an]Pharr uses 'frightening,' while Murray uses 'extreme,' 'exceedingly' for both love and anger, 'terrible,' 'dread'- common tone is a forceful scary extreme
+[ao]related to modern use of "oh my"; no literal way to translate expression, but conveying disdain
+[ap]autos
+[aq]middle
+[ar]very personal nature of word 'philos'
+https://www.jstor.org/stable/24591786
+[as]autos
+[at]link to 169, 280- better/more prominent/mightier
+[au]-used also in 214
+Much more commonly used in Odyssey; Murray translates as mostly "insolence" of the suitors, but also "wantonness" of Odysseus' comrades committing war crimes
+[av]'[oneidizw here -- connect with oneidea later]'
+[aw]autos
+[ax]"[autos: shifts our visual focus from the staff hitting the ground back to Achilles]"
+[ay]"[we have used lord for anax vs king for basileus, so let’s use “lord of” for anassô]"
+[az]"[sfin, I think, goes with the verb next to it]"
+[ba]"[i think o popoi is more about dismay than judgment, not sure how to render it]"
+[bb]"[present -- not here yet, but contrast with penthos hiketo in tlg001:1.362]"
+[bc]"[need to convey the force of the perfect]"
+[bd]"[dative of location, “in their hearts”]"
+[be]“[these here things, perhaps waving his hand]”
+[bf]"[alla -- change of focus, dramatic, phps “Just listen to me!”]"
+[bg]"[ -- related to Ares but seems to be a bit more general: Patroklos dead skin will be the same or better in a year]"
+[bh]subjunctive must do more than simple future would
+[bi]"[simply “ho” here because they are still our primary focus, i.e., they were the subjects of apolessan -- contrast autos below]"
+[bj][ = μετά + ὁμιλέω]
+[bk]"[autos -- shifts the focus back from Nsestor, i.e, “those guys I just mentioned”]"
+[bl]"middle"
+[bm]"[autos- but how do we capture the full force of kat’ em’ auton ego?]"
+[bn]“[thumping his chest or the equivalent]”
+[bo]"[pointing in the distance or otherwise emphasizing the point]"
+[bp]“[this is answering the two instances of μὲν]”
+[bq]"[to Ag, with emphatic su]"
+[br]"[middle]"
+[bs]"[pointing at Achilles]"
+[bt]"[to Ach, emphatic su]"
+[bu]emphatic pause, pointed insult?
+[bv]Patroclus
+[bw]'loosening' luw roots
+[bx][autos]
+[by]emphasizing use of 'ummes
+[bz][GRC: capture the dual]
+[ca][autos]
+[cb]we translate as "guts" elsewhere: we should be consistent whatever we use.
+[cc]ethical dative, responsibility
+[cd][GRC: the autos apouras is, I think, tacked on and a bit separate: phps]
+[ce][GRC: the autos apouras is, I think, tacked on and a bit separate: phps]
+[cf][autos]
+[cg]"[ho -- neutral pronoun because ho refers to Ach who was the subject of the preceding sentence, cf autos at 360]"
+[ch]"[autos -- that guy again, not just a form of ho because we are shifting our visual focus back from Thetis]"
+[ci]translation of name in commentary- 'Strong Man'
+[cj]translation of name in commentary- "Aegean"
+[ck]causal genitive
+[cl]"[autos -- the text had focused us on the ship and its components, now we shift back to the men themselves]"
+[cm]"[autwn is plural, not sg, so it must refer to mhroi, the thigh pieces -- why not just twn rather than autumn? we just heard about the mhroi. This is the one place so far where I don’t see why we have autos vs ho, unless we give in and say the “meter made him do it”]"
+[cn]"[autos -- why not just ho? the old man was just the subject]"
+[co]warfare connotations
+[cp]"[autos: shifts our focus from the ship and back to the men]"
+[cq]"[autos: why not ho? because we had also heard about the other gods?] "
+[cr][GRC: the autos apouras is, I think, tacked on and a bit separate: phps]
+[cs][GRC: the kai … per = even though,i.e., is concessive]
