@@ -107,7 +107,7 @@
 
             <div xml:id="abydus-cunliffe-name" type="textpart" n="Ἄβυδος">
                 <head><foreign xml:lang="greek">Ἄβυδος</foreign></head>
-                <p>A city on the s.e. of the Hellespont, a little below Sestus on the other side <bibl n="Hom. Il. 2.836">Il. 2.836</bibl>.</p>
+                <p>A city on the southeast of the Hellespont, a little below Sestus on the other side <bibl n="Hom. Il. 2.836">Il. 2.836</bibl>.</p>
                 <p> <foreign xml:lang="greek">Ἀβυδόθεν [-θεν],</foreign> <gloss>from Abydus</gloss> <bibl n="Hom. Il. 4.500">Il. 4.500</bibl>.</p>
                 <p><foreign xml:lang="greek">Ἀβυδόθι [-θι],</foreign> <gloss>at Abydus</gloss> <bibl n="Hom. Il. 16.584">Il. 16.584</bibl>. </p>
             </div>
@@ -550,7 +550,7 @@
                     <p>(1)</p>
 <p>(<foreign xml:lang="greek">διιπετὴς ποταμός</foreign>, <foreign xml:lang="greek">ἐϋρρείτης</foreign>).</p>
 <p>In masc., the river Nile <bibl n="Hom. Od. 3.300">Od. 3.300</bibl>, <bibl n="Hom. Od. 4.477">Od. 4.477</bibl>, <bibl n="Od. 4.581">581</bibl>, <bibl n="Hom. Od. 14.257">Od. 14.257</bibl>, <bibl n="Od. 14.258">258</bibl>, <bibl n="Hom. Od. 17.427">Od. 17.427</bibl>.</p>
-                    <p><foreign xml:lang="greek">Αἴγυπτόνδε [-δε],</foreign> to the N. <bibl n="Hom. Od. 4.483">Od. 4.483</bibl>, <bibl n="Hom. Od. 14.246">Od. 14.246</bibl>, <bibl n="Hom. Od. 17.426">Od. 17.426</bibl>.</p>
+                    <p><foreign xml:lang="greek">Αἴγυπτόνδε [-δε],</foreign> to the Nile, <bibl n="Hom. Od. 4.483">Od. 4.483</bibl>, <bibl n="Hom. Od. 14.246">Od. 14.246</bibl>, <bibl n="Hom. Od. 17.426">Od. 17.426</bibl>.</p>
                 </div>
                 <div xml:id="aegyptus-cunliffe-name-2" type="textpart">
                     <p> In fem., the land of Egypt <bibl n="Hom. Od. 4.351">Od. 4.351</bibl>, <bibl n="Od. 4.355">355</bibl>, <bibl n="Hom. Od. 14.275">Od. 14.275</bibl>, <bibl n="Hom. Od. 17.448">Od. 17.448</bibl>. </p>
@@ -769,7 +769,7 @@
 
             <div xml:id="aetolus-cunliffe-name" type="textpart" n="Αἰτωλός">
                 <head><foreign xml:lang="greek">Αἰτωλός</foreign></head>
-                <p>Of Aetolia, a district of Greece having the Achelous on the w., and bounded by the Gulf of Corinth on the s.</p>
+                <p>Of Aetolia, a district of Greece having the Achelous on the west, and bounded by the Gulf of Corinth on the south.</p>
 		<p>Of <ref target="Thoas-1-cunliffe-name">Thoas-1</ref> <bibl n="Hom. Il. 4.527">Il. 4.527</bibl>.</p>
                 <p>Of Diomedes <bibl n="Hom. Il. 23.471">Il. 23.471</bibl>.</p>
                 <p> Of one who beguiled Eumaeus <bibl n="Hom. Od. 14.379">Od. 14.379</bibl>.</p>
@@ -1070,8 +1070,7 @@
             <div xml:id="alpheius-cunliffe-name" type="textpart" n="Ἀλφειός">
                 <head><foreign xml:lang="greek">Ἀλφειός</foreign></head>
                 <p>(<foreign xml:lang="greek">ἱερός</foreign>).</p>
-<p>A river of w.</p>
-<p>Peloponnesus flowing through the (apparently n.) extremity of Nestor's realm <bibl n="Hom. Il. 2.592">Il. 2.592</bibl>;</p>
+<p>A river of west Peloponnesus flowing through the (apparently northern) extremity of Nestor's realm <bibl n="Hom. Il. 2.592">Il. 2.592</bibl>;</p>
 <p>father of <ref target="Orsilochus-3-cunliffe-name">Orsilochus-3</ref> <bibl n="Hom. Il. 5.545">Il. 5.545</bibl>: <bibl n="Hom. Od. 3.489">Od. 3.489</bibl>, <bibl n="Hom. Od. 15.187">Od. 15.187</bibl>; <bibl n="Hom. Il. 11.712">Il. 11.712</bibl>, <bibl n="Il. 11.726">726</bibl>, <bibl n="Il. 11.728">728</bibl>. </p>
             </div>
 
@@ -2958,7 +2957,7 @@
 <p>his feats under Athene's protection <bibl n="Hom. Il. 5.1">Il. 5.1</bibl>, wounded by Pandarus <bibl n="Hom. Il. 5.95">95</bibl>, P. aims at him again <bibl n="Hom. Il. 5.280">280</bibl>, he slays <foreign xml:lang="greek">Ρ</foreign>. 290, attacks and wounds Aphrodite 330, 335, attacks Aeneas 432, but retires before Apollo 443, Ares attacks him 849, he wounds Ares and drives him off 855; fights <ref target="Glaucus-2-cunliffe-name">Glaucus-2</ref> <bibl n="Hom. Il. 7.119">Il. 7.119</bibl>, they exchange arms <bibl n="Hom. Il. 7.235">235</bibl>;</p>
 <p>accepts Hector's challenge but does not get the lot <bibl n="Hom. Il. 6.163">Il. 6.163</bibl>;</p>
 <p>speaks against accepting the offer of the Trojan herald <bibl n="Hom. Il. 6.399">Il. 6.399</bibl>;</p>
-<p>comes to the rescue of Nestor <bibl n="Hom. Il. 8.91">Il. 8.91</bibl>, he and N. are put to flight by a thunderbolt from Zeus <bibl n="Hom. Il. 8.130">130</bibl>;</p>
+<p>comes to the rescue of Nestor <bibl n="Hom. Il. 8.91">Il. 8.91</bibl>, he and Nestor are put to flight by a thunderbolt from Zeus <bibl n="Hom. Il. 8.130">130</bibl>;</p>
 <p>declares in the Assembly that he will fight to the end <bibl n="Hom. Il. 9.31">Il. 9.31</bibl>;</p>
 <p>his speech on the announcement by Odysseus of the result of the embassy <bibl n="Hom. Il. 9.697">Il. 9.697</bibl>;</p>
 <p>wakened by Agamemnon <bibl n="Hom. Il. 10.150">Il. 10.150</bibl>, offers to penetrate the hostile lines <bibl n="Hom. Il. 10.219">219</bibl>, sets out with Odysseus <bibl n="Hom. Il. 10.272">272</bibl>, they encounter and capture and slay Dolon <bibl n="Hom. Il. 10.339">339</bibl>, they do execution and slay <ref target="Rhesus-1-cunliffe-name">Rhesus-1</ref> <bibl n="Hom. Il. 10.482">482</bibl>, and return safely <bibl n="Hom. Il. 10.540">540</bibl>;</p>
@@ -3216,7 +3215,7 @@
                 <p>(<foreign xml:lang="greek">ἐϋπλόκαμος</foreign>).</p>
 <p>Daughter of Arsinous.</p>
 <p>Given to Nestor when Tenedos was sacked.</p>
-<p>Doing service in N. 's hut <bibl n="Hom. Il. 11.624">Il. 11.624</bibl>, <bibl n="Hom. Il. 14.6">Il. 14.6</bibl>. </p>
+<p>Doing service in Nestor's hut <bibl n="Hom. Il. 11.624">Il. 11.624</bibl>, <bibl n="Hom. Il. 14.6">Il. 14.6</bibl>. </p>
             </div>
 
             <div xml:id="hectoreus-cunliffe-name" type="textpart" n="Ἑκτόρεος">
@@ -3544,7 +3543,7 @@
                 <head><foreign xml:lang="greek">Ἔρεβος</foreign></head>
                 <p>Genit. <foreign xml:lang="greek">Ἐρέβευς</foreign> <bibl n="Hom. Il. 8.368">Il. 8.368</bibl>: <bibl n="Hom. Od. 11.37">Od. 11.37</bibl>. Abl. <foreign xml:lang="greek">Ἐρέβεσφιν</foreign> <bibl n="Hom. Il. 9.572">Il. 9.572</bibl>.</p>
 <p>The underworld, the realm of Hades <bibl n="Hom. Il. 8.368">Il. 8.368</bibl>, <bibl n="Hom. Il. 9.572">Il. 9.572</bibl>, <bibl n="Hom. Il. 16.327">Il. 16.327</bibl>: <bibl n="Hom. Od. 10.528">Od. 10.528</bibl>, <bibl n="Hom. Od. 11.37">Od. 11.37</bibl>, <bibl n="Od. 11.564">564</bibl>, <bibl n="Hom. Od. 12.81">Od. 12.81</bibl>.</p>
-                <p><foreign xml:lang="greek">Ἔρεβόσδε [-δε],</foreign> to E. <bibl n="Hom. Od. 20.356">Od. 20.356</bibl>. </p>
+                <p><foreign xml:lang="greek">Ἔρεβόσδε [-δε],</foreign> to Erebos, <bibl n="Hom. Od. 20.356">Od. 20.356</bibl>. </p>
             </div>
 
             <div xml:id="eremboi-cunliffe-name" type="textpart" n="Ἐρεμβοί">
@@ -4509,7 +4508,7 @@
 
             <div xml:id="thesprotoi-cunliffe-name" type="textpart" n="Θεσπρωτοί">
                 <head><foreign xml:lang="greek">Θεσπρωτοί</foreign></head>
-                <p>The inhabitants of Thesprotia, a part of Epeirus extending s.e. from the Thyamis <bibl n="Hom. Od. 14.315">Od. 14.315</bibl>, <bibl n="Od. 14.316">316</bibl>, <bibl n="Od. 14.335">335</bibl>, <bibl n="Hom. Od. 16.65">Od. 16.65</bibl>, <bibl n="Od. 16.427">427</bibl>, <bibl n="Hom. Od. 17.526">Od. 17.526</bibl>, <bibl n="Hom. Od. 19.271">Od. 19.271</bibl>, <bibl n="Od. 19.287">287</bibl>, <bibl n="Od. 19.292">292</bibl>. </p>
+                <p>The inhabitants of Thesprotia, a part of Epeirus extending southeast from the Thyamis <bibl n="Hom. Od. 14.315">Od. 14.315</bibl>, <bibl n="Od. 14.316">316</bibl>, <bibl n="Od. 14.335">335</bibl>, <bibl n="Hom. Od. 16.65">Od. 16.65</bibl>, <bibl n="Od. 16.427">427</bibl>, <bibl n="Hom. Od. 17.526">Od. 17.526</bibl>, <bibl n="Hom. Od. 19.271">Od. 19.271</bibl>, <bibl n="Od. 19.287">287</bibl>, <bibl n="Od. 19.292">292</bibl>. </p>
             </div>
 
             <div xml:id="thessalus-cunliffe-name" type="textpart" n="Θεσσαλός">
@@ -5057,7 +5056,7 @@
             <div xml:id="imbros-cunliffe-name" type="textpart" n="Ἴμβρος">
                 <head><foreign xml:lang="greek">Ἴμβρος</foreign></head>
                 <p>(<foreign xml:lang="greek">παιπαλόεσσα</foreign>).</p>
-<p>An island lower in height than Samothrace between S. and Troy and n.w. of Tenedos <bibl n="Hom. Il. 13.33">Il. 13.33</bibl>, <bibl n="Hom. Il. 14.281">Il. 14.281</bibl>, <bibl n="Hom. Il. 24.78">Il. 24.78</bibl>, <bibl n="Il. 24.753">753</bibl>. </p>
+<p>An island lower in height than Samothrace between Samothrace and Troy and northwest of Tenedos <bibl n="Hom. Il. 13.33">Il. 13.33</bibl>, <bibl n="Hom. Il. 14.281">Il. 14.281</bibl>, <bibl n="Hom. Il. 24.78">Il. 24.78</bibl>, <bibl n="Il. 24.753">753</bibl>. </p>
             </div>
 
             <div xml:id="ino-cunliffe-name" type="textpart" n="Ἰνώ">
@@ -5679,7 +5678,7 @@
                 <head><foreign xml:lang="greek">Κίρκη</foreign></head>
                 <p>(<foreign xml:lang="greek">ἀθανάτη</foreign>, <foreign xml:lang="greek">Αἰαίη</foreign>, <foreign xml:lang="greek">δεινὴ θεὸς αὐδήεσσα</foreign>, <foreign xml:lang="greek">ἐϋπλόκαμος</foreign>, <foreign xml:lang="greek">πολυφάρμακος</foreign>, <foreign xml:lang="greek">πότνια</foreign>).</p>
 <p>Daughter of Eelius and Perse and sister of Aeetes.</p>
-<p>Her island reached by Odysseus and his surviving comrades <bibl n="Hom. Od. 10.135">Od. 10.135</bibl>, half the force led by Eurylochus to her house <bibl n="Hom. Od. 10.203">203</bibl>, all but E. turned by her into swine <bibl n="Hom. Od. 10.233">233</bibl>, O. proceeds to the house <bibl n="Hom. Od. 10.261">261</bibl>, Hermes meets and instructs him <bibl n="Hom. Od. 10.275">275</bibl>, he is not affected by C.'s enchantments <bibl n="Hom. Od. 10.314">314</bibl>, his transformed comrades restored <bibl n="Hom. Od. 10.388">388</bibl>, he brings his other comrades from the ship <bibl n="Hom. Od. 10.406">406</bibl>;</p>
+<p>Her island reached by Odysseus and his surviving comrades <bibl n="Hom. Od. 10.135">Od. 10.135</bibl>, half the force led by Eurylochus to her house <bibl n="Hom. Od. 10.203">203</bibl>, all but Eurylochus turned by her into swine <bibl n="Hom. Od. 10.233">233</bibl>, O. proceeds to the house <bibl n="Hom. Od. 10.261">261</bibl>, Hermes meets and instructs him <bibl n="Hom. Od. 10.275">275</bibl>, he is not affected by C.'s enchantments <bibl n="Hom. Od. 10.314">314</bibl>, his transformed comrades restored <bibl n="Hom. Od. 10.388">388</bibl>, he brings his other comrades from the ship <bibl n="Hom. Od. 10.406">406</bibl>;</p>
 <p>after a year C. dispatches him and his comrades to the Shades <bibl n="Hom. Od. 10.488">488</bibl>;</p>
 <p>she receives them on their return <bibl n="Hom. Od. 12.16">Od. 12.16</bibl>, gives directions for their further voyage <bibl n="Hom. Od. 12.37">37</bibl>, they leave the island <bibl n="Hom. Od. 12.144">144</bibl>;</p>
 <p>etc. </p>
@@ -6032,7 +6031,7 @@
             <div xml:id="cythera-cunliffe-name" type="textpart" n="Κύθηρα">
                 <head><foreign xml:lang="greek">Κύθηρα</foreign></head>
                 <p><foreign xml:lang="greek">τά?̔ζάθεἀ</foreign>.</p>
-<p>An island off the s.e. extremity of the Peloponnesus <bibl n="Hom. Il. 15.432">Il. 15.432</bibl>: <bibl n="Hom. Od. 9.81">Od. 9.81</bibl>.</p>
+<p>An island off the southeast extremity of the Peloponnesus <bibl n="Hom. Il. 15.432">Il. 15.432</bibl>: <bibl n="Hom. Od. 9.81">Od. 9.81</bibl>.</p>
                 <p> <foreign xml:lang="greek">Κυθηρόθεν [-θεν],</foreign> from C. <bibl n="Hom. Il. 15.438">Il. 15.438</bibl>. </p>
             </div>
 
@@ -6475,7 +6474,7 @@
             <div xml:id="locroi-cunliffe-name" type="textpart" n="Λοκροί">
                 <head><foreign xml:lang="greek">Λοκροί</foreign></head>
                 <p>Greek.</p>
-<p>The (Epicnemidian and Opuntian) Locrians, inhabiting the coast lands facing the south and s.w. shore of the n.w. end of Euboea <bibl n="Hom. Il. 2.527">Il. 2.527</bibl>, <bibl n="Il. 2.535">535</bibl>, <bibl n="Hom. Il. 13.686">Il. 13.686</bibl>;</p>
+<p>The (Epicnemidian and Opuntian) Locrians, inhabiting the coast lands facing the south and southwest shore of the northwest end of Euboea <bibl n="Hom. Il. 2.527">Il. 2.527</bibl>, <bibl n="Il. 2.535">535</bibl>, <bibl n="Hom. Il. 13.686">Il. 13.686</bibl>;</p>
 <p>were archers <bibl n="Hom. Il. 13.712">Il. 13.712</bibl>.
                 </p>
             </div>
@@ -6516,7 +6515,7 @@
                 <head><foreign xml:lang="greek">Λύκιοι</foreign></head>
                 <p>Trojan.</p>
 <p>(<foreign xml:lang="greek">ἀντίθεοι</foreign>, <foreign xml:lang="greek">ἀσπισταί</foreign>, <foreign xml:lang="greek">ἴφθιμοι</foreign>, <foreign xml:lang="greek">πύκα θωρηκταί</foreign>).</p>
-<p>The Lycians, a people of southwest Asia Minor (s.e. of the Carians) through whose territory the <ref target="Xanthus-2-cunliffe-name">Xanthus-2</ref> ran <bibl n="Hom. Il. 2.876">Il. 2.876</bibl>, <bibl n="Hom. Il. 4.197">Il. 4.197</bibl>, <bibl n="Hom. Il. 5.482">Il. 5.482</bibl>;</p>
+<p>The Lycians, a people of southwest Asia Minor (southeast of the Carians) through whose territory the <ref target="Xanthus-2-cunliffe-name">Xanthus-2</ref> ran <bibl n="Hom. Il. 2.876">Il. 2.876</bibl>, <bibl n="Hom. Il. 4.197">Il. 4.197</bibl>, <bibl n="Hom. Il. 5.482">Il. 5.482</bibl>;</p>
 <p>many slain by Odysseus <bibl n="Hom. Il. 5.676">Il. 5.676</bibl>; <bibl n="Hom. Il. 10.430">Il. 10.430</bibl>, <bibl n="Hom. Il. 12.315">Il. 12.315</bibl>, <bibl n="Hom. Il. 16.421">Il. 16.421</bibl>;</p>
 <p>etc. </p>
             </div>
@@ -6630,7 +6629,7 @@
 
             <div xml:id="maleia-cunliffe-name" type="textpart" n="Μάλεια">
                 <head><foreign xml:lang="greek">Μάλεια</foreign></head>
-                <p>The s.e. extremity of the Peloponnesus <bibl n="Hom. Od. 9.80">Od. 9.80</bibl>.</p>
+                <p>The southeast extremity of the Peloponnesus <bibl n="Hom. Od. 9.80">Od. 9.80</bibl>.</p>
                 <p>So <foreign xml:lang="greek">Μάλειαι</foreign> <bibl n="Hom. Od. 3.287">Od. 3.287</bibl>, <bibl n="Hom. Od. 4.514">Od. 4.514</bibl>, <bibl n="Hom. Il. 19.187">Il. 19.187</bibl>. </p>
             </div>
 
@@ -6648,7 +6647,7 @@
 
             <div xml:id="marathon-cunliffe-name" type="textpart" n="Μαραθών">
                 <head><foreign xml:lang="greek">Μαραθών</foreign></head>
-                <p>A district n.e. of Athens facing Euboea <bibl n="Hom. Od. 6.80">Od. 6.80</bibl>.
+                <p>A district northeast of Athens facing Euboea <bibl n="Hom. Od. 6.80">Od. 6.80</bibl>.
                 </p>
             </div>
 
@@ -7592,31 +7591,108 @@
 <p>(<foreign xml:lang="greek">ἀγακλυτός</foreign>, <foreign xml:lang="greek">ἀμύμων</foreign>, <foreign xml:lang="greek">ἄναξ</foreign>, <foreign xml:lang="greek">ἀντίθεος</foreign>, <foreign xml:lang="greek">δαΐφρων</foreign>, <foreign xml:lang="greek">Διὶ μῆτιν ἀτάλαντος</foreign>, <foreign xml:lang="greek">διίφιλος</foreign>, <foreign xml:lang="greek">διογενής</foreign>, <foreign xml:lang="greek">δῖος</foreign>, <foreign xml:lang="greek">δόλων ἆτος ἠδὲ πόνοιο</foreign>, <foreign xml:lang="greek">δουρικλυτός</foreign>, <foreign xml:lang="greek">ἐσθλός</foreign>, <foreign xml:lang="greek">θεῖος</foreign>, <foreign xml:lang="greek">θεοῖς ἐναλίγκιος</foreign>, <foreign xml:lang="greek">θρασύς</foreign>, <foreign xml:lang="greek">Ἰθακήσιος</foreign>, <foreign xml:lang="greek">κλυτός</foreign>, <foreign xml:lang="greek">κρατερός</foreign>, <foreign xml:lang="greek">κυδάλιμος</foreign>, <foreign xml:lang="greek">μεγάθυμος</foreign>, <foreign xml:lang="greek">μεγαλήτωρ</foreign>, <foreign xml:lang="greek">ποικιλομήτης</foreign>, <foreign xml:lang="greek">πολύαινος</foreign>, <foreign xml:lang="greek">πολύμητις</foreign>, <foreign xml:lang="greek">πολυμήχανος</foreign>, <foreign xml:lang="greek">πολύτλας δῖος</foreign>, <foreign xml:lang="greek">πολύτροπος</foreign>, <foreign xml:lang="greek">πολύφρων</foreign>, <foreign xml:lang="greek">πτολίπορθος</foreign>, <foreign xml:lang="greek">πτολιπόρθιος</foreign>, <foreign xml:lang="greek">ταλασίφρων</foreign>, <foreign xml:lang="greek">τλήμων</foreign>, <foreign xml:lang="greek">φαίδιμος</foreign>).</p>
 <p>(For the significance of the name see <bibl n="Hom. Od. 19.406">Od. 19.406</bibl>.)</p>
 <p>Only son of Laertes and Anticleia, brother of Ctimene, husband of Penelope and father of Telemachus.</p>
-<p>In command of the ship conveying Chryseis to her father <bibl n="Hom. Il. 1.311">Il. 1.311</bibl>, <bibl n="Il. 1.430">430</bibl>; Athene urges him to stop the flight homeward of the Greeks <bibl n="Hom. Il. 2.169">Il. 2.169</bibl>, he deals with Thersites <bibl n="Hom. Il. 2.244">244</bibl>, exhorts the host <bibl n="Hom. Il. 2.278">278</bibl>;</p>
+<p>In command of the ship conveying Chryseis to her father <bibl n="Hom. Il. 1.311">Il. 1.311</bibl>, <bibl n="Il. 1.430">430</bibl>; Athene urges him to stop the flight homeward of the Greeks <bibl n="Hom. Il. 2.169">Il. 2.169</bibl>,</p>
+<p>he deals with Thersites <bibl n="Hom. Il. 2.244">244</bibl>,</p>
+<p>exhorts the host <bibl n="Hom. Il. 2.278">278</bibl>;</p>
 <p>his followers enumerated <bibl n="Hom. Il. 2.631">Il. 2.631</bibl>;</p>
 <p>described by Helen to Priam <bibl n="Hom. Il. 3.191">Il. 3.191</bibl>;</p>
 <p>visited by Agamemnon in his inspection <bibl n="Hom. Il. 4.329">Il. 4.329</bibl>;</p>
 <p>accepts Hector's challenge but does not get the lot <bibl n="Hom. Il. 6.168">Il. 6.168</bibl>;</p>
 <p>neglects the disabled Nestor <bibl n="Hom. Il. 8.97">Il. 8.97</bibl>;</p>
-<p>is one of the embassy to Achilles <bibl n="Hom. Il. 9.169">Il. 9.169</bibl>, his speech <bibl n="Hom. Il. 9.225">225</bibl>, announces the result <bibl n="Hom. Il. 9.677">677</bibl>;</p>
-<p>wakened by Nestor <bibl n="Hom. Il. 10.137">Il. 10.137</bibl>, offers to go with Diomedes to penetrate the hostile lines <bibl n="Hom. Il. 10.231">231</bibl> (see further under Diomedes); comes to the help of the wounded Diomedes <bibl n="Hom. Il. 11.396">Il. 11.396</bibl>, is cut off <bibl n="Hom. Il. 11.401">401</bibl>, after doing much execution is wounded by Socus <bibl n="Hom. Il. 11.434">434</bibl>, kills him <bibl n="Hom. Il. 11.447">447</bibl>, is rescued by Menelaus and <ref target="Aias-1-cunliffe-name">Aias-1</ref> <bibl n="Hom. Il. 11.465">465</bibl>;</p>
+<p>is one of the embassy to Achilles <bibl n="Hom. Il. 9.169">Il. 9.169</bibl>,</p>
+<p>his speech <bibl n="Hom. Il. 9.225">225</bibl>,</p>
+<p>announces the result <bibl n="Hom. Il. 9.677">677</bibl>;</p>
+<p>wakened by Nestor <bibl n="Hom. Il. 10.137">Il. 10.137</bibl>,</p>
+<p>offers to go with Diomedes to penetrate the hostile lines <bibl n="Hom. Il. 10.231">231</bibl> (see further under Diomedes); comes to the help of the wounded Diomedes <bibl n="Hom. Il. 11.396">Il. 11.396</bibl>,</p>
+<p>is cut off <bibl n="Hom. Il. 11.401">401</bibl>,</p>
+<p>after doing much execution is wounded by Socus <bibl n="Hom. Il. 11.434">434</bibl>,</p>
+<p>kills him <bibl n="Hom. Il. 11.447">447</bibl>,</p>
+<p>is rescued by Menelaus and <ref target="Aias-1-cunliffe-name">Aias-1</ref> <bibl n="Hom. Il. 11.465">465</bibl>;</p>
 <p>reproves Agamemnon <bibl n="Hom. Il. 14.83">Il. 14.83</bibl>;</p>
-<p>advises against renewing the fight fasting <bibl n="Hom. Il. 19.155">Il. 19.155</bibl>, <bibl n="Il. 19.216">216</bibl>, superintends the conveyance of the gifts to Achilles 238; his drawn wrestling-match with <ref target="Aias-1-cunliffe-name">Aias-1</ref> <bibl n="Hom. Il. 23.708">Il. 23.708</bibl>, wins the foot-race <bibl n="Hom. Il. 23.755">755</bibl>;</p>
-<p>etc. : his adventures on his way home; the Cicones <bibl n="Hom. Od. 9.39">Od. 9.39</bibl>, the Lotus-eaters <bibl n="Hom. Od. 9.82">82</bibl>, the Cyclops <bibl n="Hom. Od. 9.105">105</bibl>, the island of Aeolus <bibl n="Hom. Od. 10.1">Od. 10.1</bibl>, the Laestrygonians (all the ships lost but his) <bibl n="Hom. Od. 10.80">80</bibl>, Circe's island <bibl n="Hom. Od. 10.135">135</bibl>, Oceanus, the Cimmerians, the Shades <bibl n="Hom. Od. 11.13">Od. 11.13</bibl>, return to Circe's island <bibl n="Hom. Od. 12.1">Od. 12.1</bibl>, the Sirens <bibl n="Hom. Od. 12.146">146</bibl>, smoke, breakers, roaring <bibl n="Hom. Od. 12.201">201</bibl>, Scylla and Charybdis <bibl n="Hom. Od. 12.223">223</bibl>, Thrinacia, the oxen of the Sun <bibl n="Hom. Od. 12.260">260</bibl>, the ship wrecked by violence of the wind, himself the only survivor <bibl n="Hom. Od. 12.403">403</bibl>, Scylla and Charybdis again <bibl n="Hom. Od. 12.430">430</bibl>, reaches Calypso's island <bibl n="Hom. Od. 12.447">447</bibl>, Hermes comes from Zeus to bid C. let him go <bibl n="Hom. Od. 5.29">Od. 5.29</bibl>, he builds his raft <bibl n="Hom. Od. 5.234">234</bibl>, sets sail <bibl n="Hom. Od. 5.269">269</bibl>, Poseidon raises the sea <bibl n="Hom. Od. 5.291">291</bibl>, the raft shattered <bibl n="Hom. Od. 5.313">313</bibl>, Ino comes to his aid <bibl n="Hom. Od. 5.333">333</bibl>, lands in the mouth of a Phaeacian river and falls asleep <bibl n="Hom. Od. 5.451">451</bibl>, wakened by Nausicaa's maidens <bibl n="Hom. Od. 7.117">Od. 7.117</bibl>, his appeal to N. <bibl n="Hom. Od. 7.149">149</bibl>, she conducts him to a point near the city <bibl n="Hom. Od. 7.316">316</bibl>, he proceeds to the city <bibl n="Hom. Od. 6.14">Od. 6.14</bibl>, enters the palace of Alcinous <bibl n="Hom. Od. 6.134">134</bibl>, who receives him hospitably <bibl n="Hom. Od. 6.167">167</bibl>, he views the games and dancing <bibl n="Hom. Od. 8.109">Od. 8.109</bibl>, is taunted by <ref target="Euryalus-2-cunliffe-name">Euryalus-2</ref> <bibl n="Hom. Od. 8.158">158</bibl>, answers him <bibl n="Hom. Od. 8.165">165</bibl>, they are reconciled <bibl n="Hom. Od. 8.396">396</bibl>, <bibl n="Hom. Od. 8.400">400</bibl>, he throws the <foreign xml:lang="greek">δίσκος</foreign> <bibl n="Od. 8.186">186</bibl>, hears the lay of Demodocus 266, relates his adventures <bibl n="Hom. Od. 9.39">Od. 9.39</bibl>, is conveyed with gifts in a Phaeacian ship to Ithaca <bibl n="Hom. Od. 13.70">Od. 13.70</bibl>; Athene comes to him <bibl n="Hom. Od. 13.221">Od. 13.221</bibl>, his tale to her <bibl n="Hom. Od. 13.256">256</bibl>, she transforms him into a beggar <bibl n="Hom. Od. 13.429">429</bibl>;</p>
-<p>he proceeds to the hut of Eumaeus <bibl n="Hom. Od. 14.1">Od. 14.1</bibl>, who receives him hospitably <bibl n="Hom. Od. 14.48">48</bibl>, his tale to Eumaeus <bibl n="Hom. Od. 14.192">192</bibl>, his tale of the night ambush <bibl n="Hom. Od. 14.462">462</bibl>; Telemachus appears at the hut <bibl n="Hom. Od. 16.11">Od. 16.11</bibl>; Athene appears and retransforms O. <bibl n="Hom. Od. 16.155">Od. 16.155</bibl>, O. reveals himself to his son <bibl n="Hom. Od. 16.187">187</bibl>, is transformed back to a beggar <bibl n="Hom. Od. 16.454">454</bibl>;</p>
-<p>with Eumaeus follows Telemachus to the city <bibl n="Hom. Od. 17.200">Od. 17.200</bibl>, they encounter Melantheus <bibl n="Hom. Od. 17.212">212</bibl>, they reach the city <bibl n="Hom. Od. 17.260">260</bibl>;</p>
+<p>advises against renewing the fight fasting <bibl n="Hom. Il. 19.155">Il. 19.155</bibl>, <bibl n="Il. 19.216">216</bibl>,</p>
+<p>superintends the conveyance of the gifts to Achilles 238; his drawn wrestling-match with <ref target="Aias-1-cunliffe-name">Aias-1</ref> <bibl n="Hom. Il. 23.708">Il. 23.708</bibl>,</p>
+<p>wins the foot-race <bibl n="Hom. Il. 23.755">755</bibl>;</p>
+<p>etc. : his adventures on his way home; the Cicones <bibl n="Hom. Od. 9.39">Od. 9.39</bibl>,</p>
+<p>the Lotus-eaters <bibl n="Hom. Od. 9.82">82</bibl>,</p>
+<p>the Cyclops <bibl n="Hom. Od. 9.105">105</bibl>,</p>
+<p>the island of Aeolus <bibl n="Hom. Od. 10.1">Od. 10.1</bibl>,</p>
+<p>the Laestrygonians (all the ships lost but his) <bibl n="Hom. Od. 10.80">80</bibl>,</p>
+<p>Circe's island <bibl n="Hom. Od. 10.135">135</bibl>,</p>
+<p>Oceanus, the Cimmerians, the Shades <bibl n="Hom. Od. 11.13">Od. 11.13</bibl>,</p>
+<p>return to Circe's island <bibl n="Hom. Od. 12.1">Od. 12.1</bibl>,</p>
+<p>the Sirens <bibl n="Hom. Od. 12.146">146</bibl>,</p>
+<p>smoke, breakers, roaring <bibl n="Hom. Od. 12.201">201</bibl>,</p>
+<p>Scylla and Charybdis <bibl n="Hom. Od. 12.223">223</bibl>,</p>
+<p>Thrinacia, the oxen of the Sun <bibl n="Hom. Od. 12.260">260</bibl>,</p>
+<p>the ship wrecked by violence of the wind, himself the only survivor <bibl n="Hom. Od. 12.403">403</bibl>,</p>
+<p>Scylla and Charybdis again <bibl n="Hom. Od. 12.430">430</bibl>,</p>
+<p>reaches Calypso's island <bibl n="Hom. Od. 12.447">447</bibl>,</p>
+<p>Hermes comes from Zeus to bid C. let him go <bibl n="Hom. Od. 5.29">Od. 5.29</bibl>,</p>
+<p>he builds his raft <bibl n="Hom. Od. 5.234">234</bibl>,</p>
+<p>sets sail <bibl n="Hom. Od. 5.269">269</bibl>,</p>
+<p>Poseidon raises the sea <bibl n="Hom. Od. 5.291">291</bibl>,</p>
+<p>the raft shattered <bibl n="Hom. Od. 5.313">313</bibl>,</p>
+<p>Ino comes to his aid <bibl n="Hom. Od. 5.333">333</bibl>,</p>
+<p>lands in the mouth of a Phaeacian river and falls asleep <bibl n="Hom. Od. 5.451">451</bibl>,</p>
+<p>wakened by Nausicaa's maidens <bibl n="Hom. Od. 7.117">Od. 7.117</bibl>,</p>
+<p>his appeal to Nausicaa <bibl n="Hom. Od. 7.149">149</bibl>,</p>
+<p>she conducts him to a point near the city <bibl n="Hom. Od. 7.316">316</bibl>,</p>
+<p>he proceeds to the city <bibl n="Hom. Od. 6.14">Od. 6.14</bibl>,</p>
+<p>enters the palace of Alcinous <bibl n="Hom. Od. 6.134">134</bibl>,</p>
+<p>who receives him hospitably <bibl n="Hom. Od. 6.167">167</bibl>,</p>
+<p>he views the games and dancing <bibl n="Hom. Od. 8.109">Od. 8.109</bibl>,</p>
+<p>is taunted by <ref target="Euryalus-2-cunliffe-name">Euryalus-2</ref> <bibl n="Hom. Od. 8.158">158</bibl>,</p>
+<p>answers him <bibl n="Hom. Od. 8.165">165</bibl>,</p>
+<p>they are reconciled <bibl n="Hom. Od. 8.396">396</bibl>, <bibl n="Hom. Od. 8.400">400</bibl>,</p>
+<p>he throws the <foreign xml:lang="greek">δίσκος</foreign> <bibl n="Od. 8.186">186</bibl>,</p>
+<p>hears the lay of Demodocus 266, relates his adventures <bibl n="Hom. Od. 9.39">Od. 9.39</bibl>,</p>
+<p>is conveyed with gifts in a Phaeacian ship to Ithaca <bibl n="Hom. Od. 13.70">Od. 13.70</bibl>; Athene comes to him <bibl n="Hom. Od. 13.221">Od. 13.221</bibl>,</p>
+<p>his tale to her <bibl n="Hom. Od. 13.256">256</bibl>,</p>
+<p>she transforms him into a beggar <bibl n="Hom. Od. 13.429">429</bibl>;</p>
+<p>he proceeds to the hut of Eumaeus <bibl n="Hom. Od. 14.1">Od. 14.1</bibl>,</p>
+<p>who receives him hospitably <bibl n="Hom. Od. 14.48">48</bibl>,</p>
+<p>his tale to Eumaeus <bibl n="Hom. Od. 14.192">192</bibl>,</p>
+<p>his tale of the night ambush <bibl n="Hom. Od. 14.462">462</bibl>; Telemachus appears at the hut <bibl n="Hom. Od. 16.11">Od. 16.11</bibl>; Athene appears and retransforms O. <bibl n="Hom. Od. 16.155">Od. 16.155</bibl>,</p>
+<p>O. reveals himself to his son <bibl n="Hom. Od. 16.187">187</bibl>,</p>
+<p>is transformed back to a beggar <bibl n="Hom. Od. 16.454">454</bibl>;</p>
+<p>with Eumaeus follows Telemachus to the city <bibl n="Hom. Od. 17.200">Od. 17.200</bibl>,</p>
+<p>they encounter Melantheus <bibl n="Hom. Od. 17.212">212</bibl>,</p>
+<p>they reach the city <bibl n="Hom. Od. 17.260">260</bibl>;</p>
 <p>his dog <ref target="argus-3-cunliffe-name">Argus</ref> <bibl n="Hom. Od. 17.291">Od. 17.291</bibl>;</p>
-<p>he follows Eumaeus into the house <bibl n="Hom. Od. 17.336">Od. 17.336</bibl>, goes begging round the suitors <bibl n="Hom. Od. 17.365">365</bibl>, <pb xml:id="p.30"/> his tale to Antinous 415, A. throws a foot-stool at him 462, he is summoned to Penelope 553, declines to go 561; his quarrel with Irus <bibl n="Hom. Od. 18.1">Od. 18.1</bibl>;</p>
-<p>abused by Melantho <bibl n="Hom. Od. 18.321">Od. 18.321</bibl>, Eurymachus throws another foot-stool at him <bibl n="Hom. Od. 18.394">394</bibl>;</p>
+<p>he follows Eumaeus into the house <bibl n="Hom. Od. 17.336">Od. 17.336</bibl>,</p>
+<p>goes begging round the suitors <bibl n="Hom. Od. 17.365">365</bibl>, <pb xml:id="p.30"/> his tale to Antinous 415, A. throws a foot-stool at him 462, he is summoned to Penelope 553, declines to go 561; his quarrel with Irus <bibl n="Hom. Od. 18.1">Od. 18.1</bibl>;</p>
+<p>abused by Melantho <bibl n="Hom. Od. 18.321">Od. 18.321</bibl>,</p>
+<p>Eurymachus throws another foot-stool at him <bibl n="Hom. Od. 18.394">394</bibl>;</p>
 <p>with Telemachus he removes the arms <bibl n="Hom. Od. 19.4">Od. 19.4</bibl>; Melantho abuses him again <bibl n="Hom. Od. 19.66">Od. 19.66</bibl>;</p>
-<p>his tale to Penelope <bibl n="Hom. Od. 19.165">Od. 19.165</bibl>, P. tests him <bibl n="Hom. Od. 19.215">215</bibl>, he tells of her husband and prophesies his return <bibl n="Hom. Od. 19.262">262</bibl>; Eurycleia ordered to wash him <bibl n="Hom. Od. 19.357">Od. 19.357</bibl>, she recognizes his scar <bibl n="Hom. Od. 19.392">392</bibl>, <bibl n="Hom. Od. 19.467">467</bibl>, how he got the scar <bibl n="Hom. Od. 19.393">393</bibl>, she is silenced <bibl n="Hom. Od. 19.479">479</bibl>;</p>
+<p>his tale to Penelope <bibl n="Hom. Od. 19.165">Od. 19.165</bibl>,</p>
+<p>P. tests him <bibl n="Hom. Od. 19.215">215</bibl>,</p>
+<p>he tells of her husband and prophesies his return <bibl n="Hom. Od. 19.262">262</bibl>; Eurycleia ordered to wash him <bibl n="Hom. Od. 19.357">Od. 19.357</bibl>,</p>
+<p>she recognizes his scar <bibl n="Hom. Od. 19.392">392</bibl>, <bibl n="Hom. Od. 19.467">467</bibl>,</p>
+<p>how he got the scar <bibl n="Hom. Od. 19.393">393</bibl>,</p>
+<p>she is silenced <bibl n="Hom. Od. 19.479">479</bibl>;</p>
 <p>he interprets P.'s dream <bibl n="Hom. Od. 19.535">Od. 19.535</bibl>;</p>
-<p>lies down to sleep in the <foreign xml:lang="greek">πρόδομος</foreign> <bibl n="Od. 20.1">1</bibl>, Athene appears to him 30, Zeus gives him signs 102; Ctesippus throws the foot of an ox at him <bibl n="Hom. Od. 20.287">Od. 20.287</bibl>;</p>
+<p>lies down to sleep in the <foreign xml:lang="greek">πρόδομος</foreign> <bibl n="Od. 20.1">1</bibl>,</p>
+<p>Athene appears to him 30, Zeus gives him signs 102; Ctesippus throws the foot of an ox at him <bibl n="Hom. Od. 20.287">Od. 20.287</bibl>;</p>
 <p>he reveals himself to Philoetius and Eumaeus <bibl n="Hom. Od. 21.193">Od. 21.193</bibl>;</p>
-<p>asks to try the bow <bibl n="Hom. Od. 21.275">Od. 21.275</bibl>, Eumaeus gives it to him on the orders of Telemachus <bibl n="Hom. Od. 21.359">359</bibl>, he strings it <bibl n="Hom. Od. 21.404">404</bibl>;</p>
-<p>kills Antinous <bibl n="Hom. Od. 22.8">Od. 22.8</bibl>, Eurymachus vainly begs for mercy <bibl n="Hom. Od. 22.45">45</bibl>, the fight proceeds <bibl n="Hom. Od. 22.79">79</bibl>, Athene appears <bibl n="Hom. Od. 22.205">205</bibl>, slaughter of the suitors <bibl n="Hom. Od. 22.297">297</bibl>;</p>
-<p>he summons the unfaithful maids for death <bibl n="Hom. Od. 21.431">Od. 21.431</bibl>; Penelope comes to him but doubts <bibl n="Hom. Od. 23.85">Od. 23.85</bibl>, her doubts resolved by his knowledge of the bed <bibl n="Hom. Od. 23.174">174</bibl>, he tells her of the trials that await him <bibl n="Hom. Od. 23.264">264</bibl>, the pair retire <bibl n="Hom. Od. 23.289">289</bibl>, he tells his adventures <bibl n="Hom. Od. 23.310">310</bibl>, he charges her with the care of the house and leaves the city <bibl n="Hom. Od. 23.348">348</bibl>;</p>
-<p>he goes to try his father <bibl n="Hom. Od. 24.216">Od. 24.216</bibl>, his tale to him <bibl n="Hom. Od. 24.303">303</bibl>, reveals himself <bibl n="Hom. Od. 24.321">321</bibl>, the fight with the Ithacans <bibl n="Hom. Od. 24.520">520</bibl>, stopped by Athene <bibl n="Hom. Od. 24.531">531</bibl>;</p>
+<p>asks to try the bow <bibl n="Hom. Od. 21.275">Od. 21.275</bibl>,</p>
+<p>Eumaeus gives it to him on the orders of Telemachus <bibl n="Hom. Od. 21.359">359</bibl>,</p>
+<p>he strings it <bibl n="Hom. Od. 21.404">404</bibl>;</p>
+<p>kills Antinous <bibl n="Hom. Od. 22.8">Od. 22.8</bibl>,</p>
+<p>Eurymachus vainly begs for mercy <bibl n="Hom. Od. 22.45">45</bibl>,</p>
+<p>the fight proceeds <bibl n="Hom. Od. 22.79">79</bibl>,</p>
+<p>Athene appears <bibl n="Hom. Od. 22.205">205</bibl>,</p>
+<p>slaughter of the suitors <bibl n="Hom. Od. 22.297">297</bibl>;</p>
+<p>he summons the unfaithful maids for death <bibl n="Hom. Od. 21.431">Od. 21.431</bibl>; Penelope comes to him but doubts <bibl n="Hom. Od. 23.85">Od. 23.85</bibl>,</p>
+<p>her doubts resolved by his knowledge of the bed <bibl n="Hom. Od. 23.174">174</bibl>,</p>
+<p>he tells her of the trials that await him <bibl n="Hom. Od. 23.264">264</bibl>,</p>
+<p>the pair retire <bibl n="Hom. Od. 23.289">289</bibl>,</p>
+<p>he tells his adventures <bibl n="Hom. Od. 23.310">310</bibl>,</p>
+<p>he charges her with the care of the house and leaves the city <bibl n="Hom. Od. 23.348">348</bibl>;</p>
+<p>he goes to try his father <bibl n="Hom. Od. 24.216">Od. 24.216</bibl>,</p>
+<p>his tale to him <bibl n="Hom. Od. 24.303">303</bibl>,</p>
+<p>reveals himself <bibl n="Hom. Od. 24.321">321</bibl>,</p>
+<p>the fight with the Ithacans <bibl n="Hom. Od. 24.520">520</bibl>,</p>
+<p>stopped by Athene <bibl n="Hom. Od. 24.531">531</bibl>;</p>
 <p>etc.
                 </p>
             </div>
@@ -8253,7 +8329,7 @@
 <p>Son of Nestor.</p>
 <p>Greets Telemachus at Pylus <bibl n="Hom. Od. 3.36">Od. 3.36</bibl>; <bibl n="Hom. Od. 3.400">Od. 3.400</bibl>, <bibl n="Od. 3.415">415</bibl>, <bibl n="Od. 3.454">454</bibl>;</p>
 <p>accompanies T. to Sparta <bibl n="Hom. Od. 3.482">Od. 3.482</bibl>;</p>
-<p>at S. <bibl n="Hom. Od. 4.1">Od. 4.1</bibl>, <bibl n="Od. 4.155">155</bibl>;</p>
+<p>at Sparta <bibl n="Hom. Od. 4.1">Od. 4.1</bibl>, <bibl n="Od. 4.155">155</bibl>;</p>
 <p>eager for departure T. rouses him <bibl n="Hom. Od. 15.46">Od. 15.46</bibl>, <bibl n="Od. 15.48">48</bibl>; <bibl n="Hom. Od. 15.131">Od. 15.131</bibl>, <bibl n="Od. 15.166">166</bibl>;</p>
 <p>they depart <bibl n="Hom. Od. 15.182">Od. 15.182</bibl>, at Pylus takes T. direct to the ship to avoid Nestor's hospitality <bibl n="Hom. Od. 15.202">202</bibl>. </p>
             </div>
@@ -8323,8 +8399,7 @@
                 <head><foreign xml:lang="greek">Περαιβοί</foreign></head>
                 <p>Greek.</p>
 <p>(<foreign xml:lang="greek">μενοπτόλεμοι</foreign>).</p>
-<p>A people of n.</p>
-<p>Thessaly led by Gouneus <bibl n="Hom. Il. 2.749">Il. 2.749</bibl>. </p>
+<p>A people of north Thessaly led by Gouneus <bibl n="Hom. Il. 2.749">Il. 2.749</bibl>. </p>
             </div>
 
             <div xml:id="pergamus-cunliffe-name" type="textpart" n="Πέργαμος">
@@ -8556,7 +8631,7 @@
             <div xml:id="pelion-cunliffe-name" type="textpart" n="Πήλιον">
                 <head><foreign xml:lang="greek">Πήλιον</foreign></head>
                 <p>(<foreign xml:lang="greek">εἰνοσίφυλλον</foreign>).</p>
-<p>A mountain in Magnesia, s.e. of Ossa.</p>
+<p>A mountain in Magnesia, southeast of Ossa.</p>
 <p>The Centaurs driven from it by Peirithous <bibl n="Hom. Il. 2.744">Il. 2.744</bibl> (cf. <bibl n="Hom. Od. 21.295">Od. 21.295</bibl>-304); <bibl n="Hom. Il. 2.757">Il. 2.757</bibl>;</p>
 <p>the spear of Achilles came thence <bibl n="Hom. Il. 16.144">Il. 16.144</bibl>, <bibl n="Hom. Il. 19.391">Il. 19.391</bibl>: the threat of <ref target="Otus-1-cunliffe-name">Otus-1</ref> and Ephialtes to pile Ossa on Olympus and P. on Ossa <bibl n="Hom. Od. 11.315">Od. 11.315</bibl>. </p>
             </div>
@@ -9340,8 +9415,8 @@
 <p>An island forming part of the realm of Odysseus <bibl n="Hom. Il. 2.634">Il. 2.634</bibl>.</p>
                 <p>In <hi rend="ital">Od.</hi> associated with Doulichium, Zacynthus and Ithaca <bibl n="Hom. Od. 1.246">Od. 1.246</bibl>, <bibl n="Hom. Od. 9.24">Od. 9.24</bibl>, <bibl n="Hom. Od. 16.123">Od. 16.123</bibl>, <bibl n="Od. 16.249">249</bibl>, <bibl n="Hom. Od. 19.131">Od. 19.131</bibl>.</p>
                 <p>The home of Ctesippus <bibl n="Hom. Od. 20.288">Od. 20.288</bibl>.</p>
-                <p>The channel between Ithaca and S. <bibl n="Hom. Od. 4.671">Od. 4.671</bibl>, <bibl n="Od. 4.845">845</bibl>, <bibl n="Hom. Od. 15.29">Od. 15.29</bibl>.</p>
-                <p><foreign xml:lang="greek">Σάμηνδε [-δε],</foreign> to S. <bibl n="Hom. Od. 15.367">Od. 15.367</bibl>. </p>
+                <p>The channel between Ithaca and Samos <bibl n="Hom. Od. 4.671">Od. 4.671</bibl>, <bibl n="Od. 4.845">845</bibl>, <bibl n="Hom. Od. 15.29">Od. 15.29</bibl>.</p>
+                <p><foreign xml:lang="greek">Σάμηνδε [-δε],</foreign> to Samos <bibl n="Hom. Od. 15.367">Od. 15.367</bibl>. </p>
             </div>
             </div>
 
@@ -9426,7 +9501,7 @@
 
             <div xml:id="sestus-cunliffe-name" type="textpart" n="Σηστός">
                 <head><foreign xml:lang="greek">Σηστός</foreign></head>
-                <p>A city on the n.w. of the Hellespont, a little above Abydus on the other side <bibl n="Hom. Il. 2.836">Il. 2.836</bibl>. </p>
+                <p>A city on the northwest of the Hellespont, a little above Abydus on the other side <bibl n="Hom. Il. 2.836">Il. 2.836</bibl>. </p>
             </div>
 
             <div xml:id="sthenelaus-cunliffe-name" type="textpart" n="Σθενέλαος">
@@ -9464,7 +9539,7 @@
                 <p><foreign xml:lang="greek">Σιδών</foreign> <bibl n="Hom. Od. 15.425">Od. 15.425</bibl></p>
 <p>(<foreign xml:lang="greek">εὖ ναιομένη</foreign>, <foreign xml:lang="greek">πολύχαλκος</foreign>).</p>
 <p>A maritime city of Phoenicia <bibl n="Hom. Od. 13.285">Od. 13.285</bibl>, <bibl n="Hom. Od. 15.425">Od. 15.425</bibl>.</p>
-                <p><foreign xml:lang="greek">Σιδονίηθεν [-θεν],</foreign> from S. <bibl n="Hom. Il. 7.291">Il. 7.291</bibl>. </p>
+                <p><foreign xml:lang="greek">Σιδονίηθεν [-θεν],</foreign> from Sidonia <bibl n="Hom. Il. 7.291">Il. 7.291</bibl>. </p>
             </div>
 
             <div xml:id="sidonioi-cunliffe-name" type="textpart" n="Σιδόνιοι">
@@ -9576,14 +9651,14 @@
 <p>Daughter of Crataeis.</p>
 <p>A destructive female monster inhabiting a high rock opposite to the rock of Charybdis.</p>
 <p>The rock described <bibl n="Hom. Od. 12.73">Od. 12.73</bibl>.</p>
-<p>Killed by described <bibl n="Hom. Od. 12.85">Od. 12.85</bibl>; <bibl n="Hom. Od. 12.108">Od. 12.108</bibl>, <bibl n="Od. 12.125">125</bibl>, <bibl n="Od. 12.223">223</bibl>, <bibl n="Od. 12.231">231</bibl>; Odysseus passes between S. and Charybdis losing six comrades to S. <bibl n="Hom. Od. 12.235">Od. 12.235</bibl>, <bibl n="Od. 12.245">245</bibl>, <bibl n="Od. 12.261">261</bibl>, <bibl n="Hom. Od. 23.328">Od. 23.328</bibl>; <bibl n="Hom. Od. 12.310">Od. 12.310</bibl>; O. comes again to the rock <bibl n="Hom. Od. 12.430">Od. 12.430</bibl>, escapes <foreign xml:lang="greek">Σ</foreign>. 445. </p>
+<p>Scylla described <bibl n="Hom. Od. 12.85">Od. 12.85</bibl>; <bibl n="Hom. Od. 12.108">Od. 12.108</bibl>, <bibl n="Od. 12.125">125</bibl>, <bibl n="Od. 12.223">223</bibl>, <bibl n="Od. 12.231">231</bibl>; Odysseus passes between Scylla and Charybdis losing six comrades to Scylla <bibl n="Hom. Od. 12.235">Od. 12.235</bibl>, <bibl n="Od. 12.245">245</bibl>, <bibl n="Od. 12.261">261</bibl>, <bibl n="Hom. Od. 23.328">Od. 23.328</bibl>; <bibl n="Hom. Od. 12.310">Od. 12.310</bibl>; Odysseus comes again to the rock <bibl n="Hom. Od. 12.430">Od. 12.430</bibl>, escapes <foreign xml:lang="greek">Σ</foreign>. 445. </p>
             </div>
 
             <div xml:id="scyrus-1-cunliffe-name" type="textpart" n="Σκῦρος-1">
                 <head><foreign xml:lang="greek">Σκῦρος-1</foreign>.</head>
                 <p>The Aegean island.</p>
 <p>Neoptolemus brought up there <bibl n="Hom. Il. 19.326">Il. 19.326</bibl>: Odysseus took him thence to Troy <bibl n="Hom. Od. 11.509">Od. 11.509</bibl>.</p>
-                <p><foreign xml:lang="greek">Σκυρόθεν [-θεν],</foreign> from S. <bibl n="Hom. Il. 19.332">Il. 19.332</bibl>. </p>
+                <p><foreign xml:lang="greek">Σκυρόθεν [-θεν],</foreign> from Scyrus <bibl n="Hom. Il. 19.332">Il. 19.332</bibl>. </p>
             </div>
 
             <div xml:id="scyrus-2-cunliffe-name" type="textpart" n="Σκῦρος-2">
@@ -9613,15 +9688,15 @@
             <div xml:id="sounium-cunliffe-name" type="textpart" n="Σούνιον">
                 <head><foreign xml:lang="greek">Σούνιον</foreign></head>
                 <p>(<foreign xml:lang="greek">ἱρόν</foreign>).</p>
-<p>The s.e. point of Attica <bibl n="Hom. Od. 3.278">Od. 3.278</bibl>. </p>
+<p>The southeast point of Attica <bibl n="Hom. Od. 3.278">Od. 3.278</bibl>. </p>
             </div>
 
             <div xml:id="sparta-cunliffe-name" type="textpart" n="Σπάρτη">
                 <head><foreign xml:lang="greek">Σπάρτη</foreign></head>
                 <p>(<foreign xml:lang="greek">εὐρεῖα</foreign>, <foreign xml:lang="greek">καλλιγύναιξ</foreign>).</p>
 <p>The chief city of Lacedaemon <bibl n="Hom. Il. 2.582">Il. 2.582</bibl>, <bibl n="Hom. Il. 4.52">Il. 4.52</bibl>: <bibl n="Hom. Od. 1.93">Od. 1.93</bibl>, <bibl n="Hom. Od. 2.214">Od. 2.214</bibl>, <bibl n="Od. 2.359">359</bibl>, <bibl n="Hom. Od. 11.460">Od. 11.460</bibl>, <bibl n="Hom. Od. 13.412">Od. 13.412</bibl>.</p>
-                <p><foreign xml:lang="greek">Σπάρτηνδε [-δε],</foreign> to S. <bibl n="Hom. Od. 1.285">Od. 1.285</bibl>.</p>
-                <p><foreign xml:lang="greek">Σπάρτηθεν [-θεν],</foreign> from S. <bibl n="Hom. Od. 2.327">Od. 2.327</bibl>, <bibl n="Hom. Od. 4.10">Od. 4.10</bibl>.</p>
+                <p><foreign xml:lang="greek">Σπάρτηνδε [-δε],</foreign> to Sparta <bibl n="Hom. Od. 1.285">Od. 1.285</bibl>.</p>
+                <p><foreign xml:lang="greek">Σπάρτηθεν [-θεν],</foreign> from Sparta <bibl n="Hom. Od. 2.327">Od. 2.327</bibl>, <bibl n="Hom. Od. 4.10">Od. 4.10</bibl>.</p>
                 <p>See also <foreign xml:lang="greek">Λακεδαίμων</foreign> <ref>2</ref>. </p>
             </div>
 
@@ -9688,7 +9763,7 @@
             <div xml:id="syme-cunliffe-name" type="textpart" n="Σύμη">
                 <head><foreign xml:lang="greek">Σύμη</foreign></head>
                 <p>An island to the north of Rhodes.</p>
-                <p><foreign xml:lang="greek">Σύμηθεν [-θεν],</foreign> from S. <bibl n="Hom. Il. 2.671">Il. 2.671</bibl>. </p>
+                <p><foreign xml:lang="greek">Σύμηθεν [-θεν],</foreign> from Syme <bibl n="Hom. Il. 2.671">Il. 2.671</bibl>. </p>
             </div>
 
             <div xml:id="syria-cunliffe-name" type="textpart" n="Συρίη">
@@ -10946,7 +11021,7 @@
 
             <div xml:id="psyria-cunliffe-name" type="textpart" n="Ψυρίη">
                 <head><foreign xml:lang="greek">Ψυρίη</foreign></head>
-                <p>An island n.w. of Chios <bibl n="Hom. Od. 3.171">Od. 3.171</bibl>. </p>
+                <p>An island northwest of Chios <bibl n="Hom. Od. 3.171">Od. 3.171</bibl>. </p>
             </div>
 
             <div xml:id="ogygia-cunliffe-name" type="textpart" n="Ὠγυγίη">
