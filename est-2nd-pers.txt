@@ -3,14 +3,16 @@ wouldest	would:est-*	16
 knowest	know:est-*	15
 mightest	might:est-*	12
 sayest	say:est-*	11
-biddest	bid:est-*	11
+biddest	command:est-*	11
 shouldest	should:est-*	10
 speakest	speak:est-*	9
 sleepest	sleep:est-*	5
 liest	lie:est-e	5
+comest	come:est-e	1
 carest	care:est-e	5
-slayest	slay:est-*	4
+slayest	kill:est-*	4
 rulest	rule:est-e	4
+knewest	knew:est-*	1
 lovest	love:est-e	4
 hearest	hear:est-*	4
 bearest	bear:est-*	4
@@ -90,3 +92,5 @@ Seekest	Seek:est-*	1
 Rememberest	Remember:est-*	1
 Hearest	Hear:est-*	1
 Deemest	Deem:est-*	1
+Canst	Can:est-*	1
+canst	can:est-*	1

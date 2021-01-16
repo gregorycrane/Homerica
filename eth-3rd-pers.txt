@@ -157,6 +157,7 @@ mastereth	masters:eth-s	1
 meeteth	meets:eth-s	1
 melteth	melts:eth-s	1
 meseemeth	meseems:eth-s	2
+mightest	might:est-*
 mingleth	mingles:eth-es	1
 minisheth	diminishes:vocab	3
 moveth	moves:eth-es	1
@@ -213,6 +214,7 @@ rusheth	rushes:eth-es	2
 saileth	sails:eth-s	1
 saveth	saves:eth-es	2
 sayeth	says:eth-s	1
+sayest	say:est-*	1
 scattereth	scatters:eth-s	3
 scourgeth	scourges:eth-es	1
 seemeth	seems:eth-s	19
