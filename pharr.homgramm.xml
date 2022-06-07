@@ -1019,9 +1019,8 @@ Derivatives : dino-saur, din-ichthys, din-ornis; caco-graphy, cac-phony; calli-g
 
 Gravestone of Aristion
 
-National Museum,
-Athens
-Found near Marathon in 1838. Belongs to the late sixth century B.C. Incorrectly called the “ Warrior of Marathon.”  
+<figure>National Museum, Athens
+Found near Marathon in 1838. Belongs to the late sixth century B.C. Incorrectly called the “ Warrior of Marathon.”  </figure>
 
 Translate:
 
@@ -1109,15 +1108,17 @@ Translate:
 
 1. <foreign xml:lang="greek">καλὴ θεὰ ἔχει βουλὴν καλήν.</foreign>
 
-A noble goddess has a good plan.
+A[0] noble [καλὴ] goddess [θεὰ] has [ἔχει] a[0] good[καλήν] plan[βουλὴν].
 
 2. <foreign xml:lang="greek">καλαὶ θεαί εἰσι φίλαι ψύχῃ θεᾶς θαλάσσης δεινῆς.</foreign>
 
-Noble goddesses are dear to the soul of the goddess of the fearful sea. or (less likely?) 
+Noble[καλαὶ] goddesses[θεαί] are[εἰσι] dear[φίλαι] to[ψύχῃ] the[0] soul[ψύχῃ] of[θεᾶς] the[0] goddess[θεᾶς] of[θαλάσσης] the[0] fearful[δεινῆς] sea[θαλάσσης]. 
+
+or (less likely?) 
 
 Noble goddesses are dear to the soul of the fearful goddess of the sea.
 
-2. <foreign xml:lang="greek">Κίλλα καὶ Χρύση εἰσι καλαὶ καὶ φίλαι θεῇσι θαλασσάων.</foreign>
+3. <foreign xml:lang="greek">Κίλλα καὶ Χρύση εἰσι καλαὶ καὶ φίλαι θεῇσι θαλασσάων.</foreign>
 
 Killa and Chryse are beautiful and dear to the goddesses of the seas.
 
@@ -1166,6 +1167,7 @@ Who does not have a noble soul?
 2. They have many plans, but (they are) cowardly (ones).
 
 <foreign xml:lang="greek">ἔχουσι βούλας πολλὰς μέν, κακὰς δέ.</foreign>
+<foreign xml:lang="greek">ἔχουσι βούλας πολλὰς μέν,   κακαὶ δέ εἰσι.</foreign>
 
 3. The plans are dear to the soul of the beautiful goddess, for they are noble.
 
@@ -5606,6 +5608,10 @@ Derivatives: Dinomache, log-, scio-, theo-machy, timo-cracy.
 
 Iliad, 173-181
 
+“ φεῦγε μάλ᾽, εἴ τοι θυμὸς ἐπέσσυται, οὐδέ σ᾽ ἐγώ γε
+λίσσομαι εἵνεκ᾽ ἐμεῖο μένειν " παρ᾽ ἐμοί γε καὶ ἄλλοι,
+
+οἵ κέ με τιμήσουσι, μάλιστα δὲ μητίετα Ζεύς. 175
 ἔχθιστος δέ μοί ἐσσι διοτρεφέων βασιλήων·
 
 αἰεὶ γάρ τοι ἔρις τε φίλη πόλεμοί τε μάχαι τε.
@@ -7513,7 +7519,7 @@ Iliad, 290-303
     
 ἐίση, [ἴσος]equal, equivalent, symmetrical, well-balanced.
     
-ἐπι-πλέω (πλευ-, πλερ-, πλν-), ἐπιπλεύσομαι, ἐπέπλευσα*, ἐπιπέπλεν-
+ἐπι-πλέω (πλευ-, πλεϝ-, πλυ-), ἐπιπλεύσομαι, ἐπέπλευσα*, ἐπιπέπλεν-
 κα, ἐπιπέπλευσμαι*, sail (upon, over), navigate.
     
 κέλευθος, κελεύθου, ἡ (plur. κέλενθα, κελεύθων, τά)road, way, path, journey, route.
@@ -7637,7 +7643,7 @@ Iliad, 304-314
     
     
     
-    Derivatives: ‘ Eureka” ; therap-eutic(s, -al), psycho-therapy; tel-,4; phon-, 296.
+Derivatives: "Eureka” ; therap-eutic(s, -al), psycho-therapy; tel-,4; phon-, 296.
 
 
 </p>
