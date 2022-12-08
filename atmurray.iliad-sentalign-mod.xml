@@ -154,6 +154,7 @@
 <s xml:id="sent2274114" n="1.24">But this did not please the heart of Agamemnon, son of Atreus.</s>
 
 
+
 <s xml:id="sent2274114a" n="1.25"><milestone n="25" unit="line"/>Instead, he sent him away harshly.</s>
 
 
@@ -185,7 +186,6 @@
 </div>
 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:1.33-1.67">
 <p>
-
 
 
 
@@ -409,7 +409,10 @@ Apollo heard him.</s>
 
 
 
-<s xml:id="sent2274156" n="1.103-1.104">With rage his black heart was wholly filled, and his eyes were like blazing fire.</s>
+<s xml:id="sent2274156" n="1.103-1.104">With rage his black heart was wholly filled.</s>
+
+
+<s xml:id="sent2274156a" n="1.104">His eyes were like blazing fire.</s>
 
 
 <s xml:id="sent2274157" n="1.105"><milestone n="105" unit="line"/>To Calchas first of all he spoke, and his look threatened evil:</s></p>
@@ -422,7 +425,11 @@ Apollo heard him.</s>
 
 
 
-<s xml:id="sent2274159" n="1.107-1.108">ever is evil dear to your heart to prophesy, but a word of good you have never yet spoken, nor brought to pass.</s>
+<s xml:id="sent2274159" n="1.107">ever is evil dear to your heart to prophesy.</s>
+
+
+
+<s xml:id="sent2274159a" n="1.108">A word of good you have never yet spoken, nor brought to pass.</s>
 
 
 
@@ -465,7 +472,10 @@ Apollo heard him.</s>
 <s xml:id="sent2274168" n="1.124">We know of no substantial common goods that are available.</s>
 
 
-<s xml:id="sent2274169" n="1.125-1.126"><milestone n="125" unit="line"/>Far from it! Whatever we seized as booty from the cities has been been divided up. It is certainly not proper to gather these things, snatched back from the army.</s>
+<s xml:id="sent2274169" n="1.125"><milestone n="125" unit="line"/>Far from it! Whatever we seized as booty from the cities has been been divided up.</s>
+
+
+<s xml:id="sent2274169a" n="1.126">It is certainly not proper to gather these things, snatched back from the army.</s>
 
 
 
@@ -567,7 +577,7 @@ Apollo heard him.</s>
 
 
 
-<s xml:id="sent2274185b"    n="1.160">You just don't care.</s>
+<s xml:id="sent2274185a"    n="1.160">You just don't care.</s>
 
 
 
@@ -848,7 +858,10 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274227" n="1.223-1.224">But the son of Peleus again addressed with violent words the son of Atreus, and in no way ceased from his wrath:</s><q>
+<s xml:id="sent2274227" n="1.223">But the son of Peleus again addressed with violent words the son of Atreus.</s>
+
+
+<s xml:id="sent2274227a" n="1.224">In no way was he ceasing from his wrath:</s><q>
 
 
 
@@ -934,7 +947,11 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274244" n="1.250-1.252" ><milestone n="250" unit="line"/>Two generations of mortal men had passed away in his lifetime, who had been born and reared with him before in sacred <placeName key="perseus,Pylos" >Pylos</placeName>, and he was king among the third.</s>
+<s xml:id="sent2274244" n="1.250-1.252" ><milestone n="250" unit="line"/>Two generations of mortal men had passed away in his lifetime, who had been born and reared with him before in sacred <placeName key="perseus,Pylos" >Pylos</placeName>.</s>
+
+
+
+<s xml:id="sent2274244a" n="1.252" >He was king among the third.</s>
 
 
 
@@ -976,11 +993,14 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274253" n="1.267-1.268">And with the mightiest they fought, the mountain-dwelling centaurs.</s>
+<s xml:id="sent2274253" n="1.267">They were the mightiest.</s>
+
+
+<s xml:id="sent2274253a" n="1.267-1.268">And with the mightiest they fought, the mountain-dwelling centaurs.</s>
 
 
 
-<s xml:id="sent2274253a" n="1.268">They destroyed them completely.</s>
+<s xml:id="sent2274253b" n="1.268">They destroyed them completely.</s>
 
 
 
@@ -1201,7 +1221,11 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274291" n="1.326">So saying he sent them forth, and gave them a harsh command.</s>
+<s xml:id="sent2274291" n="1.326">So saying he sent them forth.</s>
+
+
+
+<s xml:id="sent2274291a" n="1.326">He gave them a harsh command.</s>
 
 
 
@@ -1232,7 +1256,10 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 <s xml:id="sent2274294b"    n="1.332">Nor did they ask any questions.</s>
 
 
-<s xml:id="sent2274295" n="1.333">but he knew in his heart, and spoke:</s><q>
+<s xml:id="sent2274295" n="1.333">but he knew in his heart.</s>
+
+
+<s xml:id="sent2274295a" n="1.333">And he spoke:</s><q>
 
 
 
@@ -1375,7 +1402,11 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274319" n="1.368-1.369">This the sons of the Achaeans divided properly among themselves, but for the son of Atreus they took out the fair-cheeked daughter of Chryses.</s>
+<s xml:id="sent2274319" n="1.368-1.369">This the sons of the Achaeans divided properly among themselves.</s>
+
+
+
+<s xml:id="sent2274319a" n="1.368-1.369">But from the son of Atreus they took out the fair-cheeked daughter of Chryses.</s>
 
 
 
@@ -1390,7 +1421,15 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274322" n="1.378-1.379">But this did not please the heart of Agamemnon, son of Atreus, but he sent him away harshly, and laid upon him a stern command.</s>
+<s xml:id="sent2274322" n="1.378">But this did not please the heart of Agamemnon, son of Atreus.</s>
+
+
+
+<s xml:id="sent2274322a" n="1.379">But he sent him away harshly.</s>
+
+
+
+<s xml:id="sent2274322b" n="1.379">And he laid upon him a stern command.</s>
 
 
 
@@ -1457,7 +1496,11 @@ the son of Peleus by his fair hair, appearing to him alone.</s>
 
 
 
-<s xml:id="sent2274334" n="1.401-1.404">But you came, goddess, and freed him from his bonds, when you had quickly called to high <placeName key="tgn,7011019">Olympus</placeName> the one with a hundred hands, whom the gods call Briareus, but all men Aegaeon; for he is mightier than his father.<note resp="Loeb" anchored="true" >1</note></s>
+<s xml:id="sent2274334" n="1.401-1.404">But you came, goddess, and freed him from his bonds, when you had quickly called to high <placeName key="tgn,7011019">Olympus</placeName> the one with a hundred hands, whom the gods call Briareus, but all men Aegaeon;</s>
+
+
+
+<s xml:id="sent2274334a" n="1.404-1.404">for he is mightier than his father.<note resp="Loeb" anchored="true" >1</note></s>
 
 
 
@@ -2992,7 +3035,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2274640" n="2.330"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> Calchas,</s>
+<s xml:id="sent2274640" n="2.330">On this way <mod n="spake:simpsub">spoke</mod> Calchas,</s>
 
 
 
@@ -4971,7 +5014,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275096" n="3.414-3.417">Provoke me not, rash woman, lest I <mod n="bigram:wax wroth">become angry</mod> and desert <mod n="thee:simpsub">you</mod>, <milestone n="415" unit="line" />and hate <mod n="thee:simpsub">you</mod>, even as now I love <mod n="thee:simpsub">you</mod> wondrously; and lest I devise grievous hatred between both, Trojans alike and Danaans; then <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> perish of an evil fate.</s></q></p>
+<s xml:id="sent2275096" n="3.414-3.417">Provoke me not, rash woman, lest I <mod n="bigram:wax wroth">become angry</mod> and desert <mod n="thee:simpsub">you</mod>, <milestone n="415" unit="line" />and hate <mod n="thee:simpsub">you</mod>, even as now I love <mod n="thee:simpsub">you</mod> wondrously; and lest I devise grievous hatred between both, Trojans alike and Danaans; then wouldst <mod n="thou:simpsub">you</mod> perish of an evil fate.</s></q></p>
 <p>
 
 
@@ -5330,11 +5373,11 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275178" n="4.94-4.96">Then <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> dare to let fly a swift arrow upon Menelaus, <milestone n="95" unit="line"/>and <mod n='wouldst'>would</mod> win favour and renown in the eyes of all the Trojans, and of king Alexander most of all.</s>
+<s xml:id="sent2275178" n="4.94-4.96">Then wouldst <mod n="thou:simpsub">you</mod> dare to let fly a swift arrow upon Menelaus, <milestone n="95" unit="line"/>and wouldst win favour and renown in the eyes of all the Trojans, and of king Alexander most of all.</s>
 
 
 
-<s xml:id="sent2275179" n="4.97-4.99" >From him <mod n="trigram:of a surety">surely</mod> <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> before all others bear off glorious gifts, should he see Menelaus, the warlike son of Atreus, laid low by <mod n="thy:simpsub">your</mod> shaft, and set upon the grievous pyre.</s>
+<s xml:id="sent2275179" n="4.97-4.99" >From him <mod n="trigram:of a surety">surely</mod> wouldst <mod n="thou:simpsub">you</mod> before all others bear off glorious gifts, should he see Menelaus, the warlike son of Atreus, laid low by <mod n="thy:simpsub">your</mod> shaft, and set upon the grievous pyre.</s>
 
 
 
@@ -5616,7 +5659,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275244" n="4.223-4.225">Then <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> not have seen <mod n="goodly">brilliant</mod> Agamemnon slumbering, nor cowering, nor with no heart for fight, <milestone n="225" unit="line"/>but full eager for battle where men win glory.</s>
+<s xml:id="sent2275244" n="4.223-4.225">Then wouldst <mod n="thou:simpsub">you</mod> not have seen <mod n="goodly">brilliant</mod> Agamemnon slumbering, nor cowering, nor with no heart for fight, <milestone n="225" unit="line"/>but full eager for battle where men win glory.</s>
 
 
 
@@ -6144,7 +6187,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275369" n="4.429-4.431">and the rest marched on in silence; <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> not have <mod n="deemed:simpsub">thought</mod> <milestone n="430" unit="line"/>that they that followed in such multitudes had any voice in their breasts, all silent as they were through fear of their commanders;</s>
+<s xml:id="sent2275369" n="4.429-4.431">and the rest marched on in silence; <mod n="thou:simpsub">you</mod> wouldst not have <mod n="deemed:simpsub">thought</mod> <milestone n="430" unit="line"/>that they that followed in such multitudes had any voice in their breasts, all silent as they were through fear of their commanders;</s>
 
 
 <s xml:id="sent2275370" n="4.431-4.432">and on every man flashed the inlaid armour wherewith they went clad.</s>
@@ -6588,7 +6631,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275473" n="5.85-5.86"><milestone n="85" unit="line"/>but of Tydeus' son <mod n='couldst'>could</mod> <mod n="thou:simpsub">you</mod> not have told with which host of the <mod n="twain:simpsub">two</mod> he was joined, whether it was with the Trojans that he had fellowship or with the Achaeans.</s>
+<s xml:id="sent2275473" n="5.85-5.86"><milestone n="85" unit="line"/>but of Tydeus' son couldst <mod n="thou:simpsub">you</mod> not have told with which host of the <mod n="twain:simpsub">two</mod> he was joined, whether it was with the Trojans that he had fellowship or with the Achaeans.</s>
 
 
 <s xml:id="sent2275474" n="5.87-5.88">For he stormed across the plain <mod n="bigram:like unto">like</mod> a winter torrent at the full, that with its swift flood sweeps away the embankments;</s>
@@ -7019,7 +7062,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275574" n="5.274-5.275">Thus they <mod n="spake:simpsub">spoke</mod> <mod n="trigram:on this wise">in this way</mod> one to the other, <milestone n="275" unit="line"/>and <sic>forthwith</sic> drew near those other <mod n="twain:simpsub">two</mod>, driving the swift horses.</s>
+<s xml:id="sent2275574" n="5.274-5.275">Thus they <mod n="spake:simpsub">spoke</mod> on this way one to the other, <milestone n="275" unit="line"/>and <sic>forthwith</sic> drew near those other <mod n="twain:simpsub">two</mod>, driving the swift horses.</s>
 
 
 <s xml:id="sent2275575" n="5.276">And Lycaon's glorious son <mod n="spake:simpsub">spoke</mod> first to him, saying:</s><q>
@@ -7383,7 +7426,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275660" n="5.431-5.433"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they one to the other; but Diomedes, good at the war-cry, leapt upon Aeneas, though well he knew that Apollo himself held forth his arms above him;</s>
+<s xml:id="sent2275660" n="5.431-5.433">On this way <mod n="spake:simpsub">spoke</mod> they one to the other; but Diomedes, good at the war-cry, leapt upon Aeneas, though well he knew that Apollo himself held forth his arms above him;</s>
 
 
 
@@ -7477,7 +7520,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2275681" n="5.473-5.474"><mod n="Thou:simpsub">You</mod> <mod n="saidst:simpsub">said</mod> <sic>forsooth</sic> that without hosts and allies <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> hold the city alone with the aid of <mod n="thy:simpsub">your</mod> sisters' husbands and <mod n="thy:simpsub">your</mod> brothers;</s>
+<s xml:id="sent2275681" n="5.473-5.474"><mod n="Thou:simpsub">You</mod> <mod n="saidst:simpsub">said</mod> <sic>forsooth</sic> that without hosts and allies <mod n="thou:simpsub">you</mod> wouldst hold the city alone with the aid of <mod n="thy:simpsub">your</mod> sisters' husbands and <mod n="thy:simpsub">your</mod> brothers;</s>
 
 
 
@@ -8677,7 +8720,7 @@ double cup.</s>
 <s xml:id="sent2275965" n="6.87-6.98">let her gather the aged wives to the temple of flashing-eyed Athene in the citadel, and when she has opened with the key the doors of the holy house, <milestone n="90" unit="line"/>the robe that <mod n='seemeth'>seems</mod> to her the fairest and amplest in her hall, and that is far dearest to her own self, this let her lay upon the knees of fair-haired Athene, and vow to her that she will sacrifice in her temple twelve sleek heifers that have not felt the goad, if she will have compassion <milestone n="95" unit="line"/>on the city and the Trojan's wives and their little children; in hope she may hold back from sacred Ilios the son of Tydeus, that savage spearman, a mighty deviser of rout, who has <mod n="verily:simpsub">truly</mod>, <mod n="meseems:simpsub">I think</mod>, proved himself the mightiest of the Achaeans.</s>
 
 
-<s xml:id="sent2275966" n="6.99-6.100">Not even Achilles did we ever fear <mod n="trigram:on this wise">in this way</mod>, that leader of men, <milestone n="100" unit="line"/>who, they say, is born of a goddess;</s>
+<s xml:id="sent2275966" n="6.99-6.100">Not even Achilles did we ever fear on this way, that leader of men, <milestone n="100" unit="line"/>who, they say, is born of a goddess;</s>
 
 
 <s xml:id="sent2275967" n="6.100-6.101"><sic>nay</sic> this man <mod n='rageth'>rages</mod> beyond all measure, and no one can vie with him in might.</s></q></p>
@@ -9699,7 +9742,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276207" n="7.28">But if <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> in <mod n="anywise:simpsub">in any way</mod> <mod n="hearken:simpsub">listen</mod> <mod n="unto:simpsub">to</mod> me—and so would it be better far—</s>
+<s xml:id="sent2276207" n="7.28">But if <mod n="thou:simpsub">you</mod> wouldst in <mod n="anywise:simpsub">in any way</mod> <mod n="hearken:simpsub">listen</mod> <mod n="unto:simpsub">to</mod> me—and so would it be better far—</s>
 
 
 
@@ -9754,7 +9797,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276219" n="7.47-7.48">Hector, son of Priam, peer of Zeus in counsel, <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> now in <mod n="anywise:simpsub">in any way</mod> <mod n="hearken:simpsub">listen</mod> <mod n="unto:simpsub">to</mod> me? for I am <mod n="thy:simpsub">your</mod> brother.</s>
+<s xml:id="sent2276219" n="7.47-7.48">Hector, son of Priam, peer of Zeus in counsel, wouldst <mod n="thou:simpsub">you</mod> now in <mod n="anywise:simpsub">in any way</mod> <mod n="hearken:simpsub">listen</mod> <mod n="unto:simpsub">to</mod> me? for I am <mod n="thy:simpsub">your</mod> brother.</s>
 
 
 
@@ -10716,7 +10759,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276446" n="7.464-7.466"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they, one to the other, <milestone n="465" unit="line"/>and the sun set, and the work of the Achaeans was accomplished; and they slaughtered oxen throughout the huts and took supper.</s>
+<s xml:id="sent2276446" n="7.464-7.466">On this way <mod n="spake:simpsub">spoke</mod> they, one to the other, <milestone n="465" unit="line"/>and the sun set, and the work of the Achaeans was accomplished; and they slaughtered oxen throughout the huts and took supper.</s>
 
 
 
@@ -11194,10 +11237,10 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276562" n="8.184">So saying he shouted to his horses, and said:</s><q> <milestone xml:id="sent2276563" n="185" unit="line"/>
+<s xml:id="sent2276562" n="8.184">So saying he shouted to his horses, and said:</s><q> <milestone n="185" unit="line"/>
 
 
-<s n="8.185-8.190">Xanthus, and <mod n="thou:simpsub">you</mod> Podargus, and Aethon, and <mod n="goodly">brilliant</mod> Lampus, now pay me back your tending wherewith in abundance Andromache, daughter of great-hearted Eëtion, set before you honey-hearted wheat, and mingled wine for you to drink when your souls <mod n="bade:simpsub">commanded</mod> you, <milestone n="190" unit="line" />sooner than for me, that avow me to be her stalwart husband.</s>
+<s xml:id="sent2276563" n="8.185-8.190">Xanthus, and <mod n="thou:simpsub">you</mod> Podargus, and Aethon, and <mod n="goodly">brilliant</mod> Lampus, now pay me back your tending wherewith in abundance Andromache, daughter of great-hearted Eëtion, set before you honey-hearted wheat, and mingled wine for you to drink when your souls <mod n="bade:simpsub">commanded</mod> you, <milestone n="190" unit="line" />sooner than for me, that avow me to be her stalwart husband.</s>
 
 
 
@@ -11250,7 +11293,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276574" n="8.212"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they, one to the other;</s>
+<s xml:id="sent2276574" n="8.212">On this way <mod n="spake:simpsub">spoke</mod> they, one to the other;</s>
 
 
 
@@ -11373,7 +11416,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276604" n="8.281-8.284">Teucer, beloved, son of Telamon, captain of hosts, shoot on in <mod n="bigram:this wise">this way</mod>, if so be <mod n="thou:simpsub">you</mod> <mod n='mayest'>may</mod> prove a light of deliverance to the Danaans and a glory to <mod n="thy:simpsub">your</mod> father Telamon, who reared <mod n="thee:simpsub">you</mod> when <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> a babe, and for all <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> a bastard cherished <mod n="thee:simpsub">you</mod> in his own house;</s>
+<s xml:id="sent2276604" n="8.281-8.284">Teucer, beloved, son of Telamon, captain of hosts, shoot on in this way, if so be <mod n="thou:simpsub">you</mod> <mod n='mayest'>may</mod> prove a light of deliverance to the Danaans and a glory to <mod n="thy:simpsub">your</mod> father Telamon, who reared <mod n="thee:simpsub">you</mod> when <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> a babe, and for all <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> a bastard cherished <mod n="thee:simpsub">you</mod> in his own house;</s>
 
 
 
@@ -11653,7 +11696,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276672" n="8.415-8.417" ><milestone n="415" unit="line"/>For <mod n="trigram:on this wise">in this way</mod> he <mod n='threateneth'>threatens</mod>, even as he will bring it to pass: he will maim your swift horses beneath your chariot, and yourselves will he hurl <mod n="bigram:from out">out of</mod> the <mod n="car:simpsub">chariot</mod>, and will break in pieces the chariot;</s>
+<s xml:id="sent2276672" n="8.415-8.417" ><milestone n="415" unit="line"/>For on this way he <mod n='threateneth'>threatens</mod>, even as he will bring it to pass: he will maim your swift horses beneath your chariot, and yourselves will he hurl <mod n="bigram:from out">out of</mod> the <mod n="car:simpsub">chariot</mod>, and will break in pieces the chariot;</s>
 
 
 <s xml:id="sent2276673" n="8.418-8.419">nor in the space of ten circling years shall <mod n="ye:simpsub">you</mod> heal you of the wounds wherewith the thunderbolt shall <mod n="smite:simpsub">strike</mod> you;</s>
@@ -12575,7 +12618,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2276895" n="9.259"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> did that old man charge <mod n="thee:simpsub">you</mod>, but <mod n="thou:simpsub">you</mod> <mod n='forgettest'>forget</mod>.</s>
+<s xml:id="sent2276895" n="9.259">On this way did that old man charge <mod n="thee:simpsub">you</mod>, but <mod n="thou:simpsub">you</mod> <mod n='forgettest'>forget</mod>.</s>
 
 
 
@@ -15737,7 +15780,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2277654" n="11.385-11.387"><milestone n="385" unit="line"/>Bowman, reviler, proud of <mod n="thy:simpsub">your</mod> curling locks,<note resp="Loeb" anchored="true">509.1</note> <mod n="thou:simpsub">you</mod> ogler of girls! O that <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> make trial of me man to man in armour, then would <mod n="thy:simpsub">your</mod> bow and <mod n="thy:simpsub">your</mod> swift-falling arrows help <mod n="thee:simpsub">you</mod> not;</s>
+<s xml:id="sent2277654" n="11.385-11.387"><milestone n="385" unit="line"/>Bowman, reviler, proud of <mod n="thy:simpsub">your</mod> curling locks,<note resp="Loeb" anchored="true">509.1</note> <mod n="thou:simpsub">you</mod> ogler of girls! O that <mod n="thou:simpsub">you</mod> wouldst make trial of me man to man in armour, then would <mod n="thy:simpsub">your</mod> bow and <mod n="thy:simpsub">your</mod> swift-falling arrows help <mod n="thee:simpsub">you</mod> not;</s>
 
 
 
@@ -16865,7 +16908,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2277926" n="12.49-12.50">even <mod n="trigram:on this wise">in this way</mod> Hector went ever through the throng and <mod n="besought:simpsub">begged</mod> his comrades, <milestone n="50" unit="line" />urging them to cross the trench.</s>
+<s xml:id="sent2277926" n="12.49-12.50">even on this way Hector went ever through the throng and <mod n="besought:simpsub">begged</mod> his comrades, <milestone n="50" unit="line" />urging them to cross the trench.</s>
 
 
 
@@ -17182,7 +17225,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2278005" n="12.228-12.229"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> would a soothsayer interpret, one that in his mind had clear knowledge of omens, and to whom the <mod n="folk:simpsub">people</mod> <mod n="bigram:gave ear">listened</mod>.</s></q></p>
+<s xml:id="sent2278005" n="12.228-12.229">On this way would a soothsayer interpret, one that in his mind had clear knowledge of omens, and to whom the <mod n="folk:simpsub">people</mod> <mod n="bigram:gave ear">listened</mod>.</s></q></p>
 </div>
 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:12.230-12.276">
 <p>
@@ -17851,7 +17894,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2278161" n="13.81-13.82"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they one to the other, rejoicing in the fury of fight which the god put in their hearts;</s>
+<s xml:id="sent2278161" n="13.81-13.82">On this way <mod n="spake:simpsub">spoke</mod> they one to the other, rejoicing in the fury of fight which the god put in their hearts;</s>
 
 
 
@@ -19618,7 +19661,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2278589" n="14.48"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> he,</s>
+<s xml:id="sent2278589" n="14.48">On this way <mod n="spake:simpsub">spoke</mod> he,</s>
 
 
 
@@ -19647,7 +19690,7 @@ double cup.</s>
 <s xml:id="sent2278595" n="14.57-14.58">And the <mod n="foemen:simpsub">enemies</mod> at the swift ships maintain a ceaseless fight, and make no end;</s>
 
 
-<s xml:id="sent2278596" n="14.58-14.60">nor <mod n='couldst'>could</mod> <mod n="thou:simpsub">you</mod> any more tell, wert <mod n="thou:simpsub">you</mod> to look never so closely, from what side the Achaeans are driven in rout, <milestone n="60" unit="line"/>so confusedly are they slain, and the cry of battle <mod n='goeth'>goes</mod> up to heaven.</s>
+<s xml:id="sent2278596" n="14.58-14.60">nor couldst <mod n="thou:simpsub">you</mod> any more tell, wert <mod n="thou:simpsub">you</mod> to look never so closely, from what side the Achaeans are driven in rout, <milestone n="60" unit="line"/>so confusedly are they slain, and the cry of battle <mod n='goeth'>goes</mod> up to heaven.</s>
 
 
 
@@ -20065,7 +20108,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2278693" n="14.239-14.241">that Hephaestus, <mod n="bigram:mine own">my own</mod> son, <milestone n="240" unit="line"/>the god of the two strong arms, shall fashion <mod n="thee:simpsub">you</mod> with skill, and beneath it shall he set a foot-stool for the feet, <mod n="whereon:simpsub">on which</mod> <mod n="thou:simpsub">you</mod> <mod n='mayest'>may</mod> rest <mod n="thy:simpsub">your</mod> shining feet when <mod n="thou:simpsub">you</mod> <mod n='quaffest'>drink</mod> <mod n="thy:simpsub">your</mod> wine.</s></q></p>
+<s xml:id="sent2278693" n="14.239-14.241">that Hephaestus, <mod n="bigram:mine own">my own</mod> son, <milestone n="240" unit="line"/>the god of the two strong arms, shall fashion <mod n="thee:simpsub">you</mod> with skill, and beneath it shall he set a foot-stool for the feet, <mod n="whereon:simpsub">on which</mod> <mod n="thou:simpsub">you</mod> <mod n='mayest'>may</mod> rest <mod n="thy:simpsub">your</mod> shining feet when <mod n="thou:simpsub">you</mod> <mod n='quaffest'>quaff</mod> <mod n="thy:simpsub">your</mod> wine.</s></q></p>
 </div>
 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:14.242-14.269">
 <p>
@@ -22198,7 +22241,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279197" n="15.697-15.698"><mod n="Thou:simpsub">You</mod> <mod n='wouldst'>would</mod> have <mod n="deemed:simpsub">thought</mod> that all unwearied and unworn they faced one another in war, so furiously did they fight.</s>
+<s xml:id="sent2279197" n="15.697-15.698"><mod n="Thou:simpsub">You</mod> wouldst have <mod n="deemed:simpsub">thought</mod> that all unwearied and unworn they faced one another in war, so furiously did they fight.</s>
 
 
 <s xml:id="sent2279198" n="15.699">And in their fighting they were minded thus:</s>
@@ -22335,7 +22378,7 @@ double cup.</s>
 <s xml:id="sent2279229" n="16.12-16.13"><mod n="bigram:do you">You</mod> have something to declare either to the Myrmidons or to me myself, or is it some tidings out of Phthia that <mod n="thyself:simpsub">yourself</mod> alone <mod n="hast:simpsub">have</mod> heard?</s>
 
 
-<s xml:id="sent2279230" n="16.14-16.15">They say that Menoetius, Actor's son,, at any rate, is still alive. <milestone n="15" unit="line"/>And Peleus, son of Aeacus, is alive among the Myrmidons.</s>
+<s xml:id="sent2279230" n="16.14-16.15">They say that Menoetius, Actor's son, at any rate, is still alive. <milestone n="15" unit="line"/>And Peleus, son of Aeacus, is alive among the Myrmidons.</s>
 
 
 
@@ -22372,11 +22415,11 @@ double cup.</s>
 <s xml:id="sent2279238" n="16.25-16.27" ><milestone n="25" unit="line"/>Struck from afar is the son of Tydeus, mighty Diomedes; wounded in close combat is Odysseus, famed for his spear, and Agamemnon; struck from afar also is Eurypylus with an arrow in the thigh.</s>
 
 
-<s xml:id="sent2279239" n="16.28-16.29">About these the doctors, skilled in many medicines, busy themselves, seeking to heal their wounds.</s>
+<s xml:id="sent2279239" n="16.28-16.29">About these the doctors, skilled in many medicines, busy themselves, seeking to heal their wounds;</s>
 
 
 
-<s xml:id="sent2279240" n="16.29">But you for your part, Achilles, have proven impossible to deal with.</s>
+<s xml:id="sent2279240" n="16.29">but you for your part, Achilles, have proven impossible to deal with.</s>
 
 
 
@@ -22384,7 +22427,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279242" n="16.31-16.32">How shall any other even yet to be born have benefit from you, if you do not ward off shameful ruin from the Argives?</s>
+<s xml:id="sent2279242" n="16.31-16.32">How shall any other even yet to be born benefit from you, if you do not ward off shameful ruin from the Argives?</s>
 
 
 
@@ -22395,14 +22438,14 @@ double cup.</s>
 <s xml:id="sent2279244" n="16.34-16.35" >but the grey sea bore you, <milestone n="35" unit="line"/>and the beetling cliffs, for your heart is unbending.</s>
 
 
-<s xml:id="sent2279245" n="16.36-16.39">But if in your mind you are shunning some oracle, and your queenly mother has declared to you something from Zeus, then send me, at least, forth speedily, and have rest of the host of the Myrmidons be my companions at the same time, if only I may become a light of deliverance for the Danaans.</s>
+<s xml:id="sent2279245" n="16.36-16.39">But if in your mind you are avoiding some oracle, and your queenly mother has declared to you something from Zeus, then send me, at least, forth speedily, and have rest of the host of the Myrmidons be my companions at the same time, if only I may become a light of deliverance for the Danaans.</s>
 
 
-<s xml:id="sent2279246" n="16.40-16.43"><milestone n="40" unit="line"/> Grant me to me to buckle upon my shoulders that armour of yours, in hope that the Trojans may take me for your, and so pull themselves away from war, and the warlike sons of the Achaeans may catch their breath, laboring as they are;</s>
+<s xml:id="sent2279246" n="16.40-16.43"><milestone n="40" unit="line"/> Grant me to me to buckle upon my shoulders that armour of yours, in hope that the Trojans may take me for your, and so pull themselves away from war, and the warlike sons of the Achaeans may catch their breath, laboring as they are;\.</s>
 
 
 
-<s xml:id="sent2279247" n="16.43">for small is the breathing-space in battle.</s>
+<s xml:id="sent2279247" n="16.43">For small is the breathing-space in battle.</s>
 
 
 <s xml:id="sent2279248" n="16.44-16.45">And lightly might we that are unwearied <milestone n="45" unit="line"/>drive men that are wearied with the battle back to the city from the ships and the huts.</s></q></p>
@@ -22436,11 +22479,11 @@ double cup.</s>
 <s xml:id="sent2279254" n="16.52-16.54" >but here awful grief comes upon heart and soul, when a man wishes to rob one that is his equal, and take back from him his prize, because he has surpassed him in power.</s>
 
 
-<s xml:id="sent2279255" n="16.55"><milestone n="55" unit="line" />An awful grief is this to me, seeing I have suffered pains in my heart.</s>
+<s xml:id="sent2279255" n="16.55"><milestone n="55" unit="line" />An awful grief is this for me, since I have suffered pains in my heart.</s>
 
 
 
-<s xml:id="sent2279256" n="16.56-16.59">The girl that the sons of the Achaeans chose out for me as a prize, and that I won with my spear, when I had laid waste a well-walled city, that woman has lord Agamemnon taken back for himself from my arms, this son of Atreus, as though I were some alien that had no rights.</s>
+<s xml:id="sent2279256" n="16.56-16.59">The girl that the sons of the Achaeans chose out for me as a prize, and that I won with my spear, when I had laid waste a well-walled city, that woman has lord Agamemnon taken back for himself from my arms, this son of Atreus, as though I were some exile that had no rights.</s>
 
 
 <s xml:id="sent2279257" n="16.60"><milestone n="60" unit="line" />However these things will we allow to have been brought to completion in the past.</s>
@@ -22452,7 +22495,7 @@ double cup.</s>
 <s xml:id="sent2279259" n="16.61-16.63">But in all truth I stated that I would not make an end of my anger, until the hour when <mod n="unto:simpsub">to</mod> my own ships should come  battle-cry and war.</s>
 
 
-<s xml:id="sent2279260" n="16.64-16.70">But as for your,  put on your shoulders my famous armour! <milestone n="65" unit="line" />Lead the war-loving Myrmidons to  fight, if indeed the dark cloud of the Trojans has encompassed the ships in force, and those others are pressed against the shore of the sea, having but scant space of land still left them, even the Argives; while the whole city of the Trojans has come forth against them <milestone n="70" unit="line"/>first with courage.</s>
+<s xml:id="sent2279260" n="16.64-16.70">But as for you,  put on your shoulders my famous armour! <milestone n="65" unit="line" />Lead the war-loving Myrmidons to  fight, if indeed the dark cloud of the Trojans has encompassed the ships in force, and those others are pressed against the shore of the sea, having but scant space of land still left them, even the Argives; while the whole city of the Trojans has come forth against them <milestone n="70" unit="line"/>first with courage.</s>
 
 
 
@@ -22472,10 +22515,10 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279264" n="16.74-16.75">For not in the hands of Diomedes, son of Tydeus, <milestone n="75" unit="line"/>does the spear rage, to ward off ruin from the Danaans,</s>
+<s xml:id="sent2279264" n="16.74-16.75">For not in the hands of Diomedes, son of Tydeus, <milestone n="75" unit="line"/>does the spear rage, to ward off ruin from the Danaans.</s>
 
 
-<s xml:id="sent2279265" n="16.76-16.77">neither as yet have I heard the voice of the son of Atreus, shouting from his hated head.</s>
+<s xml:id="sent2279265" n="16.76-16.77">Neither as yet have I heard the voice of the son of Atreus, shouting from his hated head.</s>
 
 
 
@@ -22483,7 +22526,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279267" n="16.80-16.82"><milestone n="80" unit="line"/>Yet even so, Patroclus, in warding destruction from the ships fall upon them mightily, lest in fact they burn the ships with blazing fire and rob the Greeks of their desired return.</s>
+<s xml:id="sent2279267" n="16.80-16.82"><milestone n="80" unit="line"/>Yet even so, Patroclus, in warding destruction from the ships fall upon them with overwhelming force, lest in fact they burn the ships with blazing fire and rob the Greeks of their desired return.</s>
 
 
 <s xml:id="sent2279268" n="16.83-16.86">Then listen carefully, so that I may put in your mind the sum of my counsel, to the end that for me you may win  great recompense and glory <milestone n="85" unit="line"/>at the hands of all the Danaans, and that they send back that beautiful girl, and on top give glorious gifts.</s>
@@ -22493,7 +22536,7 @@ double cup.</s>
 <s xml:id="sent2279269" n="16.87">Having driven them from the ships, come back.</s>
 
 
-<s xml:id="sent2279270" n="16.87-16.90">If the loud-thundering lord of Hera grant you to win for yourself glory, you, for your part, do not conceive a desire apart from me to war <milestone n="90" unit="line"/>against the war-loving Trojans.</s>
+<s xml:id="sent2279270" n="16.87-16.90">If the loud-thundering lord of Hera grant you to win for yourself glory, you, for your part, do not conceive a desire apart from me to make war <milestone n="90" unit="line"/>against the war-loving Trojans.</s>
 
 
 
@@ -22518,18 +22561,18 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279276" n="16.101-16.102">In this way, on the one hand, they spoke to each other, but Aias, for his part, no longer remained in place.</s>
+<s xml:id="sent2279276" n="16.101-16.102">In this way they spoke  one to the other. But Aias no longer remained in place.</s>
 
 
 
 <s xml:id="sent2279277" n="16.102">For he was being overpowered with projectiles.</s>
 
 
-<s xml:id="sent2279278" n="16.103-16.104">The will of Zeus was overwhelming him, and the lordly Trojans who were striking him from afar.</s>
+<s xml:id="sent2279278" n="16.103-16.104">The will of Zeus was overwhelming him, and the lordly Trojans striking him from afar.</s>
 
 
 
-<s xml:id="sent2279279" n="16.104-16.106">Terribly did the bright <mod n="helm:simpsub">helmet</mod> about his temples <milestone n="105" unit="line"/>ring continually, as it was struck from afar, for it was constantly struck from afar upon his well-wrought cheek-pieces.</s>
+<s xml:id="sent2279279" n="16.104-16.106">Terribly did the bright <mod n="helm:simpsub">helmet</mod> about his temples <milestone n="105" unit="line"/>ring, as it was struck from afar, for it was constantly struck from afar upon his well-wrought cheek-pieces.</s>
 
 
 
@@ -22567,7 +22610,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279287" n="16.119-16.121">And Aias knew in his noble heart, and shuddered <milestone n="120" unit="line"/>at the deeds of the gods, how Zeus, who thunders on high, was cutting off the counsels of his battle, and would have victory for the Trojans.</s>
+<s xml:id="sent2279287" n="16.119-16.121">And Aias knew in his noble heart, and shuddered <milestone n="120" unit="line"/>at the deeds of the gods, how Zeus, who thunders on high, was cutting off the counsels of his battle, and was desiring victory for the Trojans.</s>
 
 
 <s xml:id="sent2279288" n="16.122">Then he shrank back from the projectiles.</s>
@@ -22593,11 +22636,11 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279293" n="16.126">Move yourself, Zeus-born Patroclus, master of horsemen.</s>
+<s xml:id="sent2279293" n="16.126">Get moving, Zeus-born Patroclus, master of horsemen.</s>
 
 
 
-<s xml:id="sent2279294" n="16.127">In truth, I see by the ships the rush of consuming fire.</s>
+<s xml:id="sent2279294" n="16.127">In fact, I see by the ships the rush of consuming fire.</s>
 
 
 <s xml:id="sent2279295" n="16.128">Let them not take the ships and there be no more escaping!</s>
@@ -22623,7 +22666,7 @@ double cup.</s>
 <s xml:id="sent2279300" n="16.135-16.136"><milestone n="135" unit="line"/>And about his shoulders he cast the silver-studded sword of bronze, and thereafter the shield, great and sturdy.</s>
 
 
-<s xml:id="sent2279301" n="16.137-16.138">And upon his mighty head he set the well-wrought helmet with horse-hair crest,</s>
+<s xml:id="sent2279301" n="16.137-16.138">And upon his mighty head he set the well-wrought helmet with horse-hair crest.</s>
 
 
 <s xml:id="sent2279302" n="16.138">Terribly did the plume nod from above.</s>
@@ -22750,7 +22793,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279331" n="16.205-16.206"><milestone n="205" unit="line"/><sic>Nay</sic>, homeward let us return again with our seafaring ships, since in <mod n="bigram:this wise">this way</mod> evil wrath <mod n="hath:simpsub">has</mod> fallen upom <mod n="thy:simpsub">your</mod> heart.</s></q></p>
+<s xml:id="sent2279331" n="16.205-16.206"><milestone n="205" unit="line"/><sic>Nay</sic>, homeward let us return again with our seafaring ships, since in this way evil wrath <mod n="hath:simpsub">has</mod> fallen upom <mod n="thy:simpsub">your</mod> heart.</s></q></p>
 <p>
 
 
@@ -23704,7 +23747,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279559" n="16.627">Meriones, <mod n="wherefore:simpsub">for which reason</mod> <mod n="dost:simpsub">do</mod> <mod n="thou:simpsub">you</mod>, that art a man of valour, speak <mod n="trigram:on this wise">in this way</mod>?</s>
+<s xml:id="sent2279559" n="16.627">Meriones, <mod n="wherefore:simpsub">for which reason</mod> <mod n="dost:simpsub">do</mod> <mod n="thou:simpsub">you</mod>, that art a man of valour, speak on this way?</s>
 
 
 <s xml:id="sent2279560" n="16.628-16.629">Good friend, it is not for words of reviling that the Trojans will give ground from the corpse;</s>
@@ -25040,7 +25083,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2279873" n="17.366-17.367">So fought they <mod n="bigram:like unto">like</mod> blazing fire, nor <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> have <mod n="deemed:simpsub">thought</mod> that sun or moon yet <sic>abode</sic>,</s>
+<s xml:id="sent2279873" n="17.366-17.367">So fought they <mod n="bigram:like unto">like</mod> blazing fire, nor wouldst <mod n="thou:simpsub">you</mod> have <mod n="deemed:simpsub">thought</mod> that sun or moon yet <sic>abode</sic>,</s>
 
 
 
@@ -26611,7 +26654,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2280232" n="18.266">for <mod n="trigram:on this wise">in this way</mod> shall it be.</s>
+<s xml:id="sent2280232" n="18.266">for on this way shall it be.</s>
 
 
 
@@ -26846,7 +26889,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2280288" n="18.368"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they one to the other;</s>
+<s xml:id="sent2280288" n="18.368">On this way <mod n="spake:simpsub">spoke</mod> they one to the other;</s>
 
 
 
@@ -27699,11 +27742,11 @@ double cup.</s>
 <s xml:id="sent2280492" n="19.107">‘Thou <mod n="wilt:simpsub">will</mod> play the cheat, and not bring <mod n="thy:simpsub">your</mod> word to fulfillment.</s>
 
 
-<s xml:id="sent2280493" n="19.108-19.111"><sic>Nay</sic>, come, Olympian, swear me now a mighty oath that in very truth that man shall be lord of all them that dwell round about, <milestone xml:id="sent2280494" n="110" unit="line"/>whoso this day shall fall between a woman's feet, even one of those men who are of the blood of <mod n="thy:simpsub">your</mod> stock.’</s>
+<s xml:id="sent2280493" n="19.108-19.111"><sic>Nay</sic>, come, Olympian, swear me now a mighty oath that in very truth that man shall be lord of all them that dwell round about, <milestone n="110" unit="line"/>whoso this day shall fall between a woman's feet, even one of those men who are of the blood of <mod n="thy:simpsub">your</mod> stock.’</s>
 
 
 
-<s n="19.112">So <mod n="spake:simpsub">spoke</mod> she;</s>
+<s xml:id="sent2280494"  n="19.112">So she spoke;</s>
 
 
 
@@ -27819,7 +27862,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2280521" n="19.155-19.159"><milestone n="155" unit="line"/><sic>Nay</sic>, valiant though <corr n="thou art">you are</corr>, godlike Achilles, urge not <mod n="trigram:on this wise">in this way</mod> the sons of the Achaeans to go fasting against Ilios to do battle with the men of Troy, since not for a short space shall the battle last when once the ranks of men are met and the god breathes might into either host.</s>
+<s xml:id="sent2280521" n="19.155-19.159"><milestone n="155" unit="line"/><sic>Nay</sic>, valiant though <corr n="thou art">you are</corr>, godlike Achilles, urge not on this way the sons of the Achaeans to go fasting against Ilios to do battle with the men of Troy, since not for a short space shall the battle last when once the ranks of men are met and the god breathes might into either host.</s>
 
 
 <s xml:id="sent2280522" n="19.160-19.161"><milestone n="160" unit="line"/>But <mod n="bid:simpsub">command</mod> <mod n="thou:simpsub">you</mod> the Achaeans by their swift ships to taste of food and wine;</s>
@@ -28109,7 +28152,7 @@ double cup.</s>
 <s xml:id="sent2280590" n="19.291-19.294">My husband, <mod n="unto:simpsub">to</mod> whom my father and queenly mother gave me, I beheld mangled with the sharp bronze before our city, and my three brethren whom <mod n="bigram:mine own">my own</mod> mother <mod n="bare:simpsub">bore</mod>, brethren beloved, all these met their day of doom.</s>
 
 
-<s xml:id="sent2280591" n="19.295-19.299"><milestone n="295" unit="line"/>But <mod n="thou:simpsub">you</mod>, when swift Achilles <mod n="slew:simpsub">killed</mod> my husband, and laid waste the city of godlike Mynes, <mod n='wouldst'>would</mod> not even suffer me to weep, but <mod n='saidest'>said</mod> that <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> make me the wedded wife of Achilles,<note resp="Loeb" anchored="true" >1</note> and that he would bear me in his ships to Phthia, and make me a marriage-feast among the Myrmidons.</s>
+<s xml:id="sent2280591" n="19.295-19.299"><milestone n="295" unit="line"/>But <mod n="thou:simpsub">you</mod>, when swift Achilles <mod n="slew:simpsub">killed</mod> my husband, and laid waste the city of godlike Mynes, wouldst not even suffer me to weep, but <mod n='saidest'>said</mod> that <mod n="thou:simpsub">you</mod> wouldst make me the wedded wife of Achilles,<note resp="Loeb" anchored="true" >1</note> and that he would bear me in his ships to Phthia, and make me a marriage-feast among the Myrmidons.</s>
 
 
 <s xml:id="sent2280592" n="19.300"><milestone n="300" unit="line" /><mod n="Wherefore:simpsub">For which reason</mod> I wail for <mod n="thee:simpsub">you</mod> in <mod n="thy:simpsub">your</mod> death and know no ceasing, for <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> ever kind.</s></q></p>
@@ -28590,7 +28633,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2280704" n="20.83-20.85">Aeneas, counsellor of the Trojans, where be now <mod n="thy:simpsub">your</mod> threats, wherewith <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> <mod n="wont:simpsub">accustomed</mod> to declare <mod n="unto:simpsub">to</mod> the princes of the Trojans over <mod n="thy:simpsub">your</mod> wine, <milestone n="85" unit="line"/>that <mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> do battle man to man against Achilles, son of Peleus?</s></q></p>
+<s xml:id="sent2280704" n="20.83-20.85">Aeneas, counsellor of the Trojans, where be now <mod n="thy:simpsub">your</mod> threats, wherewith <mod n="thou:simpsub">you</mod> <mod n="wast:simpsub">were</mod> <mod n="wont:simpsub">accustomed</mod> to declare <mod n="unto:simpsub">to</mod> the princes of the Trojans over <mod n="thy:simpsub">your</mod> wine, <milestone n="85" unit="line"/>that <mod n="thou:simpsub">you</mod> wouldst do battle man to man against Achilles, son of Peleus?</s></q></p>
 </div>
 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg001.perseus-grc2:20.86-20.109">
 <p>
@@ -28604,7 +28647,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2280706" n="20.87-20.88">Son of Priam, why <mod n="trigram:on this wise">in this way</mod> <mod n="bigram:do thou"></mod> <mod n="bid:simpsub">command</mod> me face in fight the son of Peleus, high of heart,</s>
+<s xml:id="sent2280706" n="20.87-20.88">Son of Priam, why on this way <mod n="bigram:do thou"></mod> <mod n="bid:simpsub">command</mod> me face in fight the son of Peleus, high of heart,</s>
 
 
 
@@ -30512,7 +30555,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2281160" n="21.412-21.414"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="shalt:simpsub">shall</mod> <mod n="thou:simpsub">you</mod> satisfy to the full the Avengers invoked of <mod n="thy:simpsub">your</mod> mother, who in her wrath <mod n='deviseth'>devises</mod> evil against <mod n="thee:simpsub">you</mod>, <mod n="bigram:for that">for</mod> <mod n="thou:simpsub">you</mod> <mod n="hast:simpsub">have</mod> deserted the Achaeans and <mod n='bearest'>bear</mod> aid to the overweening Trojans.</s></q></p>
+<s xml:id="sent2281160" n="21.412-21.414">On this way <mod n="shalt:simpsub">shall</mod> <mod n="thou:simpsub">you</mod> satisfy to the full the Avengers invoked of <mod n="thy:simpsub">your</mod> mother, who in her wrath <mod n='deviseth'>devises</mod> evil against <mod n="thee:simpsub">you</mod>, <mod n="bigram:for that">for</mod> <mod n="thou:simpsub">you</mod> <mod n="hast:simpsub">have</mod> deserted the Achaeans and <mod n='bearest'>bear</mod> aid to the overweening Trojans.</s></q></p>
 <p>
 
 
@@ -30557,7 +30600,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2281170" n="21.428-21.431">In such plight let all now be that are aiders of the Trojans when they fight against the mail-clad Argives, <milestone n="430" unit="line"/>and <mod n="trigram:on this wise">in this way</mod> bold and stalwart, even as Aphrodite came to bear aid to Ares, and braved my might.</s>
+<s xml:id="sent2281170" n="21.428-21.431">In such plight let all now be that are aiders of the Trojans when they fight against the mail-clad Argives, <milestone n="430" unit="line"/>and on this way bold and stalwart, even as Aphrodite came to bear aid to Ares, and braved my might.</s>
 
 
 
@@ -30779,7 +30822,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2281220" n="21.514"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="spake:simpsub">spoke</mod> they one to the other;</s>
+<s xml:id="sent2281220" n="21.514">On this way <mod n="spake:simpsub">spoke</mod> they one to the other;</s>
 
 
 
@@ -34808,7 +34851,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2282174" n="24.141-24.142"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> <mod n="amid:simpsub">among</mod> the gathering of the ships mother and son <mod n="spake:simpsub">spoke</mod> many winged words one to the other,</s>
+<s xml:id="sent2282174" n="24.141-24.142">On this way <mod n="amid:simpsub">among</mod> the gathering of the ships mother and son <mod n="spake:simpsub">spoke</mod> many winged words one to the other,</s>
 
 
 
@@ -34959,7 +35002,7 @@ double cup.</s>
 <s xml:id="sent2282209" n="24.208-24.209"><sic>Nay</sic>, let us now make our lament afar from him we mourn, abiding here in the hall.</s>
 
 
-<s xml:id="sent2282210" n="24.209-24.213"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> for him did mighty Fate spin <milestone n="210" unit="line"/>with her thread at his birth, when myself did bear him, that he should glut swift-footed dogs far from his parents, in the <sic>abode</sic> of a violent man, in whose inmost heart I were fain to fix my teeth and feed thereon;</s>
+<s xml:id="sent2282210" n="24.209-24.213">On this way for him did mighty Fate spin <milestone n="210" unit="line"/>with her thread at his birth, when myself did bear him, that he should glut swift-footed dogs far from his parents, in the <sic>abode</sic> of a violent man, in whose inmost heart I were fain to fix my teeth and feed thereon;</s>
 
 
 
@@ -35440,7 +35483,7 @@ double cup.</s>
 <s xml:id="sent2282317" n="24.416-24.418">Truly Achilles <mod n='draggeth'>drags</mod> him ruthlessly about the barrow of his dear comrade, so <mod n="oft:simpsub">often</mod> as sacred Dawn <mod n='appeareth'>appears</mod>, <mod n="howbeit:simpsub">however</mod> he <mod n='marreth'>injures</mod> him not;</s>
 
 
-<s xml:id="sent2282318" n="24.418-24.420"><mod n="thou:simpsub">you</mod> <mod n='wouldst'>would</mod> <mod n="thyself:simpsub">yourself</mod> marvel, wert <mod n="thou:simpsub">you</mod> to come and see how dewy-fresh he <mod n='lieth'>lies</mod>, and is washen clean of blood, <milestone n="420" unit="line" />neither <mod n="hath:simpsub">has</mod> anywhere pollution;</s>
+<s xml:id="sent2282318" n="24.418-24.420"><mod n="thou:simpsub">you</mod> wouldst <mod n="thyself:simpsub">yourself</mod> marvel, wert <mod n="thou:simpsub">you</mod> to come and see how dewy-fresh he <mod n='lieth'>lies</mod>, and is washen clean of blood, <milestone n="420" unit="line" />neither <mod n="hath:simpsub">has</mod> anywhere pollution;</s>
 
 
 
@@ -35508,10 +35551,10 @@ double cup.</s>
 <s xml:id="sent2282332" n="24.443-24.447">But when they were come to the walls and the trench that guarded the ships, even as the watchers were but now busying them about their supper, <milestone n="445" unit="line" />upon all of these the messenger Argeiphontes shed sleep, and <sic>forthwith</sic> opened the gates, and thrust back the bars, and brought within Priam, and the splendid gifts upon the wain.</s>
 
 
-<s xml:id="sent2282333" n="24.448-24.450">But when they were come to the hut of Peleus' son, the lofty hut which the Myrmidons had <mod n="builded:simpsub">built</mod> for their king, <milestone xml:id="sent2282334" n="450" unit="line"/>hewing therefor beams of fir —</s>
+<s xml:id="sent2282333" n="24.448-24.450">But when they were come to the hut of Peleus' son, the lofty hut which the Myrmidons had <mod n="builded:simpsub">built</mod> for their king, <milestone n="450" unit="line"/>hewing therefor beams of fir —</s>
 
 
-<s n="24.450-24.451">and they had roofed it over with downy thatch, gathered from the meadows;</s>
+<s xml:id="sent2282334" n="24.450-24.451">and they had roofed it over with downy thatch, gathered from the meadows;</s>
 
 
 
@@ -35684,7 +35727,7 @@ double cup.</s>
 <s xml:id="sent2282376" n="24.524" >for no profit <mod n='cometh'>comes</mod> of chill lament.</s>
 
 
-<s xml:id="sent2282377" n="24.525-24.526"><milestone n="525" unit="line"/>For <mod n="trigram:on this wise">in this way</mod> have the gods spun the thread for wretched mortals, that they should live in pain;</s>
+<s xml:id="sent2282377" n="24.525-24.526"><milestone n="525" unit="line"/>For on this way have the gods spun the thread for wretched mortals, that they should live in pain;</s>
 
 
 <s xml:id="sent2282378" n="24.526">and themselves are sorrowless.</s>
@@ -35973,7 +36016,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2282446" n="24.660-24.661"><milestone n="660" unit="line"/>If <mod n="thou:simpsub">you</mod> indeed art willing that I accomplish for <mod n="goodly">brilliant</mod> Hector his burial, then in doing <mod n="trigram:on this wise">in this way</mod>, O Achilles, <mod n="wilt:simpsub">will</mod> <mod n="thou:simpsub">you</mod> do according to my wish.</s>
+<s xml:id="sent2282446" n="24.660-24.661"><milestone n="660" unit="line"/>If <mod n="thou:simpsub">you</mod> indeed art willing that I accomplish for <mod n="goodly">brilliant</mod> Hector his burial, then in doing on this way, O Achilles, <mod n="wilt:simpsub">will</mod> <mod n="thou:simpsub">you</mod> do according to my wish.</s>
 
 
 <s xml:id="sent2282447" n="24.662-24.663"><mod n="Thou:simpsub">You</mod> <mod n='knowest'>know</mod> how we are pent within the city, and far is it to fetch wood from the mountain, and the Trojans are <sic>sore</sic> afraid.</s>
@@ -36217,7 +36260,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2282502" n="24.768-24.772"><sic>nay</sic>, if so be any other <mod n="spake:simpsub">spoke</mod> reproachfully of me in the halls, a brother of <mod n="thine:simpsub">your</mod> or a sister, or brother's fair-robed wife, <milestone n="770" unit="line"/>or <mod n="thy:simpsub">your</mod> mother—but <mod n="thy:simpsub">your</mod> father was ever gentle as he had been <mod n="bigram:mine own">my own</mod>—yet <mod n='wouldst'>would</mod> <mod n="thou:simpsub">you</mod> turn them with speech and restrain them by the gentleness of <mod n="thy:simpsub">your</mod> spirit and <mod n="thy:simpsub">your</mod> gentle words.</s>
+<s xml:id="sent2282502" n="24.768-24.772"><sic>nay</sic>, if so be any other <mod n="spake:simpsub">spoke</mod> reproachfully of me in the halls, a brother of <mod n="thine:simpsub">your</mod> or a sister, or brother's fair-robed wife, <milestone n="770" unit="line"/>or <mod n="thy:simpsub">your</mod> mother—but <mod n="thy:simpsub">your</mod> father was ever gentle as he had been <mod n="bigram:mine own">my own</mod>—yet wouldst <mod n="thou:simpsub">you</mod> turn them with speech and restrain them by the gentleness of <mod n="thy:simpsub">your</mod> spirit and <mod n="thy:simpsub">your</mod> gentle words.</s>
 
 
 <s xml:id="sent2282503" n="24.773"><mod n="Wherefore:simpsub">For which reason</mod> I wail alike for <mod n="thee:simpsub">you</mod> and for my <mod n="hapless:simpsub">unhappy</mod> self with grief at heart;</s>
@@ -36295,7 +36338,7 @@ double cup.</s>
 
 
 
-<s xml:id="sent2282520" n="24.804"><mod n="on <mod n="bigram:this wise">this way</mod>">In this way</mod> held they funeral for horse-taming Hector.</s></p>
+<s xml:id="sent2282520" n="24.804">On this way held they funeral for horse-taming Hector.</s></p>
 
 </div>
 </div>
@@ -36303,4 +36346,3 @@ double cup.</s>
 </body>
 </text>
 </TEI>
-EI>
