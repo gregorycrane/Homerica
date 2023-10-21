@@ -5385,7 +5385,7 @@
 
 <p>
 
-<s xml:id="sent2186877" n="5.228-5.232">As soon as early Dawn appeared, the rosy-fingered, straightway Odysseus put on a cloak and a tunic, <milestone ed="p" n="230" unit="line"/> and the nymph clothed herself in a long white robe, finely woven and beautiful, and about her waist she cast a fair girdle of gold, and on her head a veil above.</s>
+<s xml:id="sent2186877" n="5.228-5.232">As soon as early Dawn appeared, the rosy-fingered, straightway Odysseus put on a cloak and a tunic, <milestone ed="p" n="230" unit="line"/> and the nymph clothed herself in a long white robe, finely woven and beautiful, and about her waist she cast a fair <mod n="girdle:simpsub">belt</mod> of gold, and on her head a veil above.</s>
 
 
 
@@ -11241,7 +11241,7 @@
 
 
 
-<s xml:id="sent2188348" n="10.543-10.545">and the nymph clothed herself in a long white robe, finely-woven and beautiful, and about her waist she cast <milestone ed="p" n="545" unit="line"/> a fair girdle of gold, and upon her head she put a veil.</s></p></q></p>
+<s xml:id="sent2188348" n="10.543-10.545">and the nymph clothed herself in a long white robe, finely-woven and beautiful, and about her waist she cast <milestone ed="p" n="545" unit="line"/> a fair <mod n="girdle:simpsub">belt</mod> of gold, and upon her head she put a veil.</s></p></q></p>
 </div>
 <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:10.546-10.574">
 
@@ -11803,7 +11803,7 @@
 
 
 
-<s xml:id="sent2188491" n="11.245"><milestone ed="p" n="245" unit="line"/>And he loosed her <mod n="maiden:simpsub">young woman</mod> girdle, and shed sleep upon her.</s>
+<s xml:id="sent2188491" n="11.245"><milestone ed="p" n="245" unit="line"/>And he loosed her <mod n="maiden:simpsub">young woman</mod> <mod n="girdle:simpsub">belt</mod>, and shed sleep upon her.</s>
 
 
 

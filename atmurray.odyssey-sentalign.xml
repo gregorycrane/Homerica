@@ -392,7 +392,7 @@
 
 <s xml:id="sent2185703" n="1.320-1.322">and in his heart she put strength and courage, and made him think of his father even more than aforetime.</s>
 
-<s xml:id="sent2185704" n="1.322-1.323">And in his mind he marked her and marvelled,</s>
+<s xml:id="sent2185704" n="1.322-1.323">And in his mind he perceived her and marvelled,</s>
 
 <s xml:id="sent2185705" n="1.323">for he deemed that she was a god;</s>
 
@@ -2454,7 +2454,11 @@
 
 <p><s xml:id="sent2186756" n="5.1-5.2"><milestone ed="p" n="1" unit="line"/>Now Dawn arose from her couch from beside lordly Tithonus, to bear light to the immortals and to mortal men.</s>
 
-<s xml:id="sent2186757" n="5.3-5.4">And the gods were sitting down to council, and among them Zeus, who thunders on high, whose might is supreme.</s>
+<s xml:id="sent2186757" n="5.3">And the gods were sitting down to council.
+    
+</s>
+
+<s xml:id="sent2186757a" n="5.3-5.4">And among them Zeus, who thunders on high, whose might is supreme.</s>
 
 <s xml:id="sent2186758" n="5.5-5.6"><milestone ed="p" n="5" unit="line"/>To them Athena was recounting the many woes of Odysseus, as she called them to mind;</s>
 
@@ -2481,12 +2485,14 @@
 
 <s xml:id="sent2186771" n="5.27">may come back in their ship baffled in their purpose.<note n="GRC">the diaeresis in νηὶ was converted into a raised dot and the sentence was incorrectly split in the treebank</note></s>
 </q><s xml:id="sent2186772" n="5.28">He spoke, and said to Hermes, his dear son:</s>
-<q><s xml:id="sent2186773" n="5.29-5.32">Hermes, do thou now, seeing that thou art at other times our messenger, <milestone ed="p" n="30" unit="line"/> declare to the fair-tressed nymph our fixed resolve, even the return of Odysseus of the steadfast heart, that he may return with guidance neither of gods nor of mortal men,</s>
+<q><s xml:id="sent2186773" n="5.29">Hermes, do thou now, seeing that thou art at other times our messenger, </s>
+    <s xml:id="sent2186773a" n="5.30-5.32"><milestone ed="p" n="30" unit="line"/> declare to the fair-tressed nymph our fixed resolve, even the return of Odysseus of the steadfast heart, that he may return with guidance neither of gods nor of mortal men,</s>
 
 <s xml:id="sent2186774" n="5.33-5.40">but that on a stoutly-bound raft, suffering woes, he may come on the twentieth day to deep-soiled <placeName key="tgn,7010886">Scheria</placeName>, <milestone ed="p" n="35" unit="line"/> the land of the Phaeacians, who are near of kin to the gods. <milestone unit="para"/> These shall heartily shew him all honor, as if he were a god, and shall send him in a ship to his dear native land, after giving him stores of bronze and gold and raiment, more than Odysseus would ever have won for himself from <placeName key="perseus,Troy">Troy</placeName>, <milestone ed="p" n="40" unit="line"/> if he had returned unscathed with his due share of the spoil.</s>
 
-<s xml:id="sent2186775" n="5.41-5.42">For in this wise it is his fate to see his friends, and reach his high-roofed house and his native land.</s>
-</q><s xml:id="sent2186776" n="5.43">So he spoke, and the messenger, Argeiphontes, failed not to hearken.</s>
+<s xml:id="sent2186775" n="5.41-5.42">For in this way it is his fate to see his friends, and reach his high-roofed house and his native land.</s>
+</q><s xml:id="sent2186776" n="5.43">So he spoke.</s>
+<s xml:id="sent2186776a" n="5.43">And the messenger, Argeiphontes, failed not to hearken.</s>
 
 <s xml:id="sent2186777" n="5.44-5.46">Straightway he bound beneath his feet his beautiful sandals, <milestone ed="p" n="45" unit="line"/> immortal, golden, which were wont to bear him over the waters of the sea and over the boundless land swift as the blasts of the wind.</s>
 
@@ -2507,7 +2513,11 @@
 
 <s xml:id="sent2186784" n="5.58">and he found her within.</s>
 
-<s xml:id="sent2186785" n="5.59-5.61">A great fire was burning on the hearth, and from afar over the isle there was a fragrance <milestone ed="p" n="60" unit="line"/> of cleft cedar and juniper, as they burned;</s>
+<s xml:id="sent2186785" n="5.59">A great fire was burning on the hearth.
+    
+</s>
+
+<s xml:id="sent2186785a" n="5.59-5.61">And from afar over the isle there was a fragrance <milestone ed="p" n="60" unit="line"/> of cleft cedar and juniper, as they burned;</s>
 
 <s xml:id="sent2186786" n="5.61-5.62">but she within was singing with a sweet voice as she went to and fro before the loom, weaving with a golden shuttle.</s>
 
@@ -2515,7 +2525,9 @@
 
 <s xml:id="sent2186788" n="5.65-5.67"><milestone ed="p" n="65" unit="line"/> Therein birds long of wing were wont to nest, owls and falcons and sea-crows with chattering tongues, who ply their business on the sea.</s>
 
-<s xml:id="sent2186789" n="5.68-5.69">And right there about the hollow cave ran trailing a garden vine, in pride of its prime, richly laden with clusters.</s>
+<s xml:id="sent2186789" n="5.68-5.69">And right there about the hollow cave ran trailing a garden vine.</s>
+
+    <s xml:id="sent2186789a" n="5.69">It was in pride of its prime, richly laden with clusters.</s>
 
 <s xml:id="sent2186790" n="5.70-5.71"><milestone ed="p" n="70" unit="line"/>And fountains four in a row were flowing with bright water hard by one another, turned one this way, one that.</s>
 
@@ -2531,7 +2543,9 @@
 
 <s xml:id="sent2186796" n="5.79-5.80">for not unknown are <milestone ed="p" n="80" unit="line"/> the immortal gods to one another, even though one dwells in a home far away.</s>
 
-<s xml:id="sent2186797" n="5.81-5.83">But the great-hearted Odysseus he found not within; for he sat weeping on the shore, as his wont had been, racking his soul with tears and groans and griefs,</s>
+<s xml:id="sent2186797a" n="5.83">But the great-hearted Odysseus he found not within;</s>
+
+<s xml:id="sent2186797" n="5.82-5.83">for he sat weeping on the shore, as his wont had been, racking his soul with tears and groans and griefs,</s>
 
 <s xml:id="sent2186798" n="5.84">and he would look over the unresting sea, shedding tears.</s>
 
@@ -3855,7 +3869,7 @@
 
 <s xml:id="sent2187446" n="8.90-8.92"><milestone ed="p" n="90" unit="line"/>But as often as he began again, and the nobles of the Phaeacians bade him sing, because they took pleasure in his lay, Odysseus would again cover his head and moan.</s>
 
-<s xml:id="sent2187447" n="8.93-8.95">Now from all the rest he concealed the tears that he shed, but Alcinous alone marked him and took heed, <milestone ed="p" n="95" unit="line"/> for he sat by him, and heard him groaning heavily.</s>
+<s xml:id="sent2187447" n="8.93-8.95">Now from all the rest he concealed the tears that he shed, but Alcinous alone perceived him and took heed, <milestone ed="p" n="95" unit="line"/> for he sat by him, and heard him groaning heavily.</s>
 
 <s xml:id="sent2187448" n="8.96">And straightway he spoke among the Phaeacians, lovers of the oar:</s>
 <q><s xml:id="sent2187449" n="8.97">Hear me, ye leaders and counsellors of the Phaeacians,</s>
@@ -4048,7 +4062,7 @@
 
 <s xml:id="sent2187545" n="8.266-8.270">But the minstrel struck the chords in prelude to his sweet lay and sang of the love of Ares and Aphrodite of the fair crown, how first they lay together in the house of Hephaestus secretly; and Ares gave her many gifts, and shamed the bed <milestone ed="p" n="270" unit="line"/> of the lord Hephaestus.</s>
 
-<s xml:id="sent2187546" n="8.270-8.271">But straightway one came to him with tidings, even Helius, who had marked them as they lay together in love.</s>
+<s xml:id="sent2187546" n="8.270-8.271">But straightway one came to him with tidings, even Helius, who had perceived them as they lay together in love.</s>
 
 <s xml:id="sent2187547" n="8.272-8.275">And when Hephaestus heard the grievous tale, he went his way to his smithy, pondering evil in the deep of his heart, and set on the anvil block the great anvil and forged bonds <milestone ed="p" n="275" unit="line"/> which might not be broken or loosed, that the lovers<note anchored="true" resp="Loeb">1</note> might bide fast where they were.</s>
 
@@ -4331,7 +4345,7 @@
 
 <s xml:id="sent2187692" n="8.531">even so did Odysseus let fall pitiful tears from beneath his brows.</s>
 
-<s xml:id="sent2187693" n="8.532-8.534">Now from all the rest he concealed the tears that he shed, but Alcinous alone marked him and took heed, <milestone ed="p" n="535" unit="line"/> for he sat by him and heard him groaning heavily.</s>
+<s xml:id="sent2187693" n="8.532-8.534">Now from all the rest he concealed the tears that he shed, but Alcinous alone perceived him and took heed, <milestone ed="p" n="535" unit="line"/> for he sat by him and heard him groaning heavily.</s>
 
 <s xml:id="sent2187694" n="8.535">And straightway he spoke among the Phaeacians, lovers of the oar:</s>
 <q><s xml:id="sent2187695" n="8.536-8.537">Hear me, leaders and counsellors of the Phaeacians, and let Demodocus now check his clear-toned lyre,</s>
@@ -4568,7 +4582,7 @@
 
 <s xml:id="sent2187804" n="9.165">when we took the sacred citadel of the Cicones.</s>
 
-<s xml:id="sent2187805" n="9.166-9.167">And we looked across to the land of the Cyclopes, who dwelt close at hand, and marked the smoke, and the voice of men, and of the sheep, and of the goats.</s>
+<s xml:id="sent2187805" n="9.166-9.167">And we looked across to the land of the Cyclopes, who dwelt close at hand, and perceived the smoke, and the voice of men, and of the sheep, and of the goats.</s>
 
 <s xml:id="sent2187806" n="9.168-9.169">But when the sun set and darkness came on, then we lay down to rest on the shore of the sea.</s>
 
@@ -4881,7 +4895,7 @@
 
 <s xml:id="sent2187962" n="9.440-9.442">And their master, distressed with grievous pains, felt along the backs of all the sheep as they stood up before him,</s>
 
-<s xml:id="sent2187963" n="9.442-9.443">but in his folly he marked not this, that my men were bound beneath the breasts of his fleecy sheep.</s>
+<s xml:id="sent2187963" n="9.442-9.443">but in his folly he perceived not this, that my men were bound beneath the breasts of his fleecy sheep.</s>
 
 <s xml:id="sent2187964" n="9.444-9.445">Last of all the flock the ram went forth, <milestone ed="p" n="445" unit="line"/> burdened with the weight of his fleece and my cunning self.</s>
 
@@ -6259,7 +6273,7 @@
 
 
 <p><q><p><s xml:id="sent2188659" n="11.568-11.571">There then I saw Minos, the glorious son of Zeus, golden sceptre in hand, giving judgment to the dead <milestone ed="p" n="570" unit="line"/> from his seat, while they sat and stood about the king through the wide-gated house of Hades, and asked of him judgment.</s></p>
-<p><s xml:id="sent2188660" n="11.572-11.575">And after him I marked huge Orion driving together over the field of asphodel wild beasts which he himself had slain on the lonely hills, <milestone ed="p" n="575" unit="line"/> and in his hands he held a club all of bronze, ever unbroken.</s></p>
+<p><s xml:id="sent2188660" n="11.572-11.575">And after him I perceived huge Orion driving together over the field of asphodel wild beasts which he himself had slain on the lonely hills, <milestone ed="p" n="575" unit="line"/> and in his hands he held a club all of bronze, ever unbroken.</s></p>
 <p><s xml:id="sent2188661" n="11.576-11.577">And I saw Tityos, son of glorious Gaea, lying on the ground.</s>
 
 <s xml:id="sent2188662" n="11.577-11.579">Over nine roods<note anchored="true" resp="Loeb">1</note> he stretched, and two vultures sat, one on either side, and tore his liver, plunging their beaks into his bowels, nor could he beat them off with his hands.</s>
@@ -6289,7 +6303,7 @@
                     <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:11.601-11.640">
 
 
-<p><q><p><s xml:id="sent2188675" n="11.601-11.602">And after him I marked the mighty Heracles—his phantom;</s>
+<p><q><p><s xml:id="sent2188675" n="11.601-11.602">And after him I perceived the mighty Heracles—his phantom;</s>
 
 <s xml:id="sent2188676" n="11.602-11.604">for he himself among the immortal gods takes his joy in the feast, and has to wife Hebe, of the fair ankles, daughter of great Zeus and of Hera, of the golden sandals.</s>
 
@@ -7157,7 +7171,7 @@
 
 <s xml:id="sent2189104" n="13.314-13.315">But this I know well, that of old thou wast kindly toward me, <milestone ed="p" n="315" unit="line"/> so long as we sons of the Achaeans were warring in the land of <placeName key="perseus,Troy">Troy</placeName>.</s>
 
-<s xml:id="sent2189105" n="13.316-13.319">But after we had sacked the lofty city of Priam, and had gone away in our ships, and a god had scattered the Achaeans, never since then have I seen thee, daughter of Zeus, nor marked thee coming on board my ship, that thou mightest ward off sorrow from me.</s>
+<s xml:id="sent2189105" n="13.316-13.319">But after we had sacked the lofty city of Priam, and had gone away in our ships, and a god had scattered the Achaeans, never since then have I seen thee, daughter of Zeus, nor perceived thee coming on board my ship, that thou mightest ward off sorrow from me.</s>
 
 <s xml:id="sent2189106" n="13.320-13.321"><milestone ed="p" n="320" unit="line"/>Nay, I ever wandered on, bearing in my breast a stricken heart, till the gods delivered me from evil,</s>
 
@@ -8676,7 +8690,7 @@
 
 <s xml:id="sent2189864" n="16.114-16.116">Neither do the people at large bear me any grudge or hatred, <milestone ed="p" n="115" unit="line"/> nor have I cause to blame brothers, in whose fighting a man trusts, even if a great strife arise.</s>
 
-<s xml:id="sent2189865" n="16.117">For in this wise has the son of Cronos made our house to run in but a single line.</s>
+<s xml:id="sent2189865" n="16.117">For in this way has the son of Cronos made our house to run in but a single line.</s>
 
 <s xml:id="sent2189866" n="16.118-16.119">As his only son did Arceisius beget Laertes, as his only son again did his father beget Odysseus,</s>
 
@@ -9389,7 +9403,7 @@
 
 <s xml:id="sent2190224" n="17.269-17.271">And I mark that in the house itself many <milestone ed="p" n="270" unit="line"/> men are feasting: for the savour of meat arises from it, and therewith resounds the voice of the lyre, which the gods have made the companion of the feast.</s>
 </q><s xml:id="sent2190225" n="17.272">To him then, swineherd Eumaeus, didst thou make answer, and say:</s>
-<q><s xml:id="sent2190226" n="17.273">Easily hast thou marked it, for in all things thou art ready of wit.</s>
+<q><s xml:id="sent2190226" n="17.273">Easily hast thou perceived it, for in all things thou art ready of wit.</s>
 
 <s xml:id="sent2190227" n="17.274">But come, let us take thought how these things shall be.</s>
 
@@ -9430,7 +9444,7 @@
 
 <s xml:id="sent2190244" n="17.300"><milestone ed="p" n="300" unit="line"/>There lay the hound <placeName key="perseus,Argos">Argos</placeName>, full of vermin;</s>
 
-<s xml:id="sent2190245" n="17.301-17.304">yet even now, when he marked Odysseus standing near, he wagged his tail and dropped both his ears, but nearer to his master he had no longer strength to move.</s>
+<s xml:id="sent2190245" n="17.301-17.304">yet even now, when he perceived Odysseus standing near, he wagged his tail and dropped both his ears, but nearer to his master he had no longer strength to move.</s>
 
 <s xml:id="sent2190246" n="17.304-17.305">Then Odysseus looked aside and wiped away a tear, <milestone ed="p" n="305" unit="line"/> easily hiding from Eumaeus what he did; and straightway he questioned him, and said:</s>
 <q><s xml:id="sent2190247" n="17.306">Eumaeus, verily it is strange that this hound lies here in the dung.</s>
@@ -11240,7 +11254,7 @@
 
 <s xml:id="sent2191171" n="20.202-20.203">thou hast no pity on men when thou hast thyself given them birth, but bringest them into misery and wretched pains.</s>
 
-<s xml:id="sent2191172" n="20.204-20.207">The sweat broke out on me when I marked the man, and my eyes are full of tears <milestone ed="p" n="205" unit="line"/> as I think of Odysseus; for he, too, I ween, is clothed in such rags and is a wanderer among men, if indeed he still lives and beholds the light of the sun.</s>
+<s xml:id="sent2191172" n="20.204-20.207">The sweat broke out on me when I perceived the man, and my eyes are full of tears <milestone ed="p" n="205" unit="line"/> as I think of Odysseus; for he, too, I ween, is clothed in such rags and is a wanderer among men, if indeed he still lives and beholds the light of the sun.</s>
 
 <s xml:id="sent2191173" n="20.208-20.210">But if he is already dead and in the house of Hades, then woe is me for blameless Odysseus, who <milestone ed="p" n="210" unit="line"/> set me over his cattle, when I was yet a boy, in the land of the Cephallenians.</s>
 
@@ -11585,7 +11599,25 @@
 
 <s xml:id="sent2191340" n="21.105"><milestone ed="p" n="105" unit="line"/> yet I laugh, and am glad with a witless mind.</s>
 
-<s xml:id="sent2191341" n="21.106-21.117">Come then, ye wooers, since this is shewn to be your prize, a lady, the like of whom is not now in the Achaean land, neither in sacred <placeName key="perseus,Pylos">Pylos</placeName>, nor in <placeName key="perseus,Argos">Argos</placeName>, nor in Mycene, nor yet in <placeName key="tgn,1007519">Ithaca</placeName> itself, nor in the dark mainland. <milestone ed="p" n="110" unit="line"/>Nay, but of yourselves you know this—what need have I to praise my mother? Come then, put not the matter aside with excuses, nor any more turn away too long from the drawing of the bow, that we may see the issue. Yea, and I would myself make trial of yon bow. If I shall string it and shoot an arrow through the iron, <milestone ed="p" n="115" unit="line"/> it will not vex me that my honored mother should leave this house and go along with another, seeing that I should be left here able now to wield the goodly battle-gear of my father.</s></q></p>
+<s xml:id="sent2191341" n="21.106-21.109">Come then, ye wooers, since this is shewn to be your prize, a lady, the like of whom is not now in the Achaean land, neither in sacred <placeName key="perseus,Pylos">Pylos</placeName>, nor in <placeName key="perseus,Argos">Argos</placeName>, nor in Mycene, nor yet in <placeName key="tgn,1007519">Ithaca</placeName> itself, nor in the dark mainland. </s>
+
+<s xml:id="sent2191343" n="21.110"><milestone ed="p" n="110" unit="line"/>Nay, but of yourselves you know this—</s>
+
+<s xml:id="sent2191344" n="21.110">
+    
+    what need have I to praise my mother?</s>
+
+    <s xml:id="sent2191345" n="21.111-21.112">Come then, put not the matter aside with excuses, nor any more turn away too long from the drawing of the bow, that we may see the issue. 
+        
+    </s>
+
+    <s xml:id="sent2191346" n="21.113">Yea, and I would myself make trial of yon bow. 
+        
+        
+    </s>
+
+    <s xml:id="sent2191347" n="21.114-21.117">
+If I shall string it and shoot an arrow through the iron, <milestone ed="p" n="115" unit="line"/> it will not vex me that my honored mother should leave this house and go along with another, seeing that I should be left here able now to wield the goodly battle-gear of my father.</s></q></p>
                     </div>
                     <div type="textpart" subtype="card" n="urn:cts:greekLit:tlg0012.tlg002.perseus-grc2:21.118-21.162">
 
@@ -11702,7 +11734,7 @@
 <s xml:id="sent2191404" n="21.217-21.220">Nay, come, more than this, I will shew you also a manifest sign, that you may know me well and be assured in heart, even the scar of the wound which long ago a boar dealt me with his white tusk, <milestone ed="p" n="220" unit="line"/> when I went to <placeName key="tgn,7011022">Parnassus</placeName> with the sons of Autolycus.</s>
 </q><s xml:id="sent2191405" n="21.221">So saying, he drew aside the rags from the great scar.</s>
 
-<s xml:id="sent2191406" n="21.222-21.225">And when the two had seen it, and had marked each thing well, they flung their arms about wise Odysseus, and wept; and they kissed his head and shoulders in loving welcome. <milestone ed="p" n="225" unit="line"/>And even in like manner Odysseus kissed their heads and hands.</s>
+<s xml:id="sent2191406" n="21.222-21.225">And when the two had seen it, and had perceived each thing well, they flung their arms about wise Odysseus, and wept; and they kissed his head and shoulders in loving welcome. <milestone ed="p" n="225" unit="line"/>And even in like manner Odysseus kissed their heads and hands.</s>
 
 <s xml:id="sent2191407" n="21.226-21.227">And now the light of the sun would have gone down upon their weeping, had not Odysseus himself checked them, and said:</s>
 <q>
@@ -12124,7 +12156,7 @@
 <s xml:id="sent2191621" n="22.157-22.159">But go now, goodly Eumaeus, close the door of the store-room, and see whether it is one of the women who does this, or Melanthius, son of Dolius, as I suspect.</s>
 </q><s xml:id="sent2191622" n="22.160-22.162"><milestone ed="p" n="160" unit="line"/>Thus they spoke to one another. But Melanthius, the goatherd, went again to the store-room to bring beautiful armour;</s>
 
-<s xml:id="sent2191623" n="22.162-22.163">howbeit the goodly swineherd marked him, and straightway said to Odysseus who was near:</s>
+<s xml:id="sent2191623" n="22.162-22.163">howbeit the goodly swineherd perceived him, and straightway said to Odysseus who was near:</s>
 <q><s xml:id="sent2191624" n="22.164-22.166">Son of Laertes, sprung from Zeus, Odysseus of many devices, <milestone ed="p" n="165" unit="line"/> yonder again is the pestilent fellow, whom we ourselves suspect, going to the store-room.</s>
 
 <s xml:id="sent2191625" n="22.166-22.169">But do thou tell me truly, shall I slay him, if I prove the better man, or shall I bring him hither to thee, that the fellow may pay for the many crimes that he has planned in thy house?</s></q></p>
@@ -12177,7 +12209,7 @@
 <s xml:id="sent2191647" n="22.212">and first Agelaus, son of Damastor, rebuked Athena, saying:</s>
 <q><s xml:id="sent2191648" n="22.213-22.214">Mentor, let not Odysseus beguile thee with his words to fight against the wooers and bear aid to himself.</s>
 
-<s xml:id="sent2191649" n="22.215"><milestone ed="p" n="215" unit="line"/>For in this wise, methinks, shall our will be brought to pass:</s>
+<s xml:id="sent2191649" n="22.215"><milestone ed="p" n="215" unit="line"/>For in this way, methinks, shall our will be brought to pass:</s>
 
 <s xml:id="sent2191650" n="22.216-22.218">when we have killed these men, father and son, thereafter shalt thou too be slain with them, such deeds art thou minded to do in these halls:</s>
 
@@ -12570,7 +12602,7 @@
 
 <s xml:id="sent2191852" n="23.73-23.74">Nay come, I will tell thee a manifest sign besides, even the scar of the wound which long ago the boar dealt him with his white tusk.</s>
 
-<s xml:id="sent2191853" n="23.75-23.76"><milestone ed="p" n="75" unit="line"/>This I marked while I washed his feet, and was fain to tell it to thee as well,</s>
+<s xml:id="sent2191853" n="23.75-23.76"><milestone ed="p" n="75" unit="line"/>This I perceived while I washed his feet, and was fain to tell it to thee as well,</s>
 
 <s xml:id="sent2191854" n="23.76-23.77">but he laid his hand upon my mouth, and in the great wisdom of his heart would not suffer me to speak.</s>
 
@@ -13083,7 +13115,7 @@
 
 <s xml:id="sent2192099" n="24.195-24.196">in that she was loyally mindful of Odysseus, her wedded husband.</s>
 
-<s xml:id="sent2192100" n="24.196-24.202">Therefore the fame of her virtue shall never perish, but the immortals shall make among men on earth a pleasant song in honor of constant Penelope. Not on this wise did the daughter of Tyndareus devise evil deeds <milestone ed="p" n="200" unit="line"/> and slay her wedded husband, and hateful shall the song regarding her be among men, and evil repute doth she bring upon all womankind, even upon her that doeth uprightly.</s>
+<s xml:id="sent2192100" n="24.196-24.202">Therefore the fame of her virtue shall never perish, but the immortals shall make among men on earth a pleasant song in honor of constant Penelope. Not on this way did the daughter of Tyndareus devise evil deeds <milestone ed="p" n="200" unit="line"/> and slay her wedded husband, and hateful shall the song regarding her be among men, and evil repute doth she bring upon all womankind, even upon her that doeth uprightly.</s>
 </q><s xml:id="sent2192101" n="24.203-24.204">Thus the two spoke to one another, as they stood in the house of Hades beneath the depths of the earth.</s>
 
 <s xml:id="sent2192102" n="24.205-24.207"><milestone ed="p" n="205" unit="line"/>But Odysseus and his men, when they had gone down from the city, quickly came to the fair and well-ordered farm of Laertes, which he had won for himself in days past, and much had he toiled for it.<note anchored="true" resp="Loeb">1</note></s>
@@ -13281,7 +13313,7 @@
 
 <s xml:id="sent2192200" n="24.386-24.390">Then they were about to set hands to their food, when the old man Dolius drew near, and with him the old man's sons, wearied from their work in the fields, for their mother, the old Sicilian woman, had gone forth and called them, she who <milestone ed="p" n="390" unit="line"/> saw to their food, and tended the old man with kindly care, now that old age had laid hold of him.</s>
 
-<s xml:id="sent2192201" n="24.391-24.392">And they, when they saw Odysseus, and marked him in their minds, stood in the halls lost in wonder.</s>
+<s xml:id="sent2192201" n="24.391-24.392">And they, when they saw Odysseus, and perceived him in their minds, stood in the halls lost in wonder.</s>
 
 <s xml:id="sent2192202" n="24.392-24.393">But Odysseus addressed them with gentle words, and said:</s>
 <q><s xml:id="sent2192203" n="24.394">Old man, sit down to dinner, and do ye wholly forget your wonder,</s>
