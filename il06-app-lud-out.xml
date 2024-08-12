@@ -120,10 +120,10 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="WL">Σιμόεντος ἰδὲ Ξάνθοιο ῥοάων</lem> <wit>Aristarchea</wit></app> posterior, ut (<app><wit>Π</wit></app>) <app><wit>Ω</wit></app>;
+<app><lem n="W+G+">Σιμόεντος ἰδὲ Ξάνθοιο ῥοάων</lem> <wit>Aristarchea</wit></app> posterior, ut (<app><wit>Π</wit></app>) <app><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>Σιμόεντος ἰδε Ξάνθοιο ῥοάων</rdg> <wit>W</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>Σιμόεντος ἠδὲ Ξάνθοιο ῥοάων</rdg> <wit>Yb</wit> <wit>O</wit><wit>Nb</wit> <wit>Ua</wit><wit>X</wit></app>;
-<app><rdg n="WR"><note n="tbd"/>ποταμοῖο Σκαμάνδρου καὶ στομαλίνης: ἐν τοῖς ἀρχαίοις ἐγέγραπτο "ποταμοῖο Σκαμάνδρου καὶ στομαλίνης" διὸ καὶ ἐν τοῖς ὑπομνήμασι</rdg></app> [sc. Ἀρισταρχείοις] φέρεται <app><wit>Ariston.</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ποταμοῖο Σκαμάνδρου καὶ στομαλίνης</rdg> <note>ἐν τοῖς ἀρχαίοις ἐγέγραπτο "ποταμοῖο Σκαμάνδρου καὶ στομαλίνης" διὸ καὶ ἐν τοῖς ὑπομνήμασι [sc. Ἀρισταρχείοις] φέρεται</note> <wit>Ariston.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ποταμοῖο Σκαμάνδρου καὶ Σιμόεντος</rdg></app> Chaeris: v. <app><wit>Did.</wit></app> p. 263.
 </p>
 </note>
@@ -505,9 +505,9 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W-">τόθ'</lem></app>;
+<app><lem n="W-G+">τόθ'</lem></app>;
 <app><rdg n="NA"><note n="accdiff"/>τοθ'</rdg> <wit>A</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>οἱ</rdg> <wit>lm-R</wit></app>.
+<app><rdg n="W+G-"><note n="tbd"/>οἱ</rdg> <wit>lm-R</wit></app>.
 </p>
 </note>
 
@@ -571,10 +571,10 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">Πήδασον</lem></app>;
+<app><lem n="W+G+">Πήδασον</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>πήδασον</rdg> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οἱ περὶ Ἀρίσταρχον[?] "Πήρεχον" λέγουσιν</rdg> <wit>sch. B</wit></app>;
-<app><rdg n="W-">Τήρέχον</rdg><note n="tbd"/><note>οἱ ἄλλοι ἱστορικοὶ, "Τήρέχον" καλοῦσι</note> <wit>sch. T</wit></app>. – οὓς πότε <app><wit>Ua</wit></app>;
+<app><rdg n="W-G-">Τήρέχον</rdg><note n="tbd"/><note>οἱ ἄλλοι ἱστορικοὶ, "Τήρέχον" καλοῦσι</note> <wit>sch. T</wit></app>. – οὓς πότε <app><wit>Ua</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οὕς τε</rdg> <wit>O</wit></app>.
 </p>
 </note>
@@ -826,9 +826,9 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">Ἀρετάονα</lem></app>;
+<app><lem n="G+">Ἀρετάονα</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἀρετάονα</rdg> <wit>Ub2</wit><wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἂρ ἐτά-ονα</rdg> <wit>G</wit><wit>T</wit><wit>Pb</wit></app>;  utrumque <app><wit>sch. At</wit></app> et <app><wit>Eust.</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>ἂρ ἐτά-ονα</rdg> <wit>G</wit><wit>T</wit><wit>Pb</wit></app>;  utrumque <app><wit>sch. At</wit></app> et <app><wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄρ' ἐτά-ονα</rdg> <wit>Ub1</wit><wit>L</wit></app>.
 </p>
 </note>
@@ -877,10 +877,10 @@ damnat <app><wit>Haupt.</wit></app>
 <note n="34">
 
 <p>
-<app><lem n="W+">ναῖε δὲ</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
+<app><lem n="W+G+">ναῖε δὲ</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ναῖε δε</rdg> <wit>Π</wit><wit>S</wit> <wit>Strab. XIII 606</wit> <wit>Etymologicum Magnum 598.46</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ναῖε</rdg></app> (δὲ om. <app><wit>W1</wit></app>, add. <app><wit>W2</wit></app>);
-<app><rdg n="W-"><note n="tbd"/>ὃς ναῖε</rdg></app> Zenodotus: v. ad <bibl n="tlg0012.tlg001:13.172">Ν-172</bibl>.
+<app><rdg n="W-G-"><note n="tbd"/>ὃς ναῖε</rdg></app> Zenodotus: v. ad <bibl n="tlg0012.tlg001:13.172">Ν-172</bibl>.
 </p>
 
 <p>
@@ -1148,8 +1148,8 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">ἐλλίσσετο</lem></app> vwb;
-<app><rdg n="W-"><note n="tbd"/>ἐλίσσετο</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit> <wit>Ω</wit></app> (ἓ ss. <app><wit>Nb2</wit> <wit>lm-R</wit></app>);
+<app><lem n="W+G-">ἐλλίσσετο</lem></app> vwb;
+<app><rdg n="W-G+"><note n="tbd"/>ἐλίσσετο</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit> <wit>Ω</wit></app> (ἓ ss. <app><wit>Nb2</wit> <wit>lm-R</wit></app>);
 <app><rdg n="W-"><note n="tbd"/>ἑλί-σσετο</rdg> <wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐλύ-σσετο</rdg> <wit>Ua</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐλίσετο</rdg> <wit>Pb</wit></app>.
@@ -1318,9 +1318,9 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W-">ἔπειθε</lem> <wit>Db</wit><wit>F2</wit> <wit>Ω</wit></app>, sv, cum γρ <app><wit>M3</wit><wit>Cb</wit></app>;
+<app><lem n="W-G+">ἔπειθε</lem> <wit>Db</wit><wit>F2</wit> <wit>Ω</wit></app>, sv, cum γρ <app><wit>M3</wit><wit>Cb</wit></app>;
 <app><rdg n="W+"><note n="addednu"/>ἔπειθεν</rdg> <wit>A1</wit><wit>S</wit><wit>F1</wit><wit>J</wit><wit>Kb</wit> <wit>Kc</wit><wit>Ua</wit> <wit>n</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ὄρινε</rdg> <wit>B</wit><wit>M</wit><wit>T</wit><wit>K</wit><wit>Yb</wit><wit>Hb</wit><wit>O</wit><wit>P</wit><wit>Qb</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ὄρινε</rdg> <wit>B</wit><wit>M</wit><wit>T</wit><wit>K</wit><wit>Yb</wit><wit>Hb</wit><wit>O</wit><wit>P</wit><wit>Qb</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ὄρινεν</rdg> <wit>W</wit> <wit>A1</wit></app>, wb.
 </p>
 </note>
@@ -1571,8 +1571,8 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">παρέπεισεν</lem> <wit>A</wit><wit>H</wit><wit>Na</wit> <wit>Ec</wit><wit>Nb</wit><wit>Ua</wit><wit>Yb</wit> <wit>b2</wit></app>, cum γρ΄ <app><wit>G3</wit> <wit>An. Par. III 385.19</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἔτρεψεν</rdg> <wit>Ω</wit></app>, vw, cum γρ΄ <app><wit>At</wit> <wit>Eust.</wit></app>;
+<app><lem n="G-">παρέπεισεν</lem> <wit>A</wit><wit>H</wit><wit>Na</wit> <wit>Ec</wit><wit>Nb</wit><wit>Ua</wit><wit>Yb</wit> <wit>b2</wit></app>, cum γρ΄ <app><wit>G3</wit> <wit>An. Par. III 385.19</wit></app>;
+<app><rdg n="G+"><note n="tbd"/>ἔτρεψεν</rdg> <wit>Ω</wit></app>, vw, cum γρ΄ <app><wit>At</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔτρεψε</rdg> <note>γρ΄ "ἔτρεψε"</note> <wit>Na</wit></app>.
 </p>
 
@@ -1790,9 +1790,9 @@ damnat <app><wit>Haupt.</wit></app>
 <app><rdg n="NA"><note n="tbd"/>νεκροὺς κτἑ.</rdg> <wit>Aristarchus</wit> <wit>Athenocles</wit> <wit>Chaeris</wit> <wit>Ω</wit> <wit>Plut.</wit></app>.</p>
 
 <p>
-<app><lem n="W+">νεκροὺς ἂμ πεδίον συλήσετε τεθνηῶτας</lem></app>;
+<app><lem n="W+G+">νεκροὺς ἂμ πεδίον συλήσετε τεθνηῶτας</lem></app>;
 
-<app><rdg n="W-"><note n="tbd"/>Τρώων ἂμ πεδίον συλήσομεν ἔντεα νεκρούς</rdg> <wit>Zenodotus.</wit></app>
+<app><rdg n="W-G-"><note n="tbd"/>Τρώων ἂμ πεδίον συλήσομεν ἔντεα νεκρούς</rdg> <wit>Zenodotus.</wit></app>
 </p>
 
 <p>
@@ -1940,8 +1940,8 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">οἰωνοπόλων ὄχ' ἄριστος</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Eust.</wit></app>; 
-<app><rdg>μάντις τ' οἰωνοπόλος τε</rdg><note>Ἀμμώνιος ὡς Ἀριστάρχειον προφέρεται καὶ ταύτην τὴν γραφὴν "μάντις τ' οἰωνοπόλος τε"</note> <wit>Ammonius</wit></app>.
+<app><lem n="W+G+">οἰωνοπόλων ὄχ' ἄριστος</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Eust.</wit></app>; 
+<app><rdg n="G-">μάντις τ' οἰωνοπόλος τε</rdg><note>Ἀμμώνιος ὡς Ἀριστάρχειον προφέρεται καὶ ταύτην τὴν γραφὴν "μάντις τ' οἰωνοπόλος τε"</note> <wit>Ammonius</wit></app>.
 </p>
 
 <p>
@@ -2160,9 +2160,9 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">μετέρχεο</lem> <wit>Ω</wit></app>;
+<app><lem n="G+">μετέρχεο</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>μετ-έρχοιο</rdg> <wit>G</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μετ-οίχεο</rdg> <wit>Ua</wit> <wit>Eust.</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>μετ-οίχεο</rdg> <wit>Ua</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>μετ-οίχετο</rdg> <wit>lm-R</wit></app>.
 </p>
 
@@ -2194,10 +2194,11 @@ damnat <app><wit>Haupt.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">γεραιὰς</lem> <wit>Ω</wit> <wit>Nicanor</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.114">Ζ-114</bibl>;
+<app><lem n="W+G+">γεραιὰς</lem> <wit>Ω</wit> <wit>Nicanor</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.114">Ζ-114</bibl>;
 <app><rdg n="W-"><note n="tbd"/>γηραιὰς</rdg> <wit>O</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γερεὰς</rdg> <wit>Uc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τινὲς "γεραιράς"</rdg> <wit>sch. B</wit></app> (γεραράς <app><wit>sch. T</wit></app>).
+<app><rdg n="G-"><note n="tbd"/>γεραιράς</rdg> <note>τινὲς "γεραιράς"</note> <wit>sch. B</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>γεραράς</rdg> <wit>sch. T</wit></app>).
 </p>
 </note>
 
@@ -2277,14 +2278,14 @@ damn. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-<app><lem n="W-">ὅς</lem> <wit>Herodian II 54.12</wit> <wit>Na2</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><lem n="W-G+">ὅς</lem> <wit>Herodian II 54.12</wit> <wit>Na2</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ὁς</rdg> <wit>A</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὥς</rdg> <wit>Na1</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>ὅ</rdg> <wit>Bentley</wit> <wit>b</wit></app>.
+<app><rdg n="W+G+"><note n="tbd"/>ὅ</rdg> <wit>Bentley</wit> <wit>b</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">οἱ</lem> <wit>Herodian.</wit> <wit>Ω</wit></app>;
+<app><lem n="G+">οἱ</lem> <wit>Herodian.</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>οἵ</rdg> <wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἰ</rdg> <wit>Pb</wit></app>.
 </p>
@@ -2302,8 +2303,8 @@ post 92 collocat <app><wit>T1</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">μεγάρῳ</lem></app>;
-<app><rdg n="W-"><note n="tbd"/>μμεγάρῳ</rdg> <wit>H</wit></app>;
+<app><lem n="W+G+">μεγάρῳ</lem></app>;
+<app><rdg n="W-G-"><note n="tbd"/>μμεγάρῳ</rdg> <wit>H</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>μεγάροισι</rdg> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>μεγά-ροις</rdg></app> sv.
 </p>
@@ -2392,9 +2393,9 @@ post 92 collocat <app><wit>T1</wit></app>.
 <note n="95">
 
 <p>
-<app><lem n="W+">ἄστύ</lem> <wit>A</wit><wit>Kc2</wit></app>;
+<app><lem n="W+G-">ἄστύ</lem> <wit>A</wit><wit>Kc2</wit></app>;
 <note>West ascribes ἅστύ (or perhaps a grave and acute both on the alpha) to A E T W.</note>
-<app><rdg n="NA"><note n="tbd"/>ἄστυ ΜDΏ</rdg></app> 2.
+<app><rdg n="G+"><note n="tbd"/>ἄστυ ΜDΏ</rdg></app> 2.
 </p>
 
 <p>
@@ -2411,8 +2412,8 @@ post 92 collocat <app><wit>T1</wit></app>.
 <note n="96">
 
 <p>
-<app><lem n="W+">αἴ</lem> <wit>A</wit><wit>F</wit><wit>Ω</wit> <wit>Eust.</wit></app>; im. <app><wit>Xb2</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ὥς</rdg> <wit>Aristarchus</wit> <wit>M</wit><wit>J</wit><wit>O</wit><wit>Xb1</wit></app>.
+<app><lem n="W+G+">αἴ</lem> <wit>A</wit><wit>F</wit><wit>Ω</wit> <wit>Eust.</wit></app>; im. <app><wit>Xb2</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ὥς</rdg> <wit>Aristarchus</wit> <wit>M</wit><wit>J</wit><wit>O</wit><wit>Xb1</wit></app>.
 </p>
 
 <p>
@@ -2541,8 +2542,8 @@ post 92 collocat <app><wit>T1</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">ἰσοφαρίζειν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ἀντιφερ-ίζειν</rdg> <wit>Bentley</wit> <wit>b2</wit></app>.
+<app><lem n="W+G+">ἰσοφαρίζειν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἀντιφερ-ίζειν</rdg> <wit>Bentley</wit> <wit>b2</wit></app>.
 </p>
 </note>
 
@@ -2743,8 +2744,8 @@ om. <app><wit>J1</wit></app>, add. im. <app><wit>J2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ὣς</lem> <wit>Nicanor</wit> <wit>W1</wit><wit>Yb</wit><wit>Hb</wit> <wit>Na</wit> <wit>Eust.</wit> <wit>b1</wit> <wit>n</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>ὡς</rdg> <wit>A</wit><wit>S2</wit><wit>B</wit><wit>M</wit><wit>W2</wit><wit>Ω</wit> <wit>Etymologicum Magnum 328.47</wit></app>, δ2.
+<app><lem n="G-">ὣς</lem> <wit>Nicanor</wit> <wit>W1</wit><wit>Yb</wit><wit>Hb</wit> <wit>Na</wit> <wit>Eust.</wit> <wit>b1</wit> <wit>n</wit></app>;
+<app><rdg n="G+"><note n="accdiff"/>ὡς</rdg> <wit>A</wit><wit>S2</wit><wit>B</wit><wit>M</wit><wit>W2</wit><wit>Ω</wit> <wit>Etymologicum Magnum 328.47</wit></app>, δ2.
 </p>
 
 <p>
@@ -2771,8 +2772,8 @@ om. <app><wit>J1</wit></app>, add. im. <app><wit>J2</wit></app>.
 <note n="111">
 
 <p>
-<app><lem n="NA">Τρῶες ὑπέρθυμοι τηλεκλειτοί τ᾽ ἐπίκουροι</lem></app>;
-<app><rdg n="W-"><note n="tbd"/>τρῶες καὶ λύκιοι καὶ δάρδανοι ἀγχιμαχηταί</rdg> <note>(ex <bibl n="tlg0012.tlg001:8.173">Θ-173</bibl>)</note> <wit>G</wit><wit>H</wit><wit>J</wit><wit>Yb</wit> <wit>Hb</wit> <wit>Kc</wit></app> (vulgatam cum γρ΄ οὕτως im. <app><wit>Kc</wit></app>)
+<app><lem n="W+G+">Τρῶες ὑπέρθυμοι τηλεκλειτοί τ᾽ ἐπίκουροι</lem></app>;
+<app><rdg n="W-G-"><note n="tbd"/>τρῶες καὶ λύκιοι καὶ δάρδανοι ἀγχιμαχηταί</rdg> <note>(ex <bibl n="tlg0012.tlg001:8.173">Θ-173</bibl>)</note> <wit>G</wit><wit>H</wit><wit>J</wit><wit>Yb</wit> <wit>Hb</wit> <wit>Kc</wit></app> (vulgatam cum γρ΄ οὕτως im. <app><wit>Kc</wit></app>)
 </p>
 
 <p>
@@ -2799,9 +2800,9 @@ om. <app><wit>J1</wit></app>, add. im. <app><wit>J2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W-">φίλοι, μνήσασθε δὲ θούριδος ἀλκῆς</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
+<app><lem n="W-G+">φίλοι, μνήσασθε δὲ θούριδος ἀλκῆς</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>σοφοί, μνήσασθε δὲ θούριδος ὀργῆς</rdg> <wit>Lucian. piscat. 1</wit></app>;
-<app><rdg n="NA"><note n="W-"/>θοοὶ καὶ ἀμύνετον ἄστεϊ λώβην</rdg> <wit>Zenodotus.</wit></app>
+<app><rdg n="W+G-"><note n="W-"/>θοοὶ καὶ ἀμύνετον ἄστεϊ λώβην</rdg> <wit>Zenodotus.</wit></app>
 <app n="W"><rdg n="W+">φίλοι, μνήσασθε δὲ θούριδος ἀλκῆς</rdg> <wit>ZZZ</wit></app>
 </p>
 
@@ -2990,8 +2991,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 <note n="120">
 
 <p>
-<app><lem n="NA">ἀμφοτέρων</lem> <wit>Ω</wit> <wit>Ar</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀμφοτέρω</rdg> <note>(ut <bibl n="tlg0012.tlg001:23.814">Ψ-814</bibl>)</note> <wit>A</wit></app>.
+<app><lem n="W+G+">ἀμφοτέρων</lem> <wit>Ω</wit> <wit>Ar</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἀμφοτέρω</rdg> <note>(ut <bibl n="tlg0012.tlg001:23.814">Ψ-814</bibl>)</note> <wit>A</wit></app>.
 </p>
 
 <p>
@@ -3023,8 +3024,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">ἰόντες</lem> <wit>Ω</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ἰόντε</rdg> <wit>Zenodotus</wit> <wit>Aristophanes</wit> <wit>Aristarchus</wit></app> (cf. <bibl n="tlg0012.tlg001:5.630">Ε-630</bibl>).
+<app><lem n="W+G+">ἰόντες</lem> <wit>Ω</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἰόντε</rdg> <wit>Zenodotus</wit> <wit>Aristophanes</wit> <wit>Aristarchus</wit></app> (cf. <bibl n="tlg0012.tlg001:5.630">Ε-630</bibl>).
 </p>
 </note>
 
@@ -3163,8 +3164,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">οὐρανοῦ</lem> <wit>Q</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>οὐρανὸν</rdg> <wit>Aristarchus</wit> <wit>X</wit> <wit>Yo</wit></app>.
+<app><lem n="W+G+">οὐρανοῦ</lem> <wit>Q</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>οὐρανὸν</rdg> <wit>Aristarchus</wit> <wit>X</wit> <wit>Yo</wit></app>.
 </p>
 
 <p>
@@ -3382,8 +3383,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">φοβηθεὶς</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Heraclitus Allegoricus</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>χολωθεὶς</rdg> <wit>Zenodotus.</wit></app>
+<app><lem n="W+G+">φοβηθεὶς</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Heraclitus Allegoricus</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>χολωθεὶς</rdg> <wit>Zenodotus.</wit></app>
 </p>
 </note>
 
@@ -3721,9 +3722,9 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 <note n="148">
 
 <p>
-<app><lem n="W+">τηλεθόωσα</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>Ω</wit> <wit>Plut.</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+G+">τηλεθόωσα</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>Ω</wit> <wit>Plut.</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τηλεθ-óωσσα</rdg> <wit>J</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>τηλεθ-όωντα</rdg> <wit>Aristophanes</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>τηλεθ-όωντα</rdg> <wit>Aristophanes</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τηλεθ-αοντσα</rdg> <wit>k</wit></app>.
 <app n="W"><rdg n="W-"><note n="tbd"/>τηλεθ-θάοντα</rdg> <wit>Aristophanes teste Z</wit></app>.
 </p>
@@ -3746,8 +3747,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>P3</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">ὥρη</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>G</wit><wit>Ω</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ὥρ-ῃ</rdg> <wit>Aristophanes</wit> <wit>A</wit><wit>H</wit><wit>T2</wit><wit>O</wit><wit>Z</wit> <wit>lm-R</wit> <wit>Eust.</wit></app>
+<app><lem n="W+G+">ὥρη</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>G</wit><wit>Ω</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ὥρ-ῃ</rdg> <wit>Aristophanes</wit> <wit>A</wit><wit>H</wit><wit>T2</wit><wit>O</wit><wit>Z</wit> <wit>lm-R</wit> <wit>Eust.</wit></app>
 </p>
 </note>
 
@@ -3888,11 +3889,11 @@ damn. <app><wit>Bentley</wit> <wit>k</wit><wit>n</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">Βελλεροφόντην</lem></app>;
-<app><rdg n="W+"><note n="tbd"/>βελλεροφόντην</rdg></app> 9;
+
+<app><lem n="W+Γ῝"><note n="tbd"/>Βελλεροφόντην</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>βελερο-φόντην</rdg> <wit>Pd</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>βελλερε-φόντην</rdg> <wit>W</wit><wit>Hb</wit> <wit>O</wit> <wit>Z</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>Ἐλλερο-φόντην</rdg> <wit>Zenodotus</wit></app> teste <app><wit>Eust. 289.38</wit></app> ('Bellorofontes' ubique <app><wit>Zp</wit></app>).
+<app><rdg n="W-G-"><note n="tbd"/>Ἐλλερο-φόντην</rdg> <wit>Zenodotus</wit></app> teste <app><wit>Eust. 289.38</wit></app> ('Bellorofontes' ubique <app><wit>Zp</wit></app>).
 </p>
 </note>
 
@@ -3956,8 +3957,8 @@ damn. <app><wit>Bentley</wit> <wit>k</wit><wit>n</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">κακὰ μήσατο</lem> <wit>Aristarchus</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>κάκ' ἐμ-ήσατο</rdg> <wit>S2</wit><wit>B</wit><wit>M</wit><wit>Ω</wit></app> ἐμν-ήσατο <app><wit>Yb</wit></app>);
+<app><lem n="W+G-">κακὰ μήσατο</lem> <wit>Aristarchus</wit></app>;
+<app><rdg n="W-G+"><note n="tbd"/>κάκ' ἐμ-ήσατο</rdg> <wit>S2</wit><wit>B</wit><wit>M</wit><wit>Ω</wit></app> ἐμν-ήσατο <app><wit>Yb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>κὰκ' ἐμ-ήσατο</rdg> <wit>A</wit><wit>S1</wit><wit>T</wit><wit>Kb</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>κάκ' ἐμνέατο</rdg> <wit>lm-R</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>κακ᾿ ἐμ-ήσατο</rdg> <wit>G</wit><wit>H</wit><wit>Hb</wit><wit>Ua</wit></app>.
@@ -4017,8 +4018,8 @@ del. <app><wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">οἱ</lem> <wit>S</wit><wit>B</wit><wit>M</wit><wit>F</wit><wit>H</wit><wit>Kb</wit></app> Κb, cum γρ΄ <app><wit>At</wit><wit>Na</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>μιν</rdg> <wit>A</wit><wit>J2</wit> <wit>Yb</wit> <wit>Hb</wit><wit>Na</wit><wit>Q</wit><wit>Ec</wit><wit>Ua</wit></app>, cum γρ΄ M3
+<app><lem n="W+G+">οἱ</lem> <wit>S</wit><wit>B</wit><wit>M</wit><wit>F</wit><wit>H</wit><wit>Kb</wit></app> Κb, cum γρ΄ <app><wit>At</wit><wit>Na</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>μιν</rdg> <wit>A</wit><wit>J2</wit> <wit>Yb</wit> <wit>Hb</wit><wit>Na</wit><wit>Q</wit><wit>Ec</wit><wit>Ua</wit></app>, cum γρ΄ M3
 </p>
 
 <p>
@@ -4063,13 +4064,13 @@ del. <app><wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">δῖ' Ἄντεια</lem> <wit>Herodian II 54.30</wit> <wit>Ω</wit></app>;
+<app><lem n="W+G+">δῖ' Ἄντεια</lem> <wit>Herodian II 54.30</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δῖ' Ἄν-τια</rdg> <wit>O</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>δί' ἄ-ντεια</rdg> <wit>Ub</wit></app>, cum γρ΄ <app><wit>W</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>δι' ἄ-ντεια</rdg> <wit>Ua</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δῖα ἀ-ντεια</rdg> <wit>Hb</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δία ἄ-ντεια</rdg> <wit>Yb</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>διάντεια</rdg> <wit>H</wit><wit>W</wit><wit>E</wit><wit>Pc</wit></app> (ut ἕνιοι ap. <app><wit>Herodian.</wit></app>).
+<app><rdg n="W-G-"><note n="tbd"/>διάντεια</rdg> <wit>H</wit><wit>W</wit><wit>E</wit><wit>Pc</wit></app> (ut ἕνιοι ap. <app><wit>Herodian.</wit></app>).
 </p>
 </note>
 
@@ -4192,8 +4193,8 @@ om. <app><wit>J1</wit> <wit>Yb1</wit><wit>Pb1</wit></app>, add. <app><wit>J2</wi
 </p>
 
 <p>
-<app><lem n="W+">ἐθελούσῃ</lem></app>;
-<app><rdg n="W-"><note n="tbd"/>ἐθέλουσαν</rdg> <wit>lm-R</wit></app>.
+<app><lem n="W+G+">ἐθελούσῃ</lem></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἐθέλουσαν</rdg> <wit>lm-R</wit></app>.
 </p>
 </note>
 
@@ -4300,8 +4301,8 @@ om. <app><wit>J1</wit> <wit>Yb1</wit><wit>Pb1</wit></app>, add. <app><wit>J2</wi
 <note n="170">
 
 <p>
-<app><lem n="W+">ἠνώγειν</lem> <wit>Aristarchus</wit> <wit>A1</wit><wit>B1</wit><wit>K</wit></app>;
-<app><rdg n="W-"><note n="lostnu"/>ἠνώγει</rdg> <wit>A2</wit><wit>S</wit><wit>B2</wit><wit>Ω</wit> <wit>Etymologicum Magnum 115.30</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+G-">ἠνώγειν</lem> <wit>Aristarchus</wit> <wit>A1</wit><wit>B1</wit><wit>K</wit></app>;
+<app><rdg n="W-G+"><note n="lostnu"/>ἠνώγει</rdg> <wit>A2</wit><wit>S</wit><wit>B2</wit><wit>Ω</wit> <wit>Etymologicum Magnum 115.30</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀνώγει</rdg> <wit>Yb</wit> <wit>Hb</wit></app>.
 </p>
 
@@ -4349,8 +4350,8 @@ om. <app><wit>J1</wit> <wit>Yb1</wit><wit>Pb1</wit></app>, add. <app><wit>J2</wi
 </p>
 
 <p>
-<app><lem n="W+">ὑπ'</lem> <wit>Ω</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>μετ'</rdg> <wit>Demetrius Ixion.</wit></app> ἐν τῷ πρὸς τὰς ἐξηγήσεις προφέρεται (<app><wit>Did.</wit></app>).
+<app><lem n="W+G+">ὑπ'</lem> <wit>Ω</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>μετ'</rdg> <wit>Demetrius Ixion.</wit> <note>ἐν τῷ πρὸς τὰς ἐξηγήσεις προφέρεται</note> <wit>Did.</wit></app>.
 </p>
 
 <p>
@@ -4399,9 +4400,9 @@ om. it., add. im. <app><wit>W</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">Ξάνθόν</lem></app>;
+<app><lem n="W+G-">Ξάνθόν</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ξάνθόν</rdg> <wit>A</wit><wit>S</wit><wit>M</wit><wit>G</wit></app>;
-<app><rdg n="NA"><note n="diacdiff"/>ξάνθ-ον</rdg> <wit>J</wit><wit>Yb</wit><wit>O</wit><wit>P</wit></app>;
+<app><rdg n="G+"><note n="diacdiff"/>ξάνθ-ον</rdg> <wit>J</wit><wit>Yb</wit><wit>O</wit><wit>P</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ξανθόν</rdg> <wit>Ua</wit></app>.
 </p>
 </note>
@@ -4786,12 +4787,12 @@ del. <app><wit>k</wit></app>.
 <note n="187">
 
 <p>
-<app><lem n="W+">ἄρ' ἀνερχομένῳ</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
+<app><lem n="W+G+">ἄρ' ἀνερχομένῳ</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄρ ἀνερχομένῳ</rdg> <wit>Wb</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὰρ</rdg> <wit>A</wit><wit>O</wit></app>, ἃρ <app><wit>S</wit><wit>G</wit><wit>T</wit><wit>W</wit> <wit>Eust.</wit></app>, ἀρ <app><wit>Ua</wit></app>, om. <app><wit>D</wit><wit>Pd</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ἄρ' ἀπερ-χομένῳ</rdg> <note>(quidam ap. Did.</note> <wit>Did.)</wit></app>;
-<app n="W"><rdg n="W-"><note n="tbd"/>ἄρ' ἐπερ-χομένῳ</rdg> <note>(ut ἄλλοι ap. <app><wit>Did</wit></app>)</note> <wit>L</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀναερ-χομένῳ</rdg> <wit>H</wit><wit>Pw</wit><wit>Hb</wit></app>;
+<app n="W"><rdg n="W-G-"><note n="tbd"/>ἄρ' ἐπερ-χομένῳ</rdg> <note>(ut ἄλλοι ap. <app><wit>Did</wit></app>)</note> <wit>L</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἀναερ-χομένῳ</rdg> <wit>H</wit><wit>Pw</wit><wit>Hb</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ἀνὰ ἐρ-χομένῳ</rdg> <wit>Yb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀνερ-χομένῳ</rdg> <wit>Py</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἂρ ἐρ-χομένῳ</rdg> <wit>W</wit><wit>O</wit><wit>Wb</wit></app>;
@@ -4805,8 +4806,8 @@ del. <app><wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">δόλον</lem> <wit>S1</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Ar</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>Ec</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>λόχον</rdg> <wit>A</wit><wit>S3</wit><wit>G</wit><wit>H</wit><wit>Ec1</wit><wit>Pd</wit></app>,
+<app><lem n="G+">δόλον</lem> <wit>S1</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Ar</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>Ec</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>λόχον</rdg> <wit>A</wit><wit>S3</wit><wit>G</wit><wit>H</wit><wit>Ec1</wit><wit>Pd</wit></app>,
 </p>
 
 <p>
@@ -5005,11 +5006,12 @@ del. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">πυροφύροιο</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>πυροφόροιο</rdg> <wit>A</wit><wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Na</wit><wit>Ec</wit></app> (cf. <bibl n="tlg0012.tlg001:12.314">Μ-314</bibl> et <bibl n="tlg0012.tlg001:23.177">Ψ-177</bibl>);
-<app><rdg n="W-"><note n="tbd"/>ὄφρα νέμοιτο</rdg> <wit>Ω</wit> <wit>Ua</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>At</wit><wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Ec</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ὅ-φρα νέμοιτο</rdg></app>;
-<app><rdg n="NA"><note n="tbd"/>γρ΄ "ὄφρα νέμηται"</rdg> <wit>Na</wit></app>.
+<app><lem n="W+G-">πυροφύροιο</lem></app>;
+<app><rdg n="NA"><note n="tbd"/>πυροφόροιο</rdg> <wit>A</wit><wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Na</wit><wit>Ec</wit></app> (cf. <bibl n="tlg0012.tlg001:12.314">Μ-314</bibl> et <bibl n="tlg0012.tlg001:23.177">Ψ-177</bibl>);.
+
+
+<app><rdg n="W-G+"><note n="tbd"/>ὄφρα νέμοιτο</rdg> <wit>Ω</wit> <wit>Ua</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>At</wit><wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Ec</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>ὅ-φρα νέμοιτο</rdg> <note n="tbd"/><note>γρ΄ "ὄφρα νέμηται"</note> <wit>Na</wit></app>.
 </p>
 </note>
 
@@ -5118,8 +5120,8 @@ d'  ἕτεκ' <app><wit>A</wit></app>;
 </p>
 
 <p>
-<app><lem n="W+">καὶ κεῖνος</lem> <wit>A</wit><wit>M1</wit><wit>F</wit><wit>Y</wit> <wit>Aristoteles</wit> <wit>Eust.</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>κἀκεῖνος</rdg> <wit>M2</wit><wit>Ω</wit></app>;
+<app><lem n="W+G+">καὶ κεῖνος</lem> <wit>A</wit><wit>M1</wit><wit>F</wit><wit>Y</wit> <wit>Aristoteles</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>κἀκεῖνος</rdg> <wit>M2</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>κακεῖνος</rdg> <wit>S</wit><wit>Ua</wit></app>.
 </p>
 
@@ -5427,9 +5429,9 @@ del. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">ἐπὶ</lem> <wit>Ω</wit></app>;
+<app><lem n="W+G+">ἐπὶ</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ἐπι</rdg> <wit>Θ</wit><wit>Pb</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ἐνὶ</rdg> <wit>b2</wit> <wit>n</wit> <wit>Ellendt</wit></app> (coll. <bibl n="tlg0012.tlg001:7.441">Η-441</bibl>. <bibl n="tlg0012.tlg001:11.378">Λ-378</bibl>).
+<app><rdg n="W-G-"><note n="tbd"/>ἐνὶ</rdg> <wit>b2</wit> <wit>n</wit> <wit>Ellendt</wit></app> (coll. <bibl n="tlg0012.tlg001:7.441">Η-441</bibl>. <bibl n="tlg0012.tlg001:11.378">Λ-378</bibl>).
 </p>
 
 <p>
@@ -5522,8 +5524,8 @@ del. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-   <app n="W"><lem n="NA">μεγάροισιν</lem></app>;
-   <app><rdg n="W-"><note n="diacdiff"/>μμεγάροισιν</rdg> <wit>480</wit><wit>1060</wit></app>.
+   <app n="W"><lem n="W+G+">μεγάροισιν</lem></app>;
+   <app><rdg n="W-G-"><note n="diacdiff"/>μμεγάροισιν</rdg> <wit>480</wit><wit>1060</wit></app>.
    </p>
    
 <p>
@@ -5777,13 +5779,13 @@ vov 0;
 <note n="226">
 
 <p>
-<app><lem n="W+">ἔγχεα</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>A1</wit> <wit>M1</wit> <wit>T</wit> <wit>P2</wit><wit>Q2</wit> <wit>b</wit> <wit>Ec</wit> <wit>Pb1</wit> <wit>Wb</wit> <wit>Porph. qu. Il. 97.6</wit></app>, cum γρ΄ <app><wit>W</wit></app> im.;
-<app><rdg n="W-"><note n="tbd"/>ἔγχεσι</rdg> <wit>Zenodotus</wit> <wit>A2</wit><wit>S</wit><wit>B</wit><wit>M2</wit><wit>Q</wit> <wit>lm-R</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>Kc</wit></app> im.
+<app><lem n="W+G+">ἔγχεα</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>A1</wit> <wit>M1</wit> <wit>T</wit> <wit>P2</wit><wit>Q2</wit> <wit>b</wit> <wit>Ec</wit> <wit>Pb1</wit> <wit>Wb</wit> <wit>Porph. qu. Il. 97.6</wit></app>, cum γρ΄ <app><wit>W</wit></app> im.;
+<app><rdg n="W-G-"><note n="tbd"/>ἔγχεσι</rdg> <wit>Zenodotus</wit> <wit>A2</wit><wit>S</wit><wit>B</wit><wit>M2</wit><wit>Q</wit> <wit>lm-R</wit> <wit>Eust.</wit></app>, cum γρ΄ <app><wit>Kc</wit></app> im.
 </p>
 
 <p>
-<app><lem n="W+">ἀλλήλων</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ἀλλήλ-λους</rdg> <wit>Zenodotus.</wit></app>
+<app><lem n="W+G+">ἀλλήλων</lem> <wit>Aristarchus</wit> <wit>Ω</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἀλλήλ-λους</rdg> <wit>Zenodotus.</wit></app>
 </p>
 
 <p>
@@ -6070,8 +6072,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>S</wit><wit>Db</wit><wit>G</wit
 </p>
 
 <p>
-<app><lem n="W+">πύργον</lem> <wit>A</wit><wit>D</wit><wit>F</wit><wit>G</wit><wit>J2</wit><wit>W</wit><wit>Ub</wit> <wit>Na</wit><wit>Ec</wit> <wit>f</wit> <wit>Apoll. Soph. 170.13</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>φηγὸν</rdg> <wit>S</wit><wit>B</wit></app>MΗ<app><wit>J1</wit> <wit>Hb</wit><wit>Cb</wit> <wit>Nb</wit><wit>X</wit> <wit>A1</wit> <wit>Eust.</wit></app>, cum γρ <app><wit>L</wit><wit>Ec</wit><wit>Z</wit></app> (cf. 1 354. 4170).
+<app><lem n="W+G-">πύργον</lem> <wit>A</wit><wit>D</wit><wit>F</wit><wit>G</wit><wit>J2</wit><wit>W</wit><wit>Ub</wit> <wit>Na</wit><wit>Ec</wit> <wit>f</wit> <wit>Apoll. Soph. 170.13</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>;
+<app><rdg n="W-G+"><note n="tbd"/>φηγὸν</rdg> <wit>S</wit><wit>B</wit></app>MΗ<app><wit>J1</wit> <wit>Hb</wit><wit>Cb</wit> <wit>Nb</wit><wit>X</wit> <wit>A1</wit> <wit>Eust.</wit></app>, cum γρ <app><wit>L</wit><wit>Ec</wit><wit>Z</wit></app> (cf. 1 354. 4170).
 </p>
 </note>
 
@@ -6138,10 +6140,10 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>S</wit><wit>Db</wit><wit>G</wit
 <note n="241">
 
 <p>
-<app><lem n="W+">πάσας</lem></app>;
+<app><lem n="W+G+">πάσας</lem></app>;
 <app><rdg n="NA"><note n="accdiff"/>πασας</rdg> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>πᾶ-σας</rdg> <wit>G</wit></app>;
-<app><rdg n="NA">πᾶσι μάλ'</rdg> <note n="tbd"/><note>ἔν τισι "πᾶσι μάλ'"</note> <wit>Ariston.</wit></app>
+<app><rdg n="W-G-">πᾶσι μάλ'</rdg> <note n="tbd"/><note>ἔν τισι "πᾶσι μάλ'"</note> <wit>Ariston.</wit></app>
 </p>
 
 <p>
@@ -6242,8 +6244,8 @@ om. <app><wit>P1</wit></app>, add. im. <app><wit>S</wit><wit>Db</wit><wit>G</wit
 <note n="245">
 
 <p>
-<app><lem n="W+"><note n="tbd"/>πλησίον</lem> <wit>A1</wit><wit>S</wit><wit>W</wit><wit>Px</wit><wit>Ub</wit><wit>Qc</wit><wit>U</wit><wit>Yc</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>πλησί-οι</rdg> <wit>A2</wit><wit>B</wit><wit>M</wit><wit>G</wit><wit>K</wit><wit>O</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.249">Ζ-249</bibl>.
+<app><lem n="W+G-"><note n="tbd"/>πλησίον</lem> <wit>A1</wit><wit>S</wit><wit>W</wit><wit>Px</wit><wit>Ub</wit><wit>Qc</wit><wit>U</wit><wit>Yc</wit></app>;
+<app><rdg n="W-G+"><note n="tbd"/>πλησί-οι</rdg> <wit>A2</wit><wit>B</wit><wit>M</wit><wit>G</wit><wit>K</wit><wit>O</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.249">Ζ-249</bibl>.
 </p>
 
 <p>
@@ -6274,10 +6276,10 @@ om. it., add. im. Fz: ante hunc erasus versus <app><wit>P</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">παρὰ μνηστῇς</lem> <wit>Ω</wit></app>;
+<app><lem n="G+">παρὰ μνηστῇς</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρὰ μνηστ-ῆσ'</rdg> <wit>A</wit><wit>G</wit><wit>O</wit><wit>Kb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρὰ μνηστ-αῖς</rdg> <wit>X</wit></app>; cum γρ΄ <app><wit>Ub2</wit><wit>Eb2</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>παρ' αἰδοίῃς</rdg> <wit>D</wit><wit>T</wit><wit>Px</wit><wit>Ub</wit> <wit>Eb1</wit><wit>Fz</wit><wit>Pd</wit><wit>Pc</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>παρ' αἰδοίῃς</rdg> <wit>D</wit><wit>T</wit><wit>Px</wit><wit>Ub</wit> <wit>Eb1</wit><wit>Fz</wit><wit>Pd</wit><wit>Pc</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρ' αἰ-δίης</rdg> <wit>H</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐν ἄλλῳ "παραιδοίης"</rdg> <wit>At</wit></app>.
 </p>
@@ -6337,9 +6339,9 @@ om. it., add. im. Fz: ante hunc erasus versus <app><wit>P</wit></app>.
 <note n="249">
 
 <p>
-<app><lem n="NA">πλησίον</lem> <wit>A1</wit><wit>S</wit><wit>F</wit><wit>E</wit><wit>Na1</wit><wit>P</wit><wit>Ec</wit><wit>Y</wit><wit>Yc</wit></app>;
+<app><lem n="G-">πλησίον</lem> <wit>A1</wit><wit>S</wit><wit>F</wit><wit>E</wit><wit>Na1</wit><wit>P</wit><wit>Ec</wit><wit>Y</wit><wit>Yc</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>πλησί-ον δ'</rdg> <wit>W</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>πλησί-οι</rdg> <wit>A2</wit><wit>B</wit><wit>M</wit><wit>G</wit><wit>K</wit><wit>O</wit></app>.
+<app><rdg n="G+"><note n="tbd"/>πλησί-οι</rdg> <wit>A2</wit><wit>B</wit><wit>M</wit><wit>G</wit><wit>K</wit><wit>O</wit></app>.
 </p>
 
 <p>
@@ -6355,12 +6357,12 @@ om. it., add. im. Fz: ante hunc erasus versus <app><wit>P</wit></app>.
 <note n="250">
 
 <p>
-<app><lem n="W+">παρ' αἰδοίῃς</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+G+">παρ' αἰδοίῃς</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρ' αἰ-δοίῃσ'</rdg> <wit>A</wit><wit>Kb</wit><wit>Wb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρ' αἰ-δίης</rdg> <wit>H</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρ' αἰ-δοίαις</rdg> <wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παραιδοίης</rdg> <wit>S</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>παρὰ μνηστῇς</rdg> <note>ἐν ἄλλῳ "παρὰ μνηστῇς"</note> <wit>At</wit></app>, itaque <app><wit>Pz</wit><wit>Yg</wit><wit>Yo</wit> <wit>b2</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>παρὰ μνηστῇς</rdg> <note>ἐν ἄλλῳ "παρὰ μνηστῇς"</note> <wit>At</wit></app>, itaque <app><wit>Pz</wit><wit>Yg</wit><wit>Yo</wit> <wit>b2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>παρὰ μνησταῖς</rdg> <wit>Cb</wit></app>.
 </p>
 
@@ -6410,10 +6412,10 @@ damn. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">ἐσάγουσα</lem> <wit>Ω</wit> <wit>Apoll. Soph. 7.8</wit> <wit>Etymologicum Magnum 15.21</wit></app>;
+<app><lem n="W+G+">ἐσάγουσα</lem> <wit>Ω</wit> <wit>Apoll. Soph. 7.8</wit> <wit>Etymologicum Magnum 15.21</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐσαγούσαν</rdg> <wit>lm-R</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>εσ-άγουσα</rdg> <wit>S</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐς ἄγ-ουσα</rdg> <wit>Db</wit><wit>T</wit><wit>O</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>ἐς ἄγ-ουσα</rdg> <wit>Db</wit><wit>T</wit><wit>O</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἰσάγ-ουσα</rdg> <wit>Yb</wit> <wit>Hb</wit> <wit>Eust.</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ἐπάγ-ουσα</rdg> <wit>Choeroboscus I 410.37</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>καλέουσα</rdg></app> ci. <app><wit>Naber.</wit></app>
@@ -6561,10 +6563,10 @@ damn. <app><wit>Koechly.</wit></app>
 <note n="260">
 
 <p>
-<app><lem n="W+">δὲ καὐτὸς</lem> <wit>M2</wit><wit>H</wit><wit>Ua</wit><wit>Wb</wit> <wit>Herodian II 55.35</wit> <wit>Athenaeus II 35c</wit> <wit>Etymologicum Magnum 626.10</wit> <wit>Etymologicum Gudianum 422.24</wit> <wit>b2</wit></app>;
+<app><lem n="W+G+">δὲ καὐτὸς</lem> <wit>M2</wit><wit>H</wit><wit>Ua</wit><wit>Wb</wit> <wit>Herodian II 55.35</wit> <wit>Athenaeus II 35c</wit> <wit>Etymologicum Magnum 626.10</wit> <wit>Etymologicum Gudianum 422.24</wit> <wit>b2</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>δε καὐτὸς</rdg> <wit>S</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δὲ καὶ αὐ-τὸς</rdg> <wit>D</wit><wit>W</wit><wit>X</wit></app> (<app><wit>Eust. 1077.64</wit></app>);
-<app><rdg n="W-"><note n="tbd"/>δέ κ’ αὐ-τὸς</rdg> <wit>Ptolemaeus Ascalonita</wit> <wit>A</wit><wit>M1</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:19.311">Τ-311</bibl>, <app><wit>An. Ox. I 306.8</wit> <wit>An. Ox. I 322.23</wit> <wit>An. Ox. I 332.19</wit> <wit>Eust. 1774.47</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>δέ κ’ αὐ-τὸς</rdg> <wit>Ptolemaeus Ascalonita</wit> <wit>A</wit><wit>M1</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:19.311">Τ-311</bibl>, <app><wit>An. Ox. I 306.8</wit> <wit>An. Ox. I 322.23</wit> <wit>An. Ox. I 332.19</wit> <wit>Eust. 1774.47</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δὲ κ' αὐ-τὸς</rdg> <wit>Etymologicum Magnum 618.26</wit> <wit>Etymologicum Gudianum 429.52</wit> <wit>Eust. 640.44</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δὲ αὐ-τὸς</rdg> <wit>Eust. 641.13</wit> <wit>Eust. 1765.31</wit></app>.
 </p>
@@ -6669,8 +6671,8 @@ post 263 posuit <app><wit>G</wit></app>; spurius? <app><wit>n</wit></app>.
    </p>
 
    <p>
-      <app><lem n="NA">ἠμείβετ᾽ ἔπειτα μέγας</lem></app>;
-      <app><rdg n="NA"><note n="tbd"/>απαμειβομενος προσεφη</rdg> <note>=520</note> <wit>189</wit> <wit>270</wit> <wit>413</wit></app>.
+      <app><lem n="W+G+">ἠμείβετ᾽ ἔπειτα μέγας</lem></app>;
+      <app n="W"><rdg n="W-G-"><note n="tbd"/>απαμειβομενος προσεφη</rdg> <note>=520</note> <wit>189</wit> <wit>270</wit> <wit>413</wit></app>.
       </p>
          
 <p>
@@ -6729,9 +6731,9 @@ post 268 poni voluerunt <app><wit>G2</wit><wit>T2</wit></app> (recte <app><wit>G
 <note n="266">
 
 <p>
-<app><lem n="W-">ἀνίπτοισιν</lem> <wit>Aristarchus</wit> <wit>A</wit><wit>G</wit><wit>Kc</wit><wit>Y</wit></app>;
+<app><lem n="W-G+">ἀνίπτοισιν</lem> <wit>Aristarchus</wit> <wit>A</wit><wit>G</wit><wit>Kc</wit><wit>Y</wit></app>;
 <app><rdg n="NA"><note n="lostnu"/>ἀνίπτ-οισι</rdg> <wit>S</wit><wit>B</wit></app> Μ<app><wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>ἀνίπτ-ῃσιν</rdg> <wit>Zenodotus</wit> <wit>Herodian.</wit> <wit>b2</wit></app>;
+<app><rdg n="W+G-"><note n="tbd"/>ἀνίπτ-ῃσιν</rdg> <wit>Zenodotus</wit> <wit>Herodian.</wit> <wit>b2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀνίπτ-ῃσι</rdg> <wit>Z</wit></app>.
 </p>
 
@@ -6791,9 +6793,9 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <note n="269">
 
 <p>
-<app><lem n="W-">σὺ μὲν</lem> <wit>Ω</wit></app>;
+<app><lem n="W-G-">σὺ μὲν</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>σύ μεν</rdg> <wit>Pb</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>σύγε</rdg> <wit>A</wit><wit>W</wit><wit>P</wit><wit>Nb</wit></app>; cf. 279.
+<app><rdg n="W+G+"><note n="tbd"/>σύγε</rdg> <wit>A</wit><wit>W</wit><wit>P</wit><wit>Nb</wit></app>; cf. 279.
 <app n="W"><rdg n="W-"><note n="tbd"/>σύ τε</rdg> <wit>189</wit></app>.
 </p>
 
@@ -6839,11 +6841,11 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">γεραιάς</lem> <wit>Ω</wit></app>;
+<app><lem n="W+G+">γεραιάς</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>γεραιᾶς</rdg> <wit>Ub</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γεραιεάς</rdg> <wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γηραιάς</rdg> <wit>O</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>γεραιράς</rdg> <note>γρ΄ καὶ "γεραιράς"</note> <wit>At</wit></app>.
+<app><rdg n="W-G-"><note n="tbd"/>γεραιράς</rdg> <note>γρ΄ καὶ "γεραιράς"</note> <wit>At</wit></app>.
 </p>
 </note>
 
@@ -6877,6 +6879,9 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 'spurius?' <app><wit>n</wit></app>.
 </p>
 
+<p>
+   <app n="G"><lem n="W+G+">μεγάρῳ</lem> <rdg n="G-">μμεγάρῳ</rdg> <wit>a</wit></app>
+</p>
 <p>
 <app><lem n="NA">ἔστιν</lem></app>;
 <app><rdg n="NA"><note n="accdiff"/>ἐστιν</rdg> <wit>Y</wit></app> (<app><wit>Herodian II 54.25</wit></app>);
@@ -7003,8 +7008,8 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <note n="276">
 
 <p>
-<app><lem n="W+">ἄστύ</lem> <wit>A</wit><wit>G</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>ἄστ-υ</rdg> <wit>S</wit><wit>M</wit><wit>Ω</wit></app>.
+<app><lem n="W+G-">ἄστύ</lem> <wit>A</wit><wit>G</wit></app>;
+<app><rdg n="G+"><note n="accdiff"/>ἄστ-υ</rdg> <wit>S</wit><wit>M</wit><wit>Ω</wit></app>.
 </p>
 
 <p>
@@ -7075,10 +7080,10 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <note n="280">
 
 <p>
-<app><lem n="W-">ἔρχευ</lem> <wit>Kc1</wit><wit>Ω</wit></app>;
+<app><lem n="W-G+">ἔρχευ</lem> <wit>Kc1</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔρ-χου</rdg> <wit>Wb</wit></app>;
 <app><rdg n="W+"><note n="tbd"/>ἔρ-χε'</rdg> <wit>Aristarchus?</wit> <wit>Nauck</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἔρ-χεο</rdg> <wit>S</wit> <wit>Db</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>ἔρ-χεο</rdg> <wit>S</wit> <wit>Db</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ἔρ-χε Κc2.</rdg></app>
 </p>
 
@@ -7243,13 +7248,13 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 </p>
 
 <p>
-<app><lem n="W-">κε φρέν' ἀτέρπου</lem></app>;
-<app><rdg n="W+"><note n="tbd"/>κεν φίλον ἦτορ</rdg> <wit>Zenodotus</wit> <wit>b2</wit></app>;
+<app><lem n="W-G+">κε φρέν' ἀτέρπου</lem></app>;
+<app><rdg n="W+G-"><note n="tbd"/>κεν φίλον ἦτορ</rdg> <wit>Zenodotus</wit> <wit>b2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>κεν καμάτου καὶ</rdg></app> ci. <app><wit>Peppmueller.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">φρέν' ἀτέρπου</lem></app>;
+<app><lem n="L+G+">φρέν' ἀτέρπου</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>φρένα ἀτέρπου</rdg> <wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>φρένα τέ-ρπου</rdg> <wit>Q</wit></app>.
 </p>
@@ -7280,7 +7285,7 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <note n="286">
 
 <p>
-   <app n="W"><lem n="W+">ὣς ἔφαθ᾽· ἡ δὲ μολοῦσα ποτὶ μέγαρ᾽ ἀμφιπόλοισι</lem> <rdg>ως εφατ ο]υδ απιθησ Εκαβη ταχυ δ αμ[μ]φιπολοισι</rdg> <wit>480a</wit></app>
+   <app n="W"><lem n="W+G+">ὣς ἔφαθ᾽· ἡ δὲ μολοῦσα ποτὶ μέγαρ᾽ ἀμφιπόλοισι</lem> <rdg n="W-G-">ως εφατ ο]υδ απιθησ Εκαβη ταχυ δ αμ[μ]φιπολοισι</rdg> <wit>480a</wit></app>
 </p>
 <p>
 <app><lem n="NA">ὣς</lem></app>;
@@ -7358,7 +7363,7 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 </note>
 
 <note n="288">
-<p><app><lem n="W">καὐτὴ δ᾽ ἐς θάλαμον κατεβήσετο κηώεντα,</lem> <rdg n="W-">ἣ δ᾽εῖς οἶκον ἰοὺσα παρίστατο φωριαμοῖσιν</rdg> <wit></wit></app></p>
+<p><app n="W"><lem n="W+G+">καὐτὴ δ᾽ ἐς θάλαμον κατεβήσετο κηώεντα,</lem> <rdg n="W-G-">ἣ δ᾽εῖς οἶκον ἰοὺσα παρίστατο φωριαμοῖσιν</rdg> <wit></wit></app></p>
 <p>
 <app><lem n="NA">καὐτὴ</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>αὐτὴ</rdg></app> ;
@@ -7401,11 +7406,11 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 </p>
 </note>
 <note n="288a">
-   <app n="W"><lem></lem> <rdg n="W-">κεδρινον] υψερεφη οσ γληνη πολλ εκεκευθει</rdg> <wit>480a</wit>
+   <app n="W"><lem></lem> <rdg n="W-G-">κεδρινον] υψερεφη οσ γληνη πολλ εκεκευθει</rdg> <wit>480a</wit>
 </app>
 </note>
 <note n="288b">
-   <app n="W"><lem></lem> <rdg n="W-">[ενθα δε] φωριαμοισι παρι[στ]ατο δια γυνα[ικων</rdg> <wit>480a</wit>
+   <app n="W"><lem></lem> <rdg n="W-G-">[ενθα δε] φωριαμοισι παρι[στ]ατο δια γυνα[ικων</rdg> <wit>480a</wit>
 </app>
 </note>
 <note n="289">
@@ -7455,7 +7460,7 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <p>
 <app><lem n="W-">Σιδονίων</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>σιδωνίων</rdg> <wit>Db</wit></app>.
-<app n="W"><rdg n="W+"><note n="tbd"/>Σιδονιῶν</rdg> <wit>Frick</wit></app>.
+<app n="W"><rdg n="W+G+"><note n="tbd"/>Σιδονιῶν</rdg> <wit>Fick</wit></app>.
 </p>
 
 <p>
@@ -7828,7 +7833,7 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <p>
 <app><lem n="W+">ἐρυσίπτολι</lem> <wit>A</wit><wit>S</wit><wit>Q</wit> <wit>Macrob. V 3.10</wit> <wit>sch. in Rhet. gr. VII 8.23</wit> <wit>Etymologicum Magnum 378.39</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐρυσ-ίπολι</rdg> <wit>G</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ῥυσίπτολι</rdg> <note>ἄμεινον δὲ "ῥυσίπτολι"</note> <wit>sch. A</wit></app> (ῥυσίπτο-λιν Τ), itaque <app><wit>b2</wit></app>.
+<app><rdg n="W-G-"><note n="tbd"/>ῥυσίπτολι</rdg> <note>ἄμεινον δὲ "ῥυσίπτολι"</note> <wit>sch. A</wit></app> (ῥυσίπτο-λιν Τ), itaque <app><wit>b2</wit></app>.
 </p>
 
 <p>
@@ -7962,8 +7967,7 @@ om. it, add. im. <app><wit>Fz</wit></app>.
 <note n="311">
 
 <p>
-<app><lem n="NA">Ἀθήνη</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀθ.</rdg> <wit>Aristarchus</wit> <wit>k</wit><wit>b2</wit> <wit>n</wit></app>.
+<app><lem>ὃς ἔφατ᾽ εὐχομένη, ἀνένευε δὲ Παλλὰς Ἀθήνη.</lem> <rdg n="NA"><note n="tbd"/>ἀθ.</rdg> <wit>Aristarchus</wit> <wit>k</wit><wit>b2</wit> <wit>n</wit></app>.
 </p>
 
 <p>
@@ -8170,14 +8174,13 @@ damn. <app><wit>Herwerden.</wit></app>
 <note n="319">
 
 <p>
-<app><lem n="W+">ἔχ' ἐνδεκάπηχυ</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἔχ' ἑνδεκάπηχυ</rdg> <wit>Heracleo</wit> <wit>Alexio</wit> <wit>Ω</wit></app>;
+<app><lem n="W+G+"><note n="tbd"/>ἔχ' ἑνδεκάπηχυ</lem> <wit>Heracleo</wit> <wit>Alexio</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="equal"/>ἔχ' ἐνδ-εκάπηχυ</rdg> <wit>S</wit><wit>G</wit><wit>O</wit><wit>Wb1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔχε ἐνδ-εκάπηχυ</rdg> <wit>Ua</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔχέ ἑ δ-εκάπηχυ</rdg> <wit>Yb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οἱ μὲν διαιροῦσιν "ἔχεν", εἶτα, δεκάπηχυ"</rdg> <wit>Herodian II 56.14</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔσχεν δεκά-πηχυ</rdg> <wit>Qc</wit></app>.
-<app n="W"><rdg n="W-"><note n="tbd"/>ἔχεν δεκά-πηχυ</rdg> <wit>rr</wit></app>.
+<app n="W"><rdg n="W-G-"><note n="tbd"/>ἔχεν δεκά-πηχυ</rdg> <wit>rr</wit></app>.
 </p>
 
 <p>
@@ -8262,10 +8265,10 @@ damn. <app><wit>Herwerden.</wit></app>
 </p>
 
 <p>
-<app><lem n="W+">τόξ' ἁφόωντα</lem></app>;
+<app><lem n="W+G+">τόξ' ἁφόωντα</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>τόξ' ἀφοωντα</rdg> <wit>M</wit><wit>F1</wit><wit>W</wit><wit>P3</wit><wit>Wb2</wit><wit>Y2</wit> <wit>Herodian II 333.6</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τόξ' ἀφ-όωντα</rdg> <wit>S3</wit><wit>P1</wit><wit>Wb1</wit><wit>Ω</wit> <wit>Apoll. Soph. 26.7</wit> <wit>Etymologicum Magnum 178.30</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>τόξα φ-όωντα</rdg> <wit>S1</wit><wit>O1</wit> <wit>sch. T</wit> <wit>Zonaras lexikon 1821</wit></app> (v. <app><wit>Etymologicum Magnum</wit></app>);
+<app><rdg n="W-G-"><note n="tbd"/>τόξα φ-όωντα</rdg> <wit>S1</wit><wit>O1</wit> <wit>sch. T</wit> <wit>Zonaras lexikon 1821</wit></app> (v. <app><wit>Etymologicum Magnum</wit></app>);
 <app><rdg n="NA"><note n="tbd"/>τόξ' ἀφόοντα</rdg> <wit>Na</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀμφαφόωντα</rdg> <wit>F2</wit></app> im;
 <app><rdg n="NA"><note n="tbd"/>τοκσ' ἁφαοντα</rdg> <wit>k</wit></app>.
@@ -8475,8 +8478,8 @@ damn. <app><wit>Herwerden.</wit></app>
 <note n="330">
 
 <p>
-<app><lem n="W-">ὅν</lem> <wit>Aristarchus</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>εἴ</rdg> <wit>A</wit><wit>S</wit><wit>Q</wit> <wit>Eust.</wit></app>;
+<app><lem n="W-G-">ὅν</lem> <wit>Aristarchus</wit></app>;
+<app><rdg n="W+G+"><note n="tbd"/>εἴ</rdg> <wit>A</wit><wit>S</wit><wit>Q</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἰ</rdg> <wit>O</wit></app>.
 </p>
 
@@ -8631,11 +8634,11 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">νεμέσσι</lem></app>;
+<app><lem n="W+G+">νεμέσσι</lem></app>;
 <app><rdg n="NA"><note n="accdiff"/>νεμεσσι</rdg> <wit>Π</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>νεμ-έσσῑ</rdg> <wit>A</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>νεμ-έσσι Τ1</rdg></app><app><wit>Na</wit> <wit>Etymologicum Magnum 600.32</wit></app>, cum γρ΄ <app><wit>L2</wit></app> (cf. <app><wit>sch. T</wit></app>);
-<app><rdg n="W-"><note n="tbd"/>νεμ-έσσει</rdg> <wit>B2</wit><wit>M</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.326">Ζ-326</bibl>, <app><wit>Eust.</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>νεμ-έσσει</rdg> <wit>B2</wit><wit>M</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.326">Ζ-326</bibl>, <app><wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>νεμ-έσει</rdg> <wit>S</wit><wit>G</wit><wit>O</wit><wit>Kb1</wit> <wit>Y</wit><wit>Pc</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>νεμ-έσσηϊ</rdg> <wit>P</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>νεμ-έσσω</rdg> <wit>Ua</wit></app>;
@@ -8826,10 +8829,10 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">μύθοισι προσηύδα μειλιχίοισι</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit></app>;
+<app><lem n="W+G+">μύθοισι προσηύδα μειλιχίοισι</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>μύθοισι προσηύδα μιλιχι-οισι</rdg> <wit>Π</wit></app>;
 <app><rdg n="W-">προσηύδα δῖα γυναικῶν</rdg><note n="tbd"/><note>ἐν ἄλλῳ, "προσηύδα δῖα γυναικῶν“</note> <wit>At</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μύθοισιν ἀμείβετο δῖα γυναικῶν</rdg> <wit>F</wit><wit>C</wit><wit>Z</wit></app>.
+<app><rdg n="G-"><note n="tbd"/>μύθοισιν ἀμείβετο δῖα γυναικῶν</rdg> <wit>F</wit><wit>C</wit><wit>Z</wit></app>.
 </p>
 </note>
 
@@ -8989,9 +8992,9 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">τεκμήραντο</lem> <wit>G2</wit><wit>Ω</wit></app>;
+<app><lem n="W+G+">τεκμήραντο</lem> <wit>G2</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τεκμῄ-ραντο</rdg> <wit>M</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>διετεκμ-ραντο</rdg> <wit>S</wit><wit>G</wit><wit>Kc</wit><wit>Ua</wit><wit>Wb</wit></app>.
+<app><rdg n="W-G-"><note n="tbd"/>διετεκμ-ραντο</rdg> <wit>S</wit><wit>G</wit><wit>Kc</wit><wit>Ua</wit><wit>Wb</wit></app>.
 </p>
 </note>
 
@@ -9007,10 +9010,10 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W+">ἀμείνονος</lem></app>;
+<app><lem n="W+G+">ἀμείνονος</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀμεῖνος</rdg> <wit>Y</wit></app>;
 <app><rdg n="W-"><note n="tbd"/>ἀμύνονος</rdg> <wit>W</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀμύ-μονος</rdg> <wit>J</wit><wit>O</wit><wit>P1</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ἀμύ-μονος</rdg> <wit>J</wit><wit>O</wit><wit>P1</wit></app>.
 </p>
 
 <p>
@@ -9027,9 +9030,9 @@ del. <app><wit>b2</wit></app>.
 <note n="351">
 
 <p>
-<app><lem n="W+">ὃς</lem> <wit>A</wit><wit>S</wit><wit>Q</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+G+">ὃς</lem> <wit>A</wit><wit>S</wit><wit>Q</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὃς δ'</rdg> <wit>W</wit><wit>Hb</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ὅς ῥ'</rdg> <wit>H</wit><wit>Yb</wit> <wit>Nb</wit><wit>Y</wit> <wit>v</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ὅς ῥ'</rdg> <wit>H</wit><wit>Yb</wit> <wit>Nb</wit><wit>Y</wit> <wit>v</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὅς τ'</rdg> <wit>Ub</wit></app>.
 </p>
 
@@ -9039,13 +9042,13 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἤδη</lem></app>;
+<app><lem n="G+W-">ᾔδη</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἤδῃ</rdg> <wit>S</wit><wit>Pb</wit><wit>Wb</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>ἤδῃ</rdg> <wit>W</wit><wit>Hb</wit><wit>Pd</wit><wit>X</wit></app>;
-<app><rdg n="W+"><note n="equal"/>ἤδη</rdg> <wit>G</wit></app> ;
+<app><rdg n="W-"><note n="tbd"/>ᾔδῃ</rdg> <wit>W</wit><wit>Hb</wit><wit>Pd</wit><wit>X</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἤδη</rdg> <wit>G</wit></app> ;
 <app><rdg n="W-"><note n="tbd"/>ἤδει</rdg> <wit>Yb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ϝοιδει</rdg> <wit>Brandreth</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>εἴδει</rdg> <wit>n</wit></app>.
+<app><rdg n="W+G-"><note n="tbd"/>εἴδει</rdg> <wit>n</wit></app>.
 </p>
 
 <p>
@@ -9126,17 +9129,17 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="W-">τὼ</lem></app>;
+<app><lem n="W-G+">τὼ</lem></app>;
 <app><rdg n="W-"><note n="accdiff"/>τώ</rdg> <wit>X</wit></app>;
 <app><rdg n="W-"><note n="accdiff"/>τῶ</rdg> <wit>A</wit><wit>M</wit><wit>G</wit><wit>H</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τῷ</rdg> <wit>S</wit> <wit>Eust.</wit></app>;
-<app><rdg n="W-"><note n="tbd"/>τῶν</rdg></app> ci. <app><wit>n</wit></app>;
-<app><rdg n="W+"><note n="tbd"/>τοῦ</rdg> <wit>Herwerden.</wit></app>
+<app><rdg n="W-G-"><note n="tbd"/>τῶν</rdg></app> ci. <app><wit>n</wit></app>;
+<app><rdg n="W+G-"><note n="tbd"/>τοῦ</rdg> <wit>Herwerden.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">καί</lem> <wit>A</wit><wit>S</wit><wit>G</wit><wit>H</wit><wit>W</wit><wit>Ub</wit><wit>Hb</wit><wit>Q</wit> <wit>Eb</wit></app>, cum γρ΄ <app><wit>At</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>κέν</rdg> <wit>B</wit><wit>M</wit><wit>J</wit><wit>T</wit><wit>Kc</wit><wit>Nb</wit><wit>Pb</wit><wit>Ua</wit><wit>X</wit><wit>Y</wit> <wit>Ar</wit> <wit>Eust.</wit></app>;
+<app><lem n="G+">καί</lem> <wit>A</wit><wit>S</wit><wit>G</wit><wit>H</wit><wit>W</wit><wit>Ub</wit><wit>Hb</wit><wit>Q</wit> <wit>Eb</wit></app>, cum γρ΄ <app><wit>At</wit></app>;
+<app><rdg n="G-"><note n="tbd"/>κέν</rdg> <wit>B</wit><wit>M</wit><wit>J</wit><wit>T</wit><wit>Kc</wit><wit>Nb</wit><wit>Pb</wit><wit>Ua</wit><wit>X</wit><wit>Y</wit> <wit>Ar</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>κέ</rdg> <wit>P1</wit></app>.
 </p>
 
@@ -9146,9 +9149,9 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐπαυρήσεσθαι</lem></app>;
+<app><lem n="W+">ἐπαυρήσεσθαι</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐπαυρίσεσθαι</rdg> <wit>Yb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐπαυ-ρήσασθαι</rdg> <wit>P1</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ἐπαυ-ρήσασθαι</rdg> <wit>P1</wit></app>.
 </p>
 </note>
 
@@ -9160,7 +9163,7 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">νῦν</lem> <wit>Aristarcheae</wit> <wit>Ω</wit></app>; fort. νυν vel δὴ olim al.
+<app><lem n="W+">νῦν</lem> <wit>Aristarcheae</wit> <wit>Ω</wit></app>; fort. νυν vel δὴ olim al.
 </p>
 
 <p>
@@ -9189,15 +9192,15 @@ del. <app><wit>b2</wit></app>.
 <note n="355">
 
 <p>
-<app><lem n="NA">δᾶερ</lem> <wit>Herodian II 56.29</wit> <wit>Ω</wit></app>;
+<app><lem n="W+">δᾶερ</lem> <wit>Herodian II 56.29</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>δά-ερ</rdg> <wit>Ub</wit><wit>O</wit><wit>P3</wit><wit>Ua</wit></app>.
 </p>
 
 <p>
 <app><lem n="NA">ἐπεί δὲ</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐπεί σε</rdg> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἐπεί σε</rdg> <wit>Ω</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐπεί με</rdg> <wit>Ub1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐπεὶ σὲ</rdg></app> (<app><wit>Leaf</wit></app>) improbat <app><wit>Herodian.</wit></app>
+<app><rdg n="W+"><note n="tbd"/>ἐπεὶ σὲ</rdg></app> (<app><wit>Leaf</wit></app>) improbat <app><wit>Herodian.</wit></app>
 </p>
 
 <p>
@@ -9222,8 +9225,8 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐμεῖο κυνὸς</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐμῆς ἔριδος</rdg> <wit>O</wit></app> (ex <bibl n="tlg0012.tlg001:3.100">Γ-100</bibl>).
+<app><lem n="W+">ἐμεῖο κυνὸς</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>ἐμῆς ἔριδος</rdg> <wit>O</wit></app> (ex <bibl n="tlg0012.tlg001:3.100">Γ-100</bibl>).
 </p>
 
 <p>
@@ -9233,9 +9236,9 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἄτης</lem> <note>(<app><wit>Aristarchus</wit> <wit>v</wit></app>. <app><wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:3.100">Γ-100</bibl>)</note> <wit>F</wit><wit>Ω</wit></app>;
+<app><lem n="W+G+">ἄτης</lem> <note>(<app><wit>Aristarchus</wit> <wit>v</wit></app>. <app><wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:3.100">Γ-100</bibl>)</note> <wit>F</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἅ-της</rdg> <wit>O</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀρχῆς</rdg> <note>(Zenodotus?)</note> <wit>F3</wit><wit>Px</wit><wit>Pb</wit><wit>Uc</wit> <wit>f</wit> <wit>Apoll. synt. 133, 6</wit></app>, cum γρ΄ <app><wit>Pz</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἀρχῆς</rdg> <note>(Zenodotus?)</note> <wit>F3</wit><wit>Px</wit><wit>Pb</wit><wit>Uc</wit> <wit>f</wit> <wit>Apoll. synt. 133, 6</wit></app>, cum γρ΄ <app><wit>Pz</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀρχ-ης</rdg> <wit>Pc</wit></app>.
 </p>
 </note>
@@ -9254,15 +9257,15 @@ del. <app><wit>b2</wit></app>.
 <note n="357">
 
 <p>
-<app><lem n="NA">ἐπὶ</lem> <wit>Heracleo</wit> <wit>Alexio</wit> <wit>Herodian II 57.6</wit> <wit>Ω</wit></app>;
+<app><lem n="W-">ἐπὶ</lem> <wit>Heracleo</wit> <wit>Alexio</wit> <wit>Herodian II 57.6</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ἐπι</rdg> <wit>S</wit><wit>M</wit><wit>H</wit><wit>Yb</wit><wit>Y</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>ἔπι</rdg> <wit>Ptolemaeus Ascalonita</wit> <wit>D</wit><wit>F</wit><wit>J</wit><wit>Kc</wit><wit>Pd</wit><wit>X</wit><wit>Z</wit></app>.
+<app><rdg n="W+"><note n="accdiff"/>ἔπι</rdg> <wit>Ptolemaeus Ascalonita</wit> <wit>D</wit><wit>F</wit><wit>J</wit><wit>Kc</wit><wit>Pd</wit><wit>X</wit><wit>Z</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ὡς καὶ</lem> <wit>Ω</wit></app>. <app><wit>Etymologicum Magnum 116.30</wit></app>;
+<app><lem n="W+">ὡς καὶ</lem> <wit>Ω</wit></app>. <app><wit>Etymologicum Magnum 116.30</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ὣς καὶ</rdg> <wit>Pd</wit><wit>Wb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ὥς κεν</rdg> <wit>F1</wit><wit>C</wit><wit>Nb</wit><wit>Y</wit><wit>Z</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ὥς κεν</rdg> <wit>F1</wit><wit>C</wit><wit>Nb</wit><wit>Y</wit><wit>Z</wit></app>.
 </p>
 </note>
 
@@ -9302,8 +9305,12 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κορυθαιόλος</lem></app>;
-<app><rdg n="NA"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit><wit>S</wit><wit>G</wit><wit>Na</wit></app>.
+   <app n="W"><lem>ἠμείβετ᾽ ἔπειτα μέγας</lem> <rdg n="W-G-">απαμειβομενος προ]σεφη</rdg> <wit>400</wit></app>
+</p>
+
+<p>
+<app><lem n="W+">κορυθαιόλος</lem></app>;
+<app><rdg n="W-"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit><wit>S</wit><wit>G</wit><wit>Na</wit></app>.
 </p>
 </note>
 
@@ -9382,10 +9389,14 @@ del. <app><wit>b2</wit></app>.
 </note>
 
 <note n="363">
-
+   <p>
+      <app><lem n="NA">ἀλλὰ σύγ'</lem></app>;
+      <app n="W"><rdg n="W-"><note n="scansion?"/>ἀλλ' ἄγ'</rdg> <wit>R</wit></app>;
+      </p>
+      
 <p>
-<app><lem n="NA">ἀλλὰ σύγ'</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>σὺ γ'</rdg> <wit>Yb</wit><wit>O</wit></app>;
+<app><lem n="NA">σύγ'</lem></app>;
+<app><rdg n="W+"><note n="tbd"/>σὺ γ'</rdg> <wit>Yb</wit><wit>O</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>σὺ</rdg> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.342">Ζ-342</bibl>.
 </p>
 
@@ -9432,13 +9443,16 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">καταμάρψῃ ἐόντα</lem></app>;
+<app><lem n="NA">καταμάρψῃ</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>κατὰ μάρψῃ</rdg> <wit>Yb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>καταμάρψει</rdg> <wit>Ub1</wit></app>,
 </p>
 
 <p>
-<app><lem n="NA">ἐόντα</lem></app> om. <app><wit>O1</wit></app>, ὄντα add. <app><wit>O2</wit></app>.
+<app><lem n="NA">ἐόντα</lem></app> om. <app><wit>O1</wit></app>, 
+
+<app><rdg>ὄντα</rdg><note>ὄντα add.</note> <wit>O2</wit></app>.
+<app n="W"><rdg n="W-">ϊόντα</rdg> <wit>Z</wit></app>.
 </p>
 </note>
 
@@ -9451,9 +9465,10 @@ del. <app><wit>b2</wit></app>.
 
 <p>
 <app><lem n="NA">οἶκον δ'</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>L</wit><wit>Q</wit> <wit>f</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>οἶκ-όν δ'</rdg> <wit>Uc</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W+G+"><note n="accdiff"/>οἶκ-όν δ'</rdg> <wit>Uc</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οἶκ-ονδε</rdg> <wit>Na</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>οἶκ-όνδε</rdg> <wit>v</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>οἶκ-όνδε</rdg> <wit>v</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>οἶκ-ονδ'</rdg> <wit>T</wit> <wit>W</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οἴκονδ'</rdg> <note>(gl. ε ss.)</note> <wit>X</wit></app>.
 </p>
 
@@ -9463,8 +9478,8 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐσελεύσομαι</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Kb2</wit> <wit>Ω</wit> <wit>Apoll. synt. 341, 1</wit></app> (cf. ἃ 88. <bibl n="tlg0012.tlg002:17.52">ρ-52</bibl>);
-<app><rdg n="NA"><note n="tbd"/>ἐλεύ-</rdg> <wit>W</wit><wit>K</wit><wit>Px</wit><wit>Na</wit><wit>Ec</wit><wit>Kb1</wit> <wit>Uc</wit><wit>X</wit> <wit>Yc</wit> <wit>Eust. 647.24</wit> <note>(non 648, 65)</note> <wit>v</wit></app>.
+<app><lem n="W+">ἐσελεύσομαι</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Kb2</wit> <wit>Ω</wit> <wit>Apoll. synt. 341, 1</wit></app> (cf. ἃ 88. <bibl n="tlg0012.tlg002:17.52">ρ-52</bibl>);
+<app><rdg n="W-"><note n="tbd"/>ἐλεύ-σομαι</rdg> <wit>W</wit><wit>K</wit><wit>Px</wit><wit>Na</wit><wit>Ec</wit><wit>Kb1</wit> <wit>Uc</wit><wit>X</wit> <wit>Yc</wit> <wit>Eust. 647.24</wit> <note>(non 648, 65)</note> <wit>v</wit></app>.
 </p>
 
 <p>
@@ -9499,10 +9514,10 @@ del. <app><wit>b2</wit></app>.
 <note n="367">
 
 <p>
-<app><lem n="NA">γάρ τ'</lem> <wit>Q</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>γὰρ</rdg> <note>(om. <app><wit>v</wit></app>)</note> <wit>J</wit><wit>Kc</wit> <wit>Heyne</wit> <wit>b2</wit> <wit>n</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>γὰρ ἔτι</rdg> <wit>S</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>γὰρ ἔτ'</rdg> <wit>G</wit><wit>H</wit><wit>Yb</wit><wit>Qb</wit></app>, cum γρ΄ <app><wit>P3</wit></app>;
+<app><lem n="W+G+">γάρ τ'</lem> <wit>Q</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>γὰρ</rdg> <note>(om. <app><wit>v</wit></app>)</note> <wit>J</wit><wit>Kc</wit> <wit>Heyne</wit> <wit>b2</wit> <wit>n</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>γὰρ ἔτι</rdg> <wit>S</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>γὰρ ἔτ'</rdg> <wit>G</wit><wit>H</wit><wit>Yb</wit><wit>Qb</wit></app>, cum γρ΄ <app><wit>P3</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γάρ τι</rdg> <wit>Db</wit></app>.
 </p>
 
@@ -9513,11 +9528,16 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">εἰ</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>W2</wit><wit>K2</wit> <wit>Eust.</wit></app>; om. <app><wit>Db</wit><wit>J</wit></app>; ἀ <app><wit>W1</wit></app>; 5 <app><wit>b</wit></app>.
+<app><lem n="W+">εἰ</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>W2</wit><wit>K2</wit> <wit>Eust.</wit></app>;
+ om. <app><wit>Db</wit><wit>J</wit></app>; 
+<app><rdg>ἀ</rdg> <wit>W1</wit></app>; 
+<app><rdg n="W-">ἢ</rdg> <wit>b</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἔτι σφιν</lem> <note>(non ἔτί)</note> <wit>Herodian II 57.14</wit> <wit>Ω</wit></app> (σφὶν <app><wit>Kb</wit></app>);
+<app><lem n="NA">ἔτι σφιν</lem>  <wit>Herodian II 57.14</wit> <wit>Ω</wit></app>
+<app><rdg>ἔτι σφὶν</rdg> <wit>Kb</wit></app>;
+<app><rdg n="W+"><note n="accdiff"/>ἔτί σφιν</rdg><note>(non ἔτί)</note> <wit>Herodian II 57.14</wit></app>
 <app><rdg n="NA"><note n="tbd"/>ἔτ' εἴ σφιν</rdg> <wit>J</wit></app>  [ex ἔπ' σφιν cr.].
 </p>
 
@@ -9543,7 +9563,8 @@ del. <app><wit>b2</wit></app>.
 
 <p>
 <app><lem n="NA">ἢ</lem> <wit>A</wit><wit>M</wit><wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>ἦ</rdg> <wit>b</wit></app>.
+<app><rdg n="W-"><note n="accdiff"/>ἦ</rdg> <wit>b</wit></app>.
+<app><rdg n="W+"><note n="accdiff"/>ἦ'</rdg> <wit>West</wit></app>.
 </p>
 
 <p>
@@ -9575,8 +9596,8 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κορυθαιόλος</lem></app>;
-<app><rdg n="NA"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit><wit>S</wit><wit>M2</wit><wit>T2</wit><wit>Na</wit><wit>Pb</wit></app>.
+<app><lem n="W+">κορυθαιόλος</lem></app>;
+<app><rdg n="W-"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit><wit>S</wit><wit>M2</wit><wit>T2</wit><wit>Na</wit><wit>Pb</wit></app>.
 </p>
 </note>
 
@@ -9609,6 +9630,10 @@ del. <app><wit>b2</wit></app>.
 
 
 <note n="371">
+   <p>
+      <app n="W"><lem n="W-">εὗρ'</lem></app>;
+      <app n="W"><rdg n="W+"><note n="addaugment"/>ηὗρ'</rdg> <wit>Fick</wit></app>.
+      </p>
 
 <p>
 <app><lem n="NA">μεγάροισιν</lem></app>;
@@ -9638,9 +9663,9 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐυπέπλῳ</lem></app>;
+<app><lem n="W-">ἐυπέπλῳ</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐϋπέπλῳ</rdg> <wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="diacdiff"/>εὐ-πέπλῳ</rdg> <wit>A</wit><wit>Ub</wit><wit>Yb</wit><wit>Kb</wit></app>.
+<app><rdg n="W+"><note n="diacdiff"/>εὐ-πέπλῳ</rdg> <wit>A</wit><wit>Ub</wit><wit>Yb</wit><wit>Kb</wit></app>.
 </p>
 </note>
 
@@ -9652,10 +9677,10 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐφεστήκει</lem> <wit>Aristarchus</wit> <wit>B</wit><wit>X</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.394">Ζ-394</bibl>, <app><wit>Etymologicum Magnum 697.35</wit></app>;
+<app><lem n="W+G+">ἐφεστήκει</lem> <wit>Aristarchus</wit> <wit>B</wit><wit>X</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:6.394">Ζ-394</bibl>, <app><wit>Etymologicum Magnum 697.35</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐφ' ἑστήκει</rdg> <wit>K</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐφειστ-ήκει</rdg> <wit>A</wit><wit>H1</wit> <wit>J2</wit><wit>Ω</wit> <wit>Apoll. Soph. 137.33</wit> <wit>Eust.</wit> <wit>v</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐφιστ-ήκει</rdg> <wit>H2</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἐφειστ-ήκει</rdg> <wit>A</wit><wit>H1</wit> <wit>J2</wit><wit>Ω</wit> <wit>Apoll. Soph. 137.33</wit> <wit>Eust.</wit> <wit>v</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἐφιστ-ήκει</rdg> <wit>H2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γρ΄ "ἔφ' εἱστήκει"</rdg> <wit>v</wit></app>.
 </p>
 
@@ -9721,8 +9746,8 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">μυθήσασθε'</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>μυθήσασθαι</rdg> <wit>Ub1</wit> <wit>Hb</wit> <wit>Kb</wit><wit>Z</wit></app>.
+<app><lem n="W+">μυθήσασθε</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>μυθήσασθαι</rdg> <wit>Ub1</wit> <wit>Hb</wit> <wit>Kb</wit><wit>Z</wit></app>.
 </p>
 </note>
 
@@ -9744,12 +9769,13 @@ del. <app><wit>b2</wit></app>.
 <note n="378">
 
 <p>
-<app><lem n="NA">ἠέ πῃ</lem> <wit>A</wit><wit>H</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+">ἠέ πῃ</lem> <wit>A</wit><wit>H</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἠέ πη</rdg> <wit>M</wit><wit>G2</wit><wit>J</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἣέ πῃ</rdg> <wit>T</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἡ ἑ πη</rdg> <wit>G1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἡ ἔπη</rdg> <wit>K</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἢ ἔπη</rdg> <wit>Na</wit></app>;
+<app n="W"><rdg n="W-"><note n="tbd"/>ἠ' ἔπη?</rdg> <wit>Fick</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἢ ἐπὶ</rdg> <wit>O</wit></app>.
 </p>
 
@@ -9764,18 +9790,19 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ξυπέπλων</lem></app>;
+<app><lem n="W-">ἐυπέπλων</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐϋπέπλων</rdg> <wit>S</wit><wit>B</wit><wit>M</wit> <wit>Ω</wit> <wit>Etymologicum Magnum 302.16</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>εὐ-πέπλων</rdg> <wit>A</wit><wit>T</wit><wit>Ub</wit><wit>Yb</wit></app>.
+<app><rdg n="W+"><note n="tbd"/>εὐ-πέπλων</rdg> <wit>A</wit><wit>T</wit><wit>Ub</wit><wit>Yb</wit></app>.
 </p>
 </note>
 
 <note n="379">
 
 <p>
-<app><lem n="NA">ξυπέπλων</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἦ</rdg> <wit>b</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἢ</rdg> <wit>A</wit><wit>M</wit> <wit>Ω</wit> <wit>Eust.</wit></app>
+
+<app><lem n="W-"><note n="tbd"/>ἦ</lem> <wit>b</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἢ</rdg> <wit>A</wit><wit>M</wit> <wit>Ω</wit> <wit>Eust.</wit></app>
+<app><rdg n="W+"><note n="tbd"/>ἠ'</rdg> <wit>Fick</wit></app>
 </p>
 
 <p>
@@ -9801,10 +9828,10 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ξυπλόκαμοι</lem></app>;
+<app><lem n="W+">ἐυπλόκαμοι</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐϋπλόκαμοι</rdg> <wit>A</wit><wit>B</wit><wit>M</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εὐ-πλόκαμοι</rdg> <wit>Db</wit> <wit>T</wit><wit>Ub</wit> <wit>Yb</wit> <wit>Eust. 648.9</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>εὐπλόκαμον</rdg> <wit>Eust. 649.6</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>εὐπλόκαμον</rdg> <wit>Eust. 649.6</wit></app>.
 </p>
 
 <p>
@@ -9813,8 +9840,9 @@ del. <app><wit>b2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἱλάσκονται;</lem></app>;
+<app><lem n="W+">ἱλάσκονται</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ιλάσκονται</rdg> <wit>A</wit></app>;
+<app n="W"><rdg n="W-"><note n="tbd"/>ιλασκοντο</rdg> <wit>356</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἱλαάσκω-νται</rdg> <wit>X1</wit></app>.
 </p>
 </note>
@@ -9878,8 +9906,8 @@ del. <app><wit>b2</wit></app>.
 <note n="383">
 
 <p>
-<app><lem n="NA">οὔτέ</lem> <wit>A</wit><wit>M</wit><wit>G</wit><wit>H</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>οὔτε</rdg> <wit>S</wit><wit>D</wit><wit>W</wit></app>; oóré <app><wit>Ub</wit><wit>O</wit><wit>Y</wit></app>.
+<app><lem n="W+">οὔτέ</lem> <wit>A</wit><wit>M</wit><wit>G</wit><wit>H</wit></app>;
+<app><rdg n="W-"><note n="accdiff"/>οὔτε</rdg> <wit>S</wit><wit>D</wit><wit>W</wit></app>; oóré <app><wit>Ub</wit><wit>O</wit><wit>Y</wit></app>.
 </p>
 
 <p>
@@ -10019,13 +10047,17 @@ om. <app><wit>Zp</wit></app>, add. Ζ.
 <note n="388-389">
 
 <p>
-388 et 389 del <app><wit>k</wit></app>.
+388 et 389 del <app><wit>k</wit> <wit>West</wit></app>.
 </p></note>
 
 <note n="388">
-
+   <p>
+      <app><lem n="NA">ἡ</lem></app>;
+      <app n="W"><rdg n="W+"><note n="tbd"/>ἣ</rdg> <wit>Ω</wit></app>.
+      <app n="W"><rdg n="W+"><note n="tbd"/>ἦ</rdg> <wit>Fick</wit></app>.
+   </p>
 <p>
-<app><lem n="NA">μὲν</lem></app>;
+<app><lem n="NA">ἡ μὲν</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἠμὲν</rdg> <wit>Pb</wit></app>.
 </p>
 
@@ -10173,11 +10205,11 @@ om. <app><wit>Zp</wit></app>, add. Ζ.
 </p>
 
 <p>
-<app><lem n="NA">ἐναντίη</lem></app>;
+<app><lem n="W+">ἐναντίη</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐναντία</rdg> <wit>W</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐναντί'</rdg> <wit>Wb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐναντίος</rdg> <wit>J</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐναντίον</rdg> <wit>Yc</wit><wit>Pc</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ἐναντίον</rdg> <wit>Yc</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
@@ -10235,9 +10267,13 @@ om. <app><wit>Zp</wit></app>, add. Ζ.
 
 <note n="398">
 
-<p>
-<app><lem n="NA">δὴ</lem></app> om. <app><wit>Pd1</wit></app>.
-</p>
+   <p>
+      <app><lem n="NA">δὴ</lem></app> om. <app><wit>Pd1</wit></app>.
+      </p>
+      <p>
+         <app n="W"><lem n="W+G+">χαλκοκορυστῇ</lem> <wit>400</wit> <wit>Ω</wit></app>.
+         <app n="W"><rdg n="W-G-">Ηεδιωνο[ς</rdg> <wit>356</wit></app>.
+      </p>
 </note>
 
 <note n="399">
@@ -10261,17 +10297,18 @@ om. <app><wit>Zp</wit></app>, add. Ζ.
 <note n="400">
 
 <p>
-et 401 ante 399 posuit Τ1 (cr. <app><wit>T2</wit></app>).
+400 et 401 ante 399 posuit Τ1 (cr. <app><wit>T2</wit></app>).
 </p>
 
 <p>
-<app><lem n="NA">ἐπὶ</lem> <wit>A</wit><wit>S</wit><wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐνὶ</rdg> <wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Na</wit><wit>Ec</wit><wit>Ob</wit><wit>X</wit><wit>Yc</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+G+">ἐπὶ</lem> <wit>A</wit><wit>S</wit><wit>Ω</wit></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἐνὶ</rdg> <wit>W</wit><wit>Yb</wit><wit>Hb</wit><wit>Na</wit><wit>Ec</wit><wit>Ob</wit><wit>X</wit><wit>Yc</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐν</rdg> <wit>O</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κόλπῳ</lem> <wit>A</wit><wit>S</wit><wit>W</wit><wit>Ub2</wit><wit>Q</wit><wit>Ob</wit><wit>Pb</wit></app>X: κόλ-πον <app><wit>B</wit><wit>M</wit><wit>Px</wit><wit>Ub19</wit><wit>Q</wit> <wit>v</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>.
+<app><lem n="W+G+">κόλπῳ</lem> <wit>A</wit><wit>S</wit><wit>W</wit><wit>Ub2</wit><wit>Q</wit><wit>Ob</wit><wit>Pb</wit></app>X; 
+<app><rdg n="W-G-">κόλ-πον</rdg> <wit>356</wit> <wit>400</wit> <wit>B</wit><wit>M</wit><wit>Px</wit><wit>Ub19</wit><wit>Q</wit> <wit>v</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>.
 </p>
 
 <p>
@@ -10320,13 +10357,13 @@ et 401 ante 399 posuit Τ1 (cr. <app><wit>T2</wit></app>).
 <note n="402">
 
 <p>
-et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
+402 et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ῥ'</lem> <wit>Ω</wit> <wit>Etymologicum Magnum 160.19</wit></app>;
-<app><rdg n="NA"><note n="equal"/>ῥ'</rdg> <wit>M</wit><wit>Ub</wit><wit>Yb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ὁ</rdg> <wit>O</wit></app>; om. <app><wit>S</wit><wit>Db</wit><wit>G</wit><wit>X</wit></app>;
+<app><lem n="W+">ῥ'</lem> <wit>Ω</wit> <wit>Etymologicum Magnum 160.19</wit></app>;
+<app><rdg n="NA"><note n="diacdiff"/>ρ'</rdg> <wit>M</wit><wit>Ub</wit><wit>Yb</wit></app>;
+<app><rdg n="W-"><note n="tbd"/></rdg> <wit>O</wit></app>; om. <app><wit>S</wit><wit>Db</wit><wit>G</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὁ</rdg> <wit>Wb</wit></app>.
 </p>
 
@@ -10342,9 +10379,9 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">Σκαμάνδριον</lem></app>;
+<app><lem n="W+">Σκαμάνδριον</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>σκαμάνδριον</rdg> <wit>A</wit><wit>M1</wit> <wit>J1</wit><wit>Ω</wit> <wit>Etymologicum Magnum</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>καμ-άνδριον</rdg> <wit>M2</wit><wit>H2</wit><wit>J3</wit> <wit>Hb</wit><wit>Kb</wit><wit>Pb</wit><wit>Pd</wit><wit>Wb</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>καμ-άνδριον</rdg> <wit>M2</wit><wit>H2</wit><wit>J3</wit> <wit>Hb</wit><wit>Kb</wit><wit>Pb</wit><wit>Pd</wit><wit>Wb</wit></app>.
 </p>
 </note>
 
@@ -10356,20 +10393,22 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">οἶος</lem> <wit>Ω</wit> <wit>Etymologicum Magnum</wit> <wit>sch. Eur. Hipp. 88</wit></app>;
+<app><lem n="W+">οἶος</lem> <wit>Ω</wit> <wit>Etymologicum Magnum</wit> <wit>sch. Eur. Hipp. 88</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>οἷος</rdg> <wit>Yb</wit><wit>Wb</wit><wit>Pc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>αὐτὸς</rdg> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:14.424">Ξ-424</bibl>.
+<app><rdg n="W-"><note n="tbd"/>αὐτὸς</rdg> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:14.424">Ξ-424</bibl>.
 </p>
 
 <p>
 <app><lem n="NA">γὰρ ἐρύετο</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>γὰρ ῥύετο</rdg></app> vel δ' ἐρρύ-ετο <app><wit>Thiersch.</wit></app>
+<app><rdg n="NA"><note n="tbd"/>γὰρ ῥύετο</rdg> <wit>Thiersch.</wit></app> 
+<app><rdg n="NA"><note n="tbd"/><note>vel</note> δ' ἐρρύ-ετο</rdg> <wit>Thiersch.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">ἐρύετο</lem></app>;
+<app><lem n="W+">ἐρύετο</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐρρύετο</rdg> <wit>J</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐρύατο</rdg> <wit>Uc</wit></app>.
+<app n="W"><rdg n="W-"><note n="tbd"/>εροικαιτοι</rdg> <wit>356</wit></app>.
 </p>
 
 <p>
@@ -10415,8 +10454,9 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἄγχι</lem></app>;
+<app><lem n="W+">ἄγχι</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄγχη</rdg> <wit>Pb</wit></app>.
+<app n="W"><rdg n="W-"><note n="tbd"/>αυθι</rdg> <wit>400</wit></app>.
 </p>
 
 <p>
@@ -10466,21 +10506,23 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 <note n="407">
 
 <p>
-<app><lem n="NA">φθίσει</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>φθείσει</rdg> <wit>A</wit> <wit>An. Ox. I 427.1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>διὰ τοῦ</rdg></app> ῑ καὶ διὰ τῆς εῑ <app><wit>Etymologicum Magnum 300</wit></app>.
+<app><lem n="W-G+">φθίσει</lem><note>διὰ τοῦ ῑ καὶ διὰ τῆς εῑ</note> <wit>Etymologicum Magnum 300</wit></app>.
+<app><rdg n="W+G-"><note n="tbd"/>φθείσει</rdg> <wit>A</wit> <wit>An. Ox. I 427.1</wit></app>;
 </p>
 
 <p>
-<app><lem n="NA">φθίσει</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>σε</rdg> <wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τὲ</rdg> <wit>Etymologicum Magnum 792.55</wit></app>.
-</p>
-
+   <app><lem n="W+"><note n="tbd"/>σε</lem> <wit>Ω</wit></app>;
+   <app><rdg n="NA"><note n="tbd"/>τὲ</rdg> <wit>Etymologicum Magnum 792.55</wit></app>.
+   </p>
+   <p>
+      <app n="W"><lem n="W+"><note n="tbd"/>σε τὸ σὸν</lem> <wit>Ω</wit></app>;
+      <app n="W"><rdg n="W-"><note n="tbd"/>τὸ τεὸν</rdg> <wit>Cornut. vl.</wit></app>.
+      </p>
+         
 <p>
-<app><lem n="NA">τὸ σὸν</lem> <wit>Ω</wit> <wit>Plut. repugn. Stoic. 1036b</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:22.455">Χ-455</bibl>, <app><wit>An. Ox.</wit></app>, <app><wit>Eust.</wit></app>;
+<app><lem n="W-">τὸ σὸν</lem> <wit>Ω</wit> <wit>Plut. repugn. Stoic. 1036b</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:22.455">Χ-455</bibl>, <app><wit>An. Ox.</wit></app>, <app><wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τοσὸν</rdg> <wit>Uc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τεὸν</rdg> <wit>Etymologicum Magnum</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>τεὸν</rdg> <wit>Etymologicum Magnum</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τεϝον</rdg> <wit>k</wit></app>.
 </p>
 
@@ -10506,8 +10548,8 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">καὶ ἔμ' ἄμμορον</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>τινὲς "ἐμὸν μόρον"</rdg> <wit>Ariston.</wit></app>
+<app><lem n="W+G+">ἔμ' ἄμμορον</lem></app>;
+<app><rdg n="W-G-"><note n="tbd"/>ἐμὸν μόρον</rdg> <note>τινὲς "ἐμὸν μόρον"</note> <wit>Ariston.</wit></app>
 </p>
 
 <p>
@@ -10517,9 +10559,9 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">καὶ ἔμ' ἄμμορον</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἢ</rdg> <wit>T</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἦ</rdg> <wit>Hb</wit><wit>Pc</wit></app>.
+   <app><lem n="W+"><note n="tbd"/>ἣ</lem> </app>;
+   <app><rdg n="W-"><note n="tbd"/>ἢ</rdg> <wit>T</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἦ</rdg> <wit>Hb</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
@@ -10530,14 +10572,18 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 
 <note n="409">
 
+   <p>
+      <app n="W"><lem n="W-">σεῦ</lem></app>
+      <app n="W"><lem n="W+">σεῖ'</lem> <wit>Fick</wit></app>
+   </p>
 <p>
 <app><lem n="NA">ἔσομαι</lem></app>;
 <app><rdg n="NA"><note n="2s->1s"/>ἔσσομαι</rdg> <wit>B</wit><wit>K</wit><wit>O</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κατακτανέουσιν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>κατα-κτενέουσιν</rdg> <wit>Cobet</wit> <wit>n</wit></app>.
+<app><lem n="W-">κατακτανέουσιν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>κατα-κτενέουσιν</rdg> <wit>Cobet</wit> <wit>n</wit></app>.
 </p>
 </note>
 
@@ -10554,7 +10600,10 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 <note n="411">
 
 <p>
-<app><lem n="NA">σεῦ</lem></app> om. <app><wit>Xb1</wit></app>.
+<app><lem n="NA">σεῦ</lem></app> 
+ <app><note>om.</note> <wit>Xb1</wit></app>.
+ <app n="W"><lem n="W+">σεῖ'</lem> <wit>Fick</wit></app>
+
 </p>
 
 <p>
@@ -10635,8 +10684,8 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">γὰρ</lem> <wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μὲν</rdg> <wit>Strab. XIII 619</wit></app>.
+<app><lem n="W+">γὰρ</lem> <wit>Ω</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>μὲν</rdg> <wit>Strab. XIII 619</wit></app>.
 </p>
 
 <p>
@@ -10645,7 +10694,7 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">πατέρ' ἁμὸν</lem></app>;
+<app><lem n="W+">πατέρ' ἁμὸν</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>πατέρα 'μὸν</rdg> <wit>U</wit></app>.
 </p>
 
@@ -10653,6 +10702,7 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 <app><lem n="NA">ἁμὸν</lem> <wit>Apoll. pronom. 112.4</wit> <wit>Herodian II 57.20</wit> <wit>A</wit><wit>M</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἀ-μὸν</rdg> <wit>Demetrius Ixion</wit> <wit>S</wit><wit>G</wit><wit>H</wit><wit>T</wit><wit>R</wit><wit>Ub2</wit><wit>Hb</wit> <wit>w</wit></app>; ἐ- <app><wit>J</wit><wit>W</wit><wit>Px</wit><wit>Ub1</wit><wit>L</wit><wit>Na</wit><wit>P</wit><wit>Ec</wit> <wit>Eust.</wit> <wit>f</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄμμον</rdg> <wit>Ahrens</wit> <wit>Christ.</wit></app>
+<app n="W"><rdg n="W-"><note n="meter?"/>οὐμὸν</rdg> <wit>R</wit></app>.
 </p>
 
 <p>
@@ -10682,25 +10732,14 @@ et 403 ἄμφω πρέποντα <app><wit>sch. B</wit><wit>T</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">εὐναιετόωσαν</lem> <wit>H</wit><wit>W</wit><wit>O</wit><wit>Y</wit></app>;
+<app><lem n="W-">εὐναιετόωσαν</lem> <wit>H</wit><wit>W</wit><wit>O</wit><wit>Y</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εὖ ναιετόωσαν</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Eust.</wit></app>
-</p>
-
-
-
 
 
 <pb n="274"/>
-
-
-
-
-
-<p>
-<app><lem n="NA">εὐναιετόωσαν</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ναιετόωσαν</rdg> <wit>Aristarchus</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ναιετ-άωσαν</rdg> <wit>A</wit><wit>S</wit><wit>Q</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ναιετ-άουσαν</rdg> <wit>J</wit><wit>Px</wit> <wit>Yb</wit> <wit>Hb</wit><wit>Na</wit><wit>Cb</wit> <wit>Ec</wit><wit>Kc</wit><wit>Ob</wit><wit>Pb</wit><wit>Uc</wit> <wit>Eust.</wit></app>
+<app><rdg n="W-"><note n="tbd"/>εὖ ναιετόωσαν</rdg> <wit>Aristarchus</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>εὖ ναιετ-άωσαν</rdg> <wit>A</wit><wit>S</wit><wit>Q</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>εὖ ναιετ-άουσαν</rdg> <wit>J</wit><wit>Px</wit> <wit>Yb</wit> <wit>Hb</wit><wit>Na</wit><wit>Cb</wit> <wit>Ec</wit><wit>Kc</wit><wit>Ob</wit><wit>Pb</wit><wit>Uc</wit> <wit>Eust.</wit></app>
 </p>
 </note>
 
@@ -11010,7 +11049,7 @@ del. <app><wit>Koechly.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">ἄλλοισι</lem></app>;
+<app><lem n="W+">ἄλλοισι</lem> <wit>1</wit> <wit>327</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>αλλοισιν</rdg> <wit>Θ</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀλλήλοισι</rdg> <wit>Wb</wit></app>.
 </p>
@@ -11137,8 +11176,8 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 <note n="432">
 
 <p>
-<app><lem n="NA">μὴ παῖδ' ὀρφανικὸν</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>παιδ' Θ: πάιν?</rdg> <wit>n</wit></app>.
+<app><lem n="NA">παῖδ'</lem></app>;
+<app><rdg n="NA"><note n="tbd"/>πάιν?</rdg> <wit>n</wit></app>.
 </p>
 
 <p>
@@ -11147,10 +11186,10 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">θήῃς</lem> <note>(-ης)</note> <wit>Aristarchus</wit> <wit>A</wit><wit>S</wit><wit>B</wit><wit>G</wit><wit>H</wit><wit>T</wit><wit>Ub1</wit><wit>Na</wit> <wit>An. Ox. I 430.29</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>θηιης</rdg> <wit>Θ</wit></app>;
+<app><lem n="W+">θήῃς</lem> <note>(-ης)</note> <wit>Aristarchus</wit> <wit>A</wit><wit>S</wit><wit>B</wit><wit>G</wit><wit>H</wit><wit>T</wit><wit>Ub1</wit><wit>Na</wit> <wit>An. Ox. I 430.29</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>θηιης</rdg> <wit>Θ</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>θῄης</rdg> <wit>Yb</wit></app> (v. <app><wit>Eust.</wit></app>);
-<app><rdg n="NA"><note n="tbd"/>θείης</rdg> <wit>M</wit><wit>F</wit><wit>W</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.441">Ζ-441</bibl>, <app><wit>sch. Soph.</wit> <wit>Ai</wit></app>. 499.
+<app><rdg n="W+"><note n="tbd"/>θείης</rdg> <wit>M</wit><wit>F</wit><wit>W</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.441">Ζ-441</bibl>, <app><wit>sch. Soph.</wit> <wit>Ai</wit></app>. 499.
 </p>
 
 <p>
@@ -11190,9 +11229,9 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 <note n="434">
 
 <p>
-<app><lem n="NA">ἀμβατός</lem> <wit>Aristarchus</wit> <wit>A</wit><wit>M1</wit><wit>D</wit><wit>T2</wit><wit>K</wit><wit>Ub2</wit><wit>Kb</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>ἄμβατός</rdg> <wit>Herodian I 228.27</wit> <wit>M2</wit><wit>F</wit><wit>G</wit><wit>J</wit><wit>T1</wit></app>Q(<app><wit>Ar</wit></app>);
-<app><rdg n="NA"><note n="tbd"/>ἀμβατή</rdg> <wit>Callistratus.</wit></app>
+<app><lem n="W+">ἀμβατός</lem> <wit>Aristarchus</wit> <wit>A</wit><wit>M1</wit><wit>D</wit><wit>T2</wit><wit>K</wit><wit>Ub2</wit><wit>Kb</wit></app>;
+<app><rdg n="W-"><note n="accdiff"/>ἄμβατός</rdg> <wit>1068 <note>α]μβατός</note></wit> <wit>Herodian I 228.27</wit> <wit>M2</wit><wit>F</wit><wit>G</wit><wit>J</wit><wit>T1</wit></app>Q(<app><wit>Ar</wit></app>);
+<app><rdg n="W-"><note n="tbd"/>ἀμβατή</rdg> <wit>Callistratus.</wit></app>
 </p>
 
 <p>
@@ -11215,8 +11254,8 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">τῇ γ'</lem> <wit>Kc2</wit><wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τῇδ'</rdg> <wit>H</wit><wit>J</wit><wit>T</wit><wit>Pw</wit><wit>Yg</wit><wit>Yb</wit><wit>O</wit><wit>P</wit><wit>Ed</wit><wit>Kc1</wit><wit>Eg</wit></app>;
+<app><lem n="W+">τῇ γ'</lem> <wit>Kc2</wit><wit>Ω</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>τῇδ'</rdg> <wit>H</wit><wit>J</wit><wit>T</wit><wit>Pw</wit><wit>Yg</wit><wit>Yb</wit><wit>O</wit><wit>P</wit><wit>Ed</wit><wit>Kc1</wit><wit>Eg</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γρ΄ καὶ διὰ τοῦ δ καὶ διὰ τοῦ γ</rdg> <wit>sch. At</wit></app>.
 </p>
 
@@ -11260,8 +11299,11 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">Ἀτρείδας</lem></app>;
-<app><rdg n="NA"><note n="diacdiff"/>ἀτρείδας</rdg> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>Ω</wit> <wit>Eust.</wit></app>; <app><wit>Demetrius Ixion</wit></app> ἐν τῷ πρὸς τοὺς ἠθετημένους "Ἀτρείδα" προφέρεται δυϊκῶς <app><wit>Did.</wit></app>: cf. ad <bibl n="tlg0012.tlg001:1.16">Α-16</bibl>.
+<app><lem n="W+">Ἀτρείδας</lem></app>;
+<app><rdg n="NA"><note n="diacdiff"/>ἀτρείδας</rdg> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Eust.</wit></app>; 
+<app n="W"><rdg n="W-"><note n="diacdiff"/>Ἀτρείδην</rdg> <wit>W2</wit></app>; 
+<app><rdg n="W-"><note n="tbd"/>Ἀτρείδα</rdg> <wit>Demetrius Ixion</wit> <note>ἐν τῷ πρὸς τοὺς ἠθετημένους "Ἀτρείδα" προφέρεται δυϊκῶς</note>
+<wit>Did.</wit><note>cf. ad <bibl n="tlg0012.tlg001:1.16">Α-16</bibl>.</note></app> 
 </p>
 
 <p>
@@ -11273,10 +11315,9 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 <note n="438">
 
 <p>
-<app><lem n="NA">Τυδέος</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἤ</rdg> <wit>Herodian II 57.33</wit> <wit>Ω</wit></app>;
+<app><lem n="W+"><note n="tbd"/>ἤ</lem> <wit>Herodian II 57.33</wit> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἢ</rdg> <wit>G</wit><wit>J2</wit><wit>Ub2</wit><wit>O</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἦ</rdg> <wit>Ub1</wit> <wit>Hb</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἦ</rdg> <wit>Ub1</wit> <wit>Hb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἴ</rdg> <wit>J1</wit></app>,
 </p>
 
@@ -11298,20 +11339,20 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">θεοπροπίων</lem> <wit>Pd2</wit><wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>θεοπρ-οπέων</rdg> <wit>S</wit><wit>G</wit><wit>H</wit><wit>Px</wit><wit>Yb</wit><wit>L</wit><wit>Na</wit><wit>Pb</wit><wit>Pd1</wit></app>;
+<app><lem n="W+">θεοπροπίων</lem> <wit>Pd2</wit><wit>Ω</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>θεοπρ-οπέων</rdg> <wit>S</wit><wit>G</wit><wit>H</wit><wit>Px</wit><wit>Yb</wit><wit>L</wit><wit>Na</wit><wit>Pb</wit><wit>Pd1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>θεοπρ-επέων</rdg> <wit>W</wit><wit>Wb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>θεοπρ-επίων</rdg> <wit>Yc</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>θεοπρέων</rdg> <wit>Hb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>θεο-προπίας</rdg> <wit>B</wit><wit>M</wit><wit>Cb</wit><wit>Ob</wit><wit>X</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>θεο-προπιῶν</rdg> <wit>n</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>θεο-προπίας</rdg> <wit>B</wit><wit>M</wit><wit>Cb</wit><wit>Ob</wit><wit>X</wit></app>, cum γρ΄ <app><wit>Eb</wit></app>;
+<app><rdg n="W-"><note n="accdiff"/>θεο-προπιῶν</rdg> <wit>n</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">εἰδώς</lem></app>;
+<app><lem n="W-">ἔυ</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>εῦ</rdg> <wit>A</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>εὖ</rdg> <wit>Q</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐὺ</rdg> <wit>b2</wit></app>.
+<app><rdg n="W+"><note n="tbd"/>εὖ</rdg> <wit>Q</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἐὺ</rdg> <wit>b2</wit></app>.
 </p>
 </note>
 
@@ -11331,16 +11372,16 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">αὐτῶν</lem> <wit>J2</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.433">Ζ-433</bibl>;
+<app><lem n="W+">αὐτῶν</lem> <wit>J2</wit><wit>Ω</wit> <wit>Ariston.</wit></app> <bibl n="tlg0012.tlg001:6.433">Ζ-433</bibl>;
 <app><rdg n="NA"><note n="tbd"/>αὐτ-ὸν</rdg> <wit>J1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐν ἐνίοις "αὐτοὺς"</rdg> <wit>sch. At</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>αὐτοὺς</rdg> <note>ἐν ἐνίοις "αὐτοὺς"</note> <wit>sch. At</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐποτρύνει καὶ ἀνώγει</lem></app>;
+<app><lem n="W+">ἐποτρύνει καὶ ἀνώγει</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐποτρύνοι καὶ ἀνώγοι</rdg> <wit>P2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐπώτρυνε καὶ ἄνωγε</rdg> <wit>Ernesti</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐπότρυνεν καὶ ἀνώγει</rdg> <wit>Bothe.</wit></app>
+<app><rdg n="W-"><note n="tbd"/>ἐπότρυνεν καὶ ἀνώγει</rdg> <wit>Bothe.</wit></app>
 </p>
 </note>
 
@@ -11357,8 +11398,8 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κορυθαιόλος</lem> <wit>A</wit><wit>G</wit><wit>J</wit><wit>T</wit><wit>W</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>κορυθ-αίολος</rdg> <wit>S</wit><wit>M2</wit><wit>Ω</wit></app>.
+<app><lem n="W+">κορυθαιόλος</lem> <wit>A</wit><wit>G</wit><wit>J</wit><wit>T</wit><wit>W</wit></app>;
+<app><rdg n="W-"><note n="accdiff"/>κορυθ-αίολος</rdg> <wit>S</wit><wit>M2</wit><wit>Ω</wit></app>.
 </p>
 </note>
 
@@ -11437,19 +11478,18 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 <note n="444">
 
 <p>
-<app><lem n="NA">οὐδέ με θυμὸς</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>οὐδέ με Κc2</rdg> <wit>Ω</wit> <wit>Ar</wit></app>;
+<app><lem n="W+"><note n="tbd"/>οὐδέ με</lem> <wit>Kc2</wit> <wit>Ω</wit> <wit>Ar</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οὐδ' εμὲ</rdg> <wit>A1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οὐδ' έμὲ</rdg> <wit>A2</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>οὐδ' ἔμε</rdg> <wit>Pb</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>οὐδ' ἔμε</rdg> <wit>Pb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οὐδ' ἐμὲ</rdg> <wit>T</wit><wit>Qb</wit><wit>Kc1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὧδέ με</rdg> <wit>Bothe.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">ἄνωγεν</lem> <wit>Kc1</wit> <wit>Ω</wit></app>, cum γρ΄ <app><wit>Yc</wit></app>;
+<app><lem n="W+">ἄνωγεν</lem> <wit>Kc1</wit> <wit>Ω</wit></app>, cum γρ΄ <app><wit>Yc</wit></app>;
 <app><rdg n="NA"><note n="lostnu"/>ἄνω-γε</rdg> <wit>J</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἄνω-γει</rdg> <wit>O2</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἄνω-γει</rdg> <wit>O2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀνώγει</rdg> <wit>W</wit><wit>Px</wit><wit>Na</wit><wit>Ec</wit><wit>Kc2</wit><wit>Nb</wit><wit>Yc1</wit><wit>Pc</wit></app>.
 </p>
 
@@ -11526,8 +11566,8 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
  <note n="447">
 
 <p>
-<app><lem n="NA">γὰρ</lem> <wit>A</wit><wit>S</wit><wit>G</wit><wit>J2</wit><wit>T</wit><wit>W</wit><wit>C</wit><wit>Wb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μὲν</rdg> <wit>B</wit><wit>M</wit><wit>H</wit><wit>D</wit><wit>K</wit><wit>E</wit><wit>K</wit><wit>Px</wit><wit>Ub</wit><wit>Yb</wit> <wit>Hb</wit><wit>O</wit><wit>Qb</wit> <wit>X</wit><wit>Y</wit></app>;
+<app><lem n="W-">γὰρ</lem> <wit>A</wit><wit>S</wit><wit>G</wit><wit>J2</wit><wit>T</wit><wit>W</wit><wit>C</wit><wit>Wb</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>μὲν</rdg> <wit>B</wit><wit>M</wit><wit>H</wit><wit>D</wit><wit>K</wit><wit>E</wit><wit>K</wit><wit>Px</wit><wit>Ub</wit><wit>Yb</wit> <wit>Hb</wit><wit>O</wit><wit>Qb</wit> <wit>X</wit><wit>Y</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δ' ἄρ'</rdg></app> ci. <app><wit>Axt.</wit></app>
 </p>
 
@@ -11541,8 +11581,8 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">τόδε</lem> <wit>Ω</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τό γε</rdg> <wit>W</wit><wit>Q</wit></app>.
+<app><lem n="W+">τόδε</lem> <wit>Ω</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>τό γε</rdg> <wit>W</wit><wit>Q</wit></app>.
 </p>
 
 <p>
@@ -11679,6 +11719,7 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 
 <note n="453">
 
+   <p><app><lem n="W+">πέσοιεν</lem> <rdg n="W-">πέσωσιν</rdg> <wit>h59</wit></app></p>
 <p>
 <app><lem n="NA">ὑπ’</lem></app>;
 <app><rdg n="NA"><note n="equal"/>ὑπ’</rdg> <wit>Ω</wit></app>;
@@ -11698,8 +11739,11 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 
 <note n="454">
 
+<p><app><lem n="W">ὅσσον σεῦ, ὅτε</lem> <rdg n="W+">ὅσσον σεἰ' ὅτε</rdg> <wit>400</wit></app>
+<app><rdg n="W-">ως σεθεν οπποτε</rdg> <wit>h59</wit></app>
+</p>
 <p>
-<app><lem n="NA">ὕσσον</lem></app>;
+<app><lem n="NA">ὅσσον</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ὅσον</rdg> <wit>Pc</wit></app>.
 </p>
 
@@ -11738,7 +11782,7 @@ om. <app><wit>Px</wit><wit>Pc</wit></app>.
 <note n="456">
 
 <p>
-post 457 collocat <app><wit>P</wit></app>.
+   456 post 457 collocat <app><wit>P</wit></app>.
 </p></note>
 
 <note n="456">
@@ -11748,8 +11792,8 @@ post 457 collocat <app><wit>P</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">Ἄργει ἐοῦσα</lem></app>;
-<app><rdg n="NA"><note n="diacdiff"/>ἄργει ἐοῦσα</rdg> <wit>A</wit><wit>S</wit><wit>D</wit><wit>F</wit><wit>H2</wit><wit>W</wit><wit>Yb</wit><wit>Na1</wit></app>;
+<app><lem n="W+">Ἄργει ἐοῦσα</lem></app>;
+<app><rdg n="W-"><note n="diacdiff"/>ἄργει ἐοῦσα</rdg> <wit>A</wit><wit>S</wit><wit>D</wit><wit>F</wit><wit>H2</wit><wit>W</wit><wit>Yb</wit><wit>Na1</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄργ-ει ἰοῦσα</rdg> <wit>H1</wit><wit>J</wit><wit>Na2</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄργ-εϊ ἐοῦσα</rdg> <wit>Kb</wit><wit>Wb</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄργ-εϊ οὖσα</rdg> <wit>B</wit><wit>M</wit><wit>T</wit><wit>K</wit><wit>Px</wit><wit>P</wit><wit>Q</wit><wit>Qb</wit><wit>U</wit></app> (άργεϊ οὔσα <app><wit>Ar</wit></app>, expunct.);
@@ -11764,8 +11808,8 @@ post 457 collocat <app><wit>P</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἄλλης</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἄλλῃς</rdg> <wit>A</wit><wit>H</wit><wit>Nb</wit><wit>Xb</wit></app>;
+<app><lem n="W+">ἄλλης</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>ἄλλῃς</rdg> <wit>1068</wit> <wit>A</wit><wit>H</wit><wit>Nb</wit><wit>Xb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄλλ-αις</rdg> <wit>X</wit></app>.
 </p>
 
@@ -11800,7 +11844,9 @@ post 457 collocat <app><wit>P</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἢ</lem></app> om. <app><wit>Kb</wit></app>.
+<app><lem n="NA">ἢ</lem></app> 
+<app><rdg></rdg> <note>om.</note> <wit>Kb</wit></app>.
+<app><rdg>ἠ'</rdg> <wit>Fick</wit></app>.
 </p>
 </note>
 
@@ -11834,8 +11880,8 @@ post 457 collocat <app><wit>P</wit></app>.
 <note n="459">
 
 <p>
-<app><lem n="NA">καί ποτέ</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>καὶ τότε</rdg> <wit>H</wit></app>.
+<app><lem n="W+">καί ποτέ</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>καὶ τότε</rdg> <wit>H</wit></app>.
 </p>
 
 <p>
@@ -11959,9 +12005,10 @@ om. <app><wit>Zp</wit></app>, add. <app><wit>Z</wit></app>.
 <note n="464">
 
 <p>
-<app><lem n="NA">τεθνηῶτα</lem> <wit>D</wit><wit>H</wit><wit>Px</wit><wit>Ub</wit><wit>Na2</wit> <wit>P1</wit><wit>Pd</wit><wit>Pc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τεθνῃῶτα</rdg> <wit>A2</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τεθνειῶτα</rdg> <wit>A1</wit><wit>S</wit><wit>B2</wit> <wit>M</wit><wit>Ω</wit> <wit>Epigrammata ex lapidibus conlecta 698.1</wit></app>: https://archive.org/details/epigrammatagraec00kaibuoft/page/282/mode/2up, <app><wit>Eust.</wit></app>
+<app><lem n="W+">τεθνηῶτα</lem> <wit>D</wit><wit>H</wit><wit>Px</wit><wit>Ub</wit><wit>Na2</wit> <wit>P1</wit><wit>Pd</wit><wit>Pc</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>τεθνῃῶτα</rdg> <wit>A2</wit></app>;
+<app n="W"><rdg n="W-"><note n="tbd"/>τεθεωτα</rdg> <wit>400</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>τεθνειῶτα</rdg> <wit>A1</wit><wit>S</wit><wit>B2</wit> <wit>M</wit><wit>Ω</wit> <wit>Epigrammata ex lapidibus conlecta 698.1</wit></app>: https://archive.org/details/epigrammatagraec00kaibuoft/page/282/mode/2up, <app><wit>Eust.</wit></app>
 </p>
 
 <p>
@@ -11987,10 +12034,10 @@ om. <app><wit>Zp</wit></app>, add. <app><wit>Z</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">γέ τι</lem> <wit>Dionys. Sid.</wit> <wit>Alexio</wit> <wit>Heracleo</wit> <wit>Herodian II 57.35</wit> <wit>S</wit><wit>Ω</wit></app>;
+<app><lem n="W-">γέ τι</lem> <wit>Dionys. Sid.</wit> <wit>Alexio</wit> <wit>Heracleo</wit> <wit>Herodian II 57.35</wit> <wit>S</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>γε τι</rdg> <wit>A</wit><wit>Db</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γέ τοι</rdg> <wit>Px</wit><wit>Yb</wit><wit>Q</wit><wit>Kc</wit><wit>Pc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>γ' ἔτι</rdg> <wit>Ptolemaeus</wit> <wit>M</wit><wit>W</wit><wit>Na</wit><wit>O</wit><wit>P</wit><wit>Kb</wit><wit>X</wit><wit>Y</wit><wit>Z</wit> <wit>Eust.</wit></app>, vw;
+<app><rdg n="W+"><note n="tbd"/>γ' ἔτι</rdg> <wit>Ptolemaeus</wit> <wit>M</wit><wit>W</wit><wit>Na</wit><wit>O</wit><wit>P</wit><wit>Kb</wit><wit>X</wit><wit>Y</wit><wit>Z</wit> <wit>Eust.</wit></app>, vw;
 <app><rdg n="NA"><note n="tbd"/>δ' ἔτι</rdg></app> ed. <app><wit>Ald.</wit></app>2.
 </p>
 
@@ -12007,14 +12054,14 @@ om. <app><wit>Zp</wit></app>, add. <app><wit>Z</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">θ' ἐλκηθμοῖο</lem></app>;
+<app><lem n="NA">θ' ἑλκηθμοῖο</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>τε κλαυθμοῖο?</rdg> <wit>n</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐλκηθμοῖο</lem></app>;
+<app><lem n="W+">ἑλκηθμοῖο</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἑλκηθμοῖο</rdg> <wit>M2</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἑλκυ-θμοῖο</rdg> <wit>B2</wit><wit>M1</wit><wit>U</wit><wit>J</wit><wit>Yb</wit><wit>Hb</wit><wit>P</wit><wit>Q</wit><wit>Cb</wit><wit>Ob</wit> <wit>X</wit> <wit>X5</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἑλκυ-θμοῖο</rdg> <wit>B2</wit><wit>M1</wit><wit>U</wit><wit>J</wit><wit>Yb</wit><wit>Hb</wit><wit>P</wit><wit>Q</wit><wit>Cb</wit><wit>Ob</wit> <wit>X</wit> <wit>X5</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐλκυ-θμοῖο</rdg> <wit>G</wit><wit>P</wit></app>.
 </p>
 </note>
@@ -12036,10 +12083,10 @@ om. <app><wit>Zp</wit></app>, add. <app><wit>Z</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">δ' ὁ</lem> <wit>O2</wit> <wit>Ω</wit> <wit>Plut. vita Hom. II 72</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+">δ' ὁ</lem> <wit>O2</wit> <wit>Ω</wit> <wit>Plut. vita Hom. II 72</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δἐ ὁ</rdg> <wit>Pb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὁ</rdg> <wit>O1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>δὲ?</rdg> <wit>n</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>δὲ?</rdg> <wit>n</wit></app>.
 </p>
 
 <p>
@@ -12096,15 +12143,17 @@ post 470 collocat <app><wit>Wb</wit></app>.
 </note>
 
 <note n="470">
-
 <p>
-<app><lem n="NA">κόρυθος</lem></app>;
+   <app n="W"><lem>ἀπ'</lem> <rdg n="W-">ἐπ'</rdg> <wit>1071?</wit> <wit>F</wit></app>
+</p>
+<p>
+<app><lem n="NA">ἀκροτάτης</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἄκρας</rdg> <wit>Themistius or. IX 121b</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κόρυθος</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>κορυφῆς</rdg> <wit>H</wit><wit>Qb</wit> <wit>Themistius</wit></app>
+<app><lem n="W+">κόρυθος</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>κορυφῆς</rdg> <wit>H</wit><wit>Qb</wit> <wit>Themistius</wit></app>
 </p>
 </note>
 
@@ -12116,9 +12165,9 @@ post 470 collocat <app><wit>Wb</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">δ' ἐγέλασσε</lem> <wit>Kc2</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐγέλ-ασε</rdg> <wit>Db</wit><wit>D</wit><wit>G</wit><wit>H</wit><wit>J</wit><wit>W</wit><wit>Ub</wit><wit>Yb</wit><wit>L</wit><wit>Kc1</wit></app>;
-<app><rdg n="NA"><note n="addedaugment1"/>δὲ γέλασσε</rdg> <wit>B2</wit><wit>Na</wit><wit>Qb</wit><wit>Wb</wit></app>.
+<app><lem n="W+">δ' ἐγέλασσε</lem> <wit>Kc2</wit> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>δ' ἐγέλ-ασε</rdg> <wit>Db</wit><wit>D</wit><wit>G</wit><wit>H</wit><wit>J</wit><wit>W</wit><wit>Ub</wit><wit>Yb</wit><wit>L</wit><wit>Kc1</wit></app>;
+<app><rdg n="W-"><note n="addedaugment1"/>δὲ γέλασσε</rdg> <wit>B2</wit><wit>Na</wit><wit>Qb</wit><wit>Wb</wit></app>.
 </p>
 
 <p>
@@ -12159,9 +12208,11 @@ post 470 collocat <app><wit>Wb</wit></app>.
 <note n="474">
 
 <p>
-<app><lem n="NA">ὅ γ'</lem> <wit>Ω</wit> <wit>Hesychius</wit> <wit>s</wit></app>. ὅν, <app><wit>Apoll. pronom. 47.32</wit></app>;
+<app><lem n="W+">ὅ γ'</lem> <wit>1071</wit> <wit>Ω</wit> <wit>Hesychius</wit> <wit>s</wit></app>. 
+
+<app><rdg n="NA">ὅν</rdg> <wit>Apoll. pronom. 47.32</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὅ γε</rdg> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ὃ</rdg> <wit>Na1</wit> <wit>Bentley.</wit></app>
+<app><rdg n="W-"><note n="tbd"/>ὃ</rdg> <wit>Na1</wit> <wit>Bentley.</wit></app>
 </p>
 
 <p>
@@ -12206,8 +12257,8 @@ post 470 collocat <app><wit>Wb</wit></app>.
 <note n="475">
 
 <p>
-<app><lem n="NA">εἶπεν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>εἶ-πε δ'</rdg> <wit>Aristarchus</wit></app>;
+<app><lem n="W+">εἶπεν</lem> <wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>εἶ-πε δ'</rdg> <wit>Aristarchus</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἶ-πε τ'</rdg> <wit>Nb</wit><wit>Wb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εἴπετ' Εc.</rdg></app>
 </p>
@@ -12242,7 +12293,7 @@ post 470 collocat <app><wit>Wb</wit></app>.
 <note n="476">
 
 <p>
-<app><lem n="NA">ἄλλοί τε</lem> <wit>A</wit><wit>Kb</wit><wit>Kc</wit></app>;
+<app><lem n="W+">ἄλλοί τε</lem> <wit>A</wit><wit>Kb</wit><wit>Kc</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ἄλλ-οι τε</rdg> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ἄλλ-οι τὲ</rdg> <wit>Nb</wit><wit>Pb</wit></app>.
 </p>
@@ -12265,7 +12316,8 @@ post 470 collocat <app><wit>Wb</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἀριπρεπέα</lem> <wit>A</wit></app> (ἔνι ss. <app><wit>Ai</wit></app>);
+   <app><lem n="W+">ἀριπρεπέα</lem> <wit>A</wit></app> ;
+   <app><lem n="W-">ἐνιπρεπέα</lem> <wit>A</wit> <note>ἐνι ss.</note> <wit>Ai</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀριπρέα</rdg> <wit>Kb</wit></app>.
 </p>
 
@@ -12288,17 +12340,13 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">βίην τ'</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>βίην τ᾿</rdg> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>Ω</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>βίην</rdg> <wit>D</wit><wit>G</wit><wit>J</wit><wit>T</wit><wit>Ub</wit><wit>L</wit> <wit>O</wit><wit>Pb</wit><wit>X</wit><wit>Yc</wit> <wit>Ar</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>βοήν τ'</rdg> <wit>W1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>βο-ήν</rdg> <wit>Wb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>βο-ὴν</rdg> <wit>S</wit></app>.
-</p>
+<app><lem n="W+">βίην τ' ἀγαθὸν</lem> <wit>Aristarchus</wit> <wit>Ω</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>βίην ἀγαθὸν</rdg> <wit>D</wit><wit>G</wit><wit>J</wit><wit>T</wit><wit>Ub</wit><wit>L</wit> <wit>O</wit><wit>Pb</wit><wit>X</wit><wit>Yc</wit> <wit>Ar</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>βοήν τ' ἀγαθὸν</rdg> <wit>W1</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>βο-ήν ἀγαθὸν</rdg> <wit>Wb</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>βο-ὴν ἀγαθὸν</rdg> <wit>S</wit></app>.
 
-<p>
-<app><lem n="NA">ὧδε βίην τ' ἀγαθὸν</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>ἄλλοι "βίην ἀγαθόν τε"</rdg> <wit>Did.</wit></app>
+<app><rdg n="W-"><note n="tbd"/>βίην ἀγαθόν τε</rdg> <note>ἄλλοι "βίην ἀγαθόν τε"</note> <wit>Did.</wit></app>
 </p>
 
 <p>
@@ -12307,9 +12355,9 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">Ἰλίου</lem></app>;
+<app><lem n="W+">Ἰλίου</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>λαοῦ</rdg></app> vel λα-ῶν <app><wit>Bentley</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ϝαστεϊ:</rdg> <wit>Brandreth.</wit></app>
+<app><rdg n="W-"><note n="tbd"/>ϝαστεϊ:</rdg> <wit>Brandreth.</wit></app>
 </p>
 
 <p>
@@ -12318,7 +12366,7 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 </note>
 
-<note n="479">
+<note n="479—481">
 
 <p>
 479—481 damn. <app><wit>La Roche.</wit></app>
@@ -12332,28 +12380,30 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">εἴπῃσι</lem> <wit>A1</wit><wit>S</wit><wit>Ub1</wit><wit>P3</wit><wit>Ω</wit> <wit>Eust.</wit></app> (v. <app><wit>Aristarchs homerische textkritik II 351</wit></app>);
-<app><rdg n="NA"><note n="tbd"/>εἴ-πῃ</rdg> <wit>W</wit><wit>Hb</wit><wit>P1</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit> <wit>Heyne</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>εἴ-ποι</rdg> <note>(<app><wit>Ai</wit></app>, expunct.)</note> <wit>B</wit><wit>M</wit><wit>K</wit><wit>Ub2</wit><wit>Yb</wit><wit>Ec</wit> <wit>Nicanor</wit></app> <bibl n="tlg0012.tlg001:13.352">Ν-352</bibl>.
+<app><lem n="W-">εἴπῃσι</lem> <wit>A1</wit><wit>S</wit><wit>Ub1</wit><wit>P3</wit><wit>Ω</wit> <wit>Eust.</wit></app> (v. <app><wit>Aristarchs homerische textkritik II 351</wit></app>);
+<app><rdg n="W-"><note n="tbd"/>εἴ-πῃ</rdg> <wit>W</wit><wit>Hb</wit><wit>P1</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit> <wit>Heyne</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>εἴ-ποι</rdg> <note>(<app><wit>Ai</wit></app>, expunct.)</note> <wit>B</wit><wit>M</wit><wit>K</wit><wit>Ub2</wit><wit>Yb</wit><wit>Ec</wit> <wit>Nicanor</wit></app> <bibl n="tlg0012.tlg001:13.352">Ν-352</bibl>.
 </p>
 
 <p>
-<app><lem n="NA">ποτέ τις εἴπῃσι 'πατρός</lem></app>;
+<app><lem n="NA">πατρός γ᾽ ὅδε πολλὸν</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>πολλὸν δ' ὅγε πατρὸς</rdg> <wit>Senec. controv. X 2 (31), 18</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">γ' ὅδε</lem> <wit>Aristarchus</wit> <wit>Ec</wit></app>;
+<app><lem n="W+">γ' ὅδε</lem> <wit>Aristarchus</wit> <wit>Ec</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γ' ὅγε</rdg> <wit>W</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ὅγε</rdg> <wit>Yg</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>δ' ὅγε</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Nicanor</wit> <wit>Themistius or. XVIII 225b</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:3.42">Γ-42</bibl>, <app><wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>δ' ἕγε Κ2, δ' ὅδε</rdg> <wit>Anon. in Rhet. gr. VIII 663.2</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>δ' ὅγε</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>Ω</wit> <wit>Nicanor</wit> <wit>Themistius or. XVIII 225b</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:3.42">Γ-42</bibl>, <app><wit>Eust.</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>δ' ἕγε</rdg> <wit>K2</wit></app>; 
+<app><rdg n="W-"><note n="tbd"/>δ' ὅδε</rdg> <wit>Anon. in Rhet. gr. VIII 663.2</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἀμείνων’</lem></app>;
+<app><lem n="W+">ἀμείνων</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀμείνω</rdg> <wit>Nicanor</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἀρείων</rdg> <wit>Themistius</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit></app>.
+<app n="W"><rdg n="NA"><note n="tbd"/>αμειων</rdg> <wit>1071.3</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἀρείων</rdg> <wit>Themistius</wit> <wit>Anon. in Rhet. gr. VIII 663.2</wit></app>.
 </p>
 </note>
 
@@ -12464,15 +12514,15 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ἐλέησε</lem> <wit>A</wit><wit>B</wit><wit>M</wit><wit>H</wit><wit>W</wit><wit>K</wit><wit>X</wit><wit>Y</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐλ-έαιρε</rdg> <wit>S</wit><wit>D</wit><wit>G</wit><wit>Ω</wit></app>.
+<app><lem n="W+">ἐλέησε</lem> <wit>A</wit><wit>B</wit><wit>M</wit><wit>H</wit><wit>W</wit><wit>K</wit><wit>X</wit><wit>Y</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ἐλ-έαιρε</rdg> <wit>S</wit><wit>D</wit><wit>G</wit><wit>Ω</wit></app>.
 </p>
 </note>
 
 <note n="485">
 
 <p>
-<app><lem n="NA">τέ μιν κατέρεξεν ἔπος τ' ἔφατ' ἔκ τ'</lem></app>;
+<app><lem n="NA">χειρί τέ μιν κατέρεξεν ἔπος τ᾽</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἔν τ' ἄρα οἱ φῦ χειρὶ ἕπος τ'</rdg> <wit>H</wit></app>.
 </p>
 
@@ -12493,8 +12543,9 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">τέ</lem></app>;
+<app><lem n="W+">τέ</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>τ᾿</rdg></app> om. <app><wit>X</wit></app>.
+<app n="W"><rdg n="W-"><note n="tbd"/>δε</rdg> <wit>400</wit></app>.
 </p>
 
 <p>
@@ -12568,7 +12619,7 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">προϊάψει</lem></app>;
+<app><lem n="W+">προϊάψει</lem></app>;
 <app><rdg n="NA"><note n="addednu"/>προϊάψειν</rdg> <wit>W1</wit></app>.
 </p>
 </note>
@@ -12586,8 +12637,8 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">πεφυγμένον</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>πεφευγμένον</rdg> <wit>Apoll. Soph. 118.12</wit></app>, c.
+<app><lem n="W+">πεφυγμένον</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>πεφευγμένον</rdg> <wit>Apoll. Soph. 118.12</wit></app>, c.
 </p>
 </note>
 
@@ -12622,8 +12673,8 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">τὰ πρῶτα</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>τινὲς "πρωτὰ"</rdg> <wit>Herodian II 58.3</wit> <wit>An. Ox. I 340.10</wit></app>.
+<app><lem n="W+">τὰ πρῶτα</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>πρωτὰ</rdg> <note>τινὲς "πρωτὰ"</note> <wit>Herodian II 58.3</wit> <wit>An. Ox. I 340.10</wit></app>.
 </p></note>
 
 <note n="490—493">
@@ -12642,8 +12693,8 @@ om. it., add. im. <app><wit>Db</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">τὰ σ' αὐτῆς</lem> <wit>S</wit> <wit>b</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>τὰ σαυ-τῆς</rdg> <wit>Ω</wit> <wit>sch. Soph.</wit> <wit>Ai</wit></app>. 292, <app><wit>Moschopoulos in Batrachomyomachia 4</wit> <wit>Etymologicum Magnum 370.10</wit> <wit>Zonaras</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+">τὰ σ' αὐτῆς</lem> <wit>S</wit> <wit>b</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>τὰ σαυ-τῆς</rdg> <wit>Ω</wit> <wit>sch. Soph.</wit> <wit>Ai</wit></app>. 292, <app><wit>Moschopoulos in Batrachomyomachia 4</wit> <wit>Etymologicum Magnum 370.10</wit> <wit>Zonaras</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τὰ, σαυ-τῆς</rdg> <wit>A</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>τέ' αὐ-τῆς</rdg> <wit>n</wit></app>.
 </p>
@@ -12703,8 +12754,8 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">πᾶσιν, ἐμοὶ δὲ μάλιστα</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>πᾶσι, μάλιστα δ' ἐμοί</rdg> <wit>Epictet. diss. III 22.108</wit> <wit>Hoffmann</wit> <note>(coll. <bibl n="tlg0012.tlg002:1.359">α-359</bibl>. <bibl n="tlg0012.tlg002:11.353">λ-353</bibl>. <bibl n="tlg0012.tlg002:21.353">φ-353</bibl>)</note> <wit>b2</wit> <wit>n</wit></app>.
+<app><lem n="W-">πᾶσιν, ἐμοὶ δὲ μάλιστα</lem></app>;
+<app><rdg n="NA"><note n="W+"/>πᾶσι, μάλιστα δ' ἐμοί</rdg> <wit>Epictet. diss. III 22.108</wit> <wit>Hoffmann</wit> <note>(coll. <bibl n="tlg0012.tlg002:1.359">α-359</bibl>. <bibl n="tlg0012.tlg002:11.353">λ-353</bibl>. <bibl n="tlg0012.tlg002:21.353">φ-353</bibl>)</note> <wit>b2</wit> <wit>n</wit></app>.
 </p>
 
 <p>
@@ -12753,6 +12804,10 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 <app><lem n="NA">Ἕκτωρ</lem></app>;
 <app><rdg n="NA"><note n="diacdiff"/>ἔκτωρ</rdg> <wit>Yb</wit></app>.
 </p>
+
+<p>
+   <app n="W"><lem n="W+">φαίδιμος Ἕκτωρ</lem> <rdg n="W-">χε[ιρι παχειηι?</rdg> <wit>21</wit></app>
+</p>
 </note>
 
 <note n="495">
@@ -12768,8 +12823,8 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">οἶκον δὲ βεβήκει</lem> <wit>A</wit><wit>S</wit><wit>Pb</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>οἶκονδε βεβήκει</rdg> <wit>M</wit><wit>J</wit><wit>Ω</wit></app>;
+<app><lem n="W-">οἶκον δὲ βεβήκει</lem> <wit>A</wit><wit>S</wit><wit>Pb</wit></app>;
+<app><rdg n="W+"><note n="tbd"/>οἶκονδε βεβήκει</rdg> <wit>M</wit><wit>J</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>οἴκονδε βεβήκει</rdg> <wit>Hb</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="lostaugment1"/>οἶκον δ' ἐβεβήκει</rdg> <wit>G</wit><wit>H</wit><wit>O</wit><wit>Q</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ϝοικόνδε βεβήκειν</rdg> <wit>b2</wit></app>.
@@ -12861,7 +12916,7 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 
 <p>
 <app><lem n="NA">πάσῃσιν</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>πάσ.</rdg></app> usque ad γόο<bibl n="tlg0012.tlg002:13.500">ν-500</bibl> om. <app><wit>Na1</wit></app> (500 add. im.)
+<app><rdg n="NA"><note n="tbd"/>πάσ.</rdg> <note>usque ad γόον om.</note> <wit>Na1</wit> <note>(500 add. im.)</note></app>
 </p>
 
 <p>
@@ -12997,9 +13052,9 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ποικίλα χαλκῷ</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>Ω</wit> <wit>Eust.</wit></app>;
+<app><lem n="W+">ποικίλα χαλκῷ</lem> <wit>A</wit><wit>S</wit><wit>B</wit><wit>Ω</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ποικίλλα χαλκῷ</rdg> <wit>Uc</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>παμφανόωντα</rdg> <wit>O</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>παμφανόωντα</rdg> <wit>O</wit></app>.
 </p>
 </note>
 
@@ -13046,13 +13101,14 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">στατὸς ἵππος, ἀκοστήσας ἐπὶ φάτνῃ</lem></app>;
-<app><rdg n="NA"><note n="tbd"/>οἱ δὲ "ἀγοστήσας", ὁ ῥυπανθείς</rdg> <wit>sch. A</wit></app> (<app><wit>sch. T</wit></app>), αὖ τινὲς ap. <app><wit>Eust.</wit></app>
+<app><lem n="W+">ἀκοστήσας</lem></app>;
+<app><rdg n="W-"><note n="tbd"/>ἀγοστήσας</rdg> <note>οἱ δὲ "ἀγοστήσας", ὁ ῥυπανθείς</note> <wit>sch. A</wit> <wit>sch. T</wit> <note>αὖ τινὲς ap.</note> <wit>Eust.</wit></app>
 </p>
 
 <p>
-<app><lem n="NA">φάτνῃ</lem> <wit>Ω</wit> <wit>Plut. vita Hom. II 87</wit> <wit>Macrob. VI 3.7</wit> <wit>Eust.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>φάτνης</rdg> <wit>Etymologicum Magnum 51.10</wit></app>.
+<app><lem n="W+">φάτνῃ</lem> <wit>Ω</wit> <wit>Plut. vita Hom. II 87</wit> <wit>Macrob. VI 3.7</wit> <wit>Eust.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>φάτνης</rdg> <wit>Etymologicum Magnum 51.10</wit></app>.
+<app n="W"><rdg n="W-">φάτνην</rdg> <wit>Cosmas</wit></app>
 </p>
 </note>
 
@@ -13081,13 +13137,13 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 <note n="508">
 
 <p>
-<app><lem n="NA">λούεσθαι</lem></app>;
+<app><lem n="W+">λούεσθαι</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>λόϝϝεσθαι</rdg> <wit>Gent</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>λοεεσθαι</rdg> <wit>Brandreth</wit></app> (<app><wit>n</wit></app>)
+<app><rdg n="W-"><note n="tbd"/>λοεεσθαι</rdg> <wit>Brandreth</wit></app> (<app><wit>n</wit></app>)
 </p>
 
 <p>
-<app><lem n="NA">ἐυρρεῖος</lem></app>;
+<app><lem n="W+">ἐυρρεῖος</lem></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐϋρρεῖος</rdg> <wit>Kc1</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="diacdiff"/>εὐρρεῖος</rdg> <wit>T</wit><wit>Yb</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐπ' ἐυρρεῖος</rdg> <wit>W</wit></app>;
@@ -13096,7 +13152,7 @@ damn. <app><wit>Heyne</wit> <wit>k</wit></app>.
 <app><rdg n="NA"><note n="tbd"/>ἐϋρρῆος</rdg> <wit>Nb</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐϋρῆος</rdg> <wit>Pc</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>εὐρῆος</rdg> <wit>Ub</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐυρρεέος</rdg> <wit>n</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ἐυρρεέος</rdg> <wit>n</wit></app>.
 </p>
 </note>
 
@@ -13163,13 +13219,13 @@ om. it., add. im. <app><wit>B</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ῥίμφά ἑ</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>A</wit><wit>S</wit><wit>Q</wit></app>;
+<app><lem n="W+">ῥίμφά ἑ</lem> <note>(<app><wit>Aristarchus</wit></app>)</note> <wit>A</wit><wit>S</wit><wit>Q</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ῥίμφά ε</rdg> <wit>T</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ῥίμφα ἑ</rdg> <wit>G</wit><wit>K</wit><wit>Na</wit> <wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>ῥίμφα ἓ</rdg> <wit>P</wit><wit>X</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ῥίμφα δ' ἑ</rdg> <wit>L</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ῥίμφαε</rdg> <wit>Posidon.</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ῥίμφ' ἑὰ</rdg> <wit>Zenodotus</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ῥίμφαε</rdg> <wit>Posidon.</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>ῥίμφ' ἑὰ</rdg> <wit>Zenodotus</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>γρ΄ "ῥίμφα ἃ"</rdg> <wit>v</wit></app>.
 </p>
 
@@ -13189,9 +13245,9 @@ om. it., add. im. <app><wit>B</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">μετά τ'</lem> <wit>Ω</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:13.270">Ν-270</bibl> et <bibl n="tlg0012.tlg001:14.167">Ξ-167</bibl>, <app><wit>Eust.</wit></app>;
+<app><lem n="W+">μετά τ'</lem> <wit>Ω</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:13.270">Ν-270</bibl> et <bibl n="tlg0012.tlg001:14.167">Ξ-167</bibl>, <app><wit>Eust.</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>μετὰ τ'</rdg> <wit>Ub</wit><wit>O</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μετὰ</rdg> <wit>Heyne</wit> <wit>b2</wit> <wit>n</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>μετὰ</rdg> <wit>Heyne</wit> <wit>b2</wit> <wit>n</wit></app>.
 </p>
 </note>
 
@@ -13281,11 +13337,15 @@ om. it., add. im. <app><wit>B</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">ὀάριζε</lem> <wit>Ω</wit> <wit>Etymologicum Magnum 612.47</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ὁ ἄριζε ΚcΥ, ὀάριξε</rdg> <wit>O</wit></app>.
+<app><lem n="W+">ὀάριζε</lem> <wit>Ω</wit> <wit>Etymologicum Magnum 612.47</wit></app>;
+<app><rdg n="NA"><note n="tbd"/>ὁ ἄριζε</rdg> <wit>Kc</wit><wit>Y</wit></app>;
+   <app><rdg n="W-"><note n="tbd"/>ὀάριξε</rdg> <wit>O</wit></app>.
 </p>
 </note>
+<note n="518">
 
+   <p>West: Sch. AbT W reads this as a question.</p>
+   </note>
 <note n="518">
 
 <p>
@@ -13346,8 +13406,8 @@ om. it., add. im. <app><wit>B</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">κορυθαιόλος</lem></app>;
-<app><rdg n="NA"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit> <wit>O2</wit><wit>X</wit></app>; om. <app><wit>O1</wit></app>.
+<app><lem n="W+">κορυθαιόλος</lem></app>;
+<app><rdg n="W-"><note n="accdiff"/>κορυθαίολος</rdg> <wit>A</wit> <wit>O2</wit><wit>X</wit></app>; om. <app><wit>O1</wit></app>.
 </p>
 </note>
 
@@ -13417,17 +13477,20 @@ om. it., add. im. <app><wit>B</wit></app>.
 <note n="523">
 
 <p>
+   <app n="W"><lem n="W+">ἀλλὰ ἑκὼν</lem> <rdg n="W-"></rdg> <wit>21</wit></app>
+</p>
+<p>
 <app><lem n="NA">ἀλλὰ</lem> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀλλ'</rdg> <wit>S</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἀλλὰ καὶ</rdg> <wit>Ub</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">μεθιεῖς</lem> <wit>Heyne</wit> <wit>b1</wit> <wit>n</wit></app>;
+<app><lem n="W-">μεθιεῖς</lem> <wit>Heyne</wit> <wit>b1</wit> <wit>n</wit></app>;
 <app><rdg n="NA"><note n="accdiff"/>μεθ-ίεῖς</rdg> <wit>W</wit></app>;
-<app><rdg n="NA"><note n="accdiff"/>μεθ-ίεις</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>L2</wit><wit>Ω</wit> <wit>Bekker, Anecdota Graeca</wit> <wit>Eust.</wit></app>, vw;
-<app><rdg n="NA"><note n="tbd"/>μεθ-ίης</rdg> <wit>Px</wit><wit>Ub</wit> <wit>Yb</wit><wit>L1</wit><wit>Hb</wit><wit>Ec</wit> <wit>Wb</wit> <wit>b2</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>μεθ-είης</rdg> <wit>U</wit><wit>Y</wit></app>.
+<app><rdg n="W+"><note n="accdiff"/>μεθ-ίεις</rdg> <wit>A</wit><wit>S</wit><wit>B</wit><wit>M</wit><wit>L2</wit><wit>Ω</wit> <wit>Bekker, Anecdota Graeca</wit> <wit>Eust.</wit></app>, vw;
+<app><rdg n="W-"><note n="tbd"/>μεθ-ίης</rdg> <wit>Px</wit><wit>Ub</wit> <wit>Yb</wit><wit>L1</wit><wit>Hb</wit><wit>Ec</wit> <wit>Wb</wit> <wit>b2</wit></app>;
+<app><rdg n="W-"><note n="tbd"/>μεθ-είης</rdg> <wit>U</wit><wit>Y</wit></app>.
 </p>
 
 <p>
@@ -13516,8 +13579,9 @@ om. it., add. im. <app><wit>B</wit></app>.
 <note n="527">
 
 <p>
-<app><lem n="NA">δώῃ</lem> <note>(δώ-η)</note> <wit>Ω</wit></app>;
+<app><lem n="W+">δώῃ</lem> <note>(δώ-η)</note> <wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δώιηι</rdg> <wit>A</wit><wit>S</wit></app>;
+<app n="W"><rdg n="W-">δοιη</rdg> <wit>328</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>δῴη</rdg> <wit>B</wit><wit>F</wit><wit>T</wit><wit>W</wit><wit>Na</wit> <wit>Zonaras lexikon 590</wit></app>.
 </p>
 
@@ -13548,9 +13612,9 @@ om. it., add. im. <app><wit>B</wit></app>.
 </p>
 
 <p>
-<app><lem n="NA">στήσασθαι</lem> <wit>S2</wit> <wit>Kc1</wit><wit>Ω</wit> <wit>Hesychius</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:9.202">Ι-202</bibl>;
+<app><lem n="W+">στήσασθαι</lem> <wit>S2</wit> <wit>Kc1</wit><wit>Ω</wit> <wit>Hesychius</wit> <wit>sch. T</wit></app> <bibl n="tlg0012.tlg001:9.202">Ι-202</bibl>;
 <app><rdg n="NA"><note n="tbd"/>στή-σασθ'</rdg> <wit>X1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>στή-σεσθαι</rdg> <wit>S1</wit><wit>D</wit><wit>H</wit><wit>Px</wit><wit>Ub</wit><wit>O</wit><wit>Pd</wit><wit>Y</wit><wit>Yc</wit><wit>Pc</wit> <wit>Etymologicum Magnum 329.52</wit> <wit>Eust.</wit></app>, ed. <app><wit>Ald.</wit></app>2
+<app><rdg n="W-"><note n="tbd"/>στή-σεσθαι</rdg> <wit>S1</wit><wit>D</wit><wit>H</wit><wit>Px</wit><wit>Ub</wit><wit>O</wit><wit>Pd</wit><wit>Y</wit><wit>Yc</wit><wit>Pc</wit> <wit>Etymologicum Magnum 329.52</wit> <wit>Eust.</wit></app>, ed. <app><wit>Ald.</wit></app>2
 </p>
 
 <p>
@@ -13562,10 +13626,10 @@ om. it., add. im. <app><wit>B</wit></app>.
 <note n="529">
 
 <p>
-<app><lem n="NA">ἐλάσαντας</lem> <wit>S3</wit> <wit>Yc2</wit><wit>Ω</wit></app>;
+<app><lem n="W+">ἐλάσαντας</lem> <wit>S3</wit> <wit>Yc2</wit><wit>Ω</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐλά-σαντες</rdg> <wit>Yc1</wit> <wit>v</wit></app>;
 <app><rdg n="NA"><note n="tbd"/>ἐλά-σαν</rdg> <wit>S1</wit></app>;
-<app><rdg n="NA"><note n="tbd"/>ἐλά-σασιν</rdg> <wit>X</wit></app>.
+<app><rdg n="W-"><note n="tbd"/>ἐλά-σασιν</rdg> <wit>X</wit></app>.
 </p>
 
 <p>
