@@ -1,0 +1,784 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Homeric Greek Cross-Reference Browser</title>
+    <style>
+        /* --- Main Page Layout --- */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 10px;
+            background-color: #f4f4f4;
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            box-sizing: border-box;
+        }
+
+        h1 {
+            text-align: center;
+            color: #444;
+            margin: 5px 0 15px 0;
+            flex-shrink: 0;
+        }
+
+        #browser-container {
+            display: flex;
+            flex-grow: 1;
+            gap: 15px;
+        }
+
+        .frame {
+            flex: 1;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            background-color: #fff;
+        }
+        
+        .status-pane {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+
+        .progress-bar-container {
+            width: 80%;
+            height: 20px;
+            background-color: #e0e0e0;
+            border-radius: 10px;
+            overflow: hidden;
+            margin-top: 15px;
+        }
+
+        .progress-bar {
+            width: 0%;
+            height: 100%;
+            background-color: #007bff;
+            transition: width 0.1s ease-out;
+        }
+        
+        .loading-message {
+            color: #888;
+            font-style: italic;
+            font-size: 1.1em;
+        }
+        
+        /* --- Styles for the content INSIDE the iframes --- */
+        .content-style {
+            font-family: Georgia, serif;
+            line-height: 1.6;
+            color: #333;
+            padding: 20px;
+        }
+        
+        .content-style p, .content-style li {
+            text-align: justify;
+        }
+        
+        .content-style h2, .content-style h4 {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #005a9c;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 5px;
+        }
+
+        .content-style .tooltip {
+            position: relative;
+            display: inline-block;
+            cursor: pointer;
+            color: #0066cc;
+            font-weight: bold;
+        }
+
+        .content-style .tooltip .tooltip-text {
+            visibility: hidden;
+            width: 280px;
+            background-color: #333;
+            color: #fff;
+            text-align: left;
+            font-weight: normal;
+            font-family: sans-serif;
+            font-size: 14px;
+            border-radius: 6px;
+            padding: 10px;
+            position: absolute;
+            z-index: 1;
+            bottom: 125%;
+            left: 50%;
+            margin-left: -140px;
+            opacity: 0;
+            transition: opacity 0.3s;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+        }
+
+        .content-style .tooltip:hover .tooltip-text {
+            visibility: visible;
+            opacity: 1;
+        }
+        
+        .content-style .line-number {
+            display: inline-block;
+            width: 30px;
+            color: #999;
+            font-style: italic;
+            margin-right: 10px;
+        }
+        
+        .content-style .poetry-line {
+            display: block;
+            margin-left: 30px;
+        }
+
+        .content-style .page-break {
+            display: block;
+            text-align: center;
+            color: #888;
+            margin: 15px 0;
+            font-style: italic;
+        }
+        
+        .content-style .highlight {
+            background-color: #ffd700; /* Gold */
+            transition: background-color 0.3s ease-in-out;
+        }
+    </style>
+
+    <script type="javascript/worker" id="worker-script">
+ // This function runs inside the Web Worker
+        function renderNodeToHtml(node) {
+            // First, check if the node is a simple text node. If it is, return its content and stop.
+            if (node.isTextNode) {
+                return node.textContent;
+            }
+            // If it's not a text node, it must be an element with children.
+            if (!node || !node.children) return "";
+
+            const { tagName, attributes, children } = node;
+            
+            let content = children.map(child => renderNodeToHtml(child)).join('');
+
+            let idAttr = "";
+            if (attributes['xml:id']) {
+                idAttr = ` id="${attributes['xml:id']}"`;
+            } else if (attributes['n'] && (tagName === 'div' || tagName === 'p' || tagName === 'paragraph' || tagName === 'lesson')) {
+                idAttr = ` id="n${attributes['n']}"`;
+            }
+
+            const n_attr = attributes['n'];
+            if (n_attr) {
+                if (tagName === 'l') {
+                    content = `<span class="line-number">${n_attr}</span> ${content}`;
+                } else if (tagName !== 'pb') {
+                     content = `<b class="item-number">${n_attr}.</b> ${content}`;
+                }
+            }
+
+            switch (tagName) {
+                case 'p': case 'paragraph': return `<p${idAttr}>${content}</p>`;
+                case 'head': return `<h4${idAttr}>${content}</h4>`;
+                case 'table': return `<table class="data-table"${idAttr}>${content}</table>`;
+                case 'tbody': return `<tbody${idAttr}>${content}</tbody>`;
+                case 'row': return `<tr${idAttr}>${content}</tr>`;
+                case 'cell':
+                    let colspan = attributes['colspan'] ? ` colspan="${attributes['colspan']}"` : '';
+                    let cell_tag = attributes.isHeader ? 'th' : 'td';
+                    return `<${cell_tag}${idAttr}${colspan}>${content}</${cell_tag}>`;
+                case 'list': return `<ul class="simple-list"${idAttr}>${content}</ul>`;
+                case 'item': return `<li${idAttr}>${content}</li>`;
+                case 'note':
+                    const note_marker = attributes['n'] || '*';
+                    return `<span class="tooltip"><sup class="tooltip-marker">[${note_marker}]</sup><span class="tooltip-text">${content}</span></span>`;
+                case 'lg': return `<div class="poetry-group"${idAttr}>${content}</div>`;
+                case 'l': return `<span class="poetry-line"${idAttr}>${content}</span>`;
+                case 'foreign':
+                    const lang = attributes['xml:lang'];
+                    const cssClass = lang === 'grc' ? ' class="greek"' : '';
+                    return `<i${cssClass}>${content}</i>`;
+                case 'ref':
+                    let target = attributes["target"] || "#";
+                     if (/^\d+(-\d+)?$/.test(content.trim())) { target = `#n${content.trim()}`; }
+                    else if (/^[ivxlcdm]+$/i.test(content.trim())) { target = `#p.${content.trim()}`; }
+                    else if (target && target.startsWith('#')) { /* Keep internal links */ }
+                    else {
+                         const pageId = `p.${target}`;
+                         if (attributes.pageExists) {
+                             target = `#${pageId}`;
+                         }
+                    }
+                    return `<a href="${target}" class="reference">${content}</a>`;
+                case 'title': return `<em>${content}</em>`;
+                case 'lb': return '<br/>';
+                case 'pb':
+                    const page_n = attributes['n'];
+                    return page_n ? `<span class="page-break" id="p.${page_n}">[pg. ${page_n}]</span>` : '';
+                case 'div': case 'front': case 'body': case 'cit': case 'quote':
+                case 'lesson': case 'figure': case 'figDesc':
+                    return `<div${idAttr}>${content}</div>`;
+                // Tags to ignore but still process their children
+                case 'teiHeader': case 'fileDesc': case 'titleStmt': case 'publicationStmt':
+                case 'sourceDesc': case 'bibl': case 'text': case 'author': case 'publisher':
+                case 'pubPlace': case 'date': case 'label':
+                    return content;
+                default: return content;
+            }
+        }
+
+        self.onmessage = function(e) {
+            const { serializedXml } = e.data;
+            if (!serializedXml) {
+                postMessage({ type: 'error', message: 'Worker received no XML data.' });
+                return;
+            }
+
+            const finalHtmlParts = [];
+            const childNodes = serializedXml.children;
+            const totalChunks = childNodes.length;
+            
+            for (let i = 0; i < totalChunks; i++) {
+                finalHtmlParts.push(renderNodeToHtml(childNodes[i]));
+                
+                if (i % 5 === 0 || i === totalChunks - 1) {
+                    const progress = ((i + 1) / totalChunks) * 100;
+                    postMessage({ type: 'progress', progress: progress, message: `Building HTML in background: Section ${i + 1} of ${totalChunks}...` });
+                }
+            }
+            
+            postMessage({ type: 'done', html: finalHtmlParts.join('') });
+        };
+    </script>
+</head>
+<body>
+    <h1>Homeric Greek Browser</h1>
+    <div id="browser-container">
+        <div id="left-pane-status" class="frame status-pane">
+            <div class="loading-message">Preparing to render...</div>
+            <div class="progress-bar-container">
+                <div id="left-progress-bar" class="progress-bar"></div>
+            </div>
+        </div>
+        <div id="right-pane-status" class="frame status-pane">
+             <div class="loading-message">Waiting for left pane...</div>
+        </div>
+        <iframe id="left-frame" class="frame" title="Left Pane" style="display: none;"></iframe>
+        <iframe id="right-frame" class="frame" title="Right Pane" style="display: none;"></iframe>
+    </div>
+
+<script>
+// --- XML Data --- 
+const xmlString = `<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://epidoc.stoa.org/schema/8.19/tei-epidoc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Homeric Greek: A Book for Beginners</title>
+            <author>Pharr, Clyde, 1885-</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>D. Appleton and Company</publisher>
+            <pubPlace>New York</pubPlace>
+            <date>1923</date>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>
+               <title>Homeric Greek: A Book for Beginners</title>
+               <author>Pharr, Clyde, 1885-</author>
+               <pubPlace>New York</pubPlace>
+               <publisher>D. Appleton and Company</publisher>
+               <date>1923</date>
+               <note>The basis of this book is the "Beginner's Greek book" of Professor Allen R. Benner.</note>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+    <front>            <div xml:id="dedication" type="textpart" subtype="dedication">
+               <pb n="iii" xml:id="p.iii"/>
+               <p rend="center">
+                  <foreign xml:lang="grc">Το</foreign>
+                   <lb/>THE MEMORY OF
+                   <lb/>THOMAS DAY SEYMOUR
+                   <lb/>PROFOUND SCHOLAR
+                   <lb/>SYMPATHETIC AND INSPIRING TEACHER
+                   <lb/>LOVER OF HOMER
+                   <lb/>AND OF ALL THINGS TRUE AND
+                   <lb/>BEAUTIFUL
+               </p>
+            </div>
+
+            <div xml:id="suggestions-to-teachers" type="textpart" subtype="section">
+               <pb n="iv" xml:id="p.iv"/>
+               <head>SUGGESTIONS TO INEXPERIENCED TEACHERS</head>
+               <p>The wise teacher knows what to omit. Try once making all students
+                  learn thoroughly one form for each declension and conjugation, using the
+                  adjective <foreign xml:lang="grc">καλός, ή, όν</foreign>, as a model for the first two declensions, <foreign xml:lang="grc">ἄναξ</foreign> for the
+                  third, and as <foreign xml:lang="grc">λύω</foreign> the model verb. Hold them strictly to these and use all
+                  other forms for reference, teaching them so far as practicable, without
+                  overloading, as they occur in reading. Lay special emphasis on infinitives
+                  and participles, including their meanings, and the declension of the latter.
+                  The full grammar of Homeric Greek in this book is given primarily for
+                  reference. Reserve a lot of it for second year work and see how much
+                  better progress your students make. Have the students recite their model
+                  forms, <foreign xml:lang="grc">καλός, ή, όν</foreign>, <foreign xml:lang="grc">ἄναξ</foreign>, <foreign xml:lang="grc">λύω</foreign>, a great deal in concert. At the beginning of
+                  each lesson send everybody to the board. The teacher may underline
+                  errors as they are made, may make students change places and mark each
+                  other's work, or may require them to be seated and go over two or three
+                  typical exercises, calling on the class to indicate from their seats the various
+                  mistakes. Vary the method. When marking errors in written work that
+                  has been handed in, never write out the corrections. Underline the errors
+                  and require each student to correct his own mistakes. If he must have
+                  help, remember that hints are usually more valuable than direct information.
+                  Ordinarily spend not less than one third of the time of each recitation
+                  on the lesson following. Require the students to look over the vocabulary
+                  of the advance lesson, or even to memorize it before coming to class. Then
+                  look over with them in class the forms for the next lesson. After that, have
+                  them translate at sight the Greek sentences, giving them hints when necessary,
+                  particularly reminding them of forms which have not yet been studied,
+                  but do not translate for them. They will enjoy this, and it will greatly
+                  lighten their burden of preparation. Vary the work continually, giving
+                  drills in different ways, occasionally talking informally on Homeric and
+                  Greek ideas of various kinds, and particularly giving them some insight into
+                  the historical and cultural background of the Homeric poems. A theme of
+                  some length from each student at the end of the year often arouses considerable
+                  enthusiasm. A great variety of topics for themes can be found in
+                  Jebb's <title>Introduction to Homer</title>, Ginn &amp; Co. For drill on vocabularies use
+                  Owen and Goodspeed's <title>Homeric Vocabularies</title>, University of Chicago Press.
+                  Cheap texts of the first book of the <title>Iliad</title>, for use in recitation and examinations,
+                  are published by Longmans, Green &amp; Co., Macmillan, and several
+                  others.</p>
+            </div>
+
+            <div xml:id="preface" type="textpart" subtype="preface">
+               <pb n="v" xml:id="p.v"/>
+               <head>PREFACE</head>
+               <p>THIS book, now offered to the public, is the fruit of seven years
+                  of experimentation and of much counsel with those interested in
+                  the plan which it embodies.</p>
+               <p>It has already gone through four mimeographed editions, and
+                  has been used for several years: in Ohio Wesleyan University,
+                  in Oberlin College, and in Southwestern Presbyterian University.
+                  In all these cases it has had marked success in creating and sustaining
+                  interest in beginning Greek, where the crux of the whole
+                  problem of the future of Hellenic studies lies.</p>
+               <p>The reasons which have convinced the author of the necessity
+                  for basing the work of beginners on Homeric instead of on Attic
+                  Greek will be found in a paper, entitled <title rend="italic">A Year – or more –
+                  of Greek</title>, published in the <title>Classical Journal</title> for February, 1918,
+                  and in a second paper, <title rend="italic">Homer and the Study of Greek</title>, which
+                  is printed in this book, following the table of contents. To all
+                  who may be interested in the subject, from the standpoint of
+                  humanistic studies, the author would heartily commend the reading
+                  of Andrew Lang's delightful little essay, <title rend="italic">Homer and the Study
+                  of Greek</title>, published in his collection of <title>Essays in Little</title>.</p>
+               <p>It is hardly to be hoped that a book of this kind, which seeks to
+                  establish a new path to our common goal, will be so free from minor
+                  errors as would one along the old established lines. Hence the
+                  author will be profoundly grateful to those who will be generous
+                  enough to make suggestions looking toward the betterment of the
+                  work as well as to those who will be kind enough to point out any
+                  errors. Naturally, in a work of this nature, there is the constantly
+                  recurring problem of how to reconcile most successfully effective
+                  pedagogy and scientific accuracy of statement.</p>
+
+               <pb n="vi" xml:id="p.vi"/>
+               <p>The book does not pretend to be a text where the advanced
+                  Homeric scholar will find catalogued every stray Homeric form, or
+                  supposedly Homeric form, but its first object is to teach beginners
+                  to read Greek intelligently and with pleasure.</p>
+               <p>It is not intended that the ordinary student shall master all the
+                  grammar found in this text: much of it is for reference only. But
+                  certainly every teacher should have at least this much Homeric
+                  grammar thoroughly at command and be overflowing with it, not,
+                  however, to the extent of attempting to teach all of it. The prime
+                  object of first year work, as so admirably stated by Prof. Gildersleeve,
+                  is "a maximum of forms, a minimum of syntax, and early
+                  acquaintance with Greek in the mass." To gain this object, it
+                  is necessary to read, read, READ Greek.</p>
+               <p>In the paradigms and vocabularies, both simple and compound
+                  forms of verbs are used to supplement each other, and a free use
+                  of analogy is employed, as is commonly done in books of this
+                  kind. In the verbal forms, the augment is regularly supplied when
+                  missing.</p>
+               <p>Those opposed to the employment of prose sentences in Homeric
+                  language will find it easy to omit these; but the author is convinced
+                  that a better grasp of Homeric forms can be secured by
+                  their use.</p>
+               <p>After this book is completed successfully, any one of several
+                  roads is open for a continuation of the Greek course :</p>
+               <p>(1) Probably the most satisfactory method is to continue for
+                  some time with Homer, reading copious extracts from the <title>Iliad</title>
+                  and <title>Odyssey</title>. The student is now well prepared to handle successfully
+                  the standard school editions of these.</p>
+               <p>(2) The passage from Homer to the Attic Drama is an easy one,
+                  and is the most satisfactory introduction to the Attic dialect.
+                  This is the course which the author would strongly recommend, as
+                  most likely to be of the greatest value and as having probably the
+                  strongest appeal to the most students. Euripides furnishes the
+                  easiest reading, and several of his plays have been published in
+                  convenient form with vocabularies (Longmans, Green &amp; Co.),
+                  and with both vocabularies and notes (Macmillan &amp; Co.). This
+                  could be followed by any one of several possibilities, some more
+                  drama, Plato, or the New Testament.</p>
+
+               <pb n="vii" xml:id="p.vii"/>
+               <p>(3) Some Herodotus could now be read with not much difficulty,
+                  and his work would admirably supplement the Homeric stories.</p>
+               <p>(4) It is quite possible to read some Plato now, using a good
+                  edition of one of the dialogues, with vocabulary and notes, such as
+                  that of Seymour and Dyer.</p>
+               <p>(5) Many will find a strong appeal in the Lyric Poets, which
+                  are very easy after a fair amount of Homer and contain some of the
+                  choicest gems in all Greek literature.</p>
+               <p>(6) Some may want to read Hesiod, who is the easiest of all
+                  authors after Homer. His importance has not always been
+                  recognized, and he has been entirely too much neglected in our
+                  colleges.</p>
+               <p>(7) The New Testament could be studied to good advantage
+                  after Homer, and is recommended to those intending to enter the
+                  ministry.</p>
+               <p>(8) Those who are wedded to Xenophon, who teach him with
+                  success, and who feel that he must come early in the course, will
+                  find Homer a much better preparation for Xenophon than Xenophon
+                  is for Homer. There are a number of good school editions,
+                  and students can now read rapidly considerable quantities of the
+                  <title>Anabasis</title>, or of any of the other works of Xenophon.</p>
+               <p>Other things being equal, the teacher should of course select
+                  the author in which he has the greatest interest and for which he
+                  has the most enthusiasm. He will find the work not only much
+                  easier, but more successful as well.</p>
+               <p>To all who have assisted, directly or indirectly, in the production
+                  of the present book, the author would here express his sincerest
+                  appreciation and gratitude. Lack of space prevents giving a
+                  complete list of names, but the author feels that special mention
+                  is due to Prof. Francis G. Allinson of Brown University, for generously
+                  reading the whole of the manuscript and for making many
+                  helpful suggestions; to Prof. Samuel E. Bassett of the University
+                  of Vermont, and to Prof. Edward Fitch of Hamilton College, who
+                  also went over the manuscript and made many valuable criticisms;
+                  to Prof. Walter Petersen of Bethany College, whose help on a number
+                  of grammatical problems has been invaluable; to Miss Mabel</p>
+
+               <pb n="viii" xml:id="p.viii"/>
+               <p>Drennan of the Swanton, Ohio, High School, for making the whole
+                  of the two general vocabularies; to Miss Shirley Smith and to
+                  Mr. Charles J. Adameç, graduate students at Yale, for checking
+                  up the general vocabularies; to Mr. W. J. Millard, student at
+                  Southwestern Presbyterian University, for verifying the Biblical
+                  quotations; to Prof. Wilmot Haines Thompson of Acadia University,
+                  for reading the manuscript, making a number of valuable suggestions,
+                  and for much valuable assistance in reading proof; to Prof.
+                  Leigh Alexander of Oberlin College, who has generously placed
+                  at the disposal of the author the results of two years of experience
+                  with the book in his classes, who has read all the proof and has
+                  saved the book from a number of errors; to the Boston Museum of
+                  Fine Arts, for the loan of some unusually fine photographs for
+                  illustrations; to D. C. Heath &amp; Co., for the use of illustrations from
+                  Webster's <title>Ancient History</title>, one of their texts; to Prof. Frank E.
+                  Robbins of the University of Michigan, and to the <title>Classical
+                  Journal</title>, for permission to use Prof. Robbins's valuable statistics
+                  on Greek verb forms, which appeared in the <title>Classical Journal</title>,
+                  15, 2; to Dr. Alice Braunlich of the Davenport High School, to
+                  Prof. G. B. Waldrop of the Westminster School, and to Dr. D. W.
+                  Abercrombie, recently of Worcester Academy, for help in reading
+                  the proof; and to the J. S. Cushing Company (The Norwood
+                  Press) for their very careful and painstaking typographical work.</p>
+               <p>If this book will contribute to the value and interest of the study
+                  of beginning Greek, the author will feel that his seven years of
+                  work upon it have not been spent in vain. The time has come
+                  when lovers of the humanities everywhere must join hands in
+                  the promotion of the common cause. If anything seems to be of
+                  mutual advantage, we must first test it carefully and then hold
+                  fast to it if we find it good. Then, to all teachers of Greek and
+                  every true friend of humanistic studies and of culture in its best
+                  sense, the author would say in conclusion:</p>
+               <cit>
+                  <quote xml:lang="la">
+                     <l>Vive, vale. Si quid novisti rectius istis,</l>
+                     <l>Candidus imperti; si non, his utere mecum.</l>
+                  </quote>
+               </cit>
+            </div>
+
+            <div xml:id="toc" type="textpart" subtype="toc">
+               <pb n="ix" xml:id="p.ix"/>
+               <head>CONTENTS</head>
+               <list>
+                  <item><label>SECTION</label><label>PAGE</label></item>
+                  <item>PREFACE <ref target="#preface">v</ref></item>
+                  <item>TABLE OF CONTENTS <ref target="#toc">ix</ref></item>
+                  <item>HOMER AND THE STUDY OF GREEK <ref>xiii</ref></item>
+                  <item>INTRODUCTION <ref>xxix</ref></item>
+                  <item>LESSON</item>
+                  <item>1. INTRODUCTORY <ref>1</ref></item>
+                  <item>2. SYLLABLES, ACCENTS, ELISION, PUNCTUATION, AND TRANSLITERATION <ref>3</ref></item>
+                  <item>3. NOUNS OF THE FIRST DECLENSION. <ref>3</ref></item>
+                  <item>4. NOUNS OF THE FIRST DECLENSION (CONTINUED) <ref>4</ref></item>
+                  <item>5. THE PRESENT ACTIVE INDICATIVE OF VERBS IN <foreign xml:lang="grc">ω</foreign> <ref>6</ref></item>
+                  <item>6. THE SECOND DECLENSION <ref>7</ref></item>
+                  <item>7. REVIEW <ref>9</ref></item>
+                  <item>8. SECOND DECLENSION (CONTINUED) <ref>11</ref></item>
+                  <item>9. THE IMPERFECT OF VERBS IN <foreign xml:lang="grc">ω</foreign> <ref>13</ref></item>
+                  <item>10. THE FUTURE AND AORIST OF VERBS IN <foreign xml:lang="grc">ω</foreign> <ref>14</ref></item>
+                  <item>11. MASCULINE NOUNS OF THE FIRST DECLENSION, COMPOUND VERBS <ref>16</ref></item>
+                  <item>12. REVIEW <ref>18</ref></item>
+                  <item>13. NOUNS OF THE THIRD DECLENSION; ILIAD 1-5 <ref>21</ref></item>
+                  <item>14. PROSODY, THE GREEK HEXAMETER; ILIAD 1-5 <ref>24</ref></item>
+                  <item>15. THIRD DECLENSION (CONTINUED); ILIAD 1-10 <ref>27</ref></item>
+                  <item>16. PRESENT AND FUTURE, MIDDLE AND PASSIVE OF VERBS. DEPONENT VERBS; ILIAD 11-16 <ref>30</ref></item>
+                  <item>17. THE IMPERFECT, MIDDLE AND PASSIVE, AND THE AORIST MIDDLE OF VERBS; ILIAD 17-21 <ref>33</ref></item>
+                  <item>18. THE PERFECT AND PLUPERFECT ACTIVE OF VERBS. <ref>36</ref></item>
+                  <item>19. THE INFINITIVE; ILIAD 22-27 <ref>37</ref></item>
+                  <item>20. PARTICIPLES, ACTIVE; ILIAD 28-32 <ref>40</ref></item>
+                  <item>21. MIDDLE AND PASSIVE PARTICIPLES; ILIAD 33-37 <ref>44</ref></item>
+                  <item>22. THE PERFECT, PLUPERFECT, AND FUTURE PERFECT OF VERBS; ILIAD 38-42 <ref>47</ref></item>
+
+                  <pb n="x" xml:id="p.x"/>
+                  <item><label>SECTION</label><label>PAGE</label></item>
+                  <item>23. THE SUBJUNCTIVE MODE OF VERBS; ILIAD 43-47 <ref>50</ref></item>
+                  <item>24. IMPERATIVE VERBS, ACTIVE; ILIAD 48-52 <ref>53</ref></item>
+                  <item>25. MIDDLE AND PASSIVE IMPERATIVE OF VERBS; ILIAD 53-58 <ref>57</ref></item>
+                  <item>26. THE OPTATIVE MODE; ILIAD 59-63 <ref>59</ref></item>
+                  <item>27. THE PASSIVE VOICE; ILIAD 64-69 <ref>62</ref></item>
+                  <item>28. ADJECTIVES OF THE THIRD DECLENSION; ILIAD 70-75 <ref>67</ref></item>
+                  <item>29. DEMONSTRATIVE PRONOUNS; ILIAD 76-80 <ref>69</ref></item>
+                  <item>30. PERSONAL AND POSSESSIVE PRONOUNS; ILIAD 81-85. <ref>72</ref></item>
+                  <item>31. RELATIVE, INTERROGATIVE, AND INDEFINITE PRONOUNS; ILIAD 86-92 <ref>74</ref></item>
+                  <item>32. REGULAR VERBS IN -<foreign xml:lang="grc">μι</foreign>; ILIAD 93-100 <ref>77</ref></item>
+                  <item>33. REGULAR VERBS IN -<foreign xml:lang="grc">μι</foreign> (CONTINUED), ILIAD 101-108 <ref>81</ref></item>
+                  <item>34. REVIEW OF REGULAR -<foreign xml:lang="grc">μι</foreign> VERBS, ILIAD 109-117 <ref>83</ref></item>
+                  <item>35. IRREGULAR VERBS ΙΝ -<foreign xml:lang="grc">μι</foreign>, εἰμί, AND ENCLITICS; ILIAD 118-125 <ref>87</ref></item>
+                  <item>36. IRREGULAR VERBS; ILIAD 126-132 <ref>91</ref></item>
+                  <item>37. PREPOSITIONS; ILIAD 133-141 <ref>95</ref></item>
+                  <item>38. COMPARISON OF ADJECTIVES; ILIAD 142-151 <ref>98</ref></item>
+                  <item>39. FORMATION AND COMPARISON OF ADVERBS; ILIAD 152-157 <ref>101</ref></item>
+                  <item>40. NUMERALS; ILIAD 158-164 <ref>104</ref></item>
+                  <item>41. PRESENT, FUTURE, AND FIRST AORIST SYSTEM OF VERBS; ILIAD 165-172 <ref>107</ref></item>
+                  <item>42. THE SECOND AORIST, AND FIRST AND SECOND PERFECT SYSTEMS OF VERBS; ILIAD 173-181 <ref>109</ref></item>
+                  <item>43. THE PERFECT MIDDLE SYSTEM OF VERBS; ILIAD 182-192 <ref>112</ref></item>
+                  <item>44. FIRST AND SECOND PASSIVE SYSTEMS OF VERBS; ILIAD 193-200 <ref>115</ref></item>
+                  <item>45. PRESENT, FUTURE, AND AORIST SYSTEMS OF -<foreign xml:lang="grc">μι</foreign> VERBS; ILIAD 201-211 <ref>118</ref></item>
+                  <item>46. FIRST AND SECOND PERFECT SYSTEMS OF -<foreign xml:lang="grc">μι</foreign> VERBS; ILIAD 212-222 <ref>121</ref></item>
+                  <item>47. THE MIDDLE AND PASSIVE OF -<foreign xml:lang="grc">μι</foreign>VERBS; ILIAD 223-232 <ref>124</ref></item>
+                  <item>48. REVIEW OF NOUNS; ILIAD 233-239 <ref>127</ref></item>
+                  <item>49. REVIEW OF ADJECTIVES; ILIAD 240-244 <ref>129</ref></item>
+
+                  <pb n="xi" xml:id="p.xi"/>
+                  <item><label>SECTION</label><label>PAGE</label></item>
+                  <item>50. REVIEW OF PRONOUNS; ILIAD 245-249 <ref>131</ref></item>
+                  <item>51. REVIEW OF PARTICIPLES AND INFINITIVES; ILIAD 250-259 <ref>134</ref></item>
+                  <item>52. REVIEW OF VERBS IN THE ACTIVE; ILIAD 260-268 <ref>137</ref></item>
+                  <item>53. REVIEW OF VERBS IN THE MIDDLE; ILIAD 269-289 <ref>140</ref></item>
+                  <item>54. REVIEW OF VERBS IN THE PASSIVE; ILIAD 290-303 <ref>144</ref></item>
+                  <item>55. REVIEW OF IRREGULAR VERBS OF THE -<foreign xml:lang="grc">μι</foreign> CONJUGATION; ILIAD 304-314 <ref>147</ref></item>
+                  <item>56. ILIAD 315-333 <ref>149</ref></item>
+                  <item>57. ILIAD 334-347 <ref>151</ref></item>
+                  <item>58. ILIAD 348-358 <ref>153</ref></item>
+                  <item>59. ILIAD 359-379 <ref>157</ref></item>
+                  <item>60. ILIAD 380-400 <ref>160</ref></item>
+                  <item>61. ILIAD 401-412 <ref>163</ref></item>
+                  <item>62. ILIAD 413-424 <ref>165</ref></item>
+                  <item>63. ILIAD 425-435 <ref>168</ref></item>
+                  <item>64. ILIAD 436-449 <ref>169</ref></item>
+                  <item>65. ILIAD 450-461 <ref>171</ref></item>
+                  <item>66. ILIAD 462-470 <ref>173</ref></item>
+                  <item>67. ILIAD 471-479 <ref>174</ref></item>
+                  <item>68. ILIAD 480-489 <ref>176</ref></item>
+                  <item>69. ILIAD 490-499 <ref>178</ref></item>
+                  <item>70. ILIAD 500-516 <ref>180</ref></item>
+                  <item>71. ILIAD 517-527 <ref>182</ref></item>
+                  <item>72. ILIAD 528-535 <ref>184</ref></item>
+                  <item>73. ILIAD 536-550 <ref>187</ref></item>
+                  <item>74. ILIAD 551-572 <ref>189</ref></item>
+                  <item>75. ILIAD 573-589 <ref>192</ref></item>
+                  <item>76. ILIAD 590-598 <ref>194</ref></item>
+                  <item>77. ILIAD 599-611 <ref>197</ref></item>
+                  <item>INTRODUCTION TO ATTIC GREEK <ref>200</ref></item>
+                  <item>GRAMMAR OF HOMERIC GREEK <ref>207</ref></item>
+                  <item>GREEK-ENGLISH VOCABULARY <ref>343</ref></item>
+                  <item>ENGLISH-GREEK VOCABULARY <ref>380</ref></item>
+               </list>
+            </div>
+        
+        </text>
+</TEI>
+`;
+
+// --- Main Page Logic ---
+
+function setupFrameInteraction(frame) {
+    const frameDoc = frame.contentWindow.document;
+    if (!frameDoc) return;
+    frameDoc.body.addEventListener('click', (event) => {
+        const link = event.target.closest('a.reference');
+        if (!link || !link.getAttribute('href').startsWith('#')) { return; }
+        event.preventDefault();
+        const targetId = link.getAttribute('href').substring(1);
+        const targetFrame = frame.id === 'left-frame' 
+            ? document.getElementById('right-frame') 
+            : document.getElementById('left-frame');
+        const targetElement = targetFrame.contentWindow.document.querySelector(`[id="${targetId}"]`);
+        if (targetElement) {
+            targetElement.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetElement.classList.add('highlight');
+            setTimeout(() => { targetElement.classList.remove('highlight'); }, 1500);
+        } else {
+            console.warn(`Cross-reference target #${targetId} not found.`);
+        }
+    });
+}
+
+/**
+ * Asynchronously serializes a DOM node to a plain object without blocking the main thread.
+ * Replaces the original recursive, blocking `serializeXmlNode` function.
+ */
+function asyncSerializeToWorker(rootNode, worker, statusUpdater) {
+    const stack = [];
+    const rootSerialized = { children: [] };
+    
+    // Prime the stack with the children of the root node
+    const children = Array.from(rootNode.childNodes).reverse();
+    for(const child of children) {
+        stack.push({ domNode: child, parentObj: rootSerialized });
+    }
+
+    let totalNodes = rootNode.querySelectorAll('*').length;
+    if (!totalNodes) totalNodes = 1;
+    let processedNodes = 0;
+    
+    function processChunk() {
+        const CHUNK_SIZE = 1000; // Process 1000 nodes per cycle
+        let nodesInChunk = 0;
+
+        while (stack.length > 0 && nodesInChunk < CHUNK_SIZE) {
+            const { domNode, parentObj } = stack.pop();
+            
+            let serializedNode;
+            if (domNode.nodeType === Node.TEXT_NODE) {
+                serializedNode = { isTextNode: true, textContent: domNode.textContent };
+            } else if (domNode.nodeType === Node.ELEMENT_NODE) {
+                processedNodes++;
+                const attributes = {};
+                for (const attr of domNode.attributes) {
+                    attributes[attr.name] = attr.value;
+                }
+                serializedNode = {
+                    tagName: domNode.localName,
+                    attributes: attributes,
+                    children: []
+                };
+                
+                // Add children to the stack to be processed later, in reverse order
+                const childrenToProcess = Array.from(domNode.childNodes).reverse();
+                for (const child of childrenToProcess) {
+                    stack.push({ domNode: child, parentObj: serializedNode });
+                }
+            }
+
+            if (serializedNode) {
+                parentObj.children.push(serializedNode);
+            }
+            nodesInChunk++;
+        }
+
+        if (stack.length > 0) {
+            // Update progress and schedule next chunk
+            const progress = (processedNodes / totalNodes) * 100;
+            statusUpdater(progress, `Serializing XML node ${processedNodes} of ${totalNodes}...`);
+            setTimeout(processChunk, 0); // Yield to the main thread
+        } else {
+            // Serialization is complete
+            statusUpdater(100, "Serialization complete. Sending to background worker...");
+            worker.postMessage({ serializedXml: rootSerialized });
+        }
+    }
+
+    // Start the asynchronous process
+    processChunk();
+}
+
+
+async function initializeBrowser() {
+    const leftFrame = document.getElementById('left-frame');
+    const rightFrame = document.getElementById('right-frame');
+    const leftStatusPane = document.getElementById('left-pane-status');
+    const rightStatusPane = document.getElementById('right-pane-status');
+    const leftStatusMessage = leftStatusPane.querySelector('.loading-message');
+    const leftProgressBar = document.getElementById('left-progress-bar');
+
+    const statusUpdater = (progress, message) => {
+        if (progress) leftProgressBar.style.width = `${progress}%`;
+        if (message) leftStatusMessage.textContent = message;
+    };
+    
+    // Create a worker from the embedded code string
+    const workerScriptContent = document.getElementById('worker-script').textContent;
+    const blob = new Blob([workerScriptContent], { type: 'text/javascript' });
+    const worker = new Worker(URL.createObjectURL(blob));
+
+    worker.onmessage = async (e) => {
+        const { type, message, progress, html } = e.data;
+
+        if (type === 'status' || type === 'progress') {
+            statusUpdater(progress, message);
+        } else if (type === 'error') {
+            throw new Error(message);
+        } else if (type === 'done') {
+            statusUpdater(100, "Rendering complete.");
+            const styles = document.querySelector('style').innerHTML;
+            const contentHtml = `
+                <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><style>${styles}</style></head>
+                <body class="content-style">${html}</body></html>`;
+            
+            // Staggered loading
+            leftStatusPane.style.display = 'none';
+            leftFrame.style.display = 'block';
+            leftFrame.srcdoc = contentHtml;
+            await new Promise(resolve => { leftFrame.onload = resolve; });
+            setupFrameInteraction(leftFrame);
+
+            rightStatusPane.style.display = 'none';
+            rightFrame.style.display = 'block';
+            rightFrame.srcdoc = contentHtml;
+            await new Promise(resolve => { rightFrame.onload = resolve; });
+            setupFrameInteraction(rightFrame);
+
+            // Clean up the worker
+            worker.terminate();
+        }
+    };
+    
+    worker.onerror = (error) => {
+        console.error("Worker error:", error);
+        document.getElementById('browser-container').innerHTML = `<div style="color: red; padding: 20px;">An error occurred in the background worker: ${error.message}</div>`;
+    };
+    
+    // --- Main Thread Parsing and ASYNCHRONOUS Serialization ---
+    statusUpdater(0, "Parsing XML on main thread...");
+    const parser = new DOMParser();
+    const xmlDoc = parser.parseFromString(xmlString, "application/xml");
+    const parseError = xmlDoc.querySelector('parsererror');
+    if (parseError && parseError.textContent) { throw new Error(`XML Parsing Error: ${parseError.textContent}`); }
+
+    let textElement = null;
+    for (const child of xmlDoc.documentElement.children) {
+        if (child.localName === 'text' && child.namespaceURI === 'http://www.tei-c.org/ns/1.0') {
+            textElement = child;
+            break;
+        }
+    }
+    if (!textElement) { throw new Error("Could not find <text> element."); }
+
+    // Start the new asynchronous serialization process
+    asyncSerializeToWorker(textElement, worker, statusUpdater);
+}
+
+document.addEventListener('DOMContentLoaded', initializeBrowser);
+
+</script>
+</body>
+</html>
