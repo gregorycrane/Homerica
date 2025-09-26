@@ -2351,7 +2351,7 @@ drudgery.</p>
       <item xml:id="l1-vocab-helorion"><term lang="grc">ἑλώριον</term> <gloss lang="en">booty, prey, spoils.</gloss></item>
       <item xml:id="l1-vocab-teucho"><term lang="grc">τεύχω</term> <gloss lang="en">make, fashion, cause.</gloss></item>
       <item xml:id="l1-vocab-kyon"><term lang="grc">κύων</term> <gloss lang="en">dog.</gloss></item>
-    </list>
+
 
 
   <note xml:id="fn1-1" place="foot" n="1">The figures refer to sections in this book.</note>
@@ -2361,7 +2361,7 @@ drudgery.</p>
 
 <pb n="2" facs="#56"/>
 
-  <list type="gloss">
+
     <item xml:id="l1-vocab-oionos"><term lang="grc">οἰωνός</term> <gloss lang="en">bird (of prey), vulture, omen.</gloss></item>
     <item xml:id="l1-vocab-te"><term lang="grc">τέ</term> <gloss lang="en">and, also.</gloss></item>
     <item xml:id="l1-vocab-dais"><term lang="grc">δαίς</term> <gloss lang="en">portion, feast, banquet.</gloss></item>
@@ -5133,21 +5133,13 @@ by Alfred Denis Godley</bibl>
   </div>
   <div type="commentary" n="167" xml:id="p167">
      <div type="textpart" subtype="commline" n="64">
-<p><app><lem xml:lang="grc">εἴποι</lem></app>: <ref>1145</ref>. <foreign lang="grc">ὅτι</foreign>: <ref>780-781</ref>, <ref>1014</ref>.</p>
+<p><app><lem xml:lang="grc">εἴποι</lem></app>: <ref>1145</ref>.</p>
+<p><app><lem lang="grc">ὅτι</lem></app>: <ref>780-781</ref>, <ref>1014</ref>.</p>
 <p><app><lem xml:lang="grc">τόσσον</lem></app>: <ref>780-781</ref>. Apollo, as god of health and disease, would be the first one thought of in the present emergency.</p>
-<p><app><lem xml:lang="grc">ὅς κ΄ Γείποι</lem></app>: <ref>580</ref>, <ref>581</ref>, <ref>1174</ref>.</p>
+<p><app><lem xml:lang="grc">ὅς κ΄ ϝείποι</lem></app>: <ref>580</ref>, <ref>581</ref>, <ref>1174</ref>.</p>
 </div>
      <div type="textpart" subtype="commline" n="65">
-<p><app><lem xml:lang="grc">εὐχωλῆς, ἑκατόμβης</lem></app>: <ref>979, 6</ref>: on account of a vow (unfulfilled), or on account of a hecatomb (unoffered). "When thou shalt vow a vow unto Jehovah thy God, thou shalt not be slack to pay it: for Jehovah thy God will surely require it of thee; and it would be sin in thee." Cf. the vow of Jacob, Gen. xxviii, 20-22, and of Jephthah, Judges xi, 30-39. Achilles suggests some of the stock reasons why a god might be en</p>
-</div>
-  </div>
-
-
-<pb n="64" facs="#120"/>
-
-  <div type="commentary" n="167" xml:id="p167-p2" part="cont">
-     <div type="textpart" subtype="commline" n="65">
-<p>raged. Apparently no one, apart from the seer, knew the real cause of the god's anger.</p>
+<p><app><lem xml:lang="grc">εὐχωλῆς, ἑκατόμβης</lem></app>: <ref>979, 6</ref>: on account of a vow (unfulfilled), or on account of a hecatomb (unoffered). "When thou shalt vow a vow unto Jehovah thy God, thou shalt not be slack to pay it: for Jehovah thy God will surely require it of thee; and it would be sin in thee." Cf. the vow of Jacob, Gen. xxviii, 20-22, and of Jephthah, Judges xi, 30-39. Achilles suggests some of the stock reasons why a god might be enraged. <pb n="64" facs="#120"/> Apparently no one, apart from the seer, knew the real cause of the god's anger.</p>
 </div>
      <div type="textpart" subtype="commline" n="66">
 <p><app><lem xml:lang="grc">κνίσης</lem></app>: <ref>982</ref>.</p>
@@ -6605,20 +6597,20 @@ by Alfred Denis Godley</bibl>
       </quote>
    </div>
    <div type="commentary" n="257" xml:id="p257">
-      <div type="paragraph" n="152">
+      <div type="textpart" subtype="commline" n="152">
          <p><app><lem xml:lang="grc">ἐγώ</lem></app>: emphatic (<ref>1039</ref>), as contrasted with Agamemnon and his brother Menelaus, who had a strong personal interest in the success of the expedition.</p>
       </div>
-      <div type="paragraph" n="153">
+      <div type="textpart" subtype="commline" n="153">
          <p><app><lem xml:lang="grc">μαχησόμενος</lem></app>: <ref>1109, 5</ref>.</p>
 <p><app><lem xml:lang="grc">τι</lem></app>: <ref>780-781</ref>.</p>
       </div>
-      <div type="paragraph" n="154">
+      <div type="textpart" subtype="commline" n="154">
          <p><app><lem xml:lang="grc">βοῦς</lem></app> <foreign xml:lang="grc">= βόας</foreign>: throughout all history cattle have been an important economic factor. Thus the English words "fee, chattel, pecuniary," etc., indicate the part they have played in our own and in the Roman monetary systems, as a medium of exchange, before the introduction of coinage. In Homer's time maidens were called cattle-bringing, because their suitors regularly gave cattle to their fathers as a wedding present, in return for the girl as a wife. A useful woman in Homeric times might be worth as much as four cows. Their great importance has made them an object of divine worship among many peoples, as among the old Hebrews, who for a long period of their history worshipped a bull-god, of which the horns of the altar were a survival.</p>
       </div>
-      <div type="paragraph" n="155">
+      <div type="textpart" subtype="commline" n="155">
          <p><app><lem xml:lang="grc">βωτιανείρῃ</lem></app>: observe the touch of local pride, so common throughout all nations. His home produces heroes, of whom he is one. The ornamental epithets and picturesque language may indicate how dear to his heart his old home in Phthia was. Perhaps he is almost homesick.</p>
       </div>
-      <div type="paragraph" n="157">
+      <div type="textpart" subtype="commline" n="157">
          <p><app><lem xml:lang="grc">ἠχήεσσα</lem></app>: onomatopoetic, to represent the sound of the roaring sea.</p>
 <p><app><lem xml:lang="grc">σκιόεντα</lem></app> refers to the long shadows which high mountains throw. This verse is in apposition with <foreign lang="grc">πολλά</foreign> (used substantively) of the preceding verse.</p>
          <p>Observe the heaping up of the first personal pronouns in this passage, to indicate that Achilles had no personal interest, as did Agamemnon, in the expedition. Achilles emphasizes his own generous motives and self-sacrificing spirit in joining the undertaking, thereby throwing into high relief the ingratitude of Agamemnon and the deep injustice of his selfishness. "The Trojans have never done me the slightest harm, that</p>
@@ -6628,7 +6620,7 @@ by Alfred Denis Godley</bibl>
 
          <p>I should have gone to all this trouble in making this expedition against them."</p>
       </div>
-      <div type="paragraph" n="154 ff.">
+      <div type="textpart" subtype="commline" n="154 ff.">
          <p>Such wanton robbery and destruction of property might be either the occasion or the result of war. The origin of the Homeric wars, as most wars before and since, had ultimately an economic basis, and they were waged either to protect their own property or to gain possession of that of their neighbors. "And the children of Israel did that which was evil in the sight of Jehovah: and Jehovah delivered them into the hand of Midian seven years.... And so it was when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the East, even they came up against them; and they encamped against them, and destroyed the increase of the earth till thou comest to Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass." "And ye went over Jordan, and came unto Jericho: and the men of Jericho fought against you...; and I delivered them into your hand. And I have given you a land for which ye did not labor, and cities which ye built not, and ye dwell in them; of the vineyards and olive trees which ye planted not do ye eat. Now therefore fear Jehovah and serve him." "And Joshua did unto them as Jehovah bade him: he houghed their horses, and burnt their chariots with fire. ... And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe."</p>
       </div>
       <figure>
@@ -6638,7 +6630,7 @@ by Alfred Denis Godley</bibl>
       <figure>
          <head>EGYPTIAN WEIGHING "COW GOLD"</head>
       </figure>
-      <div type="paragraph" n="156-157">
+      <div type="textpart" subtype="commline" n="156-157">
          <p>Achilles is not strictly logical; for in spite of the crashing sea that rolled between, he was doing in Troy the very thing which he says the Trojans have never done in his land because of the intervening distance. – <foreign lang="grc">πολλά (ἐστίν)</foreign>.</p>
          <p>Achilles is now ready to renounce all allegiance to such a leader, who</p>
 
@@ -10022,12 +10014,13 @@ by Alfred Denis Godley</bibl>
     </div>
   </div>
   <div type="commentary" n="414" xml:id="p414">
-    <note n="471" target="#l-i1-471"><p><app><lem xml:lang="grc">πᾶσιν</lem></app>: <ref>995</ref>.</p>
+    <div type="textpart" subtype="commline" n="471">
+      <p><app><lem xml:lang="grc">πᾶσιν</lem></app>: <ref>995</ref>.</p>
 <p><app><lem xml:lang="grc">δεπάεσσιν</lem></app>: <ref>1005</ref>.</p>
 <p><app><lem xml:lang="grc">ἐπαρξάμενοι</lem></app> refers to the beginning of their religious ceremony, which was performed in this case by each of those present pouring a few drops of wine from his cup as a libation before the drinking began. The libation corresponded to the "drink offerings" of the Old Testament. "In the holy place shalt thou cause the strong wine to be poured unto Jehovah for a drink offering." The worshippers thus shared their food and drink (communion) with their god. According to primitive ideas, those who eat of the same loaf and drink of the same cup become of the same flesh and blood when the
      <pb n="176" facs="#234"/>
 
-  food is assimilated into their bodies. This would thus establish and maintain the strongest possible bond between the divinity and his worshippers. "The cup of blessing which we bless, is it not a communion of the blood of Christ? The bread which we break, is it not a communion of the body of Christ? seeing that we, who are many, are one bread, one body; for we all partake of the one bread." "But I say that the things which the heathen sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have communion with devils."</p></note>
+  food is assimilated into their bodies. This would thus establish and maintain the strongest possible bond between the divinity and his worshippers. "The cup of blessing which we bless, is it not a communion of the blood of Christ? The bread which we break, is it not a communion of the body of Christ? seeing that we, who are many, are one bread, one body; for we all partake of the one bread." "But I say that the things which the heathen sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have communion with devils."</p></div>
      <div type="textpart" subtype="commline" n="472">
 <p><app><lem xml:lang="grc">μολπῇ</lem></app>: <ref>1005</ref>, with song and dance. Singing has always been looked upon as a suitable form of expression for pleasing a divinity. Dancing also was long considered a form of religious exercise, and is still found as such among many savage tribes. "Let the children of Zion be joyful in their king. Let them praise his name in the dance: let them sing praises unto him with the timbrel and the harp." "And David danced before Jehovah with all his might."</p>
 </div>
@@ -10035,7 +10028,7 @@ by Alfred Denis Godley</bibl>
 <p><app><lem xml:lang="grc">παιήονα</lem></app>: <ref>1012</ref> (<foreign lang="grc">παίω</foreign>, strike): originally an epithet of Apollo, the "striker," "beater," "rapper," who heals by his magic stroke. Then the song having this word as a refrain; cf. "Te Deum," a hymn of thanksgiving, which is a type of song so named from its opening words: "Te Deum laudamus."</p>
 </div>
      <div type="textpart" subtype="commline" n="474">
-<p><app><lem xml:lang="grc">μέλποντες μεκάτεργον</lem></app>: praising the free-worker with song and dance, that is, singing a song of which Apollo was the theme, praising Apollo in song and dance, the most important part being the dance. The god can hear the song and see the dance, although he is far away in the land of the Ethiopians (vs. 424).</p>
+<p><app><lem xml:lang="grc">μέλποντες ἑκάτεργον</lem></app> (<foreign xml:lang="grc">ϝεκάτεργον</foreign>): praising the free-worker with song and dance, that is, singing a song of which Apollo was the theme, praising Apollo in song and dance, the most important part being the dance. The god can hear the song and see the dance, although he is far away in the land of the Ethiopians (vs. 424).</p>
 <p><app><lem xml:lang="grc">φρένα</lem></app>: <ref>1014</ref>.</p>
 </div>
      <div type="textpart" subtype="commline" n="477">
@@ -10057,7 +10050,7 @@ by Alfred Denis Godley</bibl>
       <item xml:id="l68-vocab-erma"><term lang="grc">ἕρμα, ατος, τό</term> <gloss lang="en">beam, prop, support.</gloss></item>
       <item xml:id="l68-vocab-epeiros"><term lang="grc">ἤπειρος, ου, ἡ</term> <gloss lang="en">(main) land, continent.</gloss></item>
       <item xml:id="l68-vocab-theo"><term lang="grc">θέω (θευ-, θερ-), θεύσομαι</term> <gloss lang="en">run, speed.</gloss></item>
-      <item xml:id="l68-vocab-iacho"><term lang="grc">ἰάχω (Fifax-, Fifaxe-), taxa</term> <gloss lang="en">shout, howl, roar.</gloss></item>
+      <item xml:id="l68-vocab-iacho"><term lang="grc">ἰάχω (ϝιϝαχ-, ϝιϝαχε-), ἴαχα</term> <gloss lang="en">shout, howl, roar.</gloss></item>
  <pb n="177" facs="#235"/>
 
 
@@ -10074,10 +10067,11 @@ by Alfred Denis Godley</bibl>
       <item xml:id="l68-vocab-upsou"><term lang="grc">ὑψοῦ</term> <gloss lang="en">high.</gloss></item>
       <item xml:id="l68-vocab-psamathos"><term lang="grc">ψάμαθος, ου, ἡ</term> <gloss lang="en">sand (of the beach), dune.</gloss></item>
     </list>
-  </div>
+ 
   <div type="derivatives">
     <p>Derivatives: anemone; porphyry.</p>
   </div>
+   </div>
   <div type="reading" n="417" xml:id="p417">
     <head>Read and translate :</head>
     <div type="exercise" n="417.grc">
@@ -10131,14 +10125,13 @@ by Alfred Denis Godley</bibl>
   <div type="paragraph" n="419" xml:id="p419">
     <p>Optional:</p>
   </div>
-  <div type="paragraph" n="420" xml:id="p420">
-  </div>
+
 </div>
 
 <div type="lesson" n="LXIX" xml:id="lesson69">
   <head>LESSON LXIX</head>
   <head type="sub">ILIAD, 490-499</head>
-  <div type="vocabulary">
+  <div type="vocabulary" n="420" xml:id="p420">
     <head>VOCABULARY</head>
     <list type="gloss">
       <item xml:id="l69-vocab-akros"><term lang="grc">ἄκρος, η, ον</term> <gloss lang="en">sharp, high, utter.</gloss></item>
@@ -10376,11 +10369,14 @@ by Alfred Denis Godley</bibl>
      <div type="textpart" subtype="commline" n="520">
 <p><app><lem xml:lang="grc">καὶ αὕτως</lem></app>: even as it is (without any further provocation). · <foreign lang="grc">ἐν ἀθανάτοισι θεοῖσιν</foreign>: it adds greatly to the trials of Zeus that Hera was accustomed to reproach him in public, "among the other immortal gods," instead of reserving her admonitions for the more suitable privacy of the home.</p>
 </div>
-    <note n="521" target="#l-i1-521"><p><app><lem xml:lang="grc">με</lem></app>: <ref>971</ref>.</p>
+
+     <div type="textpart" subtype="commline" n="521">
+    <p><app><lem xml:lang="grc">με</lem></app>: <ref>971</ref>.</p>
 <p><app><lem xml:lang="grc">μάχη</lem></app>: <ref>1005</ref> (<ref>1009</ref>).</p>
 <p><app><lem xml:lang="grc">Τρώεσσιν</lem></app>: <ref>996</ref>.</p><p>The later tradition, with true insight into feminine psychology, was firmly convinced that Hera was so vindictive against the Trojans because at a contest of beauty, Paris was not willing to tell a lie and give her the prize, instead of to Aphrodite, her rival, who was surpassingly beautiful and hence most cordially hated by her. Aphrodite, to  <pb n="184" facs="#242"/>
 
-      reward Paris for showing such good judgment, gave him Helen, the most beautiful woman in the world, to be his wife. But as Helen was already married to Menelaus, her elopement with Paris to Troy brought on the Trojan War, undertaken by the Greeks for the purpose of bringing her home.</p><p>The abject terror of the father of gods and men, who raises his voice almost to a whimper, as he tells how he is imposed upon at home, is intended by the poet to produce a comic effect, and the remainder of the first book of the Iliad is not merely comical but ludicrous at times. This is carefully worked out by the poet, not merely as furnishing a foil to his heroes, but for the purpose of providing a rest for his hearers and a highly acceptable variety after the tensely tragical scenes of the preceding. This whole passage, with the differences in tone of voice, gesture, and manner, would offer especial opportunities to the bard in reciting his verses.</p><p>It seems hardly chivalrous of Zeus to drag out the skeleton from the family closet for the inspection of Thetis, but he must remove the suspicion, half expressed by her in vs. 516, that he does not care for her. Throughout this whole scene he treats Thetis as though she were an innocent little girl, whom he is anxious to please, even at the expense of his own discomfort. So he says in his kindest tones: "You hurry along back home, and I will attend to all this. Only make sure that Hera doesn't see you." It would have created a most disagreeable scene if Hera had caught her.</p></note>
+      reward Paris for showing such good judgment, gave him Helen, the most beautiful woman in the world, to be his wife. But as Helen was already married to Menelaus, her elopement with Paris to Troy brought on the Trojan War, undertaken by the Greeks for the purpose of bringing her home.</p><p>The abject terror of the father of gods and men, who raises his voice almost to a whimper, as he tells how he is imposed upon at home, is intended by the poet to produce a comic effect, and the remainder of the first book of the Iliad is not merely comical but ludicrous at times. This is carefully worked out by the poet, not merely as furnishing a foil to his heroes, but for the purpose of providing a rest for his hearers and a highly acceptable variety after the tensely tragical scenes of the preceding. This whole passage, with the differences in tone of voice, gesture, and manner, would offer especial opportunities to the bard in reciting his verses.</p><p>It seems hardly chivalrous of Zeus to drag out the skeleton from the family closet for the inspection of Thetis, but he must remove the suspicion, half expressed by her in vs. 516, that he does not care for her. Throughout this whole scene he treats Thetis as though she were an innocent little girl, whom he is anxious to please, even at the expense of his own discomfort. So he says in his kindest tones: "You hurry along back home, and I will attend to all this. Only make sure that Hera doesn't see you." It would have created a most disagreeable scene if Hera had caught her.</p>
+   </div>
      <div type="textpart" subtype="commline" n="523">
 <p><app><lem xml:lang="grc">μελήσεται</lem></app>: <ref>973, 1</ref>.</p>
 </div>
@@ -10388,7 +10384,8 @@ by Alfred Denis Godley</bibl>
 <p><app><lem xml:lang="grc">κεφαλῇ</lem></app>: <ref>1005</ref>.</p>
 </div>
      <div type="textpart" subtype="commline" n="526">
-<p><foreign lang="grc">τέκμωρ (ἐστίν)</foreign>. – <foreign lang="grc">παλινάγρετον (ἐστίν)</foreign>.</p>
+<p><foreign lang="grc">τέκμωρ (ἐστίν)</foreign>. </p>
+<p><app><lem xml:lang="grc">παλινάγρετον</lem></app> <foreign lang="grc">(ἐστίν)</foreign>.</p>
 </div>
      <div type="textpart" subtype="commline" n="527">
 <p><app><lem xml:lang="grc">κατανεύσω</lem></app>: aorist subjunctive. It is interesting to observe that the nod of Zeus establishes his word as truthful and irrevocable, whereas he plainly intimates that any mere promise on his part might be deceitful and might be broken at any time, if it so pleased him. This idea may go back to the practice which the images of the gods sometimes had of nodding a confirmation to some of the prayers offered in the temples.</p>
