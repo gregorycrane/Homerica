@@ -412,7 +412,9 @@
       make him especially interesting, as well as of permanent value, to
       the majority of students who still take Greek.</p>
    <p>In this connection the author may be permitted to quote from
-      the article just mentioned:<note place="foot" n="1">C. J. 13, 5.</note></p>
+      the article just mentioned:
+     </p>
+      <cit><bibl><ref target="https://hdl.handle.net/2027/uc1.32106019303616?urlappend=%3Bseq=372%3Bownerid=9007199262129454-394">Classical Journal (1918) 13, (5) 364-371</ref></bibl>.
    <quote>
       <p>The reasons which make Homer
          so desirable are apparent when once the question is seriously
@@ -471,7 +473,7 @@
          considerable labor to mining the gold, he cannot truthfully say,
          and probably will not want to say, that Greek for him has been a
          waste of time.</p>
-   </quote>
+   </quote></cit>
    <p>To begin the study of Greek with Homer, it would be necessary
       to substitute Homeric for Attic Greek for the work of the first year:
       the student would be taught Homeric forms and constructions as a
@@ -744,12 +746,12 @@ more Greek in the time devoted to him than do those who begin
       than to read Xenophon, and without having to learn so many
       words as are necessary for the reading of Plato.</p>
    <p>There are, it is true, a great number of words in Homer which are
-      used only once (<foreign xml:lang="grc">ἅπαξ λεγόμενα</foreign>).<note place="foot" n="1">L. Friedländer, Zwei hom. Wörterverzeichnisse.</note> The <title>Iliad</title> has 1097 of these,
+      used only once (<foreign xml:lang="grc">ἅπαξ λεγόμενα</foreign>).<note place="inline" n="pg.xxii-n.1">Ludwig Friedländer, Zwei homische Wörterverzeichnisse (Teubner 1860): <ref target="https://www.google.com/books/edition/_/umDQ9MF6TpkC">Google Books</ref>.</note> The <title>Iliad</title> has 1097 of these,
       while the <title>Odyssey</title> has 868, making a total of 1965. However,
       this is not nearly so large as the number used by Xenophon, who
       has 3021 <foreign xml:lang="grc">ἅπαξ λεγόμενα</foreign>, of which 433 are in the <title>Anabasis</title>, as compared
       with 266 (238 if we omit the Catalogue of Ships) in the first
-      six books of the <title>Iliad</title>.<note place="foot" n="2">G. Sauppe, Xen. Op. V, 298.</note></p>
+      six books of the <title>Iliad</title>.<note place="inline" n="pg.xxii-n.2">Gustavus Sauppe, Xenophontis Opera (Leipzig 1865-1869) vol. 5, p. 298: <ref target="https://hdl.handle.net/2027/hvd.hxjvqd?urlappend=%3Bseq=304%3Bownerid=27021597767558715-308">Hathi Trust</ref>.</note></p>
    <p>It is highly important too in gaining a vocabulary to learn words
       which will be used in other authors read later in the course, and to
       acquire so far as possible the more fundamental meanings of words
@@ -1012,7 +1014,8 @@ drudgery.</p>
       treasures inexhaustible. In Herbart's expressive phrase, “Homer
       <pb n="xxvii" xml:id="pg.xxvii"/>
       elevates the student without depressing the teacher." To quote
-      further from his lectures on education, he says (VI, 283):</p>
+      further from his lectures on education, he says (Chapter VI, § 283):</p>
+      <cit>
    <quote>
       <p>The
          reasons for giving the preference to Homer's <title>Odyssey</title> in early instruction
@@ -1038,6 +1041,27 @@ drudgery.</p>
          influence, as is proved by the experience of many years,
          every other work of classic times that could be chosen.</p>
    </quote>
+<bibl><author>Johann Friedrich Herbart</author>,  <title>Johann Friedrich Herbart's pädagogische Schriften in chronologischer Reihenfolge herausgegeben</title> Leipzig, L. Voss, 1880. (1776-1841) pp. 637-638.<note><quote xml:lang="deu"><p>Philologen wohl irgend einmal hören müssen, wenn sie nicht wollen,
+dass beim Anwachs der Geschichte und der Naturwissenschaft, beim
+Andrange der materiellen Interessen, das Griechische auf Schulen
+in ähnlicher Art beschränkt werde, wie das Hebräische schon
+jetzt beschränkt ist. (Vor einigen Decennien war es nahe daran,
+das Griechische denen zu erlassen, die nicht Theologie studieren
+wollten.)††
+* Nur allein von der Odyssee ist hier die Rede; aber durchaus nicht
+von der Ilias. Auch wird das religiöse Gefühl, als schon längst zuvor hin-
+reichend geweckt, vorausgesetzt. Alsdann schadet das Mythische keines-
+wegs; denn es wirkt, in wiefern es dem religiösen Gefühl widerstrebt, ent-
+schieden zurückstossend, und macht alle zu starken Illusionen unmöglich.</p>
+
+[p. 638]
+
+<p>Zwar besitzt die Odyssee keine Wunderkraft, um Solche zu be-
+leben, denen überhaupt Sprachstudien nicht gelingen oder nicht
+Ernst sind; dennoch übertrifft sie, vieljähriger Erfahrung zufolge,
+jedes andre Werk des Alterthums, welches man wählen könnte, an
+bestimmter pädagogischer Wirkung.</p></quote></note></bibl>
+</cit>
    <p>In conclusion the writer would earnestly suggest that it is high
       time that Xenophon be omitted completely from at least the first
       three years of Greek study. The time and labor now devoted to
@@ -1167,9 +1191,10 @@ drudgery.</p>
             </figure>
             <pb n="xxxviii" xml:id="pg.xxxviii"/>
             sister to Rosalind, with a different charm of stately purity in love. His enchantresses hold us yet with their sorceries; his Helen is very beauty; she has all the sweetness of ideal womanhood, and her repentance is without remorse. His Achilles is youth itself, glorious, cruel, pitiful, splendid, and sad, ardent and loving, and conscious of its doom. Homer, in truth, is to be matched only by Shakespeare, and of Shakespeare he has not the occasional willfulness, freakishness, and modish obscurity. He is a poet all of gold, universal as humanity, simple as childhood, musical now as the flow of his own rivers, now as the heavy plunging wave of his own ocean.</p>
-        </quote>
-    </cit>
-    <p>"Such then, as far as weak words can speak of him, is the first and greatest of poets."</p>
+        
+   
+    <p>Such then, as far as weak words can speak of him, is the first and greatest of poets.</p>
+   </quote> </cit>
     <head>II</head>
     <head>1</head>
     <p><hi rend="bold">Vocabulary.</hi> - One of the things most important in learning any language so as to be able to read it with profit and pleasure is to acquire a fair-sized vocabulary. In doing this, one should learn thoroughly the words that are used most. For this purpose there is a highly practical little book, <title>Homeric Vocabularies</title>, Owen and Goodspeed, published by the University of Chicago Press. The most common Homeric words are arranged in it in groups, according to frequency of occurrence. A copy of this book should be in the hands of every student who wishes to lighten his work in learning to read and enjoy Homer.</p>
@@ -2422,7 +2447,7 @@ drudgery.</p>
   </list>
     </div>
   <div type="derivatives">
-    <p>Derivatives:<ref target="#fn2-1">1</ref> mania(c-al) 621; ode(um), melody, palinode; myriad; neur-, nost-algia; psychology; hero(ic); automaton, -cracy; cynic(al); teleology.</p>
+    <p>Derivatives:<ref target="#fn2-1">1</ref> mania(c-al) <ref>621</ref>; ode(um), melody, palinode; myriad; neur-, nost-algia; psychology; hero(ic); automaton, -cracy; cynic(al); teleology.</p>
   </div>
 
   <figure>
@@ -2640,6 +2665,7 @@ drudgery.</p>
         </div>
             </div>
     <div type="exercises" n="17" xml:id="p17">
+      <p>NOTE: Do not translate words in parentheses.</p>
         <div type="exercise" n="17.en">
             <div type="paragraph" n="1" xml:id="l4-ex17-1"><p>Are the good plans dear to the souls of the goddesses?</p></div>
             <div type="paragraph" n="2" xml:id="l4-ex17-2"><p>They have many plans, but (they are) cowardly (ones).</p></div>
@@ -2647,7 +2673,7 @@ drudgery.</p>
             <div type="paragraph" n="4" xml:id="l4-ex17-4"><p>The lovely goddess of the sea was not in Cilla.</p></div>
             <div type="paragraph" n="5" xml:id="l4-ex17-5"><p>There are many funeral pyres by the sea in (our) beloved fatherland.</p></div>
             <div type="paragraph" n="6" xml:id="l4-ex17-6"><p>Who was in Cilla by the sea?</p></div>
-            <note type="instruction">Do not translate words in parentheses.</note>
+            
         </div>
     </div>
     <note xml:id="fn5-1" place="foot" n="1"><foreign lang="grc">ἐκ</foreign> before consonants, <foreign lang="grc">ἐξ</foreign> before vowels.</note>
@@ -2937,7 +2963,7 @@ drudgery.</p>
     </div>
     <div type="paragraph" n="34" xml:id="p34">
         <p>These words are:</p>
-        <list type="gloss">
+        <list type="grammar">
             <item xml:id="l8-vocab-hos"><term lang="grc">ὅς, ἥ, ὅ</term> <gloss lang="en">relative pronoun, who, which, what.</gloss></item>
             <item xml:id="l8-vocab-ho"><term lang="grc">ὁ, ἡ, τό</term> <gloss lang="en">demonstrative, personal, and relative pronoun, this, that; he, she, it; who, which, what.</gloss></item>
             <item xml:id="l8-vocab-ekeinos"><term lang="grc">(ἐκεῖνος, η, ο</term> <gloss lang="en">demonstr. pron., that (one), he, she, it.</gloss></item>
@@ -5734,8 +5760,8 @@ by Alfred Denis Godley</bibl>
 <p><app><lem xml:lang="grc">πρὶν ... πρίν</lem></app>: he will not sooner drive off pestilence... till (we) give back....</p>
 <p><app><lem xml:lang="grc">ἀπριάτην ἀνάποινον</lem></app>: “ without money and without price." Tautology for the sake of emphasis. Restoration and <pb n="80" xml:id="pg.80" facs="#136"/> reparation must be made before the god will consider any peace terms.</p>
 </div>
-    <note n="100" place="inline"><p><app><lem xml:lang="grc">ἐς Χρύσην</lem></app>: into Chrysa, the town, not to Chryses, the priest. Calchas is evidently not willing to guarantee that they will succeed in appeasing the god by following his prescription, as the action of the divinity is dependent upon his own arbitrary free will, and hence uncertain. This type of statement has the further advantage of leaving a loophole of escape for the priest, who would thus preserve inviolate his reputation for infallibility. Theoretically it should be possible to persuade the god, as Homer says in another place (where an old friend of Achilles is trying to induce him to forego his anger against Agamemnon): "Therefore, Achilles, rule thy high spirit; neither doth it befit thee to have a ruthless heart. Nay, even the very gods can bend, and theirs withal is loftier majesty and honor and might. Their hearts by incense and reverent vows and drink-offerings and burnt offerings men turn with prayer, so oft as any transgresseth and doeth sin." <foreign lang="grc">πεπίθοιμεν</foreign> : <ref>1105</ref>.</p>
-      <p>This speech of Calchas is a fine example of good oratory. First, he disabuses the minds of his hearers of their prepossessions (they thought the god might be offended because of some vow unfulfilled, or of some hecatomb unoffered), and after thus clearing the way and having his audience ask of themselves what then was the trouble with the freeshooter, he gives the real reason, which strikes home and carries so much conviction with it that Agamemnon, in spite of his angry opposition, is compelled to bow, and to acknowledge that it is the finger of god which forces him to yield his prize.</p></note>
+    <div type="textpart" subtype="commline" n="100"><p><app><lem xml:lang="grc">ἐς Χρύσην</lem></app>: into Chrysa, the town, not to Chryses, the priest. Calchas is evidently not willing to guarantee that they will succeed in appeasing the god by following his prescription, as the action of the divinity is dependent upon his own arbitrary free will, and hence uncertain. This type of statement has the further advantage of leaving a loophole of escape for the priest, who would thus preserve inviolate his reputation for infallibility. Theoretically it should be possible to persuade the god, as Homer says in another place (where an old friend of Achilles is trying to induce him to forego his anger against Agamemnon): "Therefore, Achilles, rule thy high spirit; neither doth it befit thee to have a ruthless heart. Nay, even the very gods can bend, and theirs withal is loftier majesty and honor and might. Their hearts by incense and reverent vows and drink-offerings and burnt offerings men turn with prayer, so oft as any transgresseth and doeth sin." <foreign lang="grc">πεπίθοιμεν</foreign> : <ref>1105</ref>.</p>
+      <p>This speech of Calchas is a fine example of good oratory. First, he disabuses the minds of his hearers of their prepossessions (they thought the god might be offended because of some vow unfulfilled, or of some hecatomb unoffered), and after thus clearing the way and having his audience ask of themselves what then was the trouble with the freeshooter, he gives the real reason, which strikes home and carries so much conviction with it that Agamemnon, in spite of his angry opposition, is compelled to bow, and to acknowledge that it is the finger of god which forces him to yield his prize.</p></div>
   </div>
   <div type="exercises" n="205" xml:id="p205">
     <head>Translate:</head>
@@ -8525,12 +8551,7 @@ by Alfred Denis Godley</bibl>
          <item xml:id="l53-vocab-meter"><term lang="grc">μήτηρ, τέρος (τρός), ἡ</term> <gloss lang="en">mother, dam.</gloss></item>
          <item xml:id="l53-vocab-homoios"><term lang="grc">ὁμοῖος, η, ον</term> <gloss lang="en">equal, similar.</gloss></item>
          <item xml:id="l53-vocab-moira"><term lang="grc">μοῖρα, ης, ἡ</term> <gloss lang="en">lot, portion, fate, suitability.</gloss></item>
-         <item xml:id="l53-vocab-pelo"><term lang="grc">πέλω (πελ-, πλ-), ἔπελον, ἐπελόμην ;</term> <gloss lang="en"></gloss></item>
-
-<pb n="141" xml:id="pg.141" facs="#199"/>
-
-
-         <item><term lang="grc">2d aor. ἔπλε, ἔπλετο ;</term> <gloss lang="en">turn, move; mid. be, become.</gloss></item>
+         <item xml:id="l53-vocab-pelo"><term lang="grc">πέλω (πελ-, πλ-), ἔπελον, ἐπελόμην ;</term> <gloss lang="en"></gloss> <pb n="141" xml:id="pg.141" facs="#199"/>  <term lang="grc">2d aor. ἔπλε, ἔπλετο ;</term> <gloss lang="en">turn, move; mid. be, become.</gloss></item>
          <item xml:id="l53-vocab-semaino"><term lang="grc">σημαίνω (σημαν-), σημανέω, ἐσήμηνα,</term> <gloss lang="en">order, point out, command.</gloss></item>
          <item xml:id="l53-vocab-skeptouchos"><term lang="grc">σκηπτ-οῦχος, οv</term> <gloss lang="en">sceptre-bearing.</gloss></item>
          <item xml:id="l53-vocab-telothen"><term lang="grc">τηλόθε(ν)</term> <gloss lang="en">far, from afar.</gloss></item>
@@ -9842,7 +9863,7 @@ by Alfred Denis Godley</bibl>
      <div type="paragraph" n="403" xml:id="p403">
       <p>Optional:</p>
    </div>
-  <div type="vocabulary">
+  <div type="vocabulary" n="404" xml:id="p404">
     <head>VOCABULARY</head>
     <list type="gloss">
       <item xml:id="l65-vocab-anecho"><term lang="grc">ἀνέχω (σεχ-, σχ-), ἀνέξω (ἀνασχήσω), ἀνέσχον (ἀνέσχεθον), ἀνόχωκα, ἀνέσχημαι*</term> <gloss lang="en">hold up, raise, endure, suffer.</gloss></item>
@@ -11615,7 +11636,7 @@ by Alfred Denis Godley</bibl>
 
         <div type="paragraph" n="504" xml:id="p504">
           <p>The diphthongs are:</p>
-          <list type="gloss">
+          <list>
             <item>
               <label>αι</label> pronounced as <foreign xml:lang="en">ai</foreign> in <foreign xml:lang="en">aisle</foreign>.
             </item>
@@ -12261,7 +12282,7 @@ by Alfred Denis Godley</bibl>
       <pb n="223" xml:id="pg.223"/>
       <div type="paragraph" n="604" xml:id="p604">
         <p>Compare</p>
-        <list type="gloss">
+        <list>
           <label>GREEK</label><item><foreign xml:lang="grc">ἅλς</foreign> <foreign xml:lang="en">the (salt) sea</foreign></item>
           <label>LATIN</label><item><foreign xml:lang="la">sal</foreign></item>
           <label>GREEK</label><item><foreign xml:lang="grc">ἡμι</foreign> <foreign xml:lang="en">half</foreign></item>
@@ -12379,7 +12400,7 @@ by Alfred Denis Godley</bibl>
       <pb n="226" xml:id="pg.226"/>
       <div type="paragraph" n="623_continued" xml:id="p623_continued">
         <p>This in general represented the Greek letters by their corresponding English equivalents. Those which differ at all were regularly transliterated as follows :</p>
-        <list type="gloss">
+        <list>
           <label>ζ</label><item>= z, as <foreign xml:lang="grc">ζῶον</foreign> <foreign xml:lang="en">animal</foreign> (zoölogy, zoön, epizoötic).</item>
           <label>κ</label><item>= c, as <foreign xml:lang="grc">δέκα</foreign> <foreign xml:lang="en">ten</foreign> (decalogue, decagon, decade).</item>
           <label>υ</label><item>= y, as <foreign xml:lang="grc">πῦρ</foreign> <foreign xml:lang="en">fire</foreign> (pyre, pyrotechnic(al), pyrography, pyrolatry).</item>
@@ -12395,7 +12416,7 @@ by Alfred Denis Godley</bibl>
       </div>
       <div type="paragraph" n="624" xml:id="p624">
         <p>The following special rules apply to final endings :</p>
-        <list type="gloss">
+        <list>
           <label>οι</label><item>= i, as <foreign xml:lang="grc">Ἀχαιοί</foreign> <gloss xml:lang="lat">Achaei</gloss>, <foreign xml:lang="grc">Δαναοί</foreign> <gloss xml:lang="lat">Danai</gloss>.</item>
           <label>η</label><item>= a (sometimes e) (<ref target="#p621">621</ref>): <foreign xml:lang="grc">Σπάρτη</foreign> <gloss xml:lang="lat">Sparta</gloss>, <foreign xml:lang="grc">Ἰθάκη</foreign> <gloss xml:lang="lat">Ithaca</gloss>, <foreign xml:lang="grc">Ἑκάτη</foreign> <gloss xml:lang="lat">Hecaté</gloss>.</item>
           <label>ος</label><item>= us (sometimes os): <foreign xml:lang="grc">Πάτροκλος</foreign> <gloss xml:lang="lat">Patroclus</gloss>, <foreign xml:lang="grc">Ὄλυμπος</foreign> <gloss xml:lang="lat">Olympus</gloss>; but <foreign xml:lang="grc">Λῆμνος</foreign> <gloss xml:lang="lat">Lemnos</gloss>, <foreign xml:lang="grc">Δῆλος</foreign> <gloss xml:lang="lat">Delos</gloss>, etc.</item>
@@ -12763,7 +12784,7 @@ by Alfred Denis Godley</bibl>
       </div>
       <pb n="234" xml:id="pg.234"/>
 <div type="paragraph" n="663" xml:id="p663">
-  <list type="gloss">
+  <list type="grammar">
     <label>θεά, ᾶς, ἡ (θεᾶ-)</label><item><foreign xml:lang="en">goddess</foreign></item>
     <label>θάλασσα, ης, ἡ (θαλασσᾶ-)</label><item><foreign xml:lang="en">sea</foreign></item>
     <label>γαῖα, ης, ἡ (γαιᾶ-)</label><item><foreign xml:lang="en">land, country, earth</foreign></item>
@@ -12847,7 +12868,7 @@ by Alfred Denis Godley</bibl>
 </div>
 <div type="paragraph" n="664" xml:id="p664">
   <head>FIRST DECLENSION MASCULINE</head>
-  <list type="gloss">
+  <list>
     <label>Ἀτρεΐδης, ᾱο, ὁ (Ατρειδα-)</label><item><foreign xml:lang="en">son of Atreus</foreign></item>
     <label>αἰχμητής, ᾶο, ὁ (αἰχμητᾶ-)</label><item><foreign xml:lang="en">spearman, warrior</foreign></item>
     <label>Αἰνείας, ᾶο, ὁ (Αἰνειᾶ-)</label><item><foreign xml:lang="en">Aeneas</foreign></item>
@@ -12984,7 +13005,7 @@ by Alfred Denis Godley</bibl>
   </p>
 </div>
 <div type="paragraph" n="678" xml:id="p678">
-  <list type="gloss">
+  <list>
     <label>θυμός, οῦ, ὁ (θυμο-)</label>
     <item><foreign xml:lang="en">spirit, life, soul</foreign>.</item>
   </list>
@@ -13185,7 +13206,7 @@ by Alfred Denis Godley</bibl>
 </div>
 <div type="paragraph" n="693" xml:id="p693">
   <head>DENTAL MUTE STEMS</head>
-  <list type="gloss">
+  <list>
     <label>ἄναξ, ἄνακτος, ὁ (ανακτ-)</label><item><foreign xml:lang="en">king, lord</foreign></item>
     <label>νύξ, νυκτός, ἡ (νυκτ-)</label><item><foreign xml:lang="en">night</foreign></item>
     <label>παῖς, παιδός, ὁ, ἡ (παιδ-)</label><item><foreign xml:lang="en">child</foreign></item>
@@ -13282,7 +13303,7 @@ by Alfred Denis Godley</bibl>
 </div>
 <div type="paragraph" n="695" xml:id="p695">
   <head>LABIAL AND PALATAL STEMS</head>
-  <list type="gloss">
+  <list>
     <label>αἴξ, αἰγός, ὁ, ἡ (αἰγ-)</label><item><foreign xml:lang="en">goat</foreign></item>
     <label>κῆρυξ, ύκος, ὁ (κηρύκ-)</label><item><foreign xml:lang="en">herald</foreign></item>
     <label>Αἰθίοψ, οπος, ὁ (Αἰθιοπ-)</label><item><foreign xml:lang="en">Ethiopian</foreign></item>
@@ -13364,7 +13385,7 @@ by Alfred Denis Godley</bibl>
 <pb n="240" xml:id="pg.240"/>
 <div type="paragraph" n="696" xml:id="p696">
   <head>LIQUID AND NASAL STEMS</head>
-  <list type="gloss">
+  <list>
     <label>δαίμων, ονος, ὁ (δαιμον-)</label><item><foreign xml:lang="en">divinity</foreign></item>
     <label>φρήν, φρενός, ἡ (φρεν-)</label><item><foreign xml:lang="en">diaphragm, heart, mind</foreign></item>
     <label>χείρ, ος, ἡ (χειρ-)</label><item><foreign xml:lang="en">hand, arm</foreign></item>
@@ -13599,7 +13620,7 @@ by Alfred Denis Godley</bibl>
 </div>
 <div type="paragraph" n="701" xml:id="p701">
   <head>STEMS IN <foreign xml:lang="grc">ην (ευ), ου</foreign>, AND <foreign xml:lang="grc">F</foreign></head>
-  <list type="gloss">
+  <list>
     <label>βασιλεύς, ῆος, ὁ (βασιληυ-, -ευ-, -ηF-)</label><item><foreign xml:lang="en">king</foreign></item>
     <label>βοῦς, βοός, ὁ, ἡ (βου-, βωF-, βoF-)</label><item><foreign xml:lang="en">ox, cow</foreign></item>
     <label><foreign xml:lang="grc">νηῦς, νηός (νεός), ἡ (ναυ-, νᾶF- <ref target="#p621">621</ref>)</foreign></label><item><foreign xml:lang="en">ship, bark</foreign></item>
@@ -13699,7 +13720,7 @@ by Alfred Denis Godley</bibl>
 </div>
 <div type="paragraph" n="704" xml:id="p704">
   <head>STEMS IN <foreign xml:lang="grc">ι (ει)</foreign>, AND <foreign xml:lang="grc">υ (ευ, F)</foreign></head>
-  <list type="gloss">
+  <list>
     <label>πόλις, ιος, ἡ (πολι-, -ει-)</label><item><foreign xml:lang="en">city</foreign></item>
     <label>πήχυς, εος, ὁ (πηχυ-, -εF-)</label><item><foreign xml:lang="en">forearm</foreign></item>
     <label>ἄστυ, εος, τό (ϝαστυ-, -εF-)</label><item><foreign xml:lang="en">city, town</foreign></item>
@@ -13811,7 +13832,7 @@ by Alfred Denis Godley</bibl>
 <pb n="243" xml:id="pg.243"/>
 <div type="paragraph" n="707" xml:id="p707">
   <head>NOUNS WITH STEMS IN <foreign xml:lang="grc">-S (-es, -as- -os)</foreign> AND IN T</head>
-  <list type="gloss">
+  <list>
     <label>ἔπος, εος, τό (ϝεπεσ-)</label><item><foreign xml:lang="en">word, speech</foreign></item>
     <label>γέρας, αος, τό (γερασ-)</label><item><foreign xml:lang="en">prize (of honor)</foreign></item>
     <label>ἠώς, ἠόος, ἡ (αὐσοσ-)</label><item><foreign xml:lang="en">Eos, dawn</foreign></item>
@@ -21510,7 +21531,7 @@ by Alfred Denis Godley</bibl>
     <row>
       <cell role="label">3</cell>
       <cell><foreign xml:lang="grc">εἶσι</foreign></cell>
-      <cell><foreign xml:lang="grc">ᾔει (ἤιε,  Bε, ἴε)</foreign></cell>
+      <cell><foreign xml:lang="grc">ᾔει (ἤιε,  ἦε, ἴε)</foreign></cell>
       <cell><foreign xml:lang="grc">ἴῃ(σι)</foreign></cell>
       <cell><foreign xml:lang="grc">ἴοι (ἰείη)</foreign></cell>
       <cell><foreign xml:lang="grc">ἴτω</foreign></cell>
