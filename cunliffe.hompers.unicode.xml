@@ -379,7 +379,7 @@
 <p><ref target="athens-cunliffe-name">Athens</ref> <bibl n="Hom. Il. 2.546">Il. 2.546</bibl>, <bibl n="Hom. Il. 2.549">549</bibl>: <bibl n="Hom. Od. 3.278">Od. 3.278</bibl>, <bibl n="Hom. Od. 3.307">307</bibl>, <bibl n="Hom. Od. 7.80">Od. 7.80</bibl>, <bibl n="Hom. Od. 11.323">Od. 11.323</bibl>. </p>
             </div>
 
-            <div xml:id="athene-cunliffe-name" type="textpart" n="Ἀθήνη-2">
+            <div xml:id="athene-cunliffe-name" type="textpart" n="Ἀθήνη">
                 <head><foreign xml:lang="greek">Ἀθηναίη-2</foreign>, <foreign xml:lang="greek">Ἀθήνη</foreign></head>
                 <p>Also <foreign xml:lang="greek">Παλλὰς Ἀθηναίη</foreign> <bibl n="Hom. Il. 1.200">Il. 1.200</bibl>, <bibl n="Hom. Il. 10.275">Il. 10.275</bibl>, <bibl n="Hom. Il. 11.438">Il. 11.438</bibl>, <bibl n="Hom. Il. 15.614">Il. 15.614</bibl>: <bibl n="Hom. Od. 3.42">Od. 3.42</bibl>, <bibl n="Hom. Od. 4.828">Od. 4.828</bibl>, <bibl n="Hom. Od. 13.190">Od. 13.190</bibl>, <bibl n="Hom. Od. 13.252">252</bibl>, <bibl n="Hom. Od. 13.300">300</bibl>, <bibl n="Hom. Od. 13.371">371</bibl>, <bibl n="Hom. Od. 16.298">Od. 16.298</bibl>, <bibl n="Hom. Od. 24.547">Od. 24.547</bibl>.</p>
 <p>And <foreign xml:lang="greek">Π</foreign>. <foreign xml:lang="greek">Ἀθήνη</foreign> <bibl n="Hom. Il. 1.400">Il. 1.400</bibl>, <bibl n="Hom. Il. 4.78">Il. 4.78</bibl>, <bibl n="Hom. Il. 5.510">Il. 5.510</bibl>, <bibl n="Hom. Il. 18.217">Il. 18.217</bibl>, <bibl n="Hom. Il. 21.290">Il. 21.290</bibl>, etc. : <bibl n="Hom. Od. 1.125">Od. 1.125</bibl>, <bibl n="Hom. Od. 3.222">Od. 3.222</bibl>, <bibl n="Hom. Od. 8.7">Od. 8.7</bibl>, <bibl n="Hom. Od. 15.1">Od. 15.1</bibl>, <bibl n="Hom. Od. 24.520">Od. 24.520</bibl>, etc. (Never <foreign xml:lang="greek">Π</foreign>. alone.)</p>
@@ -964,7 +964,7 @@
                 </p>
             </div>
 
-            <div xml:id="aleion-cunliffe-name" type="textpart" n="Ἀλήϊον">
+            <div xml:id="aleion-cunliffe-name" type="textpart" n="Ἀλήιον">
                 <head><foreign xml:lang="greek">Ἀλήϊον</foreign></head>
                 <p><foreign xml:lang="greek">πεδίον</foreign>..</p>
 <p>A plain not localized. <foreign xml:lang="greek">Ἀλήϊον</foreign> is apparently formed to agree in sound with <foreign xml:lang="greek">ἀλᾶτο</foreign> in the same line <bibl n="Hom. Il. 6.201">Il. 6.201</bibl>. 'The plain of wandering.'
@@ -1149,7 +1149,7 @@
                 <p>Husband of <ref target="iphimedeia-cunliffe-name">Iphimedeia</ref> and nominal father of <ref target="Otus-1-cunliffe-name">Otus-1</ref> and <ref target="ephialtes-cunliffe-name">Ephialtes</ref> <bibl n="Hom. Il. 5.386">Il. 5.386</bibl>: <bibl n="Hom. Od. 11.305">Od. 11.305</bibl>. </p>
             </div>
 
-            <div xml:id="amazones-cunliffe-name" type="textpart" n="Ἀμαζόνες">
+            <div xml:id="amazones-cunliffe-name" type="textpart" n="Ἀμαζών">
                 <head><foreign xml:lang="greek">Ἀμαζόνες</foreign></head>
                 <p>(<foreign xml:lang="greek">ἀντιάνειραι</foreign>).</p>
 <p>A race of warlike women.</p>
@@ -1757,7 +1757,7 @@
                 <p>(<foreign xml:lang="greek">ἄναξ</foreign>, <foreign xml:lang="greek">δῖος</foreign>).</p>
 <p>Named the clubbearer.</p>
 <p>Father by <ref target="phylomedousa-cunliffe-name">Phylomedousa</ref> of <ref target="Menesthius-1-cunliffe-name">Menesthius-1</ref> <bibl n="Hom. Il. 7.8">Il. 7.8</bibl>, <bibl n="Hom. Il. 6.10">10</bibl>;</p>
-<p>was slain by <ref target="Lycourgus-2-cunliffe-name">Lycourgus-2</ref> <bibl n="Hom. Il. 7.137">Il. 7.137</bibl>, <bibl n="Hom. Il. 6.138">138</bibl>. </p>
+<p>was slain by <ref target="Lycourgus-2-cunliffe-name">Lycourgus-2</ref> <bibl n="Hom. Il. 7.137-138">Il. 7.137-138</bibl>. </p>
             </div>
 
             <div xml:id="areithous-2-cunliffe-name" type="textpart" n="Ἀρηΐθοος-2">
@@ -3813,7 +3813,7 @@
             <div xml:id="ereuthalion-cunliffe-name" type="textpart" n="Ἐρευθαλίων">
                 <head><foreign xml:lang="greek">Ἐρευθαλίων</foreign></head>
                 <p>(<foreign xml:lang="greek">δῖος</foreign>, <foreign xml:lang="greek">ἰσόθεος</foreign>).</p>
-<p>An <ref target="arcades-cunliffe-name">Arcadian</ref> slain in the armour of <ref target="Areithous-1-cunliffe-name">Areithous-1</ref> (given to him by <ref target="Lycourgus-2-cunliffe-name">Lycourgus-2</ref> (<bibl n="Hom. Il. 7.137">Il. 7.137</bibl>, <bibl n="Hom. Il. 6.149">149</bibl>)) by <ref target="nestor-cunliffe-name">Nestor</ref> in his youth <bibl n="Hom. Il. 4.319">Il. 4.319</bibl>, <bibl n="Hom. Il. 7.136">Il. 7.136</bibl>, <bibl n="Hom. Il. 6.154">154</bibl>. </p>
+<p>An <ref target="arcades-cunliffe-name">Arcadian</ref> slain in the armour of <ref target="Areithous-1-cunliffe-name">Areithous-1</ref> (given to him by <ref target="Lycourgus-2-cunliffe-name">Lycourgus-2</ref> (<bibl n="Hom. Il. 7.137">Il. 7.137</bibl>, <bibl n="Hom. Il. 7.149">149</bibl>)) by <ref target="nestor-cunliffe-name">Nestor</ref> in his youth <bibl n="Hom. Il. 4.319">Il. 4.319</bibl>, <bibl n="Hom. Il. 7.136">Il. 7.136</bibl>, <bibl n="Hom. Il. 7.154">154</bibl>. </p>
             </div>
 
             <div xml:id="erechtheus-cunliffe-name" type="textpart" n="Ἐρεχθεύς">
@@ -4333,17 +4333,17 @@
 <p>See <foreign xml:lang="greek">Ὦτος-1</foreign>. </p>
             </div>
 
-            <div xml:id="ephyra-1-cunliffe-name" type="textpart" n="Ἐφύρη-1">
+            <div xml:id="ephyra-1-cunliffe-name" type="textpart" n="Ἐφύρα-1">
                 <head><foreign xml:lang="greek">Ἐφύρη-1</foreign></head>
                 <p>A town on the <ref target="Selleeis-2-cunliffe-name">Selleis-2</ref>, the home of <ref target="astyocheia-cunliffe-name">Astyocheia</ref> <bibl n="Hom. Il. 2.659">Il. 2.659</bibl>, <bibl n="Hom. Il. 15.531">Il. 15.531</bibl>. </p>
             </div>
 
-            <div xml:id="ephyra-2-cunliffe-name" type="textpart" n="Ἐφύρη-2">
+            <div xml:id="ephyra-2-cunliffe-name" type="textpart" n="Ἐφύρα-2">
                 <head><foreign xml:lang="greek">Ἐφύρη-2</foreign>.</head>
                 <p>A town of <ref target="argos-1-cunliffe-name">Argos-1</ref> (3), the home of <ref target="sisyphus-cunliffe-name">Sisyphus</ref> <bibl n="Hom. Il. 6.152">Il. 6.152</bibl>, <bibl n="Hom. Il. 6.210">210</bibl>. </p>
             </div>
 
-            <div xml:id="ephyra-3-cunliffe-name" type="textpart" n="Ἐφύρη-3">
+            <div xml:id="ephyra-3-cunliffe-name" type="textpart" n="Ἐφύρα-3">
                 <head><foreign xml:lang="greek">Ἐφύρη-3</foreign></head>
                 <p>(<foreign xml:lang="greek">πίειρα ἄρουρα</foreign>).</p>
 <p>A city or district, perhaps in Thesprotia, the seat of <ref target="Ilus-2-cunliffe-name">Ilus-2</ref> <bibl n="Hom. Od. 1.259">Od. 1.259</bibl>, <bibl n="Hom. Od. 2.328">Od. 2.328</bibl>. </p>
@@ -4737,7 +4737,7 @@
                 <p>See also in Lex. </p>
             </div>
 
-            <div xml:id="eos-cunliffe-name" type="textpart" n="ἠώς">
+            <div xml:id="eos-cunliffe-name" type="textpart" n="Ἠώς">
                 <head><foreign xml:lang="greek">Ἠώς</foreign></head>
                 <p>(<foreign xml:lang="greek">δῖα</foreign>, <foreign xml:lang="greek">ἐΰθρονος</foreign>, <foreign xml:lang="greek">ἐϋπλόκαμος</foreign>, <foreign xml:lang="greek">ἠριγένεια</foreign>, <foreign xml:lang="greek">κροκόπεπλος</foreign>, <foreign xml:lang="greek">ῥοδοδάκτυλος</foreign>, <foreign xml:lang="greek">χρυσόθρονος</foreign>).</p>
 <p>The Dawn.</p>
@@ -4900,17 +4900,18 @@
             </div>
 
             <div xml:id="thebe-1-cunliffe-name" type="textpart" n="Θήβη-1">
-                <head><foreign xml:lang="greek">Θήβη-1</foreign>.</head>
-                <p>See <foreign xml:lang="greek">Θῆβαι-1</foreign>. </p>
-            </div>
-
-            <div xml:id="thebe-2-cunliffe-name" type="textpart" n="Θήβη-2">
-                <head><foreign xml:lang="greek">Θήβη-2</foreign></head>
+                <head><foreign xml:lang="greek">Θήβη-1</foreign></head>
                 <p><foreign xml:lang="greek">Θῆβαι-3</foreign> <bibl n="Hom. Il. 22.479">Il. 22.479</bibl></p>
 <p>(<foreign xml:lang="greek">ἱερή</foreign>, <foreign xml:lang="greek">ὑποπλακίη</foreign>, <foreign xml:lang="greek">ὑψίπυλος</foreign>).</p>
 <p>A town (inhabited by the <ref target="cilices-cunliffe-name">Cilices</ref>), of which <ref target="Eetion-1-cunliffe-name">Eetion-1</ref> was king, in the plain of <ref target="thebe-2-cunliffe-name">Thebe-2</ref> in which Adramyttium afterwards stood.</p>
 <p>Taken by <ref target="achilles-cunliffe-name">Achilles</ref> and <ref target="Eetion-1-cunliffe-name">Eetion-1</ref> slain and <ref target="chryseis-cunliffe-name">Chryseis</ref> captured <bibl n="Hom. Il. 1.366">Il. 1.366</bibl>, <bibl n="Hom. Il. 2.691">Il. 2.691</bibl>, <bibl n="Hom. Il. 6.397">Il. 6.397</bibl>, <bibl n="Hom. Il. 6.416">416</bibl>; <bibl n="Hom. Il. 22.479">Il. 22.479</bibl>. </p>
             </div>
+
+            <div xml:id="thebe-2-cunliffe-name" type="textpart" n="Θήβη-2">
+                <head><foreign xml:lang="greek">Θήβη-2</foreign>.</head>
+                <p>See <foreign xml:lang="greek">Θῆβαι-1</foreign>. </p>
+            </div>
+
 
             <div xml:id="theseus-cunliffe-name" type="textpart" n="Θησεύς">
                 <head><foreign xml:lang="greek">Θησεύς</foreign></head>
@@ -5022,7 +5023,7 @@
                 <p><ref target="threix-cunliffe-name">Thracian</ref> <bibl n="Hom. Il. 10.559">Il. 10.559</bibl>, <bibl n="Hom. Il. 13.13">Il. 13.13</bibl>, <bibl n="Hom. Il. 13.577">577</bibl>, <bibl n="Hom. Il. 23.230">Il. 23.230</bibl>, <bibl n="Hom. Il. 23.808">808</bibl>. </p>
             </div>
 
-            <div xml:id="threix-cunliffe-name" type="textpart" n="Θρῆϊξ">
+            <div xml:id="threix-cunliffe-name" type="textpart" n="θρᾷξ">
                 <head><foreign xml:lang="greek">Θρῆϊξ</foreign></head>
                 <p><foreign xml:lang="greek">Θρῇξ</foreign>.</p>
 <p><ref target="threix-cunliffe-name">Thracian</ref> <bibl n="Hom. Il. 2.595">Il. 2.595</bibl>.</p>
@@ -5184,8 +5185,8 @@
 <p>(<foreign xml:lang="greek">δαΐφρων</foreign>, <foreign xml:lang="greek">πεπνυμένος</foreign>).</p>
 <p>A <ref target="troes-cunliffe-name">Trojan</ref> herald.</p>
 <p>Summons <ref target="priam-cunliffe-name">Priam</ref> to take the oath to the Greeks <bibl n="Hom. Il. 3.248">Il. 3.248</bibl>;</p>
-<p>with <ref target="talthybius-cunliffe-name">Talthybius</ref> stops the fight between <ref target="Aias-1-cunliffe-name">Aias-1</ref> and <ref target="hector-cunliffe-name">Hector</ref> <bibl n="Hom. Il. 7.276">Il. 7.276</bibl>, <bibl n="Hom. Il. 6.278">278</bibl>, <bibl n="Hom. Il. 6.284">284</bibl>;</p>
-<p>sent to carry <ref target="paris-cunliffe-name">Paris</ref>'s proposal to the Greeks <bibl n="Hom. Il. 7.372">Il. 7.372</bibl>, <bibl n="Hom. Il. 6.381">381</bibl>, <bibl n="Hom. Il. 6.405">405</bibl>, <bibl n="Hom. Il. 6.406">406</bibl>, <bibl n="Hom. Il. 6.413">413</bibl>, <bibl n="Hom. Il. 6.416">416</bibl>;</p>
+<p>with <ref target="talthybius-cunliffe-name">Talthybius</ref> stops the fight between <ref target="Aias-1-cunliffe-name">Aias-1</ref> and <ref target="hector-cunliffe-name">Hector</ref> <bibl n="Hom. Il. 7.276">Il. 7.276</bibl>, <bibl n="Hom. Il. 7.278">278</bibl>, <bibl n="Hom. Il. 7.284">284</bibl>;</p>
+<p>sent to carry <ref target="paris-cunliffe-name">Paris</ref>'s proposal to the Greeks <bibl n="Hom. Il. 7.372">Il. 7.372</bibl>, <bibl n="Hom. Il. 7.381">381</bibl>, <bibl n="Hom. Il. 7.405">405</bibl>, <bibl n="Hom. Il. 7.406">406</bibl>, <bibl n="Hom. Il. 7.413">413</bibl>, <bibl n="Hom. Il. 7.416">416</bibl>;</p>
 <p>accompanies <ref target="priam-cunliffe-name">Priam</ref> to the ships <bibl n="Hom. Il. 24.281">Il. 24.281</bibl>, <bibl n="Hom. Il. 24.325">325</bibl>, <bibl n="Hom. Il. 24.470">470</bibl>. </p>
             </div>
 
@@ -5254,7 +5255,7 @@
             <div xml:id="iesonides-cunliffe-name" type="textpart" n="Ἰησονίδης">
                 <head><foreign xml:lang="greek">Ἰησονίδης</foreign></head>
                 <p>Patronymic from next.</p>
-<p>Of <ref target="euneus-cunliffe-name">Euneus</ref> <bibl n="Hom. Il. 7.468">Il. 7.468</bibl>, <bibl n="Hom. Il. 6.471">471</bibl>, <bibl n="Hom. Il. 23.747">Il. 23.747</bibl>. </p>
+<p>Of <ref target="euneus-cunliffe-name">Euneus</ref> <bibl n="Hom. Il. 7.468">Il. 7.468</bibl>, <bibl n="Hom. Il. 7.471">471</bibl>, <bibl n="Hom. Il. 23.747">Il. 23.747</bibl>. </p>
             </div>
 
             <div xml:id="ieson-cunliffe-name" type="textpart" n="Ἰήσων">
@@ -6000,7 +6001,7 @@
 <p>A <ref target="threix-cunliffe-name">Thracian</ref> people dwelling under Mt. <ref target="ismarus-cunliffe-name"><ref target="ismarus-cunliffe-name">Ismarus</ref></ref> <bibl n="Hom. Il. 2.846">Il. 2.846</bibl>, <bibl n="Hom. Il. 17.73">Il. 17.73</bibl>: their town Ismarus raided by <ref target="odysseus-cunliffe-name">Odysseus</ref> <bibl n="Hom. Od. 9.39">Od. 9.39</bibl>, <bibl n="Hom. Od. 9.47">47</bibl>, <bibl n="Hom. Od. 9.59">59</bibl>, <bibl n="Hom. Od. 9.66">66</bibl>, <bibl n="Hom. Od. 9.165">165</bibl>, <bibl n="Hom. Od. 23.310">Od. 23.310</bibl>. </p>
             </div>
 
-            <div xml:id="cilices-cunliffe-name" type="textpart" n="Κίλικες">
+            <div xml:id="cilices-cunliffe-name" type="textpart" n="Κίλιξ">
                 <head><foreign xml:lang="greek">Κίλικες</foreign></head>
                 <p>The inhabitants of <ref target="Thebe-2-cunliffe-name">Thebe-2</ref> <bibl n="Hom. Il. 6.397">Il. 6.397</bibl>, <bibl n="Hom. Il. 6.415">415</bibl>. </p>
             </div>
@@ -6869,7 +6870,7 @@
                 <p>See Lexicon. </p>
             </div>
 
-            <div xml:id="lycia-cunliffe-name" type="textpart" n="Λυκίη">
+            <div xml:id="lycia-cunliffe-name" type="textpart" n="Λυκία">
                 <head><foreign xml:lang="greek">Λυκίη</foreign></head>
                 <p>(<foreign xml:lang="greek">ἐριβῶλαξ</foreign>, <foreign xml:lang="greek">εὐρεῖα</foreign>, <foreign xml:lang="greek">πίων</foreign>).</p>
 <p>The country of the <ref target="lycioi-cunliffe-name">Lycians</ref> <bibl n="Hom. Il. 2.877">Il. 2.877</bibl>, <bibl n="Hom. Il. 5.173">Il. 5.173</bibl>, <bibl n="Hom. Il. 5.479">479</bibl>, <bibl n="Hom. Il. 5.645">645</bibl>, <bibl n="Hom. Il. 6.172">Il. 6.172</bibl>, <bibl n="Hom. Il. 6.173">173</bibl>, <bibl n="Hom. Il. 6.188">188</bibl>, <bibl n="Hom. Il. 6.210">210</bibl>, <bibl n="Hom. Il. 6.225">225</bibl>, <bibl n="Hom. Il. 12.312">Il. 12.312</bibl>, <bibl n="Hom. Il. 12.318">318</bibl>, <bibl n="Hom. Il. 16.437">Il. 16.437</bibl>, <bibl n="Hom. Il. 16.455">455</bibl>, <bibl n="Hom. Il. 16.514">514</bibl>, <bibl n="Hom. Il. 16.542">542</bibl>, <bibl n="Hom. Il. 16.673">673</bibl>, <bibl n="Hom. Il. 16.683">683</bibl>, <bibl n="Hom. Il. 17.172">Il. 17.172</bibl>.</p>
@@ -7672,7 +7673,7 @@
 <p>(<foreign xml:lang="greek">ἐγχεσίμωροι</foreign>, <foreign xml:lang="greek">μεγαλήτορες</foreign>, <foreign xml:lang="greek">ταχύπωλοι</foreign>, <foreign xml:lang="greek">φιλοπτόλεμοι</foreign>.)</p>
 <p>The followers of <ref target="achilles-cunliffe-name">Achilles</ref> at <ref target="troy-cunliffe-name">Troy</ref> <bibl n="Hom. Il. 1.328">Il. 1.328</bibl>, <bibl n="Hom. Il. 9.185">Il. 9.185</bibl>, <bibl n="Hom. Il. 11.797">Il. 11.797</bibl>, <bibl n="Hom. Il. 16.12">Il. 16.12</bibl>, <bibl n="Hom. Il. 18.10">Il. 18.10</bibl>, <bibl n="Hom. Il. 19.14">Il. 19.14</bibl>, <bibl n="Hom. Il. 23.4">Il. 23.4</bibl>, <bibl n="Hom. Il. 24.449">Il. 24.449</bibl>, etc.</p>
                     <p>Their return <bibl n="Hom. Od. 3.188">Od. 3.188</bibl>.</p>
-                    <p>Applied with <foreign xml:lang="greek">Ἕλληνες</foreign> and <foreign xml:lang="greek">Ἀχαιοί</foreign> to A. 's followers <bibl n="Hom. Il. 2.684">Il. 2.684</bibl>.</p>
+                    <p>Applied with <foreign xml:lang="greek">Ἕλληνες</foreign> and <foreign xml:lang="greek">Ἀχαιοί</foreign> to A.'s followers <bibl n="Hom. Il. 2.684">Il. 2.684</bibl>.</p>
                     <p>Distinguished from <foreign xml:lang="greek">Ἀχαιοί</foreign> <bibl n="Hom. Od. 16.564">564</bibl>. </p>
                 </div>
             </div>
@@ -7936,7 +7937,7 @@
                 </p>
             </div>
 
-            <div xml:id="nyseion-cunliffe-name" type="textpart" n="Νυσήϊον">
+            <div xml:id="nyseion-cunliffe-name" type="textpart" n="Νῦσα">
                 <head><foreign xml:lang="greek">Νυσήϊον</foreign></head>
                 <p>(<hi rend="ital">sc.</hi> <foreign xml:lang="greek">ὄρος</foreign>)</p>
 <p>(<foreign xml:lang="greek">ἠγάθεον</foreign>).</p>
@@ -8471,7 +8472,7 @@
 <p>Killed by <ref target="achilles-cunliffe-name">Achilles</ref> <bibl n="Hom. Il. 21.210">Il. 21.210</bibl>. </p>
             </div>
 
-            <div xml:id="opheltius-1-cunliffe-name" type="textpart" n="Ὀφέλτιος-1-1">
+            <div xml:id="opheltius-1-cunliffe-name" type="textpart" n="Ὀφέλτιος-1">
                 <head><foreign xml:lang="greek">Ὀφέλτιος-1</foreign></head>
                 <p><ref target="troes-cunliffe-name">Trojan</ref>.</p>
 <p>Killed by <ref target="Euryalus-1-cunliffe-name">Euryalus-1</ref> <bibl n="Hom. Il. 6.20">Il. 6.20</bibl>. </p>
@@ -10038,10 +10039,13 @@
                 <p><foreign xml:lang="greek">Σιδών</foreign> <bibl n="Hom. Od. 15.425">Od. 15.425</bibl></p>
 <p>(<foreign xml:lang="greek">εὖ ναιομένη</foreign>, <foreign xml:lang="greek">πολύχαλκος</foreign>).</p>
 <p>A maritime city of Phoenicia <bibl n="Hom. Od. 13.285">Od. 13.285</bibl>, <bibl n="Hom. Od. 15.425">Od. 15.425</bibl>.</p>
-                <p><foreign xml:lang="greek">Σιδονίηθεν [-θεν],</foreign> from <ref target="sidonia-cunliffe-name">Sidonia</ref> <bibl n="Hom. Il. 6.291">Il. 6.291</bibl>. </p>
+</div>
+
+<div xml:id="sidoniethen-cunliffe-name" type="textpart" n="Σιδονίηθεν">
+    <p><foreign xml:lang="greek">Σιδονίηθεν [-θεν],</foreign> from <ref target="sidonia-cunliffe-name">Sidonia</ref> <bibl n="Hom. Il. 6.291">Il. 6.291</bibl>. </p>
             </div>
 
-            <div xml:id="sidonioi-cunliffe-name" type="textpart" n="Σιδόνιοι">
+            <div xml:id="sidonioi-cunliffe-name" type="textpart" n="Σιδόνιος">
                 <head><foreign xml:lang="greek">Σιδόνιοι</foreign></head>
                 <p><foreign xml:lang="greek">Σιδόνες</foreign> <bibl n="Hom. Il. 23.743">Il. 23.743</bibl></p>
 <p>(<foreign xml:lang="greek">πολυδαίδαλοι</foreign>).</p>
